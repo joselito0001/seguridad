@@ -3,7 +3,7 @@ name: 'iptv-epg'
 on:
   push:
   schedule:
-    - cron: '0/30 * * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   stale:
