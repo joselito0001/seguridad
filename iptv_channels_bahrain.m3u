@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/17/20170517015424123095_44.jpg" group-title="Entertainment",[BD]UA TV
+https://epg.pw/stream/384da7ff40accd518c5104aa84bb1b5e26a0c9aa5bae2296de1a05a03f6cb0d1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/17/20170517015424123095_44.jpg" group-title="Entertainment",[SD]UA TV
+https://epg.pw/stream/81b44aab8b8d8ec8e5d513134a049baea4158930b2953c59ee4936e4ce533711.m3u8

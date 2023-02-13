@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[HD]CTN (360p)
+https://epg.pw/stream/48830c9f492e6eeeb1ac209672096616903856b0bb56ed2428ee63279c76eae1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[BD]ctn (360p)
+https://epg.pw/stream/f00ab7493d6a8dd51a4ea05694de44a233dd2309d2b0633e548d371accc67b81.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[BD]CTN (360p)
+https://epg.pw/stream/e4769b17cda65c54cebc5e5354bf031b2d7918970d71684a9378356ef84afba5.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145652578556_47.png" group-title="News",[SD]tvk (360p) [not 24/7]
+https://epg.pw/stream/a792bee5cf9b108e7209eb009aa9d208bfd06c054c466cd0d9c7ca8be31cc9f0.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145652578556_47.png" group-title="News",[VGA]tvk
+https://epg.pw/stream/5fc737f40878d1977e4a6ecb3df71e820d1228e21c5b471a269d7ccff1e15fab.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145652578556_47.png" group-title="News",[VGA]TVK (360p) [Not 24/7]
+https://epg.pw/stream/acbcf7f610e929f06c22c6822f3999ad99ee6e584b1d4abaf05d2faf4941d4cc.m3u8

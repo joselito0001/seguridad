@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102182212113386_57.jpg" group-title="Generic",[SD]Canal 4 Tenerife (576p)
+https://epg.pw/stream/d9302e80492acae1552b0cfc18cc52fe36fb2c8fcb1a1f1ea7d1abb65c391f09.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[HD]Canal 6 (Moreno)
+https://epg.pw/stream/660df7f39fa76be56ce012cd6f6e945bd34d108fbf4325a6938dba1d984c06cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[BD]Canal 6 (Posadas)
+https://epg.pw/stream/8c158b431c171f6da78079f3df49e45ab6c9e94669bfc96565f739f7e9ae6676.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232426132833_26.png" group-title="Sport",[VGA]48號[720*540]
+https://epg.pw/stream/2b76dc7b638db59f1c2cf5f88933c1669be849e0ff7f0e511dcffc73bf1842e2.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102135154509018_31.jpg" group-title="Sport",[HD]Canal 8 Costa Rica (720p)
+https://epg.pw/stream/53cfb67e8d74042e04e4616279463b60fe0737dcaef2c49ea9ad929ab14e4d9d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102135154509018_31.jpg" group-title="Sport",[SD]multimedios canal 8 costa rica (720p) [geo-blocked]
+https://epg.pw/stream/4d3e677578c1b2cf63d018660db0d143d6b09ef366448bf3767c21f743885e6f.m3u8

@@ -1,0 +1,33 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/05/20160505153535954685_44.png" group-title="Entertainment",[HD]RTSH 1 HD ALB
+https://epg.pw/stream/cfbc34cc2e103d48fa477c21664ceb22977e53b8559d83052e83b2453d3c6445.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[VGA]discovery王牌节目展播
+https://epg.pw/stream/5c7feb7a43eeab29f4f264dee5df0c53bd868b7d6b6280ebdb862d82783f23ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160941096455_30.jpg" group-title="Entertainment",[HD]bbf music
+https://epg.pw/stream/6ca4c0e0a6692c6ff3fbf3785b67262bed88eb62b9567a2c21e959f5961503ec.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174114553604_72.png" group-title="Generic",[SD]RTV 2 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174355107641_20.png" group-title="Generic",[VGA]Smile TV (360p) [Geo-blocked]
+https://epg.pw/stream/55d20966710dcd84294dc1184bc0068beb2deacf607f78a4315fa70fe1131049.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220161917039352_53.jpg" group-title="Movie",[SD]tring fantasy
+https://epg.pw/stream/7b4d5faa1602654c3f1a2f808eda41f568aeac027b5192dc82243f44a312ed7d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220161917039352_53.jpg" group-title="Movie",[HD]Tring Fantasy
+https://epg.pw/stream/96ba68747b2f79d084e057d6c1f464e15b2368c61dc57ec268cc1ad1e73f7747.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130093929991195_67.jpg" group-title="Movie",[BD]Vizion Plus
+https://epg.pw/stream/24d34d665c9b421ff06a9b2c238c392c924d2b7f5ba7bc1f1638fae7b1cc05da.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130093929991195_67.jpg" group-title="Movie",[BD]Vizion Plus
+https://epg.pw/stream/3fed340bc20f1dbaefedc37a95a85b0c9d52c0cbdb3e5a13508ac4de3858dcbf.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130093929991195_67.jpg" group-title="Movie",[SD]vizion plus
+https://epg.pw/stream/e8f8b5467b397a0ec5bd099a0fe66d9ebf7e09f568ced3f5caec03a38ca81551.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130093929991195_67.jpg" group-title="Movie",[BD]ION Plus
+https://epg.pw/stream/5a87c25f8de186343e1dc1ed2435b996c9ed76f391fadd447ce05360d6cc0d37.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130093929991195_67.jpg" group-title="Movie",[BD]iON Plus
+https://epg.pw/stream/4b3f2c8843208ab7bf0e15e25e839a7b8bf8e7d761fc819f5a25a251c94b7e3a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130093929991195_67.jpg" group-title="Movie",[BD]Ion Plus
+https://epg.pw/stream/3f03bae0eaa9a3fd2c10f873540adbfdae7c179cd2c45ecce277f32834fb0246.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174743043204_87.png" group-title="Other",[HD]GIT (720p)
+https://epg.pw/stream/d74363d836b389ed18f650e61d031e01c69b022c5ead821719d6627c4f36de06.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173722009437_89.png" group-title="Generic",[HD]TV 7 Albania (540p) [Not 24/7]
+https://epg.pw/stream/499fa0e3d53fd24962ae9267b33659d768b30cff6c89d2ce7fb006c669688dd2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173722009437_89.png" group-title="Generic",[SD]tv 7 albania (540p) [not 24/7]
+https://epg.pw/stream/66416d4678775e8978d27cb417b433f2bc3a144f9d5be36192074046e3d93987.m3u8

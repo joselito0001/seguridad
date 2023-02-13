@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[VGA]RTS (480p)
+https://epg.pw/stream/cead7f206aa23fbefeb8cbe8f74972c53ec4089b9a405b7aabf1c50d3c8b34f8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[SD]rts (480p)
+https://epg.pw/stream/ddd9472455a434f90a8931c4831b13a655c1c53d28963450a5beb5cea94a61db.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[VGA]RTS
+https://epg.pw/stream/4a08e49bebff8ff0859caaa8957a407ed2c244949ca8caa0d2522ef2537277bd.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/02/large/20151202064145980253_76.jpg" group-title="Entertainment",[BD]PMC (1080p)
+https://epg.pw/stream/054ef5a2873c0cc788184aa652721fabf76ad227383f95b4e076d8d15314ffb9.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174928157901_16.png" group-title="Other",[SD]Em TV (486p)
+https://epg.pw/stream/ff3499fb5ad04c4e3bcdfe10dcb67184642c36b4625eefe2074208e9402f4eba.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174928157901_16.png" group-title="Other",[SD]em tv (486p)
+https://epg.pw/stream/64210399c3d69e452882ec129d6fadc44b9212b7e55410bf05abd5ab3de1ef8a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519053857738578_21.jpg" group-title="News",[VGA]Sahar (480p)
+https://epg.pw/stream/957e86c23e930f06e2737c12e1b0f13af637f8fe28f9fd4841833373f05f4afc.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519053857738578_21.jpg" group-title="News",[SD]sahar (480p)
+https://epg.pw/stream/b205ef0f79ac82cd1ec462d762d2839d1ea751ffed06e7adeeb25515c78ce55d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519053857738578_21.jpg" group-title="News",[SD]HAR-027
+https://epg.pw/stream/eca8004b801fe5fe1f41e06c827e5189844bd151feccac501a70a00fa11bc2c7.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2019/03/05/large/20190305164409191749_29.png" group-title="Sport",[BD]Varzesh (1080p)
+https://epg.pw/stream/4b3dc870384daa67dc8dd64d93e4540e12df4ca7950fac452d41b3ccea212afe.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2019/03/05/large/20190305164409191749_29.png" group-title="Sport",[SD]varzesh (1080p)
+https://epg.pw/stream/7f9fcff0388a4147b4fbb30a888944c9bf5a9c5042ba9f4d26419528e860ace8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Bosniak" tvg-logo="https://epg.pw/media/images/channel/2022/07/06/large/20220706151344817364_84.png" group-title="Sport",[HD]persiana game & tech (720p) [not 24/7]
+https://epg.pw/stream/3a376417e73313ee2582f9adbeb597fbf58350b2238110da0933490c84461692.m3u8

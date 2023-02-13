@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Montenegro" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231308413611_31.png" group-title="Sport",[HD]TVCG 1 (720p) [Not 24/7]
+https://epg.pw/stream/f2ae07c469bcc61eed7ff27ca7f988e22cb9c18d4db66b23ef55cd2864459428.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Montenegro" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231308413611_31.png" group-title="Sport",[HD]TVCG 2 (720p) [Not 24/7]
+https://epg.pw/stream/9a26e515e7c6fca4addb4cbbe309fca257a4c68623a56f0ac0944fd610ab5248.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Montenegro" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231308413611_31.png" group-title="Sport",[SD]tvcg 2 (720p) [not 24/7]
+https://epg.pw/stream/72a75ba22f0c3b7905207bd6802159bf7aabc25614e44ccfc02ac168c2e38b16.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Montenegro" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231308413611_31.png" group-title="Sport",[SD]tvcg 1 (720p) [not 24/7]
+https://epg.pw/stream/d7242b6a5789c2b332c7ff56b0e748698cc65095a94bc1bade19ac65778893f4.m3u8

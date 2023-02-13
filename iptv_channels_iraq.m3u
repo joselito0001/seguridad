@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/8edf68fca605a7b93c190c26e55838a3.png" group-title="News",[BD]Al-Sharqiya News (1080p)
+https://epg.pw/stream/238d0000cf9b3096deef1b7a57dca8dbf1b37d230ce9be2f00a1ce1d2571e0d5.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229025118759034_34.jpg" group-title="Other",[SD]mas tv (1080p)
+https://epg.pw/stream/3aab8e137d7ec79e68fa57f91ec93cb9c54f0796e427c88970243f18a1518b31.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229025118759034_34.jpg" group-title="Other",[HD]Mas TV (1080p)
+https://epg.pw/stream/7463a1908bfeca41d784e809a292322e898bb76458bc927f9055dbd04ec884a8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174014734483_45.png" group-title="Movie",[VGA]M-1 (480p)
+https://epg.pw/stream/c4fc0e38c7ac80f08fd13e264dfe1ff2f7b3f123490e9ac09677c2b49c03dbed.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020700824549_61.png" group-title="Other",[VGA]LIFE
+https://epg.pw/stream/4318ae0f7979576dcb1711df9dcedbf739b3827e15bfb7a82b43c87118af784a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165511665333_17.jpg" group-title="Generic",[VGA]Star 1
+https://epg.pw/stream/68fd4773f50809926682b1dbea93d06c54cccc6d8b1e93cbf76d17aa244b4489.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165639572708_39.jpg" group-title="Generic",[VGA]Star 2
+https://epg.pw/stream/f11c13ce7d5e4eb36547cad48e17580358e3ca881110e85c3077f31c9b01b194.m3u8

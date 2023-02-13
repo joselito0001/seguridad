@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Oman" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2016/12/05/large/20161205220132285669_69.png" group-title="Generic",[SD]an tv
+https://epg.pw/stream/f0e30c243aec0d3110955862bdfad1dac0ab21ebc9c90aeeab1ba1b00ec54f55.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Oman" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174626326588_74.png" group-title="Entertainment",[SD]KMTV (576p)
+https://epg.pw/stream/b687be1b0ae55e49580a7ae42c5ce9e1974bc1bd4dbb6de6249cf90d663fc270.m3u8

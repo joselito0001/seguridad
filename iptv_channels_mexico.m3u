@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]canal de las estrellas@@1
+https://epg.pw/stream/b6d6c92790d7ba4ce9437eb9fc14cd5a7823373ce3963d17ba66fc19efd6895d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[VGA]Novelas [Geo-blocked]
+https://epg.pw/stream/2228f18372023f875aa9d3eab63b027bdcac201db54724795b450d630a5c40f6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[BD]gourmet hd (mx vip)
+https://epg.pw/stream/8a5c43c9730f3645ee7afb6276451e41314e71e2ce66a8eefa0ba2659a6c09bd.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231346808634_39.png" group-title="News",[BD]7 Noticias (1080p)
+https://epg.pw/stream/c2ea6453c550377926583da4afc197502172f5bbb6d09cb4f1bb8a510cc0655d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231346808634_39.png" group-title="News",[VGA]44號[853*480]
+https://epg.pw/stream/3d17ddf7cc305963de4209cae051ef74990ade42844747c487b4b5640468504d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331022714557175_86.jpg" group-title="Entertainment",[BD]DETV2
+rtmp://jsylivealone.iqilu.com/donge/donge_tv02
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193323167564_70.jpg" group-title="Generic",[BD]milenio tv
+https://epg.pw/stream/39d7be332ef5a81c93c8c3cccbfd17d533e2870c5457805ee312fd9753c13dd6.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[SD]mexiquense tv (720p)
+https://epg.pw/stream/68da1045c70f6cabb8c4e89faaca3699d396f7e9cb17bae0b161c64f0b8a0a2b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[HD]Mexiquense TV (720p)
+https://epg.pw/stream/1ef97813504d77fbb83ec95593aceca9896d9134398f89dc6b6cbca56bdc15b3.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102135632646543_15.jpg" group-title="Generic",[HD]capital 21 (720p) [not 24/7]
+https://epg.pw/stream/b391a9f8b54c459b6222a4762ec3fae56f2ff5c0332459791c00897f80680b96.m3u8
