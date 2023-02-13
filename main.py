@@ -50,8 +50,8 @@ def download_m3u_files():
                 "https://epg.pw/test_channels_unknown.txt",
                 ]
     for country in stand_country_list:
-        url_list.append("https://epg.pw/test_channels_%s.m3u" % country['name'].lower().replace(" ", "_"))
-        url_list.append("https://epg.pw/test_channels_%s.txt" % country['name'].lower().replace(" ", "_"))
+        url_list.append("https://epg.pw/test_channels_%s.m3u" % country.lower().replace(" ", "_"))
+        url_list.append("https://epg.pw/test_channels_%s.txt" % country.lower().replace(" ", "_"))
 
     for url in url_list:
         try:
@@ -93,7 +93,7 @@ def download_xmltv_files():
 
 def download_files():
     print("start to download the xmltv")
-    download_xmltv_files()
+    # download_xmltv_files()
     print("start to download the m3u")
     download_m3u_files()
 
