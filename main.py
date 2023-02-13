@@ -59,7 +59,7 @@ def download_m3u_files():
             response = requests.get(url)
             if response.status_code == 200:
                 file_name = url.split("/")[-1].replace("test", "iptv")
-                with open(os.path.join(os.getcwd(), "%s" % file_name), 'w') as f:
+                with open(os.path.join(os.getcwd(), "%s" % file_name), 'wb') as f:
                     f.write(response.content)
                 print("finished download url %s" % url)
             else:
@@ -82,7 +82,7 @@ def download_xmltv_files():
             response = requests.get(url)
             if response.status_code == 200:
                 file_name = url.split("/")[-1]
-                with open(os.path.join(os.getcwd(), "%s" % file_name), 'w') as f:
+                with open(os.path.join(os.getcwd(), "%s" % file_name), 'wb') as f:
                     f.write(response.content)
                 print("finished download url %s" % url)
             else:
