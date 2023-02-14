@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Bosnia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152147517040_41.png" group-title="Cartoon",[HD]hayatovci
+https://epg.pw/stream/83b36bad0cf2745c208d8012126b3cabe11e91dffe5e1443064efd52f4323d56.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Bosnia" tvg-language="Bosniak" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/19/20140919032536311178_27.jpg" group-title="News",[BD]bht1
+https://epg.pw/stream/dc7b036cc7a36bd645aaa3b4bd6c9ffd58cfb6d7c3b4048c38bdc6abe85226c9.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Bosnia" tvg-language="Bosniak" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/10/07/20141007010129371823_20.jpg" group-title="News",[HD]rtrs
+https://epg.pw/stream/b8741b142af9572cc14b434ca3edac18435108b24cbdd0b4769aea2d7fa0ef6d.ctv
