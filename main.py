@@ -69,13 +69,13 @@ def download_m3u_files():
 
 
 def download_xmltv_files():
-    url_list = ["https://epg.pw/xmltv/epg.xml",
-                "https://epg.pw/xmltv/epg.xml.gz",
+    url_list = ["https://epg.pw/xmltv/epg.xml.gz",
                 "https://epg.pw/xmltv/epg_lite.xml",
                 "https://epg.pw/xmltv/epg_lite.xml.gz",
                 ]
     for country in epg_country_list:
-        url_list.append("https://epg.pw/xmltv/epg_%s.xml" % country['code'])
+        if country['code'] not in ['RU']:
+            url_list.append("https://epg.pw/xmltv/epg_%s.xml" % country['code'])
         url_list.append("https://epg.pw/xmltv/epg_%s.xml.gz" % country['code'])
 
     for url in url_list:
