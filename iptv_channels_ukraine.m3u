@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124234759643697_22.png" group-title="Generic",[BD]ICTV HD
 https://epg.pw/stream/a229293cdd07b976e65c39de6274deb2e4ee4693e8eeb61f04c935682855d465.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/26/20160526054905439808_39.png" group-title="News",[VGA]112號[854*480]
@@ -23,13 +23,15 @@ https://epg.pw/stream/ac322107a3569bc22fb136e524261f9d7270da82b0d7839e6a9dbfc73d
 https://epg.pw/stream/ff5aeb398abb8f11e467085920863575fdb2c50cdf38f62b75984ae06ab60dfd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[SD]24 канал (1080p)
 https://epg.pw/stream/07a4645e639338615441deb12d7ae8c5b492daee3406e54abf7fdeca8d5b9053.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[BD][乌克兰]4 канал
+https://epg.pw/stream/64bf02805424654f54756176d9d92c145db55c6df9463cd5778bd21b6fa3d443.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[BD]24 Канал (1080p)
 https://epg.pw/stream/64eae88aefed7114cb7be178e6e234d1ab8d9a8c83ac2fe40cdb811c9214f628.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[SD]7 канал (576p) [not 24/7]
 https://epg.pw/stream/12dc978511d4a97b0a5abc5d12e4097d4a402c83f1f4492d738c0358789ad7c2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[HD]8 канал
+#EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[SD]8 канал
 https://epg.pw/stream/00c546e8f86e7f1dec9977b05bc50aec61da477525b358516fad95c4d1e53d19.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022324598796_83.png" group-title="Generic",[HD]MMA TV
 https://epg.pw/stream/4f65dc51c935579a10c05af877f97c438a9078408438a9bebaf136bddec9a4f0.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174725923216_74.png" group-title="Generic",[BD]Fake Taxi HD
+#EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174725923216_74.png" group-title="Generic",[HD]Fake Taxi HD
 https://epg.pw/stream/a0cdfd5230ebb04da5b0709171fb22b787bd246f6c0ae3ed1c4892c52f3c772e.m3u8

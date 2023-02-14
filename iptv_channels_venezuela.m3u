@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[SD]venevision
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[VGA]venevision
 https://epg.pw/stream/95f304d08fde865ab45a9f1503cc5fb2781776bc667a575803d896e7bd22a64e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[SD]venevision@@1
+https://epg.pw/stream/55d4de685fc52921e549c9588a8921d5317c6b5be389c96eed6280e8b7317cee.m3u8

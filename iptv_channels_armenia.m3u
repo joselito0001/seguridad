@@ -1,5 +1,7 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126223124883956_82.jpg" group-title="Cartoon",[BD]anime
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126223124883956_82.jpg" group-title="Cartoon",[SD]ani
+https://epg.pw/stream/6003cc5d01e1886b82a3ec76b29a683a3a9ab3a9a1843087f58571a9b6f662bd.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126223124883956_82.jpg" group-title="Cartoon",[HD]anime
 https://epg.pw/stream/b9a6a06252ee00a379d8d927e33a09c586b8d038769e9858c663fe857acc810c.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png" group-title="Entertainment",[BD]armenia tv 
+#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png" group-title="Entertainment",[HD]armenia tv 
 https://epg.pw/stream/4b6213c5720279dca25579e1a09d2969e1237d51f316feaf8f4669d11eec7def.m3u8

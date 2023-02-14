@@ -1,8 +1,12 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[HD]city tv
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[VGA]city tv
 https://epg.pw/stream/55ebc4807dce4f4b5361a9a46a298d6a46c58b7701a1712083c90111e90c766f.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[HD]city tv sd (co)
-https://epg.pw/stream/2779a646a37df42d6e6390159e93dd5a693a54d2196b57ad3b46e5d0d9e6a65a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623143052083185_68.png" group-title="Sport",[BD]n1.rs
+https://epg.pw/stream/09e67981cfca91ebe2b2b590a53a94789284aacb56d995ddc763ffb285c7199d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623143052083185_68.png" group-title="Sport",[BD]n1.ba
+https://epg.pw/stream/f7c5e4f34c1789b6ef8164a346ade20e471e1a9de18b7eaaa4af68cab24bcd5b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623143052083185_68.png" group-title="Sport",[HD]n1 hr
+https://epg.pw/stream/b7d3c52b1aaf5ee59fddc086cb9f850767fb37c04fcca92afe9608cc16b8acfd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623143838187559_69.png" group-title="Sport",[HD]TSN2 HD
 https://epg.pw/stream/44cfdbfb08ae869296c15473481949c8c473c68f39934be124246439a6aeb1d6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623142704100463_38.jpg" group-title="Sport",[SD]n4 (720p)
@@ -21,16 +25,26 @@ https://epg.pw/stream/44d671172a45246397b4a7bf9dd4cdf57aa9b8346975b2e27abd8590de
 https://epg.pw/stream/975e63c80d96fd5df8f5711f721c02ccf0697d54cca07c5d76818c75c2606049.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Sport",[BD]EDGE Sport-1
 https://epg.pw/stream/d2d9c5d8b0c71061c249cbaa8a29e87acd2ed2e629d3aa709ff4b707a1bcf4e5.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[BD]ctv
+https://epg.pw/stream/fd8cdf1867ae1ee74518f80600c8c2f71040813abd83469564d45b003b5b9eea.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[HD]CTV (720p)
 https://epg.pw/stream/2889d670bc8d4065d01320a6c6ce667c38299602ccd47a370ca2b69d9c61a629.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[SD]ctv (720p)
 https://epg.pw/stream/570951475f45690b4838bdf61bc5be93f912b16bb247909640bb60a31d3562a2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[BD]ctv@@1
+https://epg.pw/stream/573c96b90712995b2209e0df3dd520fbb221bdeec49151af913e19b822ea81c2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Entertainment",[BD]EDGE
 https://epg.pw/stream/3b099395de641a34938e4404bd001c88a088a7aeaa30045c7d2a368a479b4a54.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Sport",[HD]a spor
+https://epg.pw/stream/66c8779f757ab632947d05da58e2cd4f263f620f631179bacd69c50a72ee322c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Sport",[BD]a spor@@1
+https://epg.pw/stream/665683be5de44d91be215a25c3c87283f20c114d38f21da364520359d9420bee.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174529107349_53.png" group-title="Other",[SD]tva (vicenza) (720p)
 https://epg.pw/stream/3478b72b2542f8cf1a604baf06c6ca62edcf18f9f389a73bd562239f6935f0f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174529107349_53.png" group-title="Other",[BD]TVA (1080p) [Not 24/7]
 https://epg.pw/stream/96b51be3c576101e43b26a6a9a79d3e7210b4bd068fd324c8613858fb059bdeb.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174529107349_53.png" group-title="Other",[HD]tva
+https://epg.pw/stream/4f727a81abf793201e9f31d6d9779fda1ebbe2d4abbbcc7e6eef3a9e53f37591.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174529107349_53.png" group-title="Other",[SD]tva (1080p) [not 24/7]
 https://epg.pw/stream/2be775f3a1ce7ac13cee0801831ec2dad2c905b28ce3dbb7cfcaf6ad92e662bd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174529107349_53.png" group-title="Other",[HD]TVA (Vicenza) (720p)
@@ -61,5 +75,11 @@ https://epg.pw/stream/8fd3e353487e01b95c1e3b4b44286ae6baa3d12e613fd33a5ecec7c37f
 https://epg.pw/stream/740b4a4b3a6315361d6724b27ff86a40452256adc8b3a7106cb08ab12aa7d0b9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]bbc arabic (720p)
 https://epg.pw/stream/0147c5627417888ef66cee2d6bbafcf0035a70e3ece6386bafde425e9ef18a4f.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]iq: imam hussein tv 2 arabic
+https://epg.pw/stream/95821eb856c56778613330c9dd30e0577c70c031c6a63c5eab15266690b2080d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]BBC Arabic (720p)
 https://epg.pw/stream/102546bed1737d8bdca24dbaac822ed3c1ca95492fa7af656164dc233b7f71c0.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png" group-title="Entertainment",[VGA]global tv@@1
+https://epg.pw/stream/f9b1af6147bcfa637c7aae66336ee9519e91ef816f21304c8be53321721c5183.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png" group-title="Entertainment",[BD]global tv
+https://epg.pw/stream/1c23452e6122165f2c4b874cec97363192dabd48499e1e1985228e44df143932.m3u8

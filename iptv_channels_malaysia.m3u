@@ -1,11 +1,11 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Sport",[HD]astro supersport 1
 https://epg.pw/stream/72e9176d6fe4b9a0df7d3a542b62c417128c395d691b5e7ce781252b4459bf0f.ctv
-#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Sport",[HD]astro supersport 3
-https://epg.pw/stream/36af6a626d8074cb0b61320d11ade6eef853c1972296f5668116c7cc36419a59.ctv
-#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Sport",[HD]astro supersport 2
+#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Sport",[HD]astro supersport hd
+https://epg.pw/stream/1f7b51c33d311779965e071cb4ab89801f86e02abbae6497b6a2403d9d2be2aa.ctv
+#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Sport",[BD]astro supersport 2
 https://epg.pw/stream/c8b0c5c430dc19309396121b0cd27cf2cdd7bfdfea7285d430a4779c3c5aa744.ctv
-#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Sport",[HD]astro supersport 4
+#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Sport",[BD]astro supersport 4
 https://epg.pw/stream/62676c69ec67efdddbc06dbd1b14c407439574431589848773aa337bc8249f83.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="Movie",[HD]30A Sidewalks (720p)
 https://epg.pw/stream/67f4f37fc8a98b04d749b89a7ea2c72f97f189f2e3ea53eed25ab6e6b80b1abb.m3u8
@@ -19,6 +19,20 @@ https://epg.pw/stream/6cf0de38ecdae5e49f587f3a9f20ada847694740391f3aa49c49c3aa75
 https://epg.pw/stream/7cfca2e59a9193f23a5b4c83158657c2753378439fecb8eb131aa28c14e1bdca.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="Movie",[HD]30A The Beach Show (720p)
 https://epg.pw/stream/ffa1898f85d3e07fb35e16b051ad8148d9e7449361e4f097db9ab6958a661fe8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/01/31/large/20160131155456553077_67.jpg" group-title="Movie",[HD]astro supersport 2 hd
+https://epg.pw/stream/3aaac7f54ff636e88e639e7854bb7c346b00728d3c2cde6cec885e7c5586d1ee.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/01/31/large/20160131155456553077_67.jpg" group-title="Movie",[BD]astro supersport 3 hd
+https://epg.pw/stream/057756065896b251a87ca0da0e3b5eb007bb8b8e011ebcffd796872e37b1a520.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/01/31/large/20160131155456553077_67.jpg" group-title="Movie",[BD]astro 4
+https://epg.pw/stream/0a536f322758c573eeb2444f1f67aaa66d294eee2aac31059a9624d819882634.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/01/31/large/20160131155456553077_67.jpg" group-title="Movie",[BD]astro 2
+https://epg.pw/stream/93ca1351719921a71d5f2d1b4c1127813664d7c232733444f8efdfe3d8ce1f36.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/01/31/large/20160131155456553077_67.jpg" group-title="Movie",[BD]astro 3
+https://epg.pw/stream/ab98002fcec29935e3942d5f23f96a0e34cddeeeb275fb90a83e8a14c6ed147e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/01/31/large/20160131155456553077_67.jpg" group-title="Movie",[BD]astro 1
+https://epg.pw/stream/6642a743d0c08e3ccdec1acf44af4bb1cd29b2717a18dd7420bcbf5e2010d7cf.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sport",[BD]astro arena
+https://epg.pw/stream/9bf7d6428d175e93694a97a7f10d7f662a40d0f71e632017651d0925d9ce4b59.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428123029149728_98.jpg" group-title="Movie",[VGA]35號[853*480]
 https://epg.pw/stream/f46d190ea372303cdff90b38cb0c0cc21097cf6644233e76c5db8b02bb638fb8.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428123029149728_98.jpg" group-title="Movie",[HD]-51 tvg-id="" tvg-name=""贡嘎雪山贡嘎雪山
@@ -45,6 +59,8 @@ https://epg.pw/stream/eece16c15ff0892f43e8087d26be996b56674a54fffa4b5bb564169c3e
 https://epg.pw/stream/60dc7fac8422aeb00db7ee05d7038a0469fe638b4fb8d4bc38caaf1c8297b66b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122155105563432_30.jpg" group-title="Sport",[BD]sukan rtm [geo-blocked]
 https://epg.pw/stream/218152818b61f4dc0875f9152d3bebf8c6059d162b4144bb5b281b784cccaec7.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122155105563432_30.jpg" group-title="Sport",[BD]sukan rtm@@1
+https://epg.pw/stream/12e3910ed7b2958f5f15c369707e59a88dd43aa325a1cb539311c8be9fc11566.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122155105563432_30.jpg" group-title="Sport",[BD]Sukan RTM
 https://epg.pw/stream/ee0a5a9d29f2edce53aef213fd6c631c511909ca7b94966a8c0d38faa9cfbc19.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007154237536876_79.jpg" group-title="News",[SD]astro awani (720p)
@@ -63,17 +79,23 @@ https://epg.pw/stream/9d1e703f7e05da164694c449f662264e09c6af5636c38a9f72edb85a40
 https://epg.pw/stream/2d1b8606c0f1ec3866cbc042250e58d2a0078353cc88d5383f343977dbc18a2c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020608557074_23.png" group-title="Movie",[BD]my tv
 https://epg.pw/stream/e01bed960720b6cbaed86c0c4c38adb0bbc92a1c2687c4ac92ff01a22f4159b3.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/09/14/20180914161016331847_95.png" group-title="Generic",[HD]foxlife
+https://epg.pw/stream/1deb38d273aa804466b08f01f31e96c260e7bd2d3f4b7fa2a1f7365d3d637c80.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/24/20181024155808221127_87.png" group-title="Generic",[BD]rtm tv 2 [geo-blocked]
 https://epg.pw/stream/3a5a4747a807da62eb8f0bd02b58fd539bf5ad800580b9501bfddd7ffb6eb35d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/24/20181024155808221127_87.png" group-title="Generic",[BD]rtm tv 1 [geo-blocked]
 https://epg.pw/stream/4cd435a92eed6179fb8e05fcdde7c81267eee28b9d08a31d686b7d86ce06b119.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003758720047_55.png" group-title="Generic",[BD]dunia sinema
 https://epg.pw/stream/c564c85679764d04653c7660fec1d1495b3d2b06bff8fac4ff5569a4efd6b1ec.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[SD]celestial movies
+https://epg.pw/stream/4af7b4f94e3f11735cf74a8f0ccb88cb3addc76c214d4fde46fdd1f1f5e380e8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[SD]celestial movies (indonesian subtitle) (576p)
 https://epg.pw/stream/87871a5c1d536907b9d20143f14c81684801218e622294658d860a94e921dfd6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[SD]Celestial Movies
 https://epg.pw/stream/8e9693af953ed1598153f772784415036f2c1524aefc90a798fc724d934a9b30.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[SD]Celestial Movies (Indonesian Subtitle) (576p)
 https://epg.pw/stream/d83471320e5b9aa55362c20e9b44dc381bd4288195c7f4bb84571ed921df157f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173812184467_89.png" group-title="News",[BD]ntv7
+https://epg.pw/stream/44118233a12197bfdf5a017d254881439fa0b6442adeb1f2a01ce8de16fd348a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg" group-title="News",[BD]bernama tv
 https://epg.pw/stream/dd30da960477daa193887a4d044a3f8d822fdd87bc2815e13d0428f226af6af3.m3u8

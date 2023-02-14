@@ -1,6 +1,8 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[SD]luxe tv (1080p)
 https://epg.pw/stream/112369309bee0ffe023b66fa435d8760af141e8188e34a24589eb14d0a079f84.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[HD]luxe tv
+https://epg.pw/stream/618445846393b20309449b9aadff5fe1c1473bb444c4fcfa02b51ad5cc1bbef4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[BD]Luxe TV (1080p)
 https://epg.pw/stream/036bca1eeca37cc13096ff96c135dbbef4f5053c3e6b2586b600fe99a405c331.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152133701573_11.png" group-title="Cartoon",[HD]Club 17

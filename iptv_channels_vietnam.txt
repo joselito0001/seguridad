@@ -10,6 +10,7 @@
 #下載地址為https://epg.pw/app_download.html
 
 
+[HD]tv4 hd tr,https://epg.pw/stream/4f0630f1005c4cf91ab7dbab7ba24467dd2315ce264db20ef14d6a8c13b2f949.m3u8
 [SD]tv4 (720p),https://epg.pw/stream/d81b2dcf57ce88f4a596a6041b5482f5a8331c84a732d79308531fe7d2032315.m3u8
 [VGA]TV4 (360p),https://epg.pw/stream/969dab596bc2801ab35132ce7bbda2bfed916a51e02e6c690a92828cfe7980d6.m3u8
 [SD]tv4 la vall (1080p),https://epg.pw/stream/7b9f01543eda00ea2ac4b68584e7a8cfa526f796826ef56f3354a6014d2022b5.m3u8
@@ -17,6 +18,7 @@
 [SD]tv4 (360p),https://epg.pw/stream/f8d58bc2979773b43c432a0f6fd6c8300873eca5fdb74c79dc1cff5a24398ce6.m3u8
 [SD]tv4 svensk politik (720p),https://epg.pw/stream/260cef090907a26815a0dae1b4a5708e941d6879d136dff22338c3d22a405721.m3u8
 [BD]vtv1 (độ trễ thấp),https://epg.pw/stream/cfb9166a72b471dc55e015ce78aebacd27e88af5455f137f29370034d59f9a1e.ctv
+[BD]vtv1 hd,https://epg.pw/stream/4afb19b02ae1eebe1aa2dd509f3e558d62d0470dec89bfcf28cf99fe772217e3.ctv
 [SD]C10[720*540],https://epg.pw/stream/79825c71391fd92a4eb1b96e00b6c2ca15d8ae8aa5ef9e92028d93f1ed031ff1.m3u8
 [HD]C14[725*966],https://epg.pw/stream/cc9eca84fa30ebf61154a51548c2c1f51e9ca32ab3589fe3a6b33c5030497892.m3u8
 [VGA]QNR2 - Quảng Ninh,https://epg.pw/stream/ae8a561ff51e1d1817a30b881dd55494b6b0c5b74722eeddd63d6a97c15be482.m3u8
@@ -28,10 +30,15 @@
 [SD]SCTV 17 ,https://epg.pw/stream/49c2f38ba71b46cfef3dfbab8432f46f29918fe0b35206508373ec0227b1b685.m3u8
 [SD]sctv17 hd,https://epg.pw/stream/fec910ace09f86ecfa654285ca6845b152b658c1c543bb800ae894da5c4c23b7.m3u8
 [SD]sctv1 hd,https://epg.pw/stream/51ec2d40bcaefe701bbb27880eb32706999306dc15bb43d3ff03ca8d07035f60.m3u8
+[HD]btv,https://epg.pw/stream/1de9660c24612859b3af13c073ad9a5138f0f8475c09d42b66b63ab436c82db1.m3u8
+[HD]vtv 2 ,https://epg.pw/stream/c79f9b8a906ecc4333592090a9371ae8385b9224742b26d2a3f095a02a54d178.m3u8
 [BD]vtv3 (độ trễ thấp),https://epg.pw/stream/e4e74e6c782a3944668f5efe1f908f769763c3d9b8480fbdcfde4e2e8973d371.ctv
+[BD]vtv3 hd,https://epg.pw/stream/d711813b15d99c5781ea8dac567f2d0c30c4cc8e2e04fa09642b1c8af8be9040.ctv
+[HD]vtv5 tây nguyên,https://epg.pw/stream/7ba53e019c44a4dfeb43e6c407ae593f4a55460ff2c19df63c19dd5f4a01df64.ctv
 [BD]vtv5 (độ trễ thấp),https://epg.pw/stream/5dd8dc43e4b1b1afc223c8bd85850b9bcce31acb055c4142ed5bf6f87808160b.ctv
 [HD]VTV5 TÂY NGUYÊN,https://epg.pw/stream/929f74397f5664cef5e543b8d486403914483415ae0c4c80b481b5e45c80dcd2.m3u8
 [HD]VTV5 TÂY NAM BỘ HD,https://epg.pw/stream/86d3e46eda26a60bed80d24849cb4e72535d23890ad5cfdd9551b49c9f326e4e.m3u8
+[BD]vtv5 hd,https://epg.pw/stream/f308c5d8f0639cdb82fe4668442c6f81062ae5496e24eb8af2b96765191bde17.ctv
 [HD]VTV5_vietnam,https://epg.pw/stream/82ad8ac5ffa11bb71c60cec1454684d00d9a3c2b2f42885bafcbb3133a489321.m3u8
 [HD]VTV6_vietnam,https://epg.pw/stream/9c8281ffd983b598414c5a1d24fac1833c64d342c961e2f88372daa035bf1304.m3u8
 [BD]SCTV2,https://epg.pw/stream/2f4bc6379dc7b272baf334b3a50194b3964b7335378bc670aff2167b988d5a5a.m3u8
@@ -39,21 +46,20 @@
 [SD]sctv3 hd,https://epg.pw/stream/dfddba4af4aa5e9fee29f6f2add0131cc86c43b5fe37c2756e513991d1277c59.m3u8
 [SD]sctv4 hd,https://epg.pw/stream/c14a52a666304212e78872950d30458cfea97fbe32cb94e1a4c90f76fe74df99.m3u8
 [SD]sctv7 hd,https://epg.pw/stream/b8a25d9227f511b76939de67f9f580b1ad046831f56ffabe8bd76740a9703c9f.m3u8
-[VGA]sctv8,https://epg.pw/stream/af809ca63ba94862536157c771685a3c4aa9b64e9d883f0a57a93d468b2b4a35.m3u8
 [SD]SCTV8 - ViTV,https://epg.pw/stream/7352cb6f28b912993038ab82e080e2f598c6623303ee3febe9ddc1f8ee315b63.m3u8
 [SD]SCTV8 HD,https://epg.pw/stream/0a9b5b71eb12612fb7cf01c921c1164894dc977f648f92fff2979ac98a9774a0.m3u8
 [SD]SCTV8 - ViTV,https://epg.pw/stream/157f275895c23b354e4b0e5b08ad27ab2293384461245989c3106ae08c44f867.ctv
 [VGA]sctv9 hd,https://epg.pw/stream/07d22f5f29d4626c00a6b0e8f0ccf0ed38f2c4f0470cfd9964faa568e11ee571.m3u8
-[SD]sctv10,https://epg.pw/stream/f19bb71b7be3f89f8c8355b8bbd38d8154086222b05d32dc2e75bd5fda981a84.m3u8
+[HD]sctv10,https://epg.pw/stream/f19bb71b7be3f89f8c8355b8bbd38d8154086222b05d32dc2e75bd5fda981a84.m3u8
 [VGA]SCTV11 HD,https://epg.pw/stream/e7963d35660be21d18e48c5d6040ad0834d6011cedcd7d0ad795fd6b1a5637bf.m3u8
 [SD]sctv12 hd,https://epg.pw/stream/925f420b368e2f4821ff43ebfd14a3e1e2a3549deb0c61c2b0b8376da6a52cc9.m3u8
 [SD]sctv13 hd,https://epg.pw/stream/fc4c33f19c604b3ab03b3cb31b3943389df8181dbe1930b128bf6be00eb95573.m3u8
 [SD]B4U Kadak (576p) [Not 24/7],https://epg.pw/stream/100ec5618112f26c032bff130a655ca2137cc192a3492f732f826664c3536956.m3u8
 [SD]B4U Kadak,https://epg.pw/stream/c609919b844431af4be9eb7e8f8158ad83f3cde7e328801a1999c537981e0cd5.m3u8
+[SD]antv hd,https://epg.pw/stream/4fa17db0a196d4e45ed7e232fb46768cd4439ef8d20969e802ffd23604dfbeaa.m3u8
 [SD]ANTV(5G专线)@@1,https://epg.pw/stream/a3679e17bee02ad09529f1d01e1a60c076d627f4859fd7074ada51467d544ee7.m3u8
 [VGA]antv,https://epg.pw/stream/396e4ab250f7a45c3d8571032dc0f1065f96495c4493d6dc483b6e4eda94117b.m3u8
 [SD]antv (480p) [geo-blocked],https://epg.pw/stream/6893706a3ef234e2bbd69632b405a3da52e11cc4b2b1d868b276e5a06f9a0636.m3u8
-[VGA]antv,https://epg.pw/stream/62a06e84a1d8f592de6a27646ae1f07227f56623b9eb3cbd9a9940aa5f1bc930.ctv
 [VGA]ANTV (480p) [Geo-blocked],https://epg.pw/stream/640448cc5e5e54509c064391d2e0976decc13c489f5d63d0eecf027bfb77dcfc.m3u8
 [BD]Bạc Liêu@@1,https://epg.pw/stream/f8cbbab6df296173ef926e6bf2a3b5dfdf9f14a387ddf034a289e24b3028a38a.m3u8
 [HD]Bình Thuận@@1,https://epg.pw/stream/a97e950a6c46fdc4e3e5b85b0303e7225f0029c1ffa26d03b6481d7aa3967359.m3u8
@@ -71,3 +77,5 @@
 [HD]Long An@@1,https://epg.pw/stream/47adb2405cfa118ddbf0a0e72a486fb2fc54190441db3ab90eb618d28e7f70c5.m3u8
 [HD]Long An,https://epg.pw/stream/d4878b6c80b9b61e172ec47518699f6cbef51ff8c26e62180b07882ab49520d9.m3u8
 [VGA]Zing MP3 - Vpop,https://epg.pw/stream/b3229a115df04d266cda84935f45e5ca814afe5c7c80d7d20081ec148f883db7.m3u8
+[BD]vtc13 4k,https://epg.pw/stream/e7c647d5257e468079ceea451e1ce77626b0b351e0e09129a69635d24638f1f1.m3u8
+[HD]on6 tv,https://epg.pw/stream/11c176f8513af687bd1e17f226c5e3091b8135c115748a18111849ff6cb3d2b0.m3u8

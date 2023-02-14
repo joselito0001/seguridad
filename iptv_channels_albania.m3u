@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/05/20160505153535954685_44.png" group-title="Entertainment",[HD]RTSH 1 HD ALB
 https://epg.pw/stream/cfbc34cc2e103d48fa477c21664ceb22977e53b8559d83052e83b2453d3c6445.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231040883110_16.png" group-title="Sport",[BD]rtsh sport @@1
+https://epg.pw/stream/23df7b856c0ed7f90efebfcb8cad74f2759a2cc950d1e95d694f0d018c6bd082.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[VGA]discovery王牌节目展播
 https://epg.pw/stream/5c7feb7a43eeab29f4f264dee5df0c53bd868b7d6b6280ebdb862d82783f23ae.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160941096455_30.jpg" group-title="Entertainment",[HD]bbf music
-https://epg.pw/stream/6ca4c0e0a6692c6ff3fbf3785b67262bed88eb62b9567a2c21e959f5961503ec.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174114553604_72.png" group-title="Generic",[SD]RTV 2 (576p) [Not 24/7]
 mmsh://212.200.255.151/rtv2
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174355107641_20.png" group-title="Generic",[VGA]Smile TV (360p) [Geo-blocked]

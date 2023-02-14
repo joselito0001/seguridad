@@ -1,12 +1,26 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[BD]canal ipe
+https://epg.pw/stream/b47d691d398216ae73997ca4ab0fae6edea7e3db7187d86f6483b82cebc21799.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[SD]canal ipe
 https://epg.pw/stream/032cea6abc2094e59745a180ad65775b61d6442fe0ddce50c8584e82c65a423f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[BD]canal i
+https://epg.pw/stream/68cafaa87129d209844aa48efbea6dbc59bc732c4aee5c2ed3c2a8df9c4805e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[BD]Canal IPe
 https://epg.pw/stream/6e87ef9741adc3081f93afb5c15cd1698a4d8cfd5499ada78877d41a5b037890.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[SD]canal i (720p) [not 24/7]
 https://epg.pw/stream/ee032f00708b4d009f54fed71af40b033fcb118f998cdfd0929e86ae97fa9b85.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[BD]canal ipe@@1
+https://epg.pw/stream/e550cffb77cef2f85234d65fa2787e6e1453cd3e1af67e32c4680e7d9633031a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[HD]Canal i (720p) [Not 24/7]
 https://epg.pw/stream/815c97c37928443e742e9a3e7d47b4d73d55877996113e20a7a12d1121d7f9a8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes
+https://epg.pw/stream/5640f0cf555e9f9a632c31bbfe3b6b990dc1f415723a41f6613d9900329039d9.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes@@1
+https://epg.pw/stream/96cf3d6b00c2ae086d4968415651d46f4b18299dcd4185662db215939d827e61.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes 2
+https://epg.pw/stream/354d51de825569e15c916b4e605a469b6180d0c8b148782da43808a92f4c4c6d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231100902049_16.png" group-title="Sport",[BD]monterrico tv
+https://epg.pw/stream/9f407c450cc4aa274f7124877aef822c09483387f3704d8e15584e02b92797e8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231100902049_16.png" group-title="Sport",[SD]monterrico tv (1080p) [not 24/7]
 https://epg.pw/stream/561e624f662bee86b1c1569fd2a93ef13c6e267936624d6c1f016bad3a0cbfa5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231100902049_16.png" group-title="Sport",[BD]Monterrico TV (1080p) [Not 24/7]

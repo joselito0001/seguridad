@@ -1,18 +1,32 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Entertainment",[BD]abu dhabi
+https://epg.pw/stream/e55e958427221a0bb547a6e39e83d7a22c099ec3371f37d9ef60e00810e888ea.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[SD]dubai sports 2 (720p)
 https://epg.pw/stream/8ad5f54550b2fd197a2e0a2d6f2d02db9ce123f827e8abbe3ea26fac951fd65e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 1
 https://epg.pw/stream/c878d8f4f860c042238e6e22794f18df74860a0adaca2ad8835e0ae718183347.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[SD]dubai sports 3 (1080p) [not 24/7]
 https://epg.pw/stream/78f9ce73e15c1feb22d1a62051cf52faa4c0dcd73489d8d4dd9571c4757451bc.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 
+https://epg.pw/stream/5982062f3d959f5a4a6150becbd19fac60b3ccd9160ab5346b47819055703f6c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 3@@2
+https://epg.pw/stream/6c062ec9d9774d317634429fa87587c245deed9d28b44b2388b43f16c4f54738.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 2@@2
+https://epg.pw/stream/0ed5563169b00d6c5694691df141861c5a8c89e99d0269bdd132a7db8cecdd1d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[SD]dubai sports 1 (1080p)
 https://epg.pw/stream/6a7608cf10cb7c63a51e79f85138cecf3bc9bff5f39c56bc503be78cedaacb6c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]Dubai Sports 1
 https://epg.pw/stream/bdd4fad61dec02a4bd9e0ff251de4d86858d775d72aec3642b95b2815bcdef82.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 2
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[VGA]dubai sports 2
 https://epg.pw/stream/cc676aa49b204221cef6c9ff3a50f0b4af4f08f5864ac10dc97ecf78344ecbdf.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 3
 https://epg.pw/stream/1fadb13ccf9def49e8a19c01f2851b51d8c8bf8653febb21388f0eae816dbc86.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[HD]dubai sports 2@@1
+https://epg.pw/stream/b4e304c20bb8fe8a36449c6cc149af811a93f593f5090e6330f85066d84ba391.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 3@@1
+https://epg.pw/stream/5f9a9496b1d6f9e0aac99be2ca176a10b548aa2bd5c658dc6312d2dffa68050a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]dubai sports 1@@1
+https://epg.pw/stream/f601a26788b5f7296292500f87e1e8ff61d22b87fd658a0067e67e9cd1f14e5d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]Dubai Sports 2 (720p)
 https://epg.pw/stream/b04c4974e73cad4b90c010ac743c503e9aef87bfdf5df17a08594a546ba8cbb4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/dubai_sports.PNG" group-title="Sport",[BD]Dubai Sports 3 (1080p) [Not 24/7]
@@ -49,8 +63,16 @@ https://epg.pw/stream/f2540d501a269345f5aac70e34ee2e3e5c06baf469a734ff6adf571026
 https://epg.pw/stream/23e77dd94a4da08fdc535063ac3abf95a0524daf9a66720a6e08ba4de80c79bd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="Sport",[BD]Dubai Racing 2 (1080p)
 https://epg.pw/stream/fc76d9af64b13f748fe22eff20ac14b7dd818e965b6fe59eae1b24a8050cc935.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="Sport",[BD]dubai racing 2
+https://epg.pw/stream/412b5bbc90db5d678bb5c36f2e4306d6585ec087a791a1c97696929b7f60d5e5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="Sport",[SD]dubai racing 2 (1080p)
 https://epg.pw/stream/27d540fc1c904882ba5b6e1e841820094af8601daec69b97a7b872c96f70c5e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613225651926400_64.png" group-title="Sport",[HD]bein sport1 
+https://epg.pw/stream/79338509d0c762d53b2b83b1cde729f8ee44ec0c4e977b3b3b6c51d46441451e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613225651926400_64.png" group-title="Sport",[BD]bein sport 1
+https://epg.pw/stream/a8a9f0fc72535daeb370591aef3bafb39ec93cc30531785dbad50b6fae993602.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613225651926400_64.png" group-title="Sport",[BD][tr]bein sport 1 720
+https://epg.pw/stream/a3ffe7013f281da1bcbc04ff422edbe3ffc8811bb531d9097a682ec630bb70be.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174321407719_89.png" group-title="News",[SD]sky news arabia (portrait) (1280p) [not 24/7]
 https://epg.pw/stream/0f44aaf4408802cee47630bd17631f44721285b09621ecd4bee38c827406c056.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174321407719_89.png" group-title="News",[SD]sky news arabia (720p) [not 24/7]
@@ -65,6 +87,22 @@ https://epg.pw/stream/c6aced277d00c971ee4f4fc9d22d7cf5772139131f177c878a6d779bb1
 https://epg.pw/stream/c730f775db6e3904955ac508f06da8f4a95a2ff01d2efa9e73b73a4342eb9b8d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174004832702_83.png" group-title="Documentary",[BD]National Geographic Abu Dhabi (1080p)
 https://epg.pw/stream/0e7f0191408080f03e2d8b7db2bfd64bc6115d5f86814ce6bc8e60750cf89990.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022118106630_27.png" group-title="Sport",[HD]port2 htv
+https://epg.pw/stream/5c3bdf26406fce4fc5a0aebdcbe8286dce5d57ef3b2ecd81bdec63cd40aa19b7.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022118106630_27.png" group-title="Sport",[BD]port2 hd sun channel
+https://epg.pw/stream/f7052963f6a9beaef6f7d03bddc25ccf4a2edc1784af29eb93c4bfff5ba5f624.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022118106630_27.png" group-title="Sport",[HD]port2 tlc
+https://epg.pw/stream/07987114112f58cf89657c4124acce533759777b2476c6a305bf3cd8d15c581b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022118106630_27.png" group-title="Sport",[BD]port2 hd hgtv
+https://epg.pw/stream/202d2e63422b1c2587856a6274cd6eb5e1553ab40adb3ba8532afe89a6807827.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/27/20161227045244515530_13.jpg" group-title="Sport",[BD]port4 hd cartoon network
+https://epg.pw/stream/9a5d8c92926d42c2ad299a7c9dc7317defa885d317d893d49b31e8fd1574929b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/27/20161227045244515530_13.jpg" group-title="Sport",[BD]port4 hd tnt sport
+https://epg.pw/stream/7c987dd1d8e89b348875d072e4bc18667210507c41cf54126c3af0c1edb3bd00.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/27/20161227045244515530_13.jpg" group-title="Sport",[BD]port4 hd nick
+https://epg.pw/stream/6e302c1e97cedb6d2e0409cc2a0955a6d6987d961d403b4d34d23050ebc70085.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/27/20161227045244515530_13.jpg" group-title="Sport",[HD]port4 goltv
+https://epg.pw/stream/000163f741b46d348a61b83a913520e76420cf489f7c44c068b2cd28da9813ce.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229221613263067_80.png" group-title="Sport",[BD]Sport5 4k
 https://epg.pw/stream/4736a0a4043404cbe2afeb2797517dbb047425d758a5a76fc045e5270a83d08a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131130408254356_41.png" group-title="Sport",[BD]Abu Dhabi Sports
@@ -73,6 +111,8 @@ https://epg.pw/stream/1471be707ba0bcb86742a993f08a9b89e070a9d1038139988d3adef7e7
 https://epg.pw/stream/0165f0827929c21d72330fc6295793ddb0d1371a9b7d490ea1599d4caede0645.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174542887402_10.png" group-title="Sport",[BD]abu dhabi sports 2
 https://epg.pw/stream/417ac47c14854222f5575baeee61dbb0caf62bc5e9b1be04962419ff9420076d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174542887402_10.png" group-title="Sport",[HD]abu dhabi sports 2@@1
+https://epg.pw/stream/99f089a8e02ce14dd135d8b4d7332f338308e2a0b6ee3f1f02f659a60fbc5d18.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174542887402_10.png" group-title="Sport",[VGA]Abu Dhabi Sports 2
 https://epg.pw/stream/839faa2050c81c22863b82649a8dd2d84e1930f47f0ebefa8c06d4e6824f320a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174542887402_10.png" group-title="Sport",[BD]Abu Dhabi Sports 2 (1080p)
@@ -81,6 +121,8 @@ https://epg.pw/stream/1dc5058219015d5f01097eafb7bcd0bfdc82f6b2bbbdb73e29cc45f50b
 https://epg.pw/stream/03821bf8b2b218bb6a266c2eae4d1fd153242bfb7e4c158bef98c1591a328ede.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="Sport",[SD]abu dhabi sports 1 (1080p)
 https://epg.pw/stream/6de520e5734241f090c48273e5c7b2abbf7968ec2de99977e6d11d86fc1cd74e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="Sport",[HD]abu dhabi sports 1@@1
+https://epg.pw/stream/599192beef0b5f5623625d4660d26ef6bd681156f8a7807094d8d852b085155f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="Sport",[BD]Abu Dhabi Sports 1 (1080p)
 https://epg.pw/stream/11009f20c878d7f079d79fc52f91d4d0d313b60be00daefd13a4baba329209b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020346454040_66.png" group-title="Entertainment",[HD]wdr 1 live
@@ -103,14 +145,16 @@ https://epg.pw/stream/8918b922bab71cc57172182ce1967b4b1160672a7ea5ab24a5c1a0af33
 https://epg.pw/stream/17f67777aa1ba0fec1741572f3bbac53c99c5393c5cc50a6f209bf1c0c76a08b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173756499525_90.png" group-title="Entertainment",[BD]30A Music
 https://epg.pw/stream/2e4dd2a3a89a18cfd2f26b346a43116dd85b83b73fc0262c68e4574c3c7ac0bc.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173756499525_90.png" group-title="Entertainment",[BD]30a music
-https://epg.pw/stream/717f87876d2c123b17982a16d26d9142eaa0cc224ec8e5b9eee9d6faef4bdfab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173756499525_90.png" group-title="Entertainment",[SD]30a music (720p)
 https://epg.pw/stream/56793bd2f8bb79edaccb8b57d2a445623e381285d38b6a962a6d62f32064853a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/24/20140824074614409407_35.jpg" group-title="Cartoon",[BD][伊朗]hodhod tv
+https://epg.pw/stream/ef077482ab5646e4da594a22742f20ae9e187853186760afd5d5e32ba477e138.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/24/20140824074614409407_35.jpg" group-title="Cartoon",[HD]hodhod tv (720p)
 https://epg.pw/stream/6c93856bffefd7bc6a03d0dad4a756c7b883b35c0edbdcddc1a81ae238bb8e42.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175052621859_74.png" group-title="Generic",[BD]Wanasah (1080p)
 https://epg.pw/stream/d7f037d46a813b93d508aea357863924a7402742cfce9d8e1748bf7819dc39bb.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827103809082974_97.jpg" group-title="News",[BD]ma: medi1 tv arabia hd
+https://epg.pw/stream/a1971331c19f8618e56ca12c250707bd1e5037cd8c4251723eb95505d12647de.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827103809082974_97.jpg" group-title="News",[BD]DW-TV 4K
 https://epg.pw/stream/6edab15acde24991f1d23bceca570f571da597304e522c77b941ec73ca8ab710.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/04/20140904103652422802_49.jpg" group-title="Generic",[SD]SCOP-405
@@ -151,18 +195,110 @@ https://epg.pw/stream/7d56e4af58c8440965f7880ca60c84af7183cb40f71da7517a0a6b548e
 https://epg.pw/stream/f99400d82e6b7d68037eac999ff691e8dca560992de816390d2cbd3376fb5d03.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/14/20140914051150356370_70.jpg" group-title="News",[HD]TNN 16
 https://epg.pw/stream/f970c5ddb6f6fc2f655a31ef2ccd2c731e21ff04f67962880403de98e2b35d8d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr |  boss movies 5 hd
+https://epg.pw/stream/a612288459d7a6321f3fba2783053366de1c3bec37f73e6d5a7e2a60b6b4d458.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: moovie aksiyon 2 hd
+https://epg.pw/stream/92a98647c3fc0113b21e9d4eaea0bbf8cc9b6f9c12f8340584e65e2f9195a344.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkasat korku 1 hd
+https://epg.pw/stream/50ce54066445a026dd986ba4024cb0a010a0af88aad0ded176bf143d1b9ed989.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkamax salon 4 hd
+https://epg.pw/stream/d1497170d7e94e9d59af5fcf1428ce1170f308282a84a4168c09d24ab65f0110.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr | bein box office 1 hd
+https://epg.pw/stream/a1d6dc35dfaeb5bd7ea75b843ad05f603fe9ece43aba7619349cb9a4ffed1a5a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[SD]trt@@1
+https://epg.pw/stream/7b8bcfb3630f6d8cac7c0d8f94f210df8a618c899581da18041fe4c120d26728.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]TRT2@@1
 https://epg.pw/stream/3c3c58189b82ce026cbc63cfe2d0782cbea0c78052dad262fd5bb550de552546.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: moovie turk 2 hd
+https://epg.pw/stream/acfbd2d43085ef3b9f14465a62756636e9d93c07b481ad2d8c1647be6e18f509.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkamax salon 1 hd
+https://epg.pw/stream/3a117a35028bc526e839191b466de347fd96d6891fa146aa0be09ba9a5108c1e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: cine kemal sunal 1 hd
+https://epg.pw/stream/3debab4dd5b399c8397ad5b58b1f5b8259965c6daa155508681edc1ed5def815.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkamax salon 5 hd
+https://epg.pw/stream/35ee594dc28de420160a463d3a1aff0530e91be11dbb94675717f4afae969b7e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkamax salon 2 hd
+https://epg.pw/stream/f65e9f9882dc664b72e76bca4715e0e9cd3f0f2f8c74475d90bc30430f1bd9f2.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr | bein box office 3 hd
+https://epg.pw/stream/257eeab1ecb865d78e2af6ea4aeb03e0bc8cf859753605bd5eacd7f20797762f.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkamax salon 3 hd
+https://epg.pw/stream/1ea98b4c7c2a04444f84bf6dd0443b5287f2c102e8dc247af3378469c3324115.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr  sinema tv komedi 1 hd
+https://epg.pw/stream/3e25645d30570fc6f73cbdc17078605771c5f56a441974138cc9cee7842a6f9c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: luxtv cocuk 1 hd
+https://epg.pw/stream/126e480afbac179efa5199b5415edd7515d39ab854a2387e13cd16cfa2068a72.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr |  boss movies 2 hd
+https://epg.pw/stream/e2f9c56d24b09d446147e405792e428b83004888a5127b346a03b927aaeb963d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr | boss movies 8 hd
+https://epg.pw/stream/3368eea4318fc3d53dad28a8980e4c7c9ba7dea3ab9b39f2b297c85d3d515a42.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: mooviehd korku 2 hd
+https://epg.pw/stream/861596cf6b4be19fdfd443f57d16a76c40c67a31b4faf2c06cba684159bda495.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: moovie turk 3 hd
+https://epg.pw/stream/d43952ae6ba58ae8e6b7f9a5705dd1de35d086c5e420c9bc5cc55035ccaa52c1.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr | boss movies 10 hd
+https://epg.pw/stream/d3f563ef126654ce325966972f03b9b2ef2ffb2e5ba51423af728493ec57f15b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkasat bilim kurgu 2 hd
+https://epg.pw/stream/b2d4448c07612baaef11029d227f29641aa4b3c480b04a21e69cad27cb66340b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkasat komedi 2 hd
+https://epg.pw/stream/68c6699cae0a5c69f17a67185f97a538271190bdd497eac98a968b683558c384.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr  sinema tv aile 2 hd
+https://epg.pw/stream/e578fce904d430235340698743443a1aecac57a4a35888f7be07a27e6c050d05.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[SD]trt 2 [geo-blocked]
 https://epg.pw/stream/367becc7adc6fbff5933bd73c167457fe3a4610bc73d3203a78f98b0685ac5ec.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: luxtv cocuk 2 hd
+https://epg.pw/stream/687f83dc55df3ed4d72766b5d634cdead93ff1b32498713d1489587bd6293fcc.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: boss movies 10 hd
+https://epg.pw/stream/5921b7985843d3dba07b1a3be6f2ba68f7de67e577dde5d3c545852187fb205b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]tr: boss movies 4 hd
+https://epg.pw/stream/2143a390afe0eb948e8f4b6e0087a56d562151aede6d2a4f0b024a7b9504bae3.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]tr: boss movies 7 hd
+https://epg.pw/stream/513d22147522a0b6566fa38e9f25c4a117e1da87c731f00ea7b6efc865a14a46.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: boss movies 9 hd
+https://epg.pw/stream/a9883b201a135dee22a702bdfa44af0dca5574ea0b4e30c33facec9559424f04.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr : bein sports 1 hd
+https://epg.pw/stream/b406fb76e37164ae472b73562a2a7fd6372c06fd9eaea68852dd8288767a7adf.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]tr: boss movies 6 hd
+https://epg.pw/stream/d13a7f513de3b145fd4bcf98762560757e16b1ca5bf63eeda682cf828fc8907b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkasat turk 1 hd
+https://epg.pw/stream/2057aeb0938ec07e8bfc77db57c85285c0e2322fcb954dd0cc82d7c171632366.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: moovie aksiyon 1 hd
+https://epg.pw/stream/095de62e4d79e69cb8075b720817f4e1a02b0a0f9e6d19a761ca9d0fc99fbc57.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkasat animasyon 1 hd
+https://epg.pw/stream/e2ff8881a20dafb10a5da5156a80fbbd5200b3a97b18fa5537084b8249e63c0a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]tr: primebox aksiyon 1 hd
+https://epg.pw/stream/d4b49584c53638d9f13949375bd36210e633493afc45c6367fee134e7a78c970.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]TRT 2 [Geo-blocked]
 https://epg.pw/stream/23cf59e7dfcafd493ce032565a0debf8442e5a80abff331d629286cdbdfa0e29.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: boss movies 5 hd
+https://epg.pw/stream/78991bcfd2fe07eb61a643736a9b550cb5ace63df7eea827f5503c2ceb443b93.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr | sinema tv 1001 hd
+https://epg.pw/stream/8ce0ccd681791cd3c5bf8c29f6aef0fc6afe7ac74f09a172bf7c91b6eda2ee6b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: primebox turk 2 hd
+https://epg.pw/stream/b2508a5e0711dceb996fe28944b321f7545c9c64b5eec7cfd5f8121d2f5e2bd5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]tr: primebox aksiyon 2 hd
+https://epg.pw/stream/6942a72216084c559d217b4e983f3a44a1189ff075c40f3e4bf6603482651cbe.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: boss movies 2 hd
+https://epg.pw/stream/41095fdec567f36ed0b8cfcacf0d13e748a43cd53cad14a45b71aade7316e61e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]tr: boss movies 3 hd
+https://epg.pw/stream/ec92a3ced6b6d56ad1d5ca2f8d41748546bd8cb0639fbe0e8e92d341183cfd25.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[HD]tr: boss movies 8 hd
+https://epg.pw/stream/d844a4c564a9172b372395dd97d18babd47f0692b6dddc0b049b78ae07b4b66c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr sinema tv aksiyon 1 hd
+https://epg.pw/stream/855545950433e62b08a272361d5ab1fea0fa97ae57c804b4761539ee870ffa61.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]trt
+https://epg.pw/stream/20116a90124a5952ae8dac83f889f24e19707a2b129f1c6d6bcc5a8f877559be.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr: turkamax salon 7 hd
+https://epg.pw/stream/4a9b6e4cb1813f98bd757408ffd318e0d9749189a162ac6d09ba0217dbd43068.ctv
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020305473686_74.png" group-title="News",[BD]tr | boss movies 6 hd
+https://epg.pw/stream/ed7530111266634b4d86a2b29e0149d3a9f54161571cb1cfadfe87457b762903.ctv
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/21/20141221220141519874_75.jpg" group-title="Movie",[SD]zee alwan (720p) [not 24/7]
 https://epg.pw/stream/7163f9ead10a498e3b2e58314187d4c2e494d8def2147779115c52a5365d795e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/21/20141221220141519874_75.jpg" group-title="Movie",[HD]Zee Alwan (720p) [Not 24/7]
 https://epg.pw/stream/a45c56c2960873719484f5f2cf2db91922d0a57727f7a3d245ff32baab70bfbd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="Sport",[SD]dubai racing 3 (1080p)
 https://epg.pw/stream/74768c87717d3fc01cc80ef3bb8b87d0754abaa4f0940183fa4d4498ac0f5cee.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="Sport",[BD]dubai racing 3
+https://epg.pw/stream/a4503027687dea1eaa220f36934a71396ec4c0a59ea754df04ed5b2852b10bf6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="Sport",[SD]dubai racing (1080p)
 https://epg.pw/stream/cbb82e01c891f5bd6c37417a318c4e95539ce35cc70033abb7e001886ff5bb1d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="Sport",[BD]Dubai Racing 3 (1080p)
@@ -179,13 +315,19 @@ https://epg.pw/stream/79bca21b426807414c1d3e31f2514e066ee06c9854269be8981177585e
 https://epg.pw/stream/eb3c7a303c4fd779201189e7986506489375f7b27a0c039719251e0cfbb64a23.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173954186806_56.png" group-title="Entertainment",[SD]dubai one (1080p)
 https://epg.pw/stream/a81b9a4d75a6dd0795c0c05cec1cc78d4047af67d82b25dc62997ad69acdb4b8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173954186806_56.png" group-title="Entertainment",[BD]dubai one
+https://epg.pw/stream/05981adc0e916ff7b69e2f01ef9793271a5e4c641879d5afcaa988bd409da5f1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173954186806_56.png" group-title="Entertainment",[BD]Dubai One (1080p)
 https://epg.pw/stream/a6d26df9104add922e8efa53ec52265aad8e3c97c39a2dd8b30d88ef7bb45c2a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173954186806_56.png" group-title="Entertainment",[BD]Dubai One (English)
 https://epg.pw/stream/1ba54ac5be8d0115d3f86076f1416a28f53066bbc37c2d6c5a23dc95450b9b89.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173954186806_56.png" group-title="Entertainment",[BD]Dubai One
 https://epg.pw/stream/e749c97a0cb7e5e7156284759298bfafa8390e9535ff7cd0b177221b7fb50f46.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/09/22/large/20220922235748591008_90.jpg" group-title="Cartoon",[HD]cartoon network ar
+https://epg.pw/stream/fe627c787d97646a52ba410791760473d8548d9dcd85fbde7d635f9b6fe39130.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717053100536480_21.png" group-title="Sport",[BD]ABU DHABI SPORT 2 HD
 https://epg.pw/stream/46245af9db9e273402f89af80b48afe729d164babaae91cb328db1319b0e73f8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173835263081_58.png" group-title="Generic",[BD]Dubai Zaman (UAE)
 https://epg.pw/stream/a5f282fba387fff8241769b54c274667e5793c4873a93efa5df78e9259a8658d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173835263081_58.png" group-title="Generic",[BD]dubai zaman
+https://epg.pw/stream/678aa8048f1ffcae04a56aa8128b9b7b98063630bc83f401558b8568ea303df9.m3u8
