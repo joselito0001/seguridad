@@ -95,7 +95,7 @@ def download_xmltv_files():
 
 def download_files():
     print("start to download the xmltv")
-    # download_xmltv_files()
+    download_xmltv_files()
     print("start to download the m3u")
     download_m3u_files()
 
