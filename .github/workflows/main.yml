@@ -24,7 +24,7 @@ jobs:
           command: run build
       - name: Commit and push if changed   # 更新README.md
         run: |
-          git diff
+         # git diff
           git config --global user.email "pendy99@gmx.com"
           git config --global user.name "pendy99"
           git add README.md
