@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20230213051002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_JP.xml">
+  <channel id="41683">
+    <display-name lang="JP">Movie Plus</display-name>
+  </channel>
+  <channel id="41728">
+    <display-name lang="JP">Nihon Eiga Senmon Channel</display-name>
+  </channel>
+  <channel id="41729">
+    <display-name lang="JP">Midnight Blue</display-name>
+  </channel>
+  <channel id="41730">
+    <display-name lang="JP">Wowow 4K</display-name>
+  </channel>
+  <channel id="41731">
+    <display-name lang="JP">Star 3</display-name>
+  </channel>
+  <channel id="41732">
+    <display-name lang="JP">JODX-DTV</display-name>
+  </channel>
+  <channel id="41733">
+    <display-name lang="JP">Disney Junior Japan</display-name>
+  </channel>
+  <channel id="41734">
+    <display-name lang="JP">Entermei Tele</display-name>
+  </channel>
+  <channel id="41735">
+    <display-name lang="JP">Green Channel</display-name>
+  </channel>
+  <channel id="41736">
+    <display-name lang="JP">J Sports 4</display-name>
+  </channel>
+  <channel id="41737">
+    <display-name lang="JP">Animax</display-name>
+  </channel>
+  <channel id="41738">
+    <display-name lang="JP">Star 2</display-name>
+  </channel>
+  <channel id="41739">
+    <display-name lang="JP">JOTX-DTV</display-name>
+  </channel>
+  <channel id="41740">
+    <display-name lang="JP">J:COM TV</display-name>
+  </channel>
+  <channel id="41741">
+    <display-name lang="JP">JOAY-DTV</display-name>
+  </channel>
+  <channel id="41742">
+    <display-name lang="JP">Cable 4K</display-name>
+  </channel>
+  <channel id="41743">
+    <display-name lang="JP">AT-X</display-name>
+  </channel>
+  <channel id="41744">
+    <display-name lang="JP">BS Nippon TV</display-name>
+  </channel>
+  <channel id="41745">
+    <display-name lang="JP">NHK BS4K</display-name>
+  </channel>
+  <channel id="41746">
+    <display-name lang="JP">J Sports 1</display-name>
+  </channel>
+  <channel id="41747">
+    <display-name lang="JP">J:COM Premier Channel</display-name>
+  </channel>
+  <channel id="41748">
+    <display-name lang="JP">Fighting TV Samurai!</display-name>
+  </channel>
+  <channel id="41749">
+    <display-name lang="JP">Kayo Pops</display-name>
+  </channel>
+  <channel id="41750">
+    <display-name lang="JP">TV Osaka</display-name>
+  </channel>
+  <channel id="41751">
+    <display-name lang="JP">Jidaigeki Senmon Channel</display-name>
+  </channel>
+  <channel id="41752">
+    <display-name lang="JP">TV Kanagawa</display-name>
+  </channel>
+  <channel id="41753">
+    <display-name lang="JP">Dance Channel</display-name>
+  </channel>
+  <channel id="41754">
+    <display-name lang="JP">WOWOW Prime</display-name>
+  </channel>
+  <channel id="41755">
+    <display-name lang="JP">NHK General TV</display-name>
+  </channel>
+  <channel id="41756">
+    <display-name lang="JP">Music Air</display-name>
+  </channel>
+  <channel id="41757">
+    <display-name lang="JP">Wowow Plus</display-name>
+  </channel>
+  <channel id="41758">
+    <display-name lang="JP">CCTV Daifu</display-name>
+  </channel>
+  <channel id="41759">
+    <display-name lang="JP">Sports Live +</display-name>
+  </channel>
+  <channel id="41760">
+    <display-name lang="JP">JOIX-DTV</display-name>
+  </channel>
+  <channel id="41761">
+    <display-name lang="JP">J:COM Higashi Kanto</display-name>
+  </channel>
+  <channel id="41762">
+    <display-name lang="JP">WOWOW Live</display-name>
+  </channel>
+  <channel id="41763">
+    <display-name lang="JP">JORX-DTV</display-name>
+  </channel>
+  <channel id="41764">
+    <display-name lang="JP">JOCX-DTV</display-name>
+  </channel>
+  <channel id="41765">
+    <display-name lang="JP">BS Asahi 4K</display-name>
+  </channel>
+  <channel id="41766">
+    <display-name lang="JP">NHK BS Premium</display-name>
+  </channel>
+  <channel id="41767">
+    <display-name lang="JP">WOWOW Cinema</display-name>
+  </channel>
+  <channel id="41768">
+    <display-name lang="JP">National Geographic Japan</display-name>
+  </channel>
+  <channel id="41769">
+    <display-name lang="JP">TBS News</display-name>
+  </channel>
+  <channel id="41770">
+    <display-name lang="JP">PPV Choice 941</display-name>
+  </channel>
+  <channel id="41771">
+    <display-name lang="JP">Fishing Vision</display-name>
+  </channel>
+  <channel id="41772">
+    <display-name lang="JP">Star 1</display-name>
+  </channel>
+  <channel id="41773">
+    <display-name lang="JP">NHK Educational TV</display-name>
+  </channel>
+  <channel id="41774">
+    <display-name lang="JP">BS 12</display-name>
+  </channel>
+  <channel id="41775">
+    <display-name lang="JP">Eisei Gekijo</display-name>
+  </channel>
+  <channel id="41776">
+    <display-name lang="JP">Family Gekijyo</display-name>
+  </channel>
+  <channel id="41777">
+    <display-name lang="JP">Fox Japan</display-name>
+  </channel>
+  <channel id="41778">
+    <display-name lang="JP">Channel Neco</display-name>
+  </channel>
+  <channel id="41779">
+    <display-name lang="JP">TV Saitama</display-name>
+  </channel>
+  <channel id="41780">
+    <display-name lang="JP">Channel Ginga</display-name>
+  </channel>
+  <channel id="41781">
+    <display-name lang="JP">BS Shochiku Tokyu</display-name>
+  </channel>
+  <channel id="41782">
+    <display-name lang="JP">Nittele G+</display-name>
+  </channel>
+  <channel id="41783">
+    <display-name lang="JP">Golf Network</display-name>
+  </channel>
+  <channel id="41784">
+    <display-name lang="JP">Toei Channel</display-name>
+  </channel>
+  <channel id="41662">
+    <display-name lang="JP">NHK BS1</display-name>
+  </channel>
+  <channel id="41663">
+    <display-name lang="JP">Nittele Plus</display-name>
+  </channel>
+  <channel id="41664">
+    <display-name lang="JP">Home Drama Channel</display-name>
+  </channel>
+  <channel id="41665">
+    <display-name lang="JP">KNTV</display-name>
+  </channel>
+  <channel id="41666">
+    <display-name lang="JP">TV Asahi Channel 1</display-name>
+  </channel>
+  <channel id="41667">
+    <display-name lang="JP">TBS Channel 1</display-name>
+  </channel>
+  <channel id="41668">
+    <display-name lang="JP">TBS Channel 2</display-name>
+  </channel>
+  <channel id="41669">
+    <display-name lang="JP">Fuji TV Two</display-name>
+  </channel>
+  <channel id="41670">
+    <display-name lang="JP">PPV Choice 940</display-name>
+  </channel>
+  <channel id="41671">
+    <display-name lang="JP">Fuji TV One</display-name>
+  </channel>
+  <channel id="41672">
+    <display-name lang="JP">BS Yoshimoto</display-name>
+  </channel>
+  <channel id="41673">
+    <display-name lang="JP">Red Cherry</display-name>
+  </channel>
+  <channel id="41674">
+    <display-name lang="JP">BS 11</display-name>
+  </channel>
+  <channel id="41675">
+    <display-name lang="JP">JOBR-DTV</display-name>
+  </channel>
+  <channel id="41676">
+    <display-name lang="JP">JOUH-DTV</display-name>
+  </channel>
+  <channel id="41677">
+    <display-name lang="JP">Space Shower TV Plus</display-name>
+  </channel>
+  <channel id="41678">
+    <display-name lang="JP">BS Nippon TV 4K</display-name>
+  </channel>
+  <channel id="41679">
+    <display-name lang="JP">Yose Channel</display-name>
+  </channel>
+  <channel id="41680">
+    <display-name lang="JP">TV Asahi Channel 2</display-name>
+  </channel>
+  <channel id="41681">
+    <display-name lang="JP">Gaora Sports</display-name>
+  </channel>
+  <channel id="41682">
+    <display-name lang="JP">JLC</display-name>
+  </channel>
+  <channel id="41684">
+    <display-name lang="JP">Paradise TV</display-name>
+  </channel>
+  <channel id="41685">
+    <display-name lang="JP">Speed Channel 1</display-name>
+  </channel>
+  <channel id="41686">
+    <display-name lang="JP">Fuji TV Next</display-name>
+  </channel>
+  <channel id="41687">
+    <display-name lang="JP">NTV News 24</display-name>
+  </channel>
+  <channel id="41688">
+    <display-name lang="JP">KBS World Japan</display-name>
+  </channel>
+  <channel id="41689">
+    <display-name lang="JP">BS Fuji</display-name>
+  </channel>
+  <channel id="41690">
+    <display-name lang="JP">JOMX-DTV</display-name>
+  </channel>
+  <channel id="41691">
+    <display-name lang="JP">Green Channel 2</display-name>
+  </channel>
+  <channel id="41692">
+    <display-name lang="JP">JOOY-DTV</display-name>
+  </channel>
+  <channel id="41693">
+    <display-name lang="JP">BS TV Tokyo</display-name>
+  </channel>
+  <channel id="41694">
+    <display-name lang="JP">LaLa TV</display-name>
+  </channel>
+  <channel id="41695">
+    <display-name lang="JP">Animal Planet Japan</display-name>
+  </channel>
+  <channel id="41696">
+    <display-name lang="JP">Kids Station</display-name>
+  </channel>
+  <channel id="41697">
+    <display-name lang="JP">Mnet Japan</display-name>
+  </channel>
+  <channel id="41698">
+    <display-name lang="JP">Nihon Jidai 4K</display-name>
+  </channel>
+  <channel id="41699">
+    <display-name lang="JP">History Japan</display-name>
+  </channel>
+  <channel id="41700">
+    <display-name lang="JP">BS TV Tokyo 4K</display-name>
+  </channel>
+  <channel id="41701">
+    <display-name lang="JP">TABI Channel</display-name>
+  </channel>
+  <channel id="41702">
+    <display-name lang="JP">Super! Drama TV</display-name>
+  </channel>
+  <channel id="41703">
+    <display-name lang="JP">BS-TBS 4K</display-name>
+  </channel>
+  <channel id="41704">
+    <display-name lang="JP">J Sports 2</display-name>
+  </channel>
+  <channel id="41705">
+    <display-name lang="JP">V Paradise</display-name>
+  </channel>
+  <channel id="41706">
+    <display-name lang="JP">AXN Japan</display-name>
+  </channel>
+  <channel id="41707">
+    <display-name lang="JP">Igo Shogi Channel</display-name>
+  </channel>
+  <channel id="41708">
+    <display-name lang="JP">TV5Monde Pacific</display-name>
+  </channel>
+  <channel id="41709">
+    <display-name lang="JP">Music On! TV</display-name>
+  </channel>
+  <channel id="41710">
+    <display-name lang="JP">Discovery Channel Japan</display-name>
+  </channel>
+  <channel id="41711">
+    <display-name lang="JP">Sky A</display-name>
+  </channel>
+  <channel id="41712">
+    <display-name lang="JP">The Cinema</display-name>
+  </channel>
+  <channel id="41713">
+    <display-name lang="JP">CNNj</display-name>
+  </channel>
+  <channel id="41714">
+    <display-name lang="JP">TV Asahi</display-name>
+  </channel>
+  <channel id="41715">
+    <display-name lang="JP">Playboy Channel</display-name>
+  </channel>
+  <channel id="41716">
+    <display-name lang="JP">Disney Channel Japan</display-name>
+  </channel>
+  <channel id="41717">
+    <display-name lang="JP">Asia Dramatic TV</display-name>
+  </channel>
+  <channel id="41718">
+    <display-name lang="JP">The Cinema 4K</display-name>
+  </channel>
+  <channel id="41719">
+    <display-name lang="JP">Cartoon Network Japan</display-name>
+  </channel>
+  <channel id="41720">
+    <display-name lang="JP">BS-TBS</display-name>
+  </channel>
+  <channel id="41721">
+    <display-name lang="JP">QVC Japan</display-name>
+  </channel>
+  <channel id="41722">
+    <display-name lang="JP">BS Asahi</display-name>
+  </channel>
+  <channel id="41723">
+    <display-name lang="JP">BS Fuji 4K</display-name>
+  </channel>
+  <channel id="41724">
+    <display-name lang="JP">Star BS10</display-name>
+  </channel>
+  <channel id="41725">
+    <display-name lang="JP">J Sports 3</display-name>
+  </channel>
+  <channel id="41726">
+    <display-name lang="JP">Takarazuka Sky Stage</display-name>
+  </channel>
+  <channel id="41727">
+    <display-name lang="JP">Shop Channel</display-name>
+  </channel>
+  <programme channel="41683" start="20230213003000 +0000" stop="20230213033000 +0000">
+    <title lang="zh">Movie</title>
+    <date>20230213</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="41683" start="20230213033000 +0000" stop="20230213063000 +0000">
+    <title lang="zh">Movie</title>
+    <date>20230213</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="41683" start="20230213063000 +0000" stop="20230213093000 +0000">
+    <title lang="zh">Movie</title>
+    <date>20230213</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="41683" start="20230213093000 +0000" stop="20230213123000 +0000">
+    <title lang="zh">Movie</title>
+    <date>20230213</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="41683" start="20230213123000 +0000" stop="20230213153000 +0000">
+    <title lang="zh">Movie</title>
+    <date>20230213</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="41683" start="20230213153000 +0000" stop="20230214000000 +0000">
+    <title lang="zh">Movie</title>
+    <date>20230213</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>
