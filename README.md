@@ -9,6 +9,8 @@ All EPG and m3u are from [https://epg.pw](https://epg.pw) website. This is just 
 
 [ALL/全部](https://epg.pw/xmltv/epg.xml)
 
+[LITE/精简](https://epg.pw/xmltv/epg_lite.xml)
+
 [Australia epg](https://epg.pw/xmltv/epg_AU.xml)
 
 [Brazil epg](https://epg.pw/xmltv/epg_BR.xml)
