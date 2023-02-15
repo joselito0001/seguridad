@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="3119" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[VGA]cna (chaîne nord africaine) (360p) [not 24/7]
 https://epg.pw/stream/65ec0edb306c3b86b5d42c16d3148c60777e564f0ec22ef5b79fd882dbd1e084.m3u8
+#EXTINF:-1 tvg-id="3119" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]cna@@2
+https://epg.pw/stream/07f1459c880f09090d787d89da555c56252df56337bfa44e3b405a9891fdef65.ctv
 #EXTINF:-1 tvg-id="3119" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[VGA]cna@@3
 https://epg.pw/stream/8bd1ca9208297da8ad277d747dc399a90273bab921c24095f8e34916286d0acc.ctv
 #EXTINF:-1 tvg-id="3119" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]CNA@@1
@@ -39,6 +41,8 @@ https://epg.pw/stream/050bf7ac8d82d90315c1a1906ac5ab40e636911da9e7a5c91c382bb795
 https://epg.pw/stream/471ead7963a07b199dd1d0b3bee3c517636bb9528f856c3ef3d9e5298124927a.m3u8
 #EXTINF:-1 tvg-id="3413" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[SD]HITS (576p) [Geo-blocked]
 https://epg.pw/stream/cbee114700ec9e171a355d54c764e9003b78af6cbd1438ca9568492d68ad15c1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]hits movies
+https://epg.pw/stream/a4c13dc9b11937dd9c6dfa2a940103f75e934623a6d9f7b6d80c892ad4fd3a03.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[BD]hits movies@@1
 https://epg.pw/stream/a68b013350a3c4086ad858d416bc42bed933d1fb2255dffaa8bd3b37817d3607.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/kix_1.jpg" group-title="Movie",[VGA]kix@@2

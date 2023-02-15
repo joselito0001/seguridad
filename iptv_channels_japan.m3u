@@ -7,6 +7,8 @@ https://epg.pw/stream/731fd0895ae937096fa84621ae596dcb63032a9b18bff818844106f69c
 https://epg.pw/stream/84dad25fd6e81b068e9473d142cbb376cbe6c94375c007ad2d8d51da9bc6cc01.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506230921485347_28.jpg" group-title="Cartoon",[HD]Animax HD
 https://epg.pw/stream/36395412eb53321ae871129e4f309b4c1df6a480b175803b9be0b2c1d1c3305d.m3u8
+#EXTINF:-1 tvg-id="7455" tvg-country="Japan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="Cartoon",[BD]animax@@5
+https://epg.pw/stream/eb01aafde23618c4e961240aa9d86d8769e6c6340c42133c387321ab3f2aa553.ctv
 #EXTINF:-1 tvg-id="7455" tvg-country="Japan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="Cartoon",[HD]animax@@2
 https://epg.pw/stream/f64de1e6350b41d694405c6d1839f66582d0aadad7e01885f654f6e937877bed.ctv
 #EXTINF:-1 tvg-id="7455" tvg-country="Japan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="Cartoon",[HD]animax@@3
@@ -329,10 +331,6 @@ https://epg.pw/stream/d3dcf950bb5907b02cc169fab2182270581c4a4ebdecff31f3502f6df8
 https://epg.pw/stream/521aa322435f17a3cd5a8572bf69bb2058c5561a9cb210f78480edd84e66c668.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021050569119_37.png" group-title="News",[HD]Gunma TV (720p)
 https://epg.pw/stream/7db0b656a835a8641c8b957d0f35f73ecf74587f03bbd53235581b259d7343eb.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021130997620_74.png" group-title="Movie",[HD]日本映画
-https://epg.pw/stream/f23b62bd0d7ce52ddac7867c22afb0f5f7149032c0b087353f6a7214394672ce.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021130997620_74.png" group-title="Movie",[SD]日本映画
-https://epg.pw/stream/6f3bbb67f887fc8f8c3cafd22f31b1c1f41ed3109150f82736e1c7dd31af71f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022109896337_87.png" group-title="Entertainment",[VGA]tv asahi (480p)
 https://epg.pw/stream/9486f8383b288c2f38a04fd0a25751b7a30c255685d671573860555a44a65fbf.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513160826666905_86.jpg" group-title="Generic",[SD]nippon tv [not 24/7]
@@ -367,8 +365,12 @@ https://epg.pw/stream/047086b9d3076c0ecb4427a4bf0b01b3824d32e8bfc1ecfa0abbbc5e2c
 https://epg.pw/stream/0f630fb9f7582b482f7b7e251d70843e22f1137f7d1ce9ee58dca7b3ab8d1809.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="Cartoon",[SD]ANIPLUS
 https://epg.pw/stream/3eefe9a3e9005c2c2e032819373c4d03abea9aa89ed184d91871923ab101a31e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="Cartoon",[HD]aniplus@@2
+https://epg.pw/stream/2f28ea590e6efa0d992dac82adb0904b464e0371e1a4918d48e59e7b2fe38a2b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="Cartoon",[SD]aniplus hd@@1
 https://epg.pw/stream/d8b6a76fed9cc970b57532ec937edd998d978306007f3fafc27d27af89dd4a3e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="Cartoon",[HD]aniplus
+https://epg.pw/stream/daff6ceefcb7f5d57eae2de142a382c1aae6d9e303c491d1f4d90bc0e90294c7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="Cartoon",[SD]aniplus (indonesian subtitle) (576p) [geo-blocked]
 https://epg.pw/stream/564e3bd6bd61c9907a278ee143d83988dc7a74aa757dd114148cf58257b2485b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="Cartoon",[VGA]aniplus@@1
@@ -377,3 +379,7 @@ https://epg.pw/stream/e59e711f85c12a5225f42e1475c9d69646917fa8334df8b6d7639240ea
 https://epg.pw/stream/28ca97d5e9ba42ef7e29594c72748728410f89deba3e8beb4867d1421de96c49.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="Cartoon",[SD]Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
 https://epg.pw/stream/e6f30acbc256afbc00d2e25235045a249d52e71a7ed16ee4bd1bb1f0b5ffa627.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021130997620_74.png" group-title="Movie",[HD]日本映画
+https://epg.pw/stream/f23b62bd0d7ce52ddac7867c22afb0f5f7149032c0b087353f6a7214394672ce.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021130997620_74.png" group-title="Movie",[SD]日本映画
+https://epg.pw/stream/6f3bbb67f887fc8f8c3cafd22f31b1c1f41ed3109150f82736e1c7dd31af71f6.m3u8

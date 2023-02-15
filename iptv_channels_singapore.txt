@@ -11,8 +11,10 @@
 
 
 [VGA]cna (chaîne nord africaine) (360p) [not 24/7],https://epg.pw/stream/65ec0edb306c3b86b5d42c16d3148c60777e564f0ec22ef5b79fd882dbd1e084.m3u8
+[HD]cna@@2,https://epg.pw/stream/07f1459c880f09090d787d89da555c56252df56337bfa44e3b405a9891fdef65.ctv
 [VGA]cna@@3,https://epg.pw/stream/8bd1ca9208297da8ad277d747dc399a90273bab921c24095f8e34916286d0acc.ctv
 [BD]CNA@@1,https://epg.pw/stream/e75d5813caf23741262a05fe4e3d1a0a92afb8967c4ea6ed62b8af216a466279.ctv
+[BD]cna,https://epg.pw/stream/86839c6709a7b57c9642737a5f55ec18dd13d2e91bbdd64478185f8489d0de7d.m3u8
 [SD]CNA@@3,https://epg.pw/stream/e47f8dae7762f3c9f0f9e0c4f6e7bd8d2ef990a0b5ec07101a7124f3e53a49ab.m3u8
 [VGA]CNA@@1,https://epg.pw/stream/fd94d9a7a5aec3349a3bae84075d45fce7faba4abf77cd6731630dfe7d4f0bb6.ctv
 [BD]cna@@1,https://epg.pw/stream/1d6928ea32ae290a82377762739366dd92e8c097b4e3c4da52659ea16e7badc1.m3u8
@@ -29,6 +31,7 @@
 [BD]hits hd,https://epg.pw/stream/050bf7ac8d82d90315c1a1906ac5ab40e636911da9e7a5c91c382bb7952ee8c1.ctv
 [SD]hits (576p) [geo-blocked],https://epg.pw/stream/471ead7963a07b199dd1d0b3bee3c517636bb9528f856c3ef3d9e5298124927a.m3u8
 [SD]HITS (576p) [Geo-blocked],https://epg.pw/stream/cbee114700ec9e171a355d54c764e9003b78af6cbd1438ca9568492d68ad15c1.m3u8
+[HD]hits movies,https://epg.pw/stream/a4c13dc9b11937dd9c6dfa2a940103f75e934623a6d9f7b6d80c892ad4fd3a03.m3u8
 [BD]hits movies@@1,https://epg.pw/stream/a68b013350a3c4086ad858d416bc42bed933d1fb2255dffaa8bd3b37817d3607.ctv
 [VGA]kix@@2,https://epg.pw/stream/6dc20f3f4070b641dc7f9626a35c489fd4dcec4e2350243285fd264921315957.ctv
 [VGA]kix,https://epg.pw/stream/f07400f510384060de9e89803cfc2533d0ae7739900fcdae41f73f2c55d28348.ctv
@@ -53,12 +56,14 @@
 [BD]Channel8,https://epg.pw/stream/41b93d99aaef112d81c0646c4916a7703836d868c7f59ca7397109a2e4d79597.m3u8
 [HD]cinema world,https://epg.pw/stream/7c3757095735e8ae2c0e7d84f8baf10accdf26823b362f186c4d04528d300858.ctv
 [HD]cinema world (text indonesia),https://epg.pw/stream/75cb8838d09828f61395b2c9aeb9fda7a6e346b4e5fe3df74e1aa2225e443f1b.m3u8
+[VGA]cinema world@@1,https://epg.pw/stream/72ec2bbb78256c6c596e51763d227bb2cfeda512609cf61c20a8b2328ea3ecec.m3u8
 [BD]axn hd (lat)*,https://epg.pw/stream/79c7556a7ceaa0ce3636f2df2b383d9b8cc74f729aeefb13a2ceebb5bf91a629.ctv
 [SD]diva,https://epg.pw/stream/bef8b61fd5614a64dcfeee2168ff31b11662da164a3b04d915d4d5b57183c2ea.ctv
 [HD]comedy central@@2,https://epg.pw/stream/81191ee69c7b3e45e1a10e80e4653bcb008cde678ed8bcf4badbd2cf9e66d48b.m3u8
 [HD]comedy central hd (mx vip),https://epg.pw/stream/60ee52ea554f0244df1da01a42d6ba38d5cddf045ee0f7cc616e283c6a4dfa08.ctv
 [HD]comedy central hd (lat),https://epg.pw/stream/09eaf196e0977b438a35e5b8d415250bffa0586e82204e81124fc506c75ac9ca.ctv
 [BD]comedy central,https://epg.pw/stream/494a4cae12663512db3b97149e19b424c286624c6acff0d00eba593b6ee97394.m3u8
+[HD]comedy central@@3,https://epg.pw/stream/5050f933ce64e987641d16dab5232c2a6dae1f54d74487ebcd730470f940fcc8.ctv
 [VGA]COMEDY CENTRAL,https://epg.pw/stream/4d35a2602e0761a614d1a2a9a599d3eaef84f317536a7a7d1bec4cd465b37a49.ctv
 [HD]comedy central@@1,https://epg.pw/stream/6b2c781fa94aa0935daefcb14836a0d6fdf93392a047f0dda2da6fc48f37845b.m3u8
 [HD]Comedy Central,https://epg.pw/stream/cd3c27f99a5136efcb4e744b5edd844a559ea8c16574ad6df5d55fbc46e092de.m3u8

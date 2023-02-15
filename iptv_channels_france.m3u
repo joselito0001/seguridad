@@ -33,6 +33,8 @@ https://epg.pw/stream/4e221377f0226a2f23a468bb7999990c997de1e3b12c4dd5bc10f8fd69
 https://epg.pw/stream/91b754a51032d3682ac86efaeb09bbb11f3e068c47d2354f5c3639e4f6c3e52e.m3u8
 #EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[HD]euronews@@3
 https://epg.pw/stream/428eb8d4590f0d09bfe6785e24c305b19dd835c88e247bb670aa272515b518de.m3u8
+#EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[HD]euronews@@7
+https://epg.pw/stream/be0b7cd2a3232718aea11431a8b6d71d047beeb832c708f723e5cc80ffef546d.ctv
 #EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[SD]euronews
 https://epg.pw/stream/4e1d11beaa993918134f30881bf8049f2047a0fdc6de90985b054b66e1428fc2.m3u8
 #EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[BD]Euronews
@@ -109,8 +111,12 @@ https://epg.pw/stream/c36f3ba361770359a61fc875d7f421d067811935f7f13ea5b9cb2d21aa
 https://epg.pw/stream/f09b358c93dd69ef3d9a5d35c4f1b50cfb57915e94db34a63372b2739ccd2d79.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24@@2
 https://epg.pw/stream/8fa991afe89d82d55ff085a68847cdfe92d43c02bc2b588ad27dcc3a4a28eda8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24@@4
+https://epg.pw/stream/22e142cf5ff472720f0ce9cbd2337e7087b91722403dce60e5bf9e160ec4bfee.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[VGA]France 24
 https://epg.pw/stream/6c72dd7591e582319af1bc29cd81b5f72c19b67470c7c331363c094c09e6ada2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[HD]france 24@@2
+https://epg.pw/stream/b600186173ce53afe9028db8d797e353751de31ca838e19b89bbe95a693aa5fe.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france 24
 https://epg.pw/stream/42ecd74cf00c601f2b2ca540fbfa67b7fc0ab44b3fe1f723e3114e83f9c8ce14.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24

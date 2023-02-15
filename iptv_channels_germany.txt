@@ -26,7 +26,20 @@
 [BD]sky select 7@@1,https://epg.pw/stream/c5038469a04b7944c860037553486d998029b9f6af7839579b8618b089923624.ctv
 [BD]sky select 6@@1,https://epg.pw/stream/e363859e1287bcf812d3a6f151073fc330b00d3fcc4143dbc1a711567c739689.ctv
 [BD]sky select 2@@1,https://epg.pw/stream/bbc31ec003497c9f6ed4b5c1b5c0c3f82173d2cb89449109fe37aa26f3545a61.ctv
+[BD]sky select 9,https://epg.pw/stream/0c4f58e1309a54ed485cd0f0859af7c721c1e5ac377b6268124ea10408bbcd9d.ctv
+[BD]sky select 1,https://epg.pw/stream/e2b16fb77f547f12b483d0dbdf594f46e65cf4231b35d545377d23e0c669ab1d.ctv
+[BD]sky select 3,https://epg.pw/stream/b79f09ef988194109ac49a08c64278c1f77d1cef0dab8cb450d189d950d06c3c.ctv
+[BD]sky select 5,https://epg.pw/stream/294819e0c3e5d919ef4c1edfcac1938a70c83ab015ef18e15758089a805eeafb.ctv
+[BD]sky select 4,https://epg.pw/stream/88875831feef83b5e19c98f4ba8e91748dd02a52c6913faf8293045c4a5a6a19.ctv
+[BD]sky select 7,https://epg.pw/stream/2773bc321daab298863bedc29496b6b480fa8af5536ef9873f8bf9209af771fb.ctv
+[BD]sky select 6,https://epg.pw/stream/1e32c09d4cf5a89bc55df981cf1cbb4937173388cd7a4fc2793ee9bf2b4d0646.ctv
+[BD]sky select 2,https://epg.pw/stream/3d02efe6d3b997f66996e299f9156f8ce7f47f89f5dfb84ce1e82f35c6eb3453.ctv
 [HD]G4 Select (720p),https://epg.pw/stream/e728d826b171e51b84edef4ae7f398300513fc17d9a8535c943f20ceb46367d5.m3u8
+[BD]sky sport austria 1,https://epg.pw/stream/a4c34393fa54c4c5ec9a2145c0dd4ba8d0dad8c167fa59cf7f6ec193840a8429.ctv
+[BD]sky sport austria 5,https://epg.pw/stream/1e552a0c5060ae226053c7156b9bbdbdf627e5f781e8cad9104ebd991086b033.ctv
+[BD]sky sport austria 3,https://epg.pw/stream/d83451874a7da3c1bbd0dea4b849c6607ea96bad3d083ec2f0f99dc8bd31a68f.ctv
+[BD]sky sport austria 4,https://epg.pw/stream/1a36896e2e022473a830a94d679c3f5d224afdf132915b24fb9411660feffdbf.ctv
+[BD]sky sport austria 6,https://epg.pw/stream/4383f87c3d826b42870abb45fd294dbebb090c3a137b2e1fe3e50d7f669c2652.ctv
 [BD]sky sport austria 2@@1,https://epg.pw/stream/9074bce9c90053ca09728feac1a0e31263f6ef3eec4769494d4ff399b8cc9865.ctv
 [BD]sky sport austria 5@@1,https://epg.pw/stream/0e93f71a6a60279599bbfe8fa1174b60fc81183b04b501f5caa9770dff1f04f5.ctv
 [BD]sky sport austria 3@@1,https://epg.pw/stream/b849791f1e7fb7f227d47d1812a3fbd765081492064fbd44c07d7c3069086ca1.ctv
@@ -37,11 +50,17 @@
 [SD]ok magdeburg (1080p),https://epg.pw/stream/e95abcbac4a6c082d8bcdb253f9bbbd48e7de04145fd29e476083ecc0fd8cad6.m3u8
 [BD]ok dessau (1080p) [not 24/7],https://epg.pw/stream/7297922756524f7c62b4a2be52c203a284b61cbad3df00bd4ddbc4abda0c1e0b.m3u8
 [BD][德国]ok dessau (1080p),https://epg.pw/stream/259b079ff9993b431ea2639ad01cd6a5e51a8df6a68afc8c0b1766a8c5d34393.m3u8
+[BD]orf 3,https://epg.pw/stream/77a425f1cd9020fcd3ea55927711d6b2439789ed1fb82789723be44b4a246f60.ctv
 [BD]orf 3@@1,https://epg.pw/stream/bca38084e25f5686132f1707d2891c3f62be7bb5a5da38f7b344ca7059e804b0.ctv
 [SD]servus tv ,https://epg.pw/stream/e7d2bc151fd4af0ba5d99c077605d62b9b89b31e29d5c4f67626a7e2be691a2a.m3u8
+[BD]servus tv,https://epg.pw/stream/28f9ffdaa8ca140415d78adfc8d8ca48b372ee8898ff5b231e561497618b1780.ctv
+[BD]sat.1 emotions,https://epg.pw/stream/9d033e1156b19a77f82b4d95ee2313b46a7e0e4bd8db8472b9016f892a30601b.ctv
+[BD]sat.1,https://epg.pw/stream/634fee641b7183a8bd0ac088ec2b10d4fa592c1bb827339e37d2abecca76f2c7.ctv
+[BD]sat.1 gold,https://epg.pw/stream/9e9298315689fdc00cef941abe65f0f827abdddba3fadfe0f5658d2d301f3bec.ctv
 [BD]sat.1 emotions@@1,https://epg.pw/stream/d693d29413593efe9d7703b331e0fbafb520ae4d9d426292bbca524cd60a50e2.ctv
 [BD]MBC 1 USA (1080p),https://epg.pw/stream/fd370d7f9bb47aef3a4ab9742c8b273bb8d5a98e98e7cd15d3b0ed4688717fd1.m3u8
 [BD]MBC Masr 1 USA (1080p),https://epg.pw/stream/9cfcdd3e8435c5db40737290150ad89d04b19d702d6104072875debe0577a0a0.m3u8
+[BD]gaming tv,https://epg.pw/stream/f58316ad3a7e756f1d24a291ba6de018b53767ce73cdee18019e7bf2cfea3e8c.ctv
 [BD]dw news,https://epg.pw/stream/a95bd30fea57f7e955539548a2974a2c3385e1d9ed9b051923efaf8d11f9fa72.ctv
 [BD]DW News@@1,https://epg.pw/stream/d265ce2cb3067dd96d185a6205cf807df213e14597b127192e12d1563c559303.m3u8
 [HD]RheinMain TV (720p) [Not 24/7],https://epg.pw/stream/762f3f79ed28b1999ed4174e9f8ebdaefb4aa99e143baad5ce2604d368557099.m3u8
@@ -56,10 +75,11 @@
 [BD]alpha,https://epg.pw/stream/306303bbd0fbe0f7779ce325ac0acfcc6f2117dadbffed0696c33bc696274d65.m3u8
 [BD]alpha@@1,https://epg.pw/stream/0d9fb984fe58ac4b67a79428c0a6c381ac396b2d8b1336bec9dc2fccf440b859.m3u8
 [VGA]deluxe music,https://epg.pw/stream/809f563f59a9a02976c7d317094933344edaa3b2b96295ba6410ab4592525477.m3u8
+[BD]deluxe music@@1,https://epg.pw/stream/6c9813317fc6aedc2187f13e2a7ba8f8c86b1e0f04e3f6f6e2145c0e38c24110.ctv
 [VGA]deluxe music@@2,https://epg.pw/stream/c47724065032dc7ab3bca64d07b73d723a949d9f3f5587f8f2e8eb07969cac34.m3u8
 [VGA]8首串烧歌曲,https://epg.pw/stream/33b555936bd3e4d07d6523cc5ee149629afe2d808e8834a9c783cbcd0744db24.ctv
 [HD]8首老歌,https://epg.pw/stream/c3dc5118b41e9229ed9ecdc30889051a19b979da7a517017252f0a7aeb8c90f1.ctv
-[BD]8新闻台,https://epg.pw/stream/f977365f2974471779d797460560da78dfd9401422a2522ff9fa8fe75bf81976.m3u8
+[HD]8新闻台,https://epg.pw/stream/f977365f2974471779d797460560da78dfd9401422a2522ff9fa8fe75bf81976.m3u8
 [BD]8,https://epg.pw/stream/e75a454feecc554c2fbe4eed58b869f39324703be879918d30072774d95f0b74.ctv
 [BD]8位机圣诞,https://epg.pw/stream/0c53862d36c01d610714bf2d04868d0f3955a8d090818bc04ccacd3a9e020c78.m3u8
 [HD]8首伤感情歌DJ舞曲,https://epg.pw/stream/114357bb977b86f86184889f341c11d0f9d7831b7dc35f28a1f9ede35e79a21f.ctv
@@ -96,6 +116,10 @@
 [HD]qvc,https://epg.pw/stream/50446eb7624e6e68427bfdf223b32351647b041aa8f65a7b06c3abc51e381d3e.m3u8
 [SD]QVC +1,https://epg.pw/stream/3ec8fe19b9fbb3e26b6c586206bbc2056fa4a853a5395d3c8f4a2d206190df13.m3u8
 [HD]QVC,https://epg.pw/stream/0cce5dc91b5f605e4e65629a429200a76b270dc5cbadf62aa21a624d3c58c2f4.m3u8
+[BD]tele 5,https://epg.pw/stream/e4905c25da40b111dd196bd4736a6ead53ed443051c29c188c84453650e10523.ctv
+[HD]tele5,https://epg.pw/stream/a8cda4e5e09857dacda47b768be9177579a3a35a2729796d15699442e3e4c72c.m3u8
+[BD]sky sport 10 germany,https://epg.pw/stream/1441d4a591b1b814791417d7578237f6ba695657f733d207758fbff0fc2ecdeb.ctv
+[BD]sky sport 4 germany,https://epg.pw/stream/11e9593d3b4046a829d90be52e54857a022f296ae35d60f6dc4810b9211918e1.ctv
 [BD]sky sport 5 germany@@1,https://epg.pw/stream/bf3b5eae62db4ecebb7f7182665a7f80d63c02d96877a3e306670ed048c617ef.ctv
 [BD]sky sport 8 germany@@1,https://epg.pw/stream/6fb0b0be7b7d5082584def4b3354b8f22235ad7dc533e82f01e1d2305d60c2c8.ctv
 [BD]sky sport 2 germany@@1,https://epg.pw/stream/614c5dbb88acc14c8edeb4276c2f9c1ceb2ed39b3d2ada04c683dcc6cee8a7ab.ctv
@@ -103,9 +127,17 @@
 [BD]sky sport 9 germany@@1,https://epg.pw/stream/0cac2b2ef162010054f2660fa7e102aff023e91f72ca6ebd122cc38e49ad8a8e.ctv
 [BD]sky sport 3 germany@@1,https://epg.pw/stream/5963eaada45f01faa28566044c806c010f165f4f7393b786983ccd484c2eea61.ctv
 [BD]sky sport 10 germany@@1,https://epg.pw/stream/2f8a4000951d13abb12e15e11a20bb051cba0f3a42a474ef2abbdba2b3023161.ctv
+[BD]sky sport 5 germany,https://epg.pw/stream/017587b65ea85386a20641299f5b97e76320bd96acd0748379ed6f574f02753b.ctv
+[BD]sky sport 8 germany,https://epg.pw/stream/d108713c5b7368d46c217cbd85953c19255dfd477f275ce18f222d32976e6a06.ctv
+[BD]sky sport 6 germany,https://epg.pw/stream/76087e14fad3de598dda5d2f5f40847abbb2d9b2ea126e37b14fe975a8dd9134.ctv
+[BD]sky sport 9 germany,https://epg.pw/stream/f204361ec4fe491f4ac7253386259e1ebfe19c59b8f1f1bb263b9d29376e61b3.ctv
+[BD]sky sport 3 germany,https://epg.pw/stream/33dc239d9a8df501bd8a8d685bf7ac2f8bb394e0a07091a68e47973a9e8f5c05.ctv
 [BD]Filstalwelle (576p),https://epg.pw/stream/d4850caccd52891d2084349f294285a7e9d7d5d9d0a2541b31f7eedba0835b23.m3u8
+[BD]welt der wunder,https://epg.pw/stream/f6f16beba0bfc97c11b3c9c2d3a38c694953af72d7ed92e989c4e801dceeb2a4.ctv
 [BD]RFH TV (1080p),https://epg.pw/stream/fdfa5cb4274e5fbb968180bcb8b47f29ee42b57887ba699c45091c531c2b033e.m3u8
 [SD]rfh tv (1080p),https://epg.pw/stream/566e73c255808d6964b6068ba0703c9c3dbd2454937d87201c1cd92f14c5112c.m3u8
+[BD]orf 2,https://epg.pw/stream/0b0f144db93c4bed1c59c9cc5272469716bf1b0ed4d2b2a3cb1ba8adb6e25df7.ctv
+[BD]orf 1,https://epg.pw/stream/ffee9820adc48bcfec696516021974d2a537ce4f35a0f761ae03dd4548f7c2f7.ctv
 [BD]orf 2 hd,https://epg.pw/stream/21fde3ff4a9bb57c51724b841d41b87aabcaf6e49ba546d7ac2e44d6f126bea9.ctv
 [BD]orf 1@@1,https://epg.pw/stream/75d7f3b5d322b164afcde3b0ca3d96178c842fdeac1a07a9a7a86b6e6d7bd330.ctv
 [HD]Tagesschau 24 (720p),https://epg.pw/stream/4c53c19cfd451fd5e2b617ac841b5c09ac6c35c0834138b4c3122979cf232f94.m3u8

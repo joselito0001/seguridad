@@ -34,6 +34,7 @@
 [VGA]Bloomberg,https://epg.pw/stream/17681d8e6faad7f2b746dfe0bc29af3bf514bf1bcbee7d34f7e46a0527f55a7f.m3u8
 [BD]Bloomberg (Europe)@@1,https://epg.pw/stream/c0149329fcd3796f91351e5ac4d9f2d37de518e25f885d65d0903f08391b1a61.m3u8
 [BD]bloomberg,https://epg.pw/stream/a870f4e0b4a7770442e2fbc2044af7a7db0c380827266390b93a35123903f4f3.m3u8
+[HD]bloomberg@@3,https://epg.pw/stream/ac339f90ecf73a0b9a7860f9699e3e7da7b68d408e1add11e7b204d33bef7b1f.ctv
 [BD]bloomberg@@1,https://epg.pw/stream/f85e25c99f63b2e9ec932acbb1a2ce5dc4a9db1c49d22ff9509a549b2ad96550.ctv
 [BD]bloomberg@@2,https://epg.pw/stream/a8d9b53e19b223b849af47caaa96cad1e8e5c151388ca399c2f562dab8224fd0.ctv
 [BD]Bloomberg,https://epg.pw/stream/5f6e180bcb7ad5c80bdf0d560ef7abef3e821d80446dc5f428cef73b6c76cd24.m3u8
@@ -77,7 +78,9 @@
 [HD]atv@@5,https://epg.pw/stream/500d99789e7139e0c7b0c4cedd96affd068cc98d240293816b732490b4bc79a0.ctv
 [HD]atv@@1,https://epg.pw/stream/ccd44e4b4b6adc069a09b5e48e9259467a54c84c3f105d1fd890f6166d70aad9.ctv
 [BD]a.tv (1080p) [Not 24/7],https://epg.pw/stream/37602118b385e63d8ab388193b54f16a6084b911820ad270acd8cd512091bbe3.m3u8
+[BD]atv@@7,https://epg.pw/stream/5cf5641cc9a05595b509a74d0c3ce2194151e2ac37ece660de171e118f00b1bc.ctv
 [SD]atv (720p),https://epg.pw/stream/a924bbead613f650687c145fdeb94b951b58598e9fc2b405ff79746f6314de21.m3u8
+[BD]atv2,https://epg.pw/stream/f32a13f08babc5c5472f648b1f86050c9e6d0d3928f0c69452f8d87acdf828db.ctv
 [HD]atv@@2,https://epg.pw/stream/838a60caea4682c467c51b608e8d0497e785a9f7b456ad8c75ad9f3241587b33.m3u8
 [BD]atv2@@1,https://epg.pw/stream/aec536db098ad03c553b660ba718085dd6cd92c4ed78f90ac85ddb7b2f02f28b.ctv
 [VGA]ATV (360p) [Not 24/7]@@1,https://epg.pw/stream/fcc86b1b21dc0484f302b89ed2c7a5b780461cc849ecd0e4c0b8ab0965c938de.m3u8
