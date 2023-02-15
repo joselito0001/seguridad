@@ -3,12 +3,18 @@
 https://epg.pw/stream/70252230e02e54c584a0b32c0aafd6efbd4c8f836287f98faf007ae383bc8a4b.m3u8
 #EXTINF:-1 tvg-id="2924" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png" group-title="Sport",[BD]Eurosport HD
 https://epg.pw/stream/7146cc55de97a03a2ab91256e64a97a65f4a36e81edb2a4de76e2f170365655f.m3u8
+#EXTINF:-1 tvg-id="2924" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png" group-title="Sport",[BD]eurosport
+https://epg.pw/stream/8596b97d47a2e76560609b6bf1cc5cebf579a5e9b1ddbb5734a8ad9c5c2bad34.m3u8
 #EXTINF:-1 tvg-id="2924" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png" group-title="Sport",[BD]Eurosport
 https://epg.pw/stream/555d8b46503e67c0097a09f719bed315b0d2e27ec955dfbd7d5b84b00397c2ab.ctv
 #EXTINF:-1 tvg-id="2924" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png" group-title="Sport",[BD]Eurosport
 https://epg.pw/stream/caa4c5a699005fbcb31fecc21c69dcc3ead70441fbbd248fe4ca30cdaf6bfc69.m3u8
+#EXTINF:-1 tvg-id="2924" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png" group-title="Sport",[BD]eurosport 4k (uhd)
+https://epg.pw/stream/b0383485e560e44c40d4b53700d4b1862c0caf60964808544ab6f2426aac949f.m3u8
 #EXTINF:-1 tvg-id="2924" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png" group-title="Sport",[BD]EuroSport@@1
 https://epg.pw/stream/162e4b5902ccbc611af84d601dcb08f224ca4f7f7912177e1f945703defb51ca.m3u8
+#EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[BD]eurosport 2@@7
+https://epg.pw/stream/06046a98e3ea0b35fd3f94403d2ca3f89dc6bfa38cba4ad3f334decd32a281e3.ctv
 #EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[HD]Eurosport 2@@6
 https://epg.pw/stream/bb94b69a87b7a4fbceab8fa0677dd7afa2dd5bcc1e53a7b9551ec671ef5059b9.m3u8
 #EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[BD]eurosport 2@@6
@@ -21,7 +27,9 @@ https://epg.pw/stream/c86f24287a7f957cb694b1105517d1e882cd6cb66f8e4210a7b1fa216c
 https://epg.pw/stream/777d422e1ad99c49da666ead033ed5a2b3c3561700f76212ddc4ace3dd7e721a.m3u8
 #EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[BD]eurosport 2@@2
 https://epg.pw/stream/1c670a2ca8ba67b64df23d2213e4cca7b12576d6f9aff7e2e934a2345891e1f2.ctv
-#EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[BD]eurosport2@@1
+#EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[BD]eurosport 2@@8
+https://epg.pw/stream/15d16a133c0217a13e179b37202d57572afd234873b6ccd3900d52e0e9d29e94.ctv
+#EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[HD]eurosport2@@1
 https://epg.pw/stream/09a7a1d5091644b22e791e6222af52f607190ceeb9be94d29d04504091066193.m3u8
 #EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[BD]eurosport 2@@1
 https://epg.pw/stream/4a4f9df76952648c3f9eb4e213de84e8545ee4b27452f4606dd5d884c07858ef.m3u8
@@ -37,13 +45,11 @@ https://epg.pw/stream/aa7b387d4fabcf215476f5146c03752790bf47b8a36e27a8ef1c4b8cf8
 https://epg.pw/stream/ba19247507269de2d192ee14cb5fe1e145588948342cd00de33a7bed90ca254e.m3u8
 #EXTINF:-1 tvg-id="3943" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="Sport",[SD]eurosport 2
 https://epg.pw/stream/8c36a9a6720eca6759f8a07f3cc8b67cd532ec2f3a851ea42b8f93e6c94f8be1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Documentary",[BD]national geo
-https://epg.pw/stream/58f99b91511e552bad27017bde86bc486dd7dfd2132287acd1ed3b2dba2d16a1.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Documentary",[BD]national geo hd
-https://epg.pw/stream/6f22c76b02e02bde0a353bf4a3277a9ebba9d610c49b5f38de48048629d6fb4c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Documentary",[BD]national geographic
 https://epg.pw/stream/67d08f6f40732b9d48b01c547da47e177cb0bdc77b92cf29818a4759e4f88d85.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Documentary",[SD]national geographic sd (mx)
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Documentary",[SD]national geographic sd
+https://epg.pw/stream/0db8acabcdd3166ee30e30041f65eea8311f21ca100575b85bc5315acdba8bc7.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Documentary",[VGA]national geographic sd (mx)
 https://epg.pw/stream/7135faf9f040520967ea3001c607c48e0532a79af38fc87a7a893cc016c6c57b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Documentary",[VGA]national geographic sd (lat)
 https://epg.pw/stream/7265a39e094cc79dea980800c82aa8faaac0e55f2915437f23008fc65b35ce11.ctv
@@ -111,6 +117,8 @@ https://epg.pw/stream/2632d4ebca1a981fe30ed345d716ca49856447bf73a534294e725012e5
 https://epg.pw/stream/aea96349ee31c45fc31eb99ae138f3153f52ee6fe5063a6984d505d888c87413.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[BD]kanal d@@1
 https://epg.pw/stream/2dc583f58514ac19a09a43b6fede764af3b1065e00e29d179a765aa096aa8a59.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[BD]kanal 9
+https://epg.pw/stream/f7942f7998030363352904b800ff5bfba2bfefd14e631f6749ae724863784564.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[HD]Kanal 23 (720p) [Not 24/7]
 https://epg.pw/stream/576e9fb84ffd3a813fd13c6b738af741de018179c9be6c08bc560cf2e2486eff.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[VGA]Kanal 32 (480p) [Not 24/7]
@@ -137,6 +145,8 @@ https://epg.pw/stream/ede146a737b21fadbb85c382ea505150ccdbde839c2e00f903ff13f4fd
 https://epg.pw/stream/5dfbe0b5d9a3b45eae7aedd5d6e4573f45a62787c7a89fa30b7ee62eea057bd6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[SD]kanal 7 (576p) [not 24/7]
 https://epg.pw/stream/bfa465ee4e304f8d0a7577cafae9bf46e9ac0a40e10afbccd01120aae9df37a4.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[BD]kanal d@@4
+https://epg.pw/stream/c5e4897b0c62ed533d3fad746396081cbc5b9c3fb8329d19632e78d7449e4f50.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[SD]kanal 15 (720p) [not 24/7]
 https://epg.pw/stream/f5d1b8c4b91d54d3669f1fef1b75c9fb8d8645f90b0d2d41921a9ae34d73649c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="Generic",[BD]kanal d hd
@@ -185,7 +195,7 @@ https://epg.pw/stream/4d25f043139695c048094b3d3768b558f8c6735005dc1fdd6243c45fcd
 https://epg.pw/stream/8461848b635d9e71e053d98f282fdadb74a019f6b47aa710ee97b736fadc1665.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003738282051_91.png" group-title="Cartoon",[BD]3 Mini
 https://epg.pw/stream/777dffe1d1be3bf4d0dd052f702abd3c0ad05f8e930d001b0f82c890eb116ace.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003738282051_91.png" group-title="Cartoon",[HD]minimax
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003738282051_91.png" group-title="Cartoon",[SD]minimax
 https://epg.pw/stream/8276b47cc87a7e3c82646b73fb1cdd86c27d2055c1af70190ff57bfa62fadd6b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624004025127408_48.png" group-title="Entertainment",[VGA]Magic TV (480p)
 https://epg.pw/stream/e56eb4cc28b849c668aa519e2f90a3f769af7dc0f89f08b2d017c808605b6846.m3u8
@@ -217,7 +227,11 @@ https://epg.pw/stream/c47db725c434c0643b925819291e89bbc0614a3855a38d9667f78967cd
 https://epg.pw/stream/c0bf32acd3a76f629e4e36dc095c110cd7dbbda400f2936eb4b1b2e62178d606.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175046544857_64.png" group-title="News",[SD]Est TV (Neamt) (576p) [Not 24/7]
 https://epg.pw/stream/3eccb7e363f972808d7d9905c93cf25f811ab7a050877f5c3ae0da4158e8b5a7.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[BD]antena 91
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[BD]antena 21
+https://epg.pw/stream/1a6d9ac936801693444ed2d474aae63c87debc7fd6dcc5eea81849470ed53d52.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[BD]antena 3@@1
+https://epg.pw/stream/2a8acd91fe4906cff0ac1c7ed03ab52fdba58cfba222d3a691136d7716811583.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[HD]antena 91
 https://epg.pw/stream/54ace356fe74d9381c42fa2ef780b46c7cac61d99d6565351bd6834a9b4bd31a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[SD]antena 3 hd
 https://epg.pw/stream/394b0fd4f5f5eed442b141d571fcf606e01ca9cd326cc51a0b4ef7a56883d50d.ctv
@@ -227,10 +241,8 @@ https://epg.pw/stream/def441c8055b6c22241d163eecdd42528b9b926e7e5b65dad4bb220687
 https://epg.pw/stream/4746b2f0b583f8f5603424956183404edd2fda1b32b0640785574f7c0f614177.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[VGA]Antena 21 (360p)
 https://epg.pw/stream/f12012f58d7773f0f2e0c6873f36bd62c9a5273823a5cce8bf9af5b4dfd2d4f1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[HD]antena 3 int. sd (lat)
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[VGA]antena 3 int. sd (lat)
 https://epg.pw/stream/ab893f88d75526bb528f74c9fc598891fd8314ff38f6c9c175be4ba5fd5c735e.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[BD]antena 3@@2
-https://epg.pw/stream/8294c7bac0a16ab6a2837868f697ee948b9fcfd208db1b431e17220a16cb71af.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[VGA]Antena 7 (360p)
 https://epg.pw/stream/89c8758d38e56c19356c0abd63d6d950ab8b6e1ce3c70445bc51f178c517cc4f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[HD]antena 3 int. hd (lat)
@@ -241,7 +253,7 @@ https://epg.pw/stream/7ef0d73a49618b8ac62522ca86202b167c5241968305291f042763e667
 https://epg.pw/stream/da576afd7342b5f87eb9e0fec403e7895f0bc5afda54a0f2f338d8871afae87b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg" group-title="News",[SD]antena 21 (360p)
 https://epg.pw/stream/049d8d3840b3c5aa23f749bb948a6d5e31d60bbf2f413c9eafc8a2aeda750b75.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163318013117_92.jpg" group-title="Generic",[VGA]antena 1 tv
+#EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163318013117_92.jpg" group-title="Generic",[BD]antena 1 tv
 https://epg.pw/stream/97c7b7f1ebea0de37b858fc6f0b71d9f7e97ae49b0bcd6dca5ee9f0959c85184.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174448711660_84.png" group-title="Generic",[SD]nat tv (1080p)
 https://epg.pw/stream/086671206c387cd06f7a250826fb0f5cde94b6db4a84392c343dd2f18791ca95.m3u8

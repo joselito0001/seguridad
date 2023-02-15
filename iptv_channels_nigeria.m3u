@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/04/20160104044342985848_53.jpg" group-title="News",[BD]cnews@@1
-https://epg.pw/stream/9bff58bb046872b35df2ef8810caf7fd543cb660313f8caa64701625f1cc20c0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/04/20160104044342985848_53.jpg" group-title="News",[BD]cnews@@3
 https://epg.pw/stream/e8827125f0c4e1ad3e8177eb02b2c8df05bed258fac545496c1e1499fd00bfbe.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/04/20160104044342985848_53.jpg" group-title="News",[BD]cnews
@@ -9,6 +7,8 @@ https://epg.pw/stream/f47df12b5594c1619575f2738a5a7b42fedb6826df0dd4e2336cb8c8c4
 https://epg.pw/stream/5000702c2f7f239cfe1c42bc72d258fd363a81fbdf780ed79007cdad8f2504b4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174805760332_24.png" group-title="News",[SD]channel 44 (480p)
 https://epg.pw/stream/4f0d90cdddb3d5bd73152673804f0d33f3ca1c9d4e3638e715e80d0283365852.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174805760332_24.png" group-title="News",[HD]channel9
+https://epg.pw/stream/e4567e9717f5410cb41decc50391ec1b66f84ddb5e48e199e302b8673665b43c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174805760332_24.png" group-title="News",[BD]K Pop2 Channel
 https://epg.pw/stream/1b18d29b13b3e9ec1d9186e389165c3896142dda9870d4c327b2c868f4c0b9bd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174805760332_24.png" group-title="News",[SD]10 channel

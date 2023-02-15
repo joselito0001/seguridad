@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174602767019_61.png" group-title="News",[BD]kurdistan24
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174602767019_61.png" group-title="News",[HD]kurdistan24
 https://epg.pw/stream/f7464761bcc630d0bcac7e241c79cb3d1e771ab147f651e7287ec1a633207b87.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174602767019_61.png" group-title="News",[SD]kurdistan 24 (720p)
 https://epg.pw/stream/c0d73b4aaa12380c5fb793b6f39e21a2194a78a23a1b8790b0555ae0c6c25f7b.m3u8
@@ -17,12 +17,14 @@ https://epg.pw/stream/a9b4a55abc581fd3ca4386b4c5c67f4c084aad344cf7ee00c8c4dff7d0
 https://epg.pw/stream/a8cd86a9a8da94fb9a372ba6efab038c10448f97bd2c2ca322da144374f58ef5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175010998917_46.png" group-title="Entertainment",[SD]amozhgary tv (1080p)
 https://epg.pw/stream/614a8f1416a18e9f4526e48fc473c614002b342d6088ae5cee3e099b9e3344b7.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[VGA]net tv@@1
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]net tv@@1
 https://epg.pw/stream/da0dc6770a58392f577e72227b6bc1bffa7ec6ac8ffa1b3c31f597566c64a3ba.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]net tv
 https://epg.pw/stream/a8a74c94c37aa82c11405b48258519dc1b00c7ca59393b9de5505ccc934bdb85.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[SD]net tv (720p)
 https://epg.pw/stream/7759898f2f77b72081ce9a6d98de6acaec4cac1957d430bb0e759709931bde9f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[BD]net tv hd (argentina)
+https://epg.pw/stream/51fc95570e746749ac1b345fe5ec5d3a22668ea1644123e1b35d3aba5853c981.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[VGA]net tv 27.2
 https://epg.pw/stream/994706870f433a28f5859d97e4d1432abe248586ade2b88f6eadc7a24a971663.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[VGA]net tv@@4
@@ -43,7 +45,7 @@ https://epg.pw/stream/8d55050ee21548a399aeb5f718bedad3a34a1fa2cc0483cf5e00b8a8a9
 https://epg.pw/stream/ddd645af9a9c7b8dd3c84605fa18b46f6d34a6fd2e3c8ec01e30f4219e29a77e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[HD]halk tv
 https://epg.pw/stream/77a5df8998c57f8f38d5fbd2063235625441b1cb470b70104d63e6ea496a8c67.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[BD]halk tv@@1
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[HD]halk tv@@1
 https://epg.pw/stream/4a34350aa6f4c7a69a5015a6a3bfef9a656c1e779efd72f04aae36b862bd50b3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[BD]halk tv@@2
 https://epg.pw/stream/2b5a4af91067bd4faba93f4b785885336731b7a392bd9cbbec2b081e883ae1e7.ctv
@@ -53,6 +55,10 @@ https://epg.pw/stream/7df3f8a06e18a1795ace3ba9c517d03c66f331b10684d64b20849a8d04
 https://epg.pw/stream/a6c680ebc06d057f63a0953c9ca7129329260b4a5ecbaa34b13b52c48185c354.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020656023544_31.png" group-title="Other",[BD]nova
 https://epg.pw/stream/c5ab3a84a6de3f1cb843ce36e6cd0d1f0f60e1fa39eeb646cd24be0a24d80793.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020656023544_31.png" group-title="Other",[BD]nova@@1
+https://epg.pw/stream/cb57615856d34901cb5e6a95163b2399634fcc386f44848f90428123d8a6c0ad.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020656023544_31.png" group-title="Other",[BD]nova@@2
+https://epg.pw/stream/05a0b3d296bbca797385097ac99342ad5247760d20197d737c54c9ba2e312164.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809054534300734_65.jpg" group-title="Other",[SD]Freedom (FREEДOM) (UATV) (720p)
 https://epg.pw/stream/939dba1f99161159dd60eece89ebecf45e23fb2ee8567a109b9ca4c66b561ef3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809054534300734_65.jpg" group-title="Other",[SD]freedom (freeдom) (uatv) (720p)
@@ -65,11 +71,11 @@ https://epg.pw/stream/fc3fac8b679c394705bbb09d29ec21d6cfc2dd844bb54a09edcac6f984
 https://epg.pw/stream/dd08fe9d69790027ff28bf8a4e77343965fd387d78846ce08ba8fa8a1769b77d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174847019187_75.png" group-title="Generic",[HD]kurdistan tv (720p) [not 24/7]
 https://epg.pw/stream/06c4cfb0c1fbb4b90c9bec3458414bda90ffcd6b22c03d10240a6656b46eaf78.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174847019187_75.png" group-title="Generic",[BD]kurdistan tv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174847019187_75.png" group-title="Generic",[HD]kurdistan tv
 https://epg.pw/stream/921a608e91578c31967a1f36e3086f834af70dda1a063149926b3c95c7bbcde7.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022312523202_58.png" group-title="Generic",[BD]trt kurdi
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022312523202_58.png" group-title="Generic",[HD]trt kurdi
 https://epg.pw/stream/e286d82c5a63f5f96cb1727faa587084134ecce11323b7c52508ac92206ba64a.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019032330406505_73.png" group-title="Entertainment",[BD]waar
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019032330406505_73.png" group-title="Entertainment",[HD]waar
 https://epg.pw/stream/f0fd0334eba9c5e16e5afb2b95c9bdc94746c6d146bb2537e2ef347e49613171.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019032650113657_43.png" group-title="News",[BD]rudaw
 https://epg.pw/stream/e02a0599190683f15da7dc8b82e8dc827076068d5c091573719d2a8a0f96deaa.m3u8

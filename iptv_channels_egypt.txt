@@ -51,7 +51,6 @@
 [BD]HSE24 Extra (1080p),https://epg.pw/stream/d9cfb0ae67c43b59fc1e0ef24061cf711163a88279e98d3d6e3a4aeb87cc1cd8.m3u8
 [BD]Mekameleen TV (1080p),https://epg.pw/stream/13588f6932969d0ec358c6524b88749d439fbfb310041ed00e3c58c5397d256a.m3u8
 [SD]mekameleen tv (1080p),https://epg.pw/stream/969ae9c43030b2b2367cd76f6d1da3146fc4c9e5c08d2d3f3d9dc315936c5fc5.m3u8
-[HD]on tv,https://epg.pw/stream/2c4248d97a86b5f8f403f6d7f9460fb2f28eaa08298c36643d339ab529a1cd9d.m3u8
 [HD]n TV (US Eastern) (720p) [Not 24/7],https://epg.pw/stream/6f9c7909ac0ef82b337efb236ffd7d3ee016001b3def1e4196ecd2a44bf45c13.m3u8
 [SD]n tv (us eastern) (720p) [not 24/7],https://epg.pw/stream/a9b8a0aaccd7227ca9f282d2bcf987ccd159cfd202fab7ee2183da04edfdb5c8.m3u8
 [HD]n tv,https://epg.pw/stream/8e76837bd80fdf4fb0365f62b7da3de77f88d690a7071a6771fb2ac1e59711f9.m3u8
@@ -69,6 +68,7 @@
 [BD]ten 1,https://epg.pw/stream/8465e257c051a37efb7719dfd3a5dd388d70f9c36f4a23ad9636b341a7aca8ae.ctv
 [BD]ten 2,https://epg.pw/stream/53b12f8938864c923343bfaeec0768b0ba09180aa97113522f844edb9262fbfc.ctv
 [HD]ten@@1,https://epg.pw/stream/2c1de9072030371ff6b031643498a879ec231e26741a5e635fb26c1f01850bec.ctv
+[HD]ten@@2,https://epg.pw/stream/d0a9df6bb4b7000b29422b4a6e0837cec5365f8a32b4958f5788ba08358a3685.ctv
 [BD]mbc masr,https://epg.pw/stream/ac550b8fd5d3430579f6070d7262dff9ea62f10db9838ee43292dcb001d3e0a9.m3u8
 [BD]mbc masr+,https://epg.pw/stream/6f3f1f070b96695e6c032bd6079ebb44c0e8a70c9461c59e45fdcff75b3308a4.m3u8
 [SD]mbc masr 1 (1080p),https://epg.pw/stream/c2db7bfb3d079a8a24355e5c995ae4b0feddbcc1f6a3459acb468d8d91c4906f.m3u8
@@ -76,5 +76,5 @@
 [BD]MBC Masr 2 (1080p) [Geo-blocked],https://epg.pw/stream/7d2d2f2713e7fe96b29180bf2c21fb5f75f00a83f354b8e8fc8b67c413070571.m3u8
 [SD]mbc masr 2 (1080p),https://epg.pw/stream/6e37a7d47b68565393e36fa8547ff0747ca08f63b4bfc4d050cb192175e6a217.m3u8
 [HD]drama,https://epg.pw/stream/f34f897302c23ccce36f58c34ca8f3aa08fb6c5ffa8d5ad2bb329cbafb62bc4c.m3u8
-[SD]ma: 2m hd,https://epg.pw/stream/de788a2f4917887102eabac5256e4fcc491e772d4ec5c3bd7843452f7eebb5ad.ctv
-[SD]ma: 2m tnt,https://epg.pw/stream/bc30f93a4ef5cbd7d3ea0939be6ca519b80f7b20468d7ed41a4caf2aaac5af74.ctv
+[VGA]ma: 2m hd,https://epg.pw/stream/de788a2f4917887102eabac5256e4fcc491e772d4ec5c3bd7843452f7eebb5ad.ctv
+[VGA]ma: 2m tnt,https://epg.pw/stream/bc30f93a4ef5cbd7d3ea0939be6ca519b80f7b20468d7ed41a4caf2aaac5af74.ctv

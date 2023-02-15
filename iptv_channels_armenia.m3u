@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Test",[HD]24 7 fbi@@2
+https://epg.pw/stream/9f530677379c493c6b990c05204db35c7a71808170c32a60e64290492d6d9a75.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Test",[HD]24 7 fbi
 https://epg.pw/stream/e3e885f6c2b78c8be355b55e9d43d2408a2048cdc703b9b94ff480d7edd9f4db.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Test",[HD]24 7 fbi@@1
