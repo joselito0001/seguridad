@@ -37,7 +37,7 @@ https://epg.pw/stream/37e110aee985e34e3bf1ffbb43b28b37ffefb2b3d88a3a79a187741500
 https://epg.pw/stream/2c13f318b9c18aee291b6f20fb5e90fc0c36f2f189784f4979f56d5afbd40652.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/12/20160812113104654113_72.png" group-title="Generic",[SD]gol tv@@1
 https://epg.pw/stream/968465f6488016bc92e7b9d0f124cbde1aecb3fc25c62aaf9b7a3eef95eafccd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/12/20160812113104654113_72.png" group-title="Generic",[HD]gol tv
+#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/12/20160812113104654113_72.png" group-title="Generic",[VGA]gol tv
 https://epg.pw/stream/fe316412cff38070450b0ee00309c6ba2f111e912ae89f8abe68595bb2f177c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163805060010_89.png" group-title="News",[VGA]Bloomberg
 https://epg.pw/stream/17681d8e6faad7f2b746dfe0bc29af3bf514bf1bcbee7d34f7e46a0527f55a7f.m3u8
@@ -93,8 +93,6 @@ https://epg.pw/stream/39622a787d28a469facd5b80a89492698639b2c151865bb8a5e8ac3599
 https://epg.pw/stream/8704dd2a1fff4b2039814d0d46e0489301525db14e6e8ef441d9ac421ce027e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215342542549_86.png" group-title="Generic",[VGA]O Channel (480p) [Geo-blocked]
 https://epg.pw/stream/88dc3f1cc6b7787c3329839b8db972189b0c2699f5f10a5f24f95325a98330bf.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215342542549_86.png" group-title="Generic",[BD]o channel
-https://epg.pw/stream/27d54ab63b72e0a2fd40925694bc08a3eeba11985bd3dae1315651ec594b3b87.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215455741600_89.png" group-title="Generic",[BD]htv
 https://epg.pw/stream/651a5b022cf97353187dcdc34e358149d6806cac855cea4350ea143077527bb3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215718574662_70.png" group-title="News",[BD]mn25
@@ -103,7 +101,7 @@ https://epg.pw/stream/a45923ae8b6747c4389a52f06abc496b3deda4a6c399a2889c89d0dc7a
 https://epg.pw/stream/3491789439e27bf4c18ecfa147f83163c08b9770dd377b3b97d066f8eb9d9e8b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[BD]Movie box
 https://epg.pw/stream/c2019ea5c31b928b56c25ba589e99f41a7c1a8b96af517d974858834ebc9944d.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175045526950_28.png" group-title="Generic",[HD](lbn) otv
+#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175045526950_28.png" group-title="Generic",[BD](lbn) otv
 https://epg.pw/stream/335ad55457f65e0279f6d108f9f4c0b9c917acb95524594eb50967ea2e48e289.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174254210712_85.png" group-title="Generic",[VGA]4seven
 https://epg.pw/stream/bb6ba6b71b611e7260863475192acd59afcb2b62f73f2b88a305bac4cc8e42ad.ctv
@@ -119,7 +117,7 @@ https://epg.pw/stream/50ba98ae8f458e8204bff4c99e9fc6e26bbb756e02ca0ef770b1e1252c
 https://epg.pw/stream/aeb444b19aca31c740cc95737a456abaa7cd61c111e98a6735da5bbd2f84bb1f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175026261521_50.png" group-title="News",[SD]atv (480p) [not 24/7]
 https://epg.pw/stream/2e350721114e45642f8e24bb8a0b53708e6a06866094b6105855424ab6eab153.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175026261521_50.png" group-title="News",[SD]atv@@1
+#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175026261521_50.png" group-title="News",[HD]atv@@1
 https://epg.pw/stream/ccd44e4b4b6adc069a09b5e48e9259467a54c84c3f105d1fd890f6166d70aad9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175026261521_50.png" group-title="News",[BD]a.tv (1080p) [Not 24/7]
 https://epg.pw/stream/37602118b385e63d8ab388193b54f16a6084b911820ad270acd8cd512091bbe3.m3u8
@@ -167,6 +165,8 @@ https://epg.pw/stream/62a20411105a750bd27f8286634afc2caeeb28db5f993b166df2c7fe7d
 https://epg.pw/stream/7491821da2a7d50bf3dadd3d6ea0cbfccbbe72e0409369910f12f18dc8f2853d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325214012527241_92.jpg" group-title="News",[HD]NBS
 https://epg.pw/stream/d6af89250e5d4afe844c2a075eee35d07332d5742e6b8e4cba15cad040de1ad0.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325214317637017_31.jpg" group-title="News",[BD]tr: proturk-45 lik
+https://epg.pw/stream/4a6e6c5c425a7cf3afb03d7a3d8cef9aa624cb4fbba828fa612ac85ebd1db220.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173852898976_67.png" group-title="News",[SD]M-1 Global
 https://epg.pw/stream/148413bde6a1117c9231f285e9ca94d67a2c453a91f07f25e0638a7a6bc375e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png" group-title="News",[HD]ETV2 (720p)

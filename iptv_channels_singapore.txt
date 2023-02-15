@@ -12,7 +12,7 @@
 
 [VGA]cna (chaîne nord africaine) (360p) [not 24/7],https://epg.pw/stream/65ec0edb306c3b86b5d42c16d3148c60777e564f0ec22ef5b79fd882dbd1e084.m3u8
 [HD]cna@@3,https://epg.pw/stream/8bd1ca9208297da8ad277d747dc399a90273bab921c24095f8e34916286d0acc.ctv
-[SD]CNA@@1,https://epg.pw/stream/e75d5813caf23741262a05fe4e3d1a0a92afb8967c4ea6ed62b8af216a466279.ctv
+[BD]CNA@@1,https://epg.pw/stream/e75d5813caf23741262a05fe4e3d1a0a92afb8967c4ea6ed62b8af216a466279.ctv
 [SD]CNA@@3,https://epg.pw/stream/e47f8dae7762f3c9f0f9e0c4f6e7bd8d2ef990a0b5ec07101a7124f3e53a49ab.m3u8
 [VGA]CNA@@1,https://epg.pw/stream/fd94d9a7a5aec3349a3bae84075d45fce7faba4abf77cd6731630dfe7d4f0bb6.ctv
 [BD]cna@@1,https://epg.pw/stream/1d6928ea32ae290a82377762739366dd92e8c097b4e3c4da52659ea16e7badc1.m3u8
@@ -30,8 +30,7 @@
 [SD]hits (576p) [geo-blocked],https://epg.pw/stream/471ead7963a07b199dd1d0b3bee3c517636bb9528f856c3ef3d9e5298124927a.m3u8
 [SD]HITS (576p) [Geo-blocked],https://epg.pw/stream/cbee114700ec9e171a355d54c764e9003b78af6cbd1438ca9568492d68ad15c1.m3u8
 [BD]hits movies@@1,https://epg.pw/stream/a68b013350a3c4086ad858d416bc42bed933d1fb2255dffaa8bd3b37817d3607.ctv
-[HD]hits movies,https://epg.pw/stream/a4c13dc9b11937dd9c6dfa2a940103f75e934623a6d9f7b6d80c892ad4fd3a03.ctv
-[HD]kix,https://epg.pw/stream/f07400f510384060de9e89803cfc2533d0ae7739900fcdae41f73f2c55d28348.ctv
+[VGA]kix,https://epg.pw/stream/f07400f510384060de9e89803cfc2533d0ae7739900fcdae41f73f2c55d28348.ctv
 [SD]kix@@1,https://epg.pw/stream/42ca11c699a974ab60d17d904f0de71aea70841ad60dfa205846e62172df9f90.ctv
 [SD]kix (indonesian subtitle) (576p),https://epg.pw/stream/d9ff0aad2c927148f6ca6f91d67441e836dab913ac5642c6764c65475e84b6c0.m3u8
 [SD]KIX@@1,https://epg.pw/stream/46087fd2c96014f031f7c084259869c03315522d0c83245a8173f090db39483f.m3u8
@@ -43,7 +42,7 @@
 [VGA]Thrill (576p),https://epg.pw/stream/ea1d457f6b599862a88f7024a062c43c45e2d4472d0a0d476b2cde1b7bbbdd0d.m3u8
 [BD]suria@@1,https://epg.pw/stream/e61613eeb8da82ceb5dd6b8c21e0a4d4e5b7db5836c1dbf6fd614932ee0e1e4f.ctv
 [BD]suria ,https://epg.pw/stream/9a7da22263d88ac0f11223bfc2cfcc85b5275f3e2de8217faee9f3d77e20beaf.ctv
-[SD]Channel U,https://epg.pw/stream/c2d85d73532c06686dd7b451874e9621a9746f6ea60ab0d94397b6fe1f433f4c.ctv
+[HD]Channel U,https://epg.pw/stream/c2d85d73532c06686dd7b451874e9621a9746f6ea60ab0d94397b6fe1f433f4c.ctv
 [BD]channel 5,https://epg.pw/stream/5b3c0f6f110edffc569ef9eb0064a96525debfeb97ef759b8ba6879fc67d5f44.m3u8
 [BD]Channel 5@@1,https://epg.pw/stream/8b9545a02a39d0d8b90b70024f51ecd6e829fc9a7f6eafb8cf4e97ab334abba7.ctv
 [VGA]Channel 5,https://epg.pw/stream/72eba61add5a478cbc285f5bd42e98929e87c19b53e079b210438fee8847974a.ctv

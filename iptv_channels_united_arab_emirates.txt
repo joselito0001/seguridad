@@ -19,7 +19,7 @@
 [BD]dubai sports 2@@2,https://epg.pw/stream/0ed5563169b00d6c5694691df141861c5a8c89e99d0269bdd132a7db8cecdd1d.m3u8
 [SD]dubai sports 1 (1080p),https://epg.pw/stream/6a7608cf10cb7c63a51e79f85138cecf3bc9bff5f39c56bc503be78cedaacb6c.m3u8
 [BD]Dubai Sports 1,https://epg.pw/stream/bdd4fad61dec02a4bd9e0ff251de4d86858d775d72aec3642b95b2815bcdef82.m3u8
-[VGA]dubai sports 2,https://epg.pw/stream/cc676aa49b204221cef6c9ff3a50f0b4af4f08f5864ac10dc97ecf78344ecbdf.m3u8
+[BD]dubai sports 2,https://epg.pw/stream/cc676aa49b204221cef6c9ff3a50f0b4af4f08f5864ac10dc97ecf78344ecbdf.m3u8
 [BD]dubai sports 3,https://epg.pw/stream/1fadb13ccf9def49e8a19c01f2851b51d8c8bf8653febb21388f0eae816dbc86.m3u8
 [HD]dubai sports 2@@1,https://epg.pw/stream/b4e304c20bb8fe8a36449c6cc149af811a93f593f5090e6330f85066d84ba391.m3u8
 [BD]dubai sports 3@@1,https://epg.pw/stream/5f9a9496b1d6f9e0aac99be2ca176a10b548aa2bd5c658dc6312d2dffa68050a.m3u8
@@ -66,6 +66,8 @@
 [HD]port4 goltv,https://epg.pw/stream/000163f741b46d348a61b83a913520e76420cf489f7c44c068b2cd28da9813ce.ctv
 [BD]port4 hd tnt sport,https://epg.pw/stream/7c987dd1d8e89b348875d072e4bc18667210507c41cf54126c3af0c1edb3bd00.ctv
 [BD]Sport5 4k,https://epg.pw/stream/4736a0a4043404cbe2afeb2797517dbb047425d758a5a76fc045e5270a83d08a.ctv
+[BD]box  office 3@@1,https://epg.pw/stream/72f737fceb9a814a73b78e4e58ba290bea219c5834d0b1ae261a5fdaee0ede8d.ctv
+[BD]box  office 3,https://epg.pw/stream/efc7649d75f44d06c374dcd2fbed7b2a2de93b78e18f6a27e2b858afd1abc7fc.ctv
 [BD]Abu Dhabi Sports,https://epg.pw/stream/1471be707ba0bcb86742a993f08a9b89e070a9d1038139988d3adef7e79edf38.m3u8
 [SD]abu dhabi sports 2 (1080p),https://epg.pw/stream/0165f0827929c21d72330fc6295793ddb0d1371a9b7d490ea1599d4caede0645.m3u8
 [BD]abu dhabi sports 2,https://epg.pw/stream/417ac47c14854222f5575baeee61dbb0caf62bc5e9b1be04962419ff9420076d.m3u8
@@ -111,19 +113,31 @@
 [HD]Al Rafidain (1024p) [Not 24/7],https://epg.pw/stream/7d56e4af58c8440965f7880ca60c84af7183cb40f71da7517a0a6b548ecda662.m3u8
 [SD]al rafidain (1024p) [not 24/7],https://epg.pw/stream/f99400d82e6b7d68037eac999ff691e8dca560992de816390d2cbd3376fb5d03.m3u8
 [HD]TNN 16,https://epg.pw/stream/f970c5ddb6f6fc2f655a31ef2ccd2c731e21ff04f67962880403de98e2b35d8d.m3u8
+[BD]tr: redbox actie 1 hd,https://epg.pw/stream/485c3d2a982af8dba595572d1b6f53b6dd40b676521e0f7e47db27b2f3f1388b.ctv
 [BD]tr |  boss movies 5 hd,https://epg.pw/stream/a612288459d7a6321f3fba2783053366de1c3bec37f73e6d5a7e2a60b6b4d458.ctv
 [BD]tr: moovie aksiyon 2 hd,https://epg.pw/stream/92a98647c3fc0113b21e9d4eaea0bbf8cc9b6f9c12f8340584e65e2f9195a344.ctv
 [BD]tr: turkasat korku 1 hd,https://epg.pw/stream/50ce54066445a026dd986ba4024cb0a010a0af88aad0ded176bf143d1b9ed989.ctv
+[BD]tr: max 007 hd,https://epg.pw/stream/98191d1f5d887e62fa27e95bb96c7599f9aba44ad6d519545ce5aab0133c69d2.ctv
+[BD]tr: max vizyon 4 hd,https://epg.pw/stream/9c090ef587b71d5307a8b1c4c99176e299523939d22a2b603a0b8429b8e4b50d.ctv
 [BD]tr: turkamax salon 4 hd,https://epg.pw/stream/d1497170d7e94e9d59af5fcf1428ce1170f308282a84a4168c09d24ab65f0110.ctv
 [BD]tr | bein box office 1 hd,https://epg.pw/stream/a1d6dc35dfaeb5bd7ea75b843ad05f603fe9ece43aba7619349cb9a4ffed1a5a.ctv
 [SD]trt@@1,https://epg.pw/stream/7b8bcfb3630f6d8cac7c0d8f94f210df8a618c899581da18041fe4c120d26728.m3u8
+[BD]tr: horror 1 hd,https://epg.pw/stream/569dcf2614fc8b5e260da578d7c9fd8057472b23e669ff3c04208ccd0c3216bc.ctv
+[BD]tr: max aksiyon 2 hd,https://epg.pw/stream/b1beb72991dbd09bdbe2b05ab1f859004c3deabac3619c5e6f1e532fb403e5cc.ctv
+[BD]tr: redbox sinema turk 1 hd,https://epg.pw/stream/08118ec0183797e5c3cc349930fed0ee8280a79477697619a192ae4e7e6703ec.ctv
+[BD]tr: redbox mix 1 hd,https://epg.pw/stream/c5c8201418f5cc1c621b22cd89080c1ce13afc84f3a2fc3a4faa6befe3615d9d.ctv
 [HD]TRT2@@1,https://epg.pw/stream/3c3c58189b82ce026cbc63cfe2d0782cbea0c78052dad262fd5bb550de552546.m3u8
+[BD]tr: redbox bilimkurgu 1 hd,https://epg.pw/stream/715fc65467bb29488df92c90026bcc362fd202cd1f46e848316ebf5d31024459.ctv
 [BD]tr: moovie turk 2 hd,https://epg.pw/stream/acfbd2d43085ef3b9f14465a62756636e9d93c07b481ad2d8c1647be6e18f509.ctv
+[BD]tr: redbox vizyon 1 hd,https://epg.pw/stream/dd8e0c09faea94bc666d2d755e24a9a28e03d82c18d69a01586cbd73e714340e.ctv
+[BD]tr: horror 2 hd,https://epg.pw/stream/feaec60c80f949b1a89c3372e86a9e36e949161fd8bd8b182e34a2f43df6ef8e.ctv
 [BD]tr: turkamax salon 1 hd,https://epg.pw/stream/3a117a35028bc526e839191b466de347fd96d6891fa146aa0be09ba9a5108c1e.ctv
+[BD]tr: redbox vizyon 2  hd,https://epg.pw/stream/12885763b316c60a68ab629dfd3b08a35c4376b87fd259236a4fff59fd99f7f9.ctv
 [BD]tr: cine kemal sunal 1 hd,https://epg.pw/stream/3debab4dd5b399c8397ad5b58b1f5b8259965c6daa155508681edc1ed5def815.ctv
 [BD]tr: turkamax salon 5 hd,https://epg.pw/stream/35ee594dc28de420160a463d3a1aff0530e91be11dbb94675717f4afae969b7e.ctv
 [BD]tr: turkamax salon 2 hd,https://epg.pw/stream/f65e9f9882dc664b72e76bca4715e0e9cd3f0f2f8c74475d90bc30430f1bd9f2.ctv
 [BD]tr | bein box office 3 hd,https://epg.pw/stream/257eeab1ecb865d78e2af6ea4aeb03e0bc8cf859753605bd5eacd7f20797762f.ctv
+[BD]tr: b**n b*x office 3 hd,https://epg.pw/stream/ca3f9c8fb168b67850495cf70dff5802996e945bce61f81fa99eed1329637d28.ctv
 [BD]tr: turkamax salon 3 hd,https://epg.pw/stream/1ea98b4c7c2a04444f84bf6dd0443b5287f2c102e8dc247af3378469c3324115.ctv
 [BD]tr  sinema tv komedi 1 hd,https://epg.pw/stream/3e25645d30570fc6f73cbdc17078605771c5f56a441974138cc9cee7842a6f9c.ctv
 [BD]tr: luxtv cocuk 1 hd,https://epg.pw/stream/126e480afbac179efa5199b5415edd7515d39ab854a2387e13cd16cfa2068a72.ctv
@@ -142,22 +156,29 @@
 [HD]tr: boss movies 7 hd,https://epg.pw/stream/513d22147522a0b6566fa38e9f25c4a117e1da87c731f00ea7b6efc865a14a46.ctv
 [BD]tr: boss movies 9 hd,https://epg.pw/stream/a9883b201a135dee22a702bdfa44af0dca5574ea0b4e30c33facec9559424f04.ctv
 [BD]tr : bein sports 1 hd,https://epg.pw/stream/b406fb76e37164ae472b73562a2a7fd6372c06fd9eaea68852dd8288767a7adf.ctv
-[HD]tr: boss movies 6 hd,https://epg.pw/stream/d13a7f513de3b145fd4bcf98762560757e16b1ca5bf63eeda682cf828fc8907b.ctv
 [BD]tr: turkasat turk 1 hd,https://epg.pw/stream/2057aeb0938ec07e8bfc77db57c85285c0e2322fcb954dd0cc82d7c171632366.ctv
 [BD]tr: moovie aksiyon 1 hd,https://epg.pw/stream/095de62e4d79e69cb8075b720817f4e1a02b0a0f9e6d19a761ca9d0fc99fbc57.ctv
 [BD]tr: turkasat animasyon 1 hd,https://epg.pw/stream/e2ff8881a20dafb10a5da5156a80fbbd5200b3a97b18fa5537084b8249e63c0a.ctv
+[BD]tr: redbox horror 1 hd,https://epg.pw/stream/a9247ac7b6a4f221f6d2588a2cb6c7f187546aa1e652c7a8acc8fbc30b70330a.ctv
 [HD]tr: primebox aksiyon 1 hd,https://epg.pw/stream/d4b49584c53638d9f13949375bd36210e633493afc45c6367fee134e7a78c970.ctv
 [HD]TRT 2 [Geo-blocked],https://epg.pw/stream/23cf59e7dfcafd493ce032565a0debf8442e5a80abff331d629286cdbdfa0e29.m3u8
 [BD]tr: boss movies 5 hd,https://epg.pw/stream/78991bcfd2fe07eb61a643736a9b550cb5ace63df7eea827f5503c2ceb443b93.ctv
 [BD]tr | sinema tv 1001 hd,https://epg.pw/stream/8ce0ccd681791cd3c5bf8c29f6aef0fc6afe7ac74f09a172bf7c91b6eda2ee6b.ctv
-[BD]tr: primebox turk 2 hd,https://epg.pw/stream/b2508a5e0711dceb996fe28944b321f7545c9c64b5eec7cfd5f8121d2f5e2bd5.ctv
+[BD]tr: b**n b0x 0ffice 1 hd,https://epg.pw/stream/b3a8de9986914c72c911b00a1fe5e0bab0f04fa324cd0105ad9af91027312c05.ctv
+[BD]tr: horror 5 hd,https://epg.pw/stream/57ecde4c6132f8a8b419ed676938fb9b7383bc9132f5de453990de491d4dfb04.ctv
 [BD]trt 3,https://epg.pw/stream/c146e6ee2d7a67444fa7d961f27779f8907478c71937173ffa645d667e470bd1.ctv
-[HD]tr: primebox aksiyon 2 hd,https://epg.pw/stream/6942a72216084c559d217b4e983f3a44a1189ff075c40f3e4bf6603482651cbe.ctv
+[BD]tr: b**n b0x 0ffice 2 hd,https://epg.pw/stream/8ea563d0711d9d4e55016b108e573044dde2f96039494d5c7537f392076bb5a8.ctv
+[BD]tr: primebox aksiyon 2 hd,https://epg.pw/stream/6942a72216084c559d217b4e983f3a44a1189ff075c40f3e4bf6603482651cbe.ctv
 [BD]tr: boss movies 2 hd,https://epg.pw/stream/41095fdec567f36ed0b8cfcacf0d13e748a43cd53cad14a45b71aade7316e61e.ctv
+[BD]tr: horror 3 hd,https://epg.pw/stream/a550cfe6eb29b41224697d31d22a6692a94ff971160714a4be49f7de6d290b80.ctv
+[BD]tr: redbox sinema turk  2 hd,https://epg.pw/stream/a46e9bfa02c4b77232e1756de3e73422c8e9daac89378d497591b7eb72279e75.ctv
 [HD]tr: boss movies 3 hd,https://epg.pw/stream/ec92a3ced6b6d56ad1d5ca2f8d41748546bd8cb0639fbe0e8e92d341183cfd25.ctv
 [HD]tr: boss movies 8 hd,https://epg.pw/stream/d844a4c564a9172b372395dd97d18babd47f0692b6dddc0b049b78ae07b4b66c.ctv
 [BD]tr sinema tv aksiyon 1 hd,https://epg.pw/stream/855545950433e62b08a272361d5ab1fea0fa97ae57c804b4761539ee870ffa61.ctv
+[BD]tr: max vizyon 2 hd,https://epg.pw/stream/6cd469023b42f4abb28bb2ea2d0a4f035f83422a91300505a0c51bb0c47d4df9.ctv
+[BD]tr: max vizyon 3 hd,https://epg.pw/stream/c122b6653465f544895eb7262f36c2973e4e25162bbc1a2f1a8501d6166c5714.ctv
 [BD]trt 2,https://epg.pw/stream/d88b38a3162f22a069a60c3357d9d8e936c394629f9d552c82c5f5289071949d.ctv
+[BD]tr: horror 4 hd,https://epg.pw/stream/a4de14253a1a23d80a1983b1f44a7d791b26dd5b855b6d759f5d16248b44fe3b.ctv
 [BD][thái lan] true 4u,https://epg.pw/stream/c8575af53ccd1a82f577f7c0c517b16f3e589465d872bf291ca31bc5a533d212.m3u8
 [BD]trt,https://epg.pw/stream/20116a90124a5952ae8dac83f889f24e19707a2b129f1c6d6bcc5a8f877559be.m3u8
 [BD]tr: turkamax salon 7 hd,https://epg.pw/stream/4a9b6e4cb1813f98bd757408ffd318e0d9749189a162ac6d09ba0217dbd43068.ctv
@@ -178,6 +199,8 @@
 [BD]Dubai One (1080p),https://epg.pw/stream/a6d26df9104add922e8efa53ec52265aad8e3c97c39a2dd8b30d88ef7bb45c2a.m3u8
 [BD]Dubai One (English),https://epg.pw/stream/1ba54ac5be8d0115d3f86076f1416a28f53066bbc37c2d6c5a23dc95450b9b89.m3u8
 [BD]Dubai One,https://epg.pw/stream/e749c97a0cb7e5e7156284759298bfafa8390e9535ff7cd0b177221b7fb50f46.m3u8
+[BD]box  office 1@@1,https://epg.pw/stream/c135f02d84c9c428bdccad80b417b88a8a9d86b2bd024c7b9914b2c7bd9884fb.ctv
+[BD]box  office 2@@1,https://epg.pw/stream/ace050d68f6b312f47c06d39fa35d57781dac44c1f4428d2bc7fb7279227e2c0.ctv
 [HD]cartoon network ar,https://epg.pw/stream/fe627c787d97646a52ba410791760473d8548d9dcd85fbde7d635f9b6fe39130.m3u8
 [BD]ABU DHABI SPORT 2 HD,https://epg.pw/stream/46245af9db9e273402f89af80b48afe729d164babaae91cb328db1319b0e73f8.m3u8
 [BD]Dubai Zaman (UAE),https://epg.pw/stream/a5f282fba387fff8241769b54c274667e5793c4873a93efa5df78e9259a8658d.m3u8

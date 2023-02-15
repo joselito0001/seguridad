@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Test",[HD]24 7 fbi
+https://epg.pw/stream/e3e885f6c2b78c8be355b55e9d43d2408a2048cdc703b9b94ff480d7edd9f4db.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Test",[HD]24 7 fbi@@1
+https://epg.pw/stream/406c2efe8665850a3eb07c971ccc3920e44f15d3bef9114fb7c9d9fb179bf9a9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126223124883956_82.jpg" group-title="Cartoon",[HD]ani@@2
 https://epg.pw/stream/cd874c4a1e0d5d62415d87c281b968864def8beddefe8de74f8c5d1caffa9637.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Armenia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126223124883956_82.jpg" group-title="Cartoon",[SD]ani

@@ -62,6 +62,7 @@
 [BD]凤凰资讯@@5,https://epg.pw/stream/3a9e351b2f46bb0d9ef193f625497509aa0da0a25292e75540f1b19b580dfc3e.m3u8
 [BD]凤凰资讯@@2,https://epg.pw/stream/ef8f308411b0f51cc284e5772d01f50041155ec89673e3afebffe44f1ff74698.m3u8
 [BD]鳳凰資訊台,https://epg.pw/stream/882730cc7a4669ef53527285b9547e69812ff29e4a3df15d6af82c8022eedd9f.m3u8
+[BD]凤凰资讯@@6,https://epg.pw/stream/18307e00fb327b1127ee196901644f4a836f0ea257c40c71223fe83c284ddb28.ctv
 [BD]鳳凰資訊台@@3,https://epg.pw/stream/129ad761b453c8c74a8558bc65959eafe832720efda7ebb5c5ac2758d9481c46.ctv
 [HD]凤凰资讯台,https://epg.pw/stream/aef5afc23d16d0d5de2987743098fa1f3e8f87fbdb91b6d9baf25c0b7a819f64.m3u8
 [BD]凤凰资讯hd,https://epg.pw/stream/c3ee8a775b3da13c6c9740371c088ef420cc0e639f1154b82080e400ed27906f.m3u8
@@ -104,7 +105,6 @@
 [BD]凤凰电影,https://epg.pw/stream/3faefe9496fcc77a959a89eb0605e8c02f77cdc477845c6c7f2e9dc2a677a70f.m3u8
 [BD]凤凰电影,https://epg.pw/stream/0f1d0ac861db75da20b47738aa5bf789d32129acb76481dd281ee09d4b9d33a5.m3u8
 [VGA]天映頻道@@4,https://epg.pw/stream/283129c46a57b5fe7ce6f887bf1c6c904493e7149e4f455ef241103787e2933c.m3u8
-[HD]天映頻道,https://epg.pw/stream/3546910be5fd5a178b87e31284e210a77107e63f7c40e551a09c145bc86e6b81.ctv
 [VGA]天映经典@@8,https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
 [VGA]天映经典@@2,https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
 [BD]viutv@@1,https://epg.pw/stream/1e7bb7235023e17ca55b0b50d7206179af5a35b23a1782d277bb12138e5cb0fd.ctv
@@ -113,7 +113,7 @@
 [BD]viutv6@@1,https://epg.pw/stream/0e941b2c1035fa1e4fece8c781babb30dc76d2126459a962c0978b167c13b0cb.m3u8
 [BD]viutv (1080p) [geo-blocked],https://epg.pw/stream/4ffd325f7a417cf226dbd382e60e16ec600bec331193042bb50161ff2ad05d52.m3u8
 [BD]viutv 6,https://epg.pw/stream/1b3221dfbc9540b0ac420d9a7e164851b2644014eb9b54f44bedfa22b355a884.ctv
-[BD]viutvsix (1080p) [geo-blocked],https://epg.pw/stream/2357283ac377d89b6989ba9c18bcc3a2f79e0b03a5be92de154cc8e1f6d94338.m3u8
+[HD]viutvsix (1080p) [geo-blocked],https://epg.pw/stream/2357283ac377d89b6989ba9c18bcc3a2f79e0b03a5be92de154cc8e1f6d94338.m3u8
 [BD]viutv (720p),https://epg.pw/stream/9b38087d3a32b799c50e6303ed8ee52f05e4dd94098bf0fceafbf3dad6bf064d.m3u8
 [BD]VIUTV6@@3,https://epg.pw/stream/fcf95dd8bb482a2b4835c20e918e735ab502980124329b404d78151789405d52.m3u8
 [HD]香港开电视@@1,https://epg.pw/stream/2ecf4ab39d4f1d7ea87f377c04bf91dfcbadf2c4737afc5606846f4b53463297.m3u8
@@ -143,6 +143,7 @@
 [BD]无线新闻台,https://epg.pw/stream/3141803008aa295d33381f60eb89478e9b18d2f6f4df8f2752b1cf8528d54fed.m3u8
 [BD]無綫新聞台,https://epg.pw/stream/9680caa2edcb2a263347445674dee3eb7f709d4146bc14152053199056bcc0b2.ctv
 [HD]无线新闻@@1,https://epg.pw/stream/ccb9113b6a43c458509096f0d65129eae5134c2a328645cb7d3b0c39ceb3d2ff.ctv
+[BD]无线新闻@@4,https://epg.pw/stream/02e7217088d1c11a746f62ca254ffa7a4875a06b5ccef155ffa674b68044e1f9.ctv
 [BD]无线新闻@@2,https://epg.pw/stream/9935b3fe41742bcd9ab3c87a824748176c27ab4bcd1dad42364f32057c87c677.ctv
 [HD]无线新闻@@3,https://epg.pw/stream/4ea545d5229dc1424ed5af345fe1465bdeaafc624c7876a5184c8972e9d9396a.ctv
 [BD]有線新聞台,https://epg.pw/stream/7abb778cbd7824bd9813d3e851d56a3b3acff5d355d320cd9ba33c513f0d9456.ctv
@@ -191,7 +192,7 @@
 [HD]MTV Spankin New(台灣版),https://epg.pw/stream/1e50ce18bed45c5ccaeb366b50170c8015e77aca038f8f71d12a049c0584c504.m3u8
 [HD]MTV,https://epg.pw/stream/67332852719485444d13a6a7b35857b11c86ddf7e7fa42e0265d1a3c8cc7af68.m3u8
 [HD]甄子丹,https://epg.pw/stream/9b7bf934549b4ffe648e8921a3928d427b05e34b2a2e77e0c6f9e4d293d974f3.ctv
-[SD]甄子丹@@1,https://epg.pw/stream/278dc8af8c02e65214686ea8e3561fdc76d99c7a80b41359475a7299ad5957f7.m3u8
+[HD]甄子丹@@1,https://epg.pw/stream/278dc8af8c02e65214686ea8e3561fdc76d99c7a80b41359475a7299ad5957f7.m3u8
 [BD]甄子丹@@3,https://epg.pw/stream/4229e77abbaabe26666c4ee25c15ebc4aeeb579ad4b7dd1794093eb15a44f50c.ctv
 [HD]甄子丹@@2,https://epg.pw/stream/c7f2f47a346a0175338f70fa5cc0b29b3ebc73193ee6adbadb3c613a11467fd6.ctv
 [HD]有线直播新闻台@@1,https://epg.pw/stream/1af2e4369d5fff282eba5a264aac98bbdf8adc3521f8db3e031c1655dbb2d804.ctv
@@ -200,17 +201,14 @@
 [BD]-77 tvg-id="" tvg-name=""桂林象山公园桂林象山公园,https://epg.pw/stream/68769e477b41973a29a8d3793c81f3d4bf883f5fa487c5afcee6bf17c7d5dc4c.m3u8
 [VGA]77號[720*540],https://epg.pw/stream/9046b787d67276c32053f9044d1d008e63dc18f1deca3622aa5789e9447d48ae.ctv
 [VGA]周润发,https://epg.pw/stream/985f643dc4e342f80383a7c212dcdd4a6f6e330eb46d8d1a4e7b6ef77a00eb58.ctv
-[SD]周润发@@2,https://epg.pw/stream/26e94092d31f1d33a820d9c1a5ee350831e4a3ae4b9c68912be4554add491e6d.m3u8
+[VGA]周润发@@2,https://epg.pw/stream/26e94092d31f1d33a820d9c1a5ee350831e4a3ae4b9c68912be4554add491e6d.m3u8
 [HD]周润发@@3,https://epg.pw/stream/e2ad80910e7c0cce962655176b38e9d33e60b05dcd3cdc94503836bc47c90ec3.ctv
-[SD]周润发@@1,https://epg.pw/stream/f66ef03f534317f217768a6c74f30c547a181e1cd89c4b56fe4aa99979026868.ctv
-[SD]周润发,https://epg.pw/stream/9d2fb574af4a3c841e0189ff48691c461d0705a74c28197f04d72bb5f44dc62d.ctv
-[BD]周星驰,https://epg.pw/stream/f9ed87f633db10ef43ec10fdb393e92395047e39777c24fc2c21c4fc2095c272.ctv
-[BD]周星驰@@1,https://epg.pw/stream/b674d5cd8edb1903f0ad96bcbf9adbe20f8287bbebe6e4b7730e4757dd91cca8.m3u8
+[HD]周润发@@1,https://epg.pw/stream/f66ef03f534317f217768a6c74f30c547a181e1cd89c4b56fe4aa99979026868.ctv
+[HD]周润发,https://epg.pw/stream/9d2fb574af4a3c841e0189ff48691c461d0705a74c28197f04d72bb5f44dc62d.ctv
+[HD]周星驰@@1,https://epg.pw/stream/b674d5cd8edb1903f0ad96bcbf9adbe20f8287bbebe6e4b7730e4757dd91cca8.m3u8
 [BD]周星驰@@2,https://epg.pw/stream/2944f5d6d09d2078842c4f626eeed046b9e321aed8b2192f6911421e8a6c62c4.ctv
 [VGA]6台电影,https://epg.pw/stream/4d49464710ff292efdc570e4e661a8018e2d592052122ab819dcd1ca3b9e92ab.m3u8
-[BD]hk: now sports pl 3 hd,https://epg.pw/stream/3f60d4e20b4eb5a9d7f44505c3170732795e8ee9bab15e84fb0ffe40ec517c28.ctv
 [BD]hk: now sports pl 1 hd,https://epg.pw/stream/911ff741fb607b7ed7000ddb521041dca26d61e82a5341917fd939e9ebfe511b.ctv
-[BD]hk: now sports pl 2 hd,https://epg.pw/stream/d644088b278ee739d29c73e5d949c01600ce9b803ac6669b79043134cafac876.ctv
 [SD]環球電視,https://epg.pw/stream/3dcd86fd601157a426509785b48349c89a146256371d76a10e90ebc9a8c15d51.m3u8
 [VGA]热血时报,https://epg.pw/stream/bbf832de1ac33f0cb417588d3a0205f0722961d18a6f867e3c7b4b023fcad209.m3u8
 [SD]立法會直播 (legislative council live) (720p),https://epg.pw/stream/9bad8e9d546590cf0e283aa0c9a68af8285bf5db0d264d6ddf7fe80f67e92e14.m3u8

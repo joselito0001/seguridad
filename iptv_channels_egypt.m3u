@@ -109,10 +109,14 @@ https://epg.pw/stream/ab9fa7d087b349d2eaf319df0af57b9b55bcc02b4ee97e2b9b6f137c9a
 https://epg.pw/stream/07c544b9a3acc1d627b0db00db33c9360aa8c574f52514c2f408206ce01763db.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174234972704_14.png" group-title="Generic",[HD]cbc
 https://epg.pw/stream/ba2a742632484edabd434f3eca767da97b7ebf6a6e31b9a7864ac35e307220d6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[HD]ten
+https://epg.pw/stream/142c75a942d578620da777a0c1b2aeae0cf78b1cf8cd95235a9f38048f530e80.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[BD]ten 1
 https://epg.pw/stream/8465e257c051a37efb7719dfd3a5dd388d70f9c36f4a23ad9636b341a7aca8ae.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[BD]ten 2
 https://epg.pw/stream/53b12f8938864c923343bfaeec0768b0ba09180aa97113522f844edb9262fbfc.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[HD]ten@@1
+https://epg.pw/stream/2c1de9072030371ff6b031643498a879ec231e26741a5e635fb26c1f01850bec.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223906569045_86.jpg" group-title="Generic",[BD]mbc masr
 https://epg.pw/stream/ac550b8fd5d3430579f6070d7262dff9ea62f10db9838ee43292dcb001d3e0a9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223906569045_86.jpg" group-title="Generic",[BD]mbc masr+
