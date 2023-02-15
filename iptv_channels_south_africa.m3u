@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174955319209_30.png" group-title="Entertainment",[HD]ort
+https://epg.pw/stream/d74f5053b04d7f091e4c00e2a231c3a95a234a390fac6e15999e52e6ec4526dd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/02/large/20200402190044507768_30.png" group-title="Entertainment",[BD]trace mziki hd
 https://epg.pw/stream/959e625377c57a9340ccf0b9f54dd7f29435542bd27d051f85db6e52dfbf3a7d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[VGA]Business 24 Africa (480p)

@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Belarus" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174934619794_81.png" group-title="Entertainment",[HD]беларусь 24
+https://epg.pw/stream/f5aafe6816239673cf2845ebd51cd5317ec124b791613a1ca8267183c36e08e9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Belarus" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174934619794_81.png" group-title="Entertainment",[BD]Беларусь 24 (1080p)
 https://epg.pw/stream/839367ca0ef6d021ead61d1825f20c8b7e4f782e4be7107af9045ec150754c3c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Belarus" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174934619794_81.png" group-title="Entertainment",[SD]беларусь 24 (1080p)

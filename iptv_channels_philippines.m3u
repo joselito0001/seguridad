@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[SD]tv5
 https://epg.pw/stream/14e7cf7182ec75491a7418a565ad7cc0ca38b80f610f22b6711aa332fb7db33d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[BD]tv5 monde lbr
+https://epg.pw/stream/29a4f41364e76bca7c09f85cac1e6079c61b067450d959bfe46701a43f374b6f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[HD]TV5 HD
 https://epg.pw/stream/55cc6b839de515f37fc4d5c6892e145adfee990b4d135f39b4a3432a4b92afca.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[BD]TV5
