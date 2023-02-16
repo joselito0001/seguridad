@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/02/17/20160217035539468790_54.png" group-title="Entertainment",[SD]entertainment@@2
+https://epg.pw/stream/61192ebfafeea9dd2e4f2578622de18399d92010d48a040d60f26d706f2c1f4d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174805760332_24.png" group-title="News",[SD]channel 44 (480p)
 https://epg.pw/stream/4f0d90cdddb3d5bd73152673804f0d33f3ca1c9d4e3638e715e80d0283365852.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174805760332_24.png" group-title="News",[VGA]channel9

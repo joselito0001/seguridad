@@ -3,6 +3,8 @@
 https://epg.pw/stream/1bd9ba88ff7a4bf581168e7ba6bf29c6bee1af48e7091266c91e92a29d1be87a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201083942160750_62.jpg" group-title="Generic",[SD]TVP
 https://epg.pw/stream/f728a8f1b9932e6c51cf7a8f4d3fe7af94d3027f2e17a8c50a6ccabc451bf1fa.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201085053485257_58.jpg" group-title="Sport",[BD]tvp@@2
+https://epg.pw/stream/de58b3379f2e03dace995aa8fec4b890ce9d42891fd77438c545a2ad5dcc0285.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201091201751905_20.jpg" group-title="News",[BD]polsat sport news
 https://epg.pw/stream/821dca68e9f54fb0c0458fe2e35b35e98f8b7c924728450f14e980003293043b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020314427622_85.png" group-title="Sport",[BD]orange sport 4@@1
@@ -13,6 +15,8 @@ https://epg.pw/stream/eb974cf1b87cf35d07dfecb75f7be992d06aef3f78582825c9dd7d0ba8
 https://epg.pw/stream/2454777e0548adc954779cb091dc065bcc0be5afe49b69f6bf04170f705e8a20.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020314427622_85.png" group-title="Sport",[BD]orange sport 2
 https://epg.pw/stream/259aee68a70713247b516c4b22c44448b391a23ae2cac6548155d6ca01c4a9fe.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/11/27/20151127165000786990_35.png" group-title="Sport",[BD]win sport + op2@@1
+https://epg.pw/stream/426fd6852238d776fdddcc248885f3f40e868b3e68c167adc71d96ab9ae0888a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]polsat sport
 https://epg.pw/stream/58b0cba04366b6429f956148b223794a9dbc5fa5d0057d96b999d7ebb668bc3c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Poland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020434313812_92.png" group-title="Documentary",[BD]docubox

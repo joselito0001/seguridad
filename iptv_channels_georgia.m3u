@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/19/20161219001654631503_53.png" group-title="Sport",[HD]universal@@2
+https://epg.pw/stream/0eb9fb5341c455de23b051ff3184b82be552c4da98781f4419951b15e1cc971f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/images/channel/2020/04/23/large/20200423204734305666_79.png" group-title="Generic",[HD]formula (1080p)
 https://epg.pw/stream/ad2191183065945c4d7e966e53784d36afecea3f439a821d3a90e53686711fbe.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Georgia" tvg-language="Other" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/11/20150511071903763840_46.jpg" group-title="Entertainment",[BD]tv 8@@1

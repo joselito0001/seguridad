@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="4243" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Generic",[BD]tvb 翡翠台
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Generic",[BD]tvb 翡翠台
 https://epg.pw/stream/0ba50305292a9bc0327bfb4176558d2f9c06f40b5c5d3572d7794bf29f110a6f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="Entertainment",[HD]J2
 https://epg.pw/stream/ab47b06cc83ff41f0008b36fa8134561d6c45a5becf165220f397db5c508f54e.m3u8
@@ -309,13 +309,13 @@ https://epg.pw/stream/61495a1b52e4e6c46419f900556a94704dd8f10599d743d057562fe956
 https://epg.pw/stream/87e4ce48586f43cd1c898f12c5df8371f6ad9c67d49a02c07def68f1225a88a8.m3u8
 #EXTINF:-1 tvg-id="2856" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005324551300_94.png" group-title="News",[HD]有线新闻台
 https://epg.pw/stream/b99051aca74ecd35b325972a7143fbf0d26753cba96ea9be2055b4f343303319.ctv
-#EXTINF:-1 tvg-id="4321" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[BD]TVB J2
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[BD]TVB J2
 https://epg.pw/stream/b4ba65b83aa7988196f3e5c7f7f8e207d2768d57cda5904434a9e40fe969f2a0.m3u8
-#EXTINF:-1 tvg-id="4321" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[BD]tvb j2台
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[BD]tvb j2台
 https://epg.pw/stream/cce2382c0768bcfe2819016d32fc9c33825e2bf601f57c9d834ed338f4a7217a.m3u8
-#EXTINF:-1 tvg-id="4321" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[SD]tvb j2
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[SD]tvb j2
 https://epg.pw/stream/7841a355df234a25812542fd270a8c0e89d6e54fb40168da982bdc521da9a377.m3u8
-#EXTINF:-1 tvg-id="4321" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[BD]TVB J2
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719175907881009_48.png" group-title="Entertainment",[BD]TVB J2
 https://epg.pw/stream/22fbfa76cee14a69c9be831c3b1f6407a849d414423ed8566798713300eb5f51.m3u8
 #EXTINF:-1 tvg-id="2738" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/07/19/large/20220719182329275190_92.png" group-title="Entertainment",[BD]2
 https://epg.pw/stream/c92ceb2812a7d176c9967f2642625960ea541e4cbc7415d13f28e85d66b64249.m3u8
@@ -419,6 +419,8 @@ https://epg.pw/stream/b674d5cd8edb1903f0ad96bcbf9adbe20f8287bbebe6e4b7730e4757dd
 https://epg.pw/stream/2944f5d6d09d2078842c4f626eeed046b9e321aed8b2192f6911421e8a6c62c4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405224938849843_83.jpg" group-title="Movie",[VGA]6台电影
 https://epg.pw/stream/4d49464710ff292efdc570e4e661a8018e2d592052122ab819dcd1ca3b9e92ab.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023213623274855_50.jpg" group-title="Entertainment",[HD]atv@@9
+https://epg.pw/stream/2467dc169cad521e2972d17f32e66b97a387c88661ce5aa102d98f3e70d73b55.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png" group-title="News",[SD]環球電視
 https://epg.pw/stream/3dcd86fd601157a426509785b48349c89a146256371d76a10e90ebc9a8c15d51.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090919815794_35.png" group-title="News",[VGA]热血时报
@@ -429,6 +431,8 @@ https://epg.pw/stream/9bad8e9d546590cf0e283aa0c9a68af8285bf5db0d264d6ddf7fe80f67
 https://epg.pw/stream/9073706edc0368efaab3d3255f44560955ffe7a416fe6a952159026dcd80bf1c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806001817500267_79.jpg" group-title="Generic",[BD]香港衛視文旅台
 https://epg.pw/stream/a8327222db7af713ac8eb65da5a25ddde9d5817ca5f463f800f77419f2c082a2.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="Documentary",[HD]discovery kids@@5
+https://epg.pw/stream/f07535b1299d52060c9d56c1596ce241d0f7b1555a3f426dd3b33a3d009b3794.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="Documentary",[SD]discovery kids sd
 https://epg.pw/stream/7ddcf1dc1636c9d612dee1c437d86488c4d312cad302781ab37ac91abf0d505f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="Documentary",[VGA]discovery kids

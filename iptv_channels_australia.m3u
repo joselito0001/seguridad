@@ -5,6 +5,8 @@ https://epg.pw/stream/2f0d1167115c094cb40bd733d6261406b776baf89e1bfa341618a95330
 https://epg.pw/stream/a7a1901f0d357c57518f8a1647c7af355951d97cdcf0fd4e37aa6352fe2db972.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602000736620801_54.PNG" group-title="Sport",[VGA]50號[853*480]
 https://epg.pw/stream/ada1b70b2009ff99509383a9ada4390e4b1e0a682d7ad7120d8c4fb4109a024c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[SD]abc australia asia@@1
+https://epg.pw/stream/aecf69dd57b5036f3df2635db0e0578ba400622b1c4ac3782a39c174463c11d5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[HD]abc australia@@1
 https://epg.pw/stream/7879168b907a8a2dd572d648eabf3fa216ec5a1ed8e7795f987c87f2ff636553.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[HD]abc australia
@@ -15,10 +17,14 @@ https://epg.pw/stream/1b4006c6ce131a86ed65b55f511a05b1d053c9012ca2968455a30ec22e
 https://epg.pw/stream/8922f9485a3fde25c9cd4b27d973ffbc858395cd493ea323c467562ace5120ce.ctv
 #EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[HD]abc tv (720p)
 https://epg.pw/stream/3473ae56c1cbac182647166c9ca767235d50bd69cd5f659df85a8390684c6469.ctv
+#EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[BD]abc tv@@2
+https://epg.pw/stream/41cd1407b4c241b36d1840decbc7cd53936096e4f0fc87060edf7735d2bb02d6.m3u8
 #EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[SD]abc tv (720p)
 https://epg.pw/stream/6095824a853c1f273c4593e4b84dbba69bed408d2ffa393c089ff3697a0e1b4e.m3u8
 #EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[HD]abc tv
 https://epg.pw/stream/c264b0ac58f990b395aabf07256eb27098b50ec6ba2e91f6fdd0d23aca8321dc.ctv
+#EXTINF:-1 tvg-id="15540" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/22/large/20221222000503219956_52.png" group-title="Generic",[BD]puls acht@@1
+https://epg.pw/stream/803dbe97c305ea804a057f4165d90632d553c5c42808253769a011085e66f98e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164601508683_76.png" group-title="Entertainment",[BD]viceland
 https://epg.pw/stream/075bb57792615eee22a63aae4d974365f9d1dcb9d83ed3c9addf54e3f6b4b5e0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164601508683_76.png" group-title="Entertainment",[BD]VICE

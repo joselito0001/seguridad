@@ -32,6 +32,7 @@
 [BD]sony one 2 (192.168.240.24),https://epg.pw/stream/4a754285147b9bd00772d1a5f7efc6a709476f55b848d6585cf94ca0841c7f06.m3u8
 [SD]hits (576p) [geo-blocked],https://epg.pw/stream/471ead7963a07b199dd1d0b3bee3c517636bb9528f856c3ef3d9e5298124927a.m3u8
 [BD]hits,https://epg.pw/stream/5579461ff245f4704794a8ac9e7a1432e49b53ec8fa56e64dd2c383d575fed9b.ctv
+[BD]nrj hits,https://epg.pw/stream/728d3cb46891565ab95b15fba67afe8f7a9251a0de67b37502fd9761fc0af21b.m3u8
 [SD]HITS (576p) [Geo-blocked],https://epg.pw/stream/cbee114700ec9e171a355d54c764e9003b78af6cbd1438ca9568492d68ad15c1.m3u8
 [BD]hits movies@@3,https://epg.pw/stream/ccccca3eccdc08cac358a30d745624c9ec4d4c7db89781cf830425bfd4aa0046.ctv
 [HD]hits movies,https://epg.pw/stream/a4c13dc9b11937dd9c6dfa2a940103f75e934623a6d9f7b6d80c892ad4fd3a03.m3u8
@@ -54,6 +55,10 @@
 [VGA]Thrill (576p),https://epg.pw/stream/ea1d457f6b599862a88f7024a062c43c45e2d4472d0a0d476b2cde1b7bbbdd0d.m3u8
 [BD]suria@@1,https://epg.pw/stream/e61613eeb8da82ceb5dd6b8c21e0a4d4e5b7db5836c1dbf6fd614932ee0e1e4f.ctv
 [BD]suria ,https://epg.pw/stream/9a7da22263d88ac0f11223bfc2cfcc85b5275f3e2de8217faee9f3d77e20beaf.ctv
+[BD]soccer channel@@2,https://epg.pw/stream/5a8e605bc3dd8eb9ac14fd477fd4d5ca986780ae6a1710e9465ab1736ee042f2.ctv
+[SD]idx channel@@2,https://epg.pw/stream/da8a4651932a8a2ff2ef5d8613f3a42f53260b6d0146bd9645e21ea685121cea.ctv
+[SD]soccer channel@@3,https://epg.pw/stream/70ffe63d840d3d013b5447490c76142566320f681d57859a5cb8769ad30e1a3d.ctv
+[HD]ashoka channel 2,https://epg.pw/stream/607e2aff15e3bc7d756c762b38aa811ddfa35416b8891f247210208c9ffa3cc2.m3u8
 [BD]Channel U,https://epg.pw/stream/c2d85d73532c06686dd7b451874e9621a9746f6ea60ab0d94397b6fe1f433f4c.ctv
 [BD]channel 5,https://epg.pw/stream/5b3c0f6f110edffc569ef9eb0064a96525debfeb97ef759b8ba6879fc67d5f44.m3u8
 [BD]Channel 5@@1,https://epg.pw/stream/8b9545a02a39d0d8b90b70024f51ecd6e829fc9a7f6eafb8cf4e97ab334abba7.ctv
@@ -68,6 +73,7 @@
 [SD]cinema world (text indonesia),https://epg.pw/stream/75cb8838d09828f61395b2c9aeb9fda7a6e346b4e5fe3df74e1aa2225e443f1b.m3u8
 [VGA]cinema world@@1,https://epg.pw/stream/72ec2bbb78256c6c596e51763d227bb2cfeda512609cf61c20a8b2328ea3ecec.m3u8
 [BD]cinema world (192.168.240.45),https://epg.pw/stream/a52282f50276877e8a861903ea3f8e134bf4eb30fc278926edc91f38e243c0fc.m3u8
+[BD]swantham,https://epg.pw/stream/dadeef8e1aa24e286b07fd6b65df7b90b2842d138e1c04ed78cc8bcb33f74db7.m3u8
 [SD]diva,https://epg.pw/stream/bef8b61fd5614a64dcfeee2168ff31b11662da164a3b04d915d4d5b57183c2ea.ctv
 [HD]comedy central@@2,https://epg.pw/stream/81191ee69c7b3e45e1a10e80e4653bcb008cde678ed8bcf4badbd2cf9e66d48b.m3u8
 [HD]comedy central sd,https://epg.pw/stream/f6bb3e5863af8d0e1e703a587cd8665a2fe602950498c5d1380ad9df43cb6ee2.ctv
@@ -88,10 +94,12 @@
 [SD]pac 12 insider (1080p),https://epg.pw/stream/a058c3578255908f68435e2a8d9c17951ed76d1765aea772a6ecb5c75472c231.m3u8
 [SD]pac 12 insider (1080p) [not 24/7],https://epg.pw/stream/b6b58c80d3db600723f49f5346737d402f03cf023319b8aaac923572459cfbe2.m3u8
 [BD]Pac 12 Insider (1080p) [Not 24/7],https://epg.pw/stream/e28598e208cb20d82107bc6903dd6c05752a1580b4757c6ea475f068ba07e2da.m3u8
+[BD]mi tv@@2,https://epg.pw/stream/c570702a8ccaa59e05ef25c8a3ce3a684662dc7ad4519422a4dacea8a6232ec2.m3u8
 [VGA]sony gem,https://epg.pw/stream/f97c4f82c952b72f139d20018dd69de8adbdb399b9ea74dba0ffdb449fa02e4a.ctv
 [BD]sony gem (192.168.240.29),https://epg.pw/stream/90c5ad97f3f33de9e19c26fee6c599a55486d442202c17c8e440a7f4886dec8b.m3u8
 [SD]BETV (360p) [Not 24/7] [Geo-blocked],https://epg.pw/stream/6e4acf214734c68c5000887fc4e430927fb9f8eb2bed2339c08276caed3d6d8d.m3u8
 [SD]betv (360p) [not 24/7] [geo-blocked],https://epg.pw/stream/60c19d578ff46d9ccd5761cfc1a1983379550400f9b16afd136d1d70702ab420.m3u8
+[HD]history channel@@5,https://epg.pw/stream/67a96ec3e563b54ad50dc5d2d63edff9ebc7b46fdfe103ff17ca6c33169255d6.m3u8
 [BD]history channel@@3,https://epg.pw/stream/632e865b83856fb9cfb8152f65d64726939cbb654b430f404ab87280028c59b7.ctv
 [VGA]history channel@@4,https://epg.pw/stream/8d545808124ca5db7c2e72f8e4fa17473751aa9b90d1f89996aecd6e0cf779fc.m3u8
 [HD]history channel@@2,https://epg.pw/stream/43e2356aefc23533931c07d38b03bcd13e24895fccbd5091b83559b82abe4875.ctv

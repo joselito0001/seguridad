@@ -1,12 +1,20 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184647158803_89.jpg" group-title="Generic",[HD]Señal Colombia (1080p)
 https://epg.pw/stream/016bca380ba4f959e82c8e93fdd297b77ea69fdef6db9e022f201b759791bf6a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184647158803_89.jpg" group-title="Generic",[HD]senal colombia@@3
+https://epg.pw/stream/ec1a5b3a4f4da774f71faeb09d2c48f94f78e4eaf858b5b14c77ab75eaf1f8be.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184647158803_89.jpg" group-title="Generic",[BD]senal colombia@@4
+https://epg.pw/stream/19b9c93e353aba1b07230f750663b379746d73a5b5398b2b15fa6da32abff3c2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184647158803_89.jpg" group-title="Generic",[SD]señal colombia (1080p)
 https://epg.pw/stream/fdd80c8ccf6757e27514ee7d8a33e351ae82bfa3cbb4438158325593dc6ca32c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184647158803_89.jpg" group-title="Generic",[HD]señal colombia@@1
 https://epg.pw/stream/3989bc734dc7febe3a523f11fd717a9ea4af1e65a12cb5ac87e9902a84ebef38.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184647158803_89.jpg" group-title="Generic",[BD]senal colombia@@5
+https://epg.pw/stream/c7ec979a2bf5efe576b2042812b71b425f7af195ab6f058736f44d7ba64a4b90.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/21/20151221075821841834_38.png" group-title="Sport",[SD]win sports +@@1
 https://epg.pw/stream/5e184a48703d56da9ddeb0a540617ed6704517bc48c6f8353192fe99c732f5ca.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/21/20151221075821841834_38.png" group-title="Sport",[BD]win sports + op1@@1
+https://epg.pw/stream/d33ed59f52b7584e7df357ebcf73e847955e7e7495ed693051d2f312bb24a7fb.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/21/20151221075821841834_38.png" group-title="Sport",[VGA]win sports
 https://epg.pw/stream/5a0317652136dc14364523db53c971969646b071401b80830fe22da280562a00.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/21/20151221075821841834_38.png" group-title="Sport",[BD]win sports@@2
@@ -21,8 +29,16 @@ https://epg.pw/stream/83e7f7dd30ca9026a7a0ee00814c2e7970c4086def250735e7ae07e6fa
 https://epg.pw/stream/fe49365254a1070b312c4e820bb2b7393f426c51ff2bb9b2215d9eaad3d41c9f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175004656765_58.png" group-title="Entertainment",[SD]HSE24 Trend (576p)
 https://epg.pw/stream/30965bebc7bcbf728239e12a6948d580de8664dce92d002ce0cbd5c5f1c387f8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519113244795760_92.jpg" group-title="Entertainment",[BD]guatevision@@3
+https://epg.pw/stream/33a1fa04488d6fc2bb20a998dd110d6a55c202c57ef5bf44d23e4a4398f443ab.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519113244795760_92.jpg" group-title="Entertainment",[BD]magna vision@@1
+https://epg.pw/stream/b4eed1b615676c9afaf9a681cd18495a845b0af932e64d043ba6f6c283aad18c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/03/21/20180321214520359329_17.png" group-title="Entertainment",[BD]cananga.tv
+https://epg.pw/stream/24b97a51d718ef6686a6d713a7e7d02b27c03e6a94488b26a8b34c116dcb810b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/03/21/20180321214520359329_17.png" group-title="Entertainment",[HD]NTV CA
 https://epg.pw/stream/882a723457c52823cfe1f29e63781fd5580ffe1a2ba25967491e4dbe6c4ce865.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205533259530_93.png" group-title="Sport",[BD]facetas televisión
+https://epg.pw/stream/37311253cef04cd1433bd6cea78b4a1b62646f96716c2e335e494271fa96686f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128185440157959_86.jpg" group-title="Documentary",[BD]canal caracol
 https://epg.pw/stream/2fba5b4c0e9954e4439eec216d6b34d02575cfa85f636ba061d2dd00fbee3e65.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128185440157959_86.jpg" group-title="Documentary",[VGA]canal caracol@@1
@@ -33,6 +49,8 @@ https://epg.pw/stream/c9ae6274326babafed7ef3ed23aadc1c75b280b2498dba89a744a0496d
 https://epg.pw/stream/f65f478ee96c638f778bf0a7a0889c7c4b6cced04577040a6a85d903cbce8838.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201115251253389_22.jpg" group-title="Entertainment",[VGA]telecafe
 https://epg.pw/stream/d1c4c921d2b26a99910e5dfadfaa0c87f779497422c72a7966a9324df3b13574.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201115251253389_22.jpg" group-title="Entertainment",[SD]telecafe@@2
+https://epg.pw/stream/a094c4e0685fe8c65ecd9c29784ce9db8014b3ba7f133a09045743a6c579de13.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201115251253389_22.jpg" group-title="Entertainment",[VGA]telecafe@@1
 https://epg.pw/stream/9a05966902b983c863b7ec531107483a5c5c06c0138bbb2f397e4936af5345cf.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201114946737247_45.jpg" group-title="Entertainment",[VGA]canal institucional@@1
@@ -41,10 +59,20 @@ https://epg.pw/stream/805620b3b5d31a415addda5ef44a872f987b123e72e31a25432b4b95e2
 https://epg.pw/stream/1619fccefe1b46d403706a9c810287d0389dcce31bfa5bbe29e67fcb2b83c95b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201114946737247_45.jpg" group-title="Entertainment",[BD]canal institucional@@2
 https://epg.pw/stream/0fe0f6875ab5fc442deef36c3620ff45c934975f483a0e569abf933a61358cb1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201114946737247_45.jpg" group-title="Entertainment",[HD]canal institucional@@4
+https://epg.pw/stream/dfacb9362067f1a61efed658404ee8360b040088035d991918692113dc9ee095.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201114946737247_45.jpg" group-title="Entertainment",[HD]canal institucional@@5
+https://epg.pw/stream/04a547ad49b1fba7f995e0178cf1dcae06650c86bd085b5150db8d6405d67123.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201114946737247_45.jpg" group-title="Entertainment",[HD]canal institucional@@3
 https://epg.pw/stream/9292b0dc8318750a2228b16170c6391183cf1ef480d5ee174b825b8a6ebb7719.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201114946737247_45.jpg" group-title="Entertainment",[VGA]canal institucional
 https://epg.pw/stream/d1ec8b21eaec7b3a7f7068c03bf48e9273b37a97695c47a3c24af82bf9441904.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174541273085_72.png" group-title="Entertainment",[SD]teleantioquia@@3
+https://epg.pw/stream/27ba1c307c736897826e012976b941c2e7a510a3e90585e8c733f11882724860.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174541273085_72.png" group-title="Entertainment",[HD]teleantioquia@@4
+https://epg.pw/stream/1635e7c41a7081cccb45b068bb49c1310c385094b448783a9426a5a96e8e2479.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174541273085_72.png" group-title="Entertainment",[SD]tele antioquia@@1
+https://epg.pw/stream/3a36d9902780c2e4b404629381b65300f646b497d50ed9c8a824e85ffd510104.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174541273085_72.png" group-title="Entertainment",[VGA]teleantioquia
 https://epg.pw/stream/77d3bc037cdc01072a7de7efab8ad3b98d9f472f50c5672c69c28e85a7e15ad7.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174541273085_72.png" group-title="Entertainment",[SD]teleantioquia@@1
@@ -69,14 +97,40 @@ https://epg.pw/stream/7fcf267a829e3cedb9489a53b043179f1af3cbe86c1691d893700ed580
 https://epg.pw/stream/4c41bf28d3315085e49ffbc3e234bd08752a1cf001066b50b4398b316170a607.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/20/20141220033912405167_86.jpg" group-title="Entertainment",[HD]azteca 7@@2
 https://epg.pw/stream/c34bc7057c74f7536c16ae99ddd446acf002641e6f2bfbc205c0261e32b87e33.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/21/20141221003916430445_74.jpg" group-title="Entertainment",[BD]cable noticias@@1
+https://epg.pw/stream/f08c63785d864d5b6b47564ed8ae30af6eff86f15875aa0003e279027092f1d4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/21/20141221003916430445_74.jpg" group-title="Entertainment",[BD]cablenoticias (bogotà | cundinamarca) (1080p)
 https://epg.pw/stream/fb48c0f01c11b047640e82af90e7fddb760866451fe7dc140a9e34dc05c4fe0f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[BD]rcn@@2
 https://epg.pw/stream/5d312fc82b09e9df84bd79ba3dae2f3555c16ccfa9b3a44d8539bf317acde2fa.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[HD]canal rcn@@1
+https://epg.pw/stream/c4215d67d4f86f14588d21e02de401fc2febc56b13730a6c7c9c2ba4029c138e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[BD]rcn fhd@@1
+https://epg.pw/stream/151b94b53fb57e083025d34af9f55c4e1dd61263602e8144be891b0ea3fbb265.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[SD]rcn internacional@@1
+https://epg.pw/stream/e71ce55fc4a9cf93c57abb2f639e7a2fa4a439ab98898a4a874ede71cebef2d1.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[BD]rcn@@4
+https://epg.pw/stream/f3c25abbce0d0b11b07be0b761d66942c405d2b91016ea0541014078ccb705ec.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[SD]rcn novelas@@5
+https://epg.pw/stream/e0e482c2d659c5a0a17ac44e3e4312d8bb49cb74c565973c53b1851c90f62acf.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[HD]rcn novelas@@6
+https://epg.pw/stream/51032d5942e9be8346cb8f41b76bc46e712559431174f4152ba62846bddc0719.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024753914274_45.jpg" group-title="Entertainment",[BD]rcn
 https://epg.pw/stream/412151a632c80cf6fa15cf1e55cf564cb67548588b6567f4c6dd08ec8254ce98.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]caracol hd
 https://epg.pw/stream/394f46d57fbe23bbb45d5b63a190a26e428303698a2a3d99e3b9066338cf14dd.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]caracol@@2
+https://epg.pw/stream/e933669f582cfc9ef948560de49459a1ace643bd5ce9923383478711da3be6bf.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]caracol internacional@@1
+https://epg.pw/stream/3e13319b2f7afc2a3cd1ed28cba8277881d28f84815f058bdc0dc3be3d460029.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]caracol ahora@@1
+https://epg.pw/stream/ee85496a19d3a9dc4da2b44eb445982670f47c832198220c2d369e7eb63583a9.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]canal caracol@@3
+https://epg.pw/stream/487d010c2706604ff208a40f8702b0e51dfc36551bc52736940488e73efcc04f.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]canal caracol@@4
+https://epg.pw/stream/37a3b15f90accddc1fd0a0b50f004f323e1b16937c534c2637ce1ca540cbe892.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]canal caracol hd@@1
+https://epg.pw/stream/e1d57593126f20766c3c8de1f235ce439c741d71fbef7bcf14056bba1987f66d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]caracol
 https://epg.pw/stream/f5aae99b9822e94e36eaf5dc20e48f08179ffbd88b058bc3865caca349db1aab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracol@@1
@@ -87,8 +141,18 @@ https://epg.pw/stream/c6cdfb44befe184ac89445441a92de5248a2aaa8f215187614ef6ba475
 https://epg.pw/stream/5677cdd35b69ddcf70a11bd3a2b67fddf6273be68f7e72a5fbcfc2c6c078ef95.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174800838084_73.png" group-title="Entertainment",[BD]televida hd
 https://epg.pw/stream/116eee40bff2697b42781042626471886c5f514b74c9400f65d97cba34933039.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/24/20150324100009652321_52.jpg" group-title="Entertainment",[HD]zona latina@@2
+https://epg.pw/stream/ecdee6be5f25454371a2053850b6c73176521b202b3713d4fa45c135471639be.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/24/20150324102241546965_29.jpg" group-title="Entertainment",[BD]tdi colombia
+https://epg.pw/stream/f07b99f85ca258c438a479a6ef772adfc5f429cc5f9059d6d5a2992e386308f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/24/20150324102241546965_29.jpg" group-title="Entertainment",[BD]espn 2 colombia
 https://epg.pw/stream/5906af6f73e2ba40fd78bf9ce6ff5ec21a8bbe3102bce7d75fab37910c90c81b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331021950079799_49.jpg" group-title="Entertainment",[BD]telepacífico@@2
+https://epg.pw/stream/4d188671f9306aa5c4d2b656a8a4d12105e08f8beb3b4be74ec50278bf294bc4.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331021950079799_49.jpg" group-title="Entertainment",[BD]telepacífico@@3
+https://epg.pw/stream/362a2fd39c1b2020aee5810832b2ecfff3e0e6c53924cf42fa7d1095eeb09930.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331021950079799_49.jpg" group-title="Entertainment",[BD]tele pacifico@@1
+https://epg.pw/stream/bdb12215ccac37904df461d6d3bfd77b1f0d15d6bba1e419146964b03b277af2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331021950079799_49.jpg" group-title="Entertainment",[HD]telepacifico
 https://epg.pw/stream/1cf6f03a0d4f4b08d7b4edcd02717c105c29eaf0125d0c10113d3d69797117cf.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174104552475_63.png" group-title="Entertainment",[HD]CNC 4M720
@@ -103,12 +167,22 @@ https://epg.pw/stream/42965b982c6b796f7e7c7f47fa94413c63add30ffd77cbde75dad2ad73
 https://epg.pw/stream/8e9e446227613b3e91b94d78b87bcec3d3f8033f80299965345e6414c731c42f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174104552475_63.png" group-title="Entertainment",[HD]CNC@@1
 https://epg.pw/stream/f36ed57a32f381bd1d073c563b983c5a962514d29b33ea718f2569732b39e4a7.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174104552475_63.png" group-title="Entertainment",[BD]cnc world@@1
+https://epg.pw/stream/603ab552cfd512f9e176fe7f06f8aa70d3c62ce60b87721246d332089c369960.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174104552475_63.png" group-title="Entertainment",[VGA]cnc3
 https://epg.pw/stream/0d76c343e1bb957c91406536af7bcc81dad43cc8bee082ffb98dd6ef8cf4a2d0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[SD]telecaribe
 https://epg.pw/stream/1b8f227840153c77ec0a9d5921318771e207f0d36c8a4696655f19632fbe6303.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[SD]telecaribe@@2
+https://epg.pw/stream/869f279c100924e213323aecdb61d1c2aeef4661bc69014b8549f39a7a95331c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[HD]telecaribe@@3
+https://epg.pw/stream/1496fbc95bc27ac89f037cab6b1a9998baed77cc54f2cf9555f155c7c2aa0edf.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[SD]telecaribe (puerto colombia | atlántico) (720p)
 https://epg.pw/stream/8353a1778fefc62b6511eb41b9bece23237f3307eeddbacbb6c9f77a5619aceb.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[BD]tele caribe@@3
+https://epg.pw/stream/145d3f285e6c29f7489724be5c3cb103e557fec9e544d7b2af714d73e89f3e41.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[SD]tele caribe@@2
+https://epg.pw/stream/8861642fd2801b8378902bd0b8051b277cf4d65c14b8250b19e3e2adf31adb72.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174027747070_52.png" group-title="Entertainment",[SD]telecaribe@@1
 https://epg.pw/stream/558bd5584107e0fabaecd0efc873c7d56578009a97f686354b7fda62f3db1183.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/08/20150608032418779210_46.png" group-title="Sport",[BD]claro sports
@@ -119,6 +193,8 @@ https://epg.pw/stream/a6da00f9f53cc6c85aa8809bef67bad5ee5610bed76e052f7b50b89418
 https://epg.pw/stream/b35aba3808aa4158c08c6564825bef3aa1cffd810786281cf9f7122107fe8991.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/08/20150608032418779210_46.png" group-title="Sport",[BD]claro sport@@1
 https://epg.pw/stream/1c1fa47b3c6ccac6fe33f89df6773029319595479856ec215f6bfcbecf4159e6.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Telugu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/24/20150724053921929204_52.jpg" group-title="Entertainment",[BD]kronehit@@1
+https://epg.pw/stream/c6ce8fd309e5250ee8176eb6e38520c5174c8d912b338c0dfa6f672efcaf2c02.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/30/20150730231804405793_22.png" group-title="Entertainment",[BD]Trece + (1080p)
 https://epg.pw/stream/9c9166341912f9a91bba94a0ceae883c068fdf33f750aff85a4c6565b31ee615.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/30/20150730231804405793_22.png" group-title="Entertainment",[BD]canal trece hd
@@ -149,6 +225,8 @@ https://epg.pw/stream/c3231b58831f5ea6e54357316dd8fa60599ef141f74b1e43e02d0cc4ba
 https://epg.pw/stream/07f1165ba49ea5eb19ca560bb8ed7b2c4492cef405bf44d73fead38aac6eb871.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174416575448_18.png" group-title="Entertainment",[SD]canale 7 (480p)
 https://epg.pw/stream/834f091916796d7ff3e6fe3fb8fc7df9c005856c242b81f61e677581ef1f3b04.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173813571454_94.png" group-title="Entertainment",[BD]n vision@@1
+https://epg.pw/stream/4611413f4c5904c7c3cd73e8f6f8bfac0c52c511cdcfa2923ab1924421694a9d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173813571454_94.png" group-title="Entertainment",[HD]hosanna vision
 https://epg.pw/stream/4d23c64c7792f1e844c7821a46e04c90e4add1cec3c7ee5adf8af1f1cfcc48da.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/02/20150802210322858817_33.png" group-title="Entertainment",[VGA]panamericana@@1
@@ -165,5 +243,7 @@ https://epg.pw/stream/191b2a2efd360371355905813c9e0a572ddfbebe5c45b7811a8e6804b7
 https://epg.pw/stream/32256da4ae729a66f6e7379476e1c95c76441735177ae4503d73fd3c2221c013.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174446384147_19.png" group-title="Entertainment",[VGA]Telesistema (480p)
 https://epg.pw/stream/5d2cffe5a63f7331b4d8ecb48a9121caa74cdbeada1a3cfd33450e82dc147622.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174446384147_19.png" group-title="Entertainment",[BD]telesistema@@3
+https://epg.pw/stream/0892e57b5d904ed9d07e46d781230b18c6b3f9f749bffea5ddf4d98cd55322a6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174446384147_19.png" group-title="Entertainment",[HD]telesistema
 https://epg.pw/stream/8bbc16fb2570d96b0984cf76e0676b9e49030f4b19cb9b8a6a9a8e2f2817e58d.ctv

@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[BD]ctn plus
+https://epg.pw/stream/1c78d18a4c7f48e618c9e0c8d91b94750a4aada884e22635bc3c8e09867645f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[HD]ctn 2
 https://epg.pw/stream/2e1f4a3f06aff01216c5d45bf4cf5b88299f66b6648ad57fd5e47fb5e27bf24f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[HD]ctn
+https://epg.pw/stream/3c9825560a48fa5360fac51f69d9ccdc3b6ce3552eb5496e962555aaafd41075.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145652578556_47.png" group-title="News",[SD]tvk (360p) [not 24/7]
 https://epg.pw/stream/a792bee5cf9b108e7209eb009aa9d208bfd06c054c466cd0d9c7ca8be31cc9f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145652578556_47.png" group-title="News",[VGA]tvk
 https://epg.pw/stream/5fc737f40878d1977e4a6ecb3df71e820d1228e21c5b471a269d7ccff1e15fab.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145652578556_47.png" group-title="News",[VGA]TVK (360p) [Not 24/7]
 https://epg.pw/stream/acbcf7f610e929f06c22c6822f3999ad99ee6e584b1d4abaf05d2faf4941d4cc.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626150218508620_73.png" group-title="News",[BD]btv@@4
+https://epg.pw/stream/71151570876eede40709d54e88990ad4e5826a061f1e3ad970de75f6cba97c14.m3u8

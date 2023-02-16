@@ -10,6 +10,7 @@
 #下載地址為https://epg.pw/app_download.html
 
 
+[VGA]top cine@@3,https://epg.pw/stream/bb20d8e41709cc3978c73e6b14a3d38678b1394d1ac56381afb8abb3183948ea.m3u8
 [HD]Radio 10 (720p),https://epg.pw/stream/c2517773e8746765a06a221c7393f406cf2218453c52b42b418a9c772df74642.m3u8
 [HD]-105 tvg-id="" tvg-name=""云龙山观景台南云龙山观景台南,https://epg.pw/stream/1409f956fe4d555bb6d5ea54708fd278d6537c76c5d4568ce61a4bd8bdc2f5e4.m3u8
 [SD]radio 10 (720p),https://epg.pw/stream/57f81d12277c469347470e4d25a729625aeb353d1042f73c5b8857e40ca74e44.m3u8
@@ -37,6 +38,7 @@
 [HD]telenord 12,https://epg.pw/stream/c0806f38b3170cc249f6ab30f6c778b0e81d57deef62886d8f0d107e7bfce99f.m3u8
 [SD]telenord,https://epg.pw/stream/0d7f924f16292bdb5e2e5efcf7fccf83259e8cbde45e50f896c11577f9e1b343.m3u8
 [BD]Telenord,https://epg.pw/stream/57d701ca1e2d71c13f6c79e0416cd38057ea0ee07ab9356f791e9e2a498b05b0.m3u8
+[BD]telered@@2,https://epg.pw/stream/52159a84c4211f900f1d5297abd4187fcaee58eba51d650cbd2ca509a21417d1.m3u8
 [SD]telenord (576p) [not 24/7],https://epg.pw/stream/ca86776448e73b78b078402bda28c73cbbdb74dc4587f2d17b7636fab543d9db.m3u8
 [SD]radio italia tv,https://epg.pw/stream/a451da00ce3da59a87ec624aaa62a60163af28f1859f25d8af7db29bd55bfb13.m3u8
 [SD]VH1 Italia,https://epg.pw/stream/6707041ffe7cb2e177fd47ad5b3967fe244ee9069d47a0a295a927e6cc3bc7b2.m3u8
@@ -59,8 +61,10 @@
 [VGA]tv6,https://epg.pw/stream/91143eb616c2e0221a476c5ed309d0be2429ea4aa9420bb352a3a1fbef1dfa04.m3u8
 [BD]TV6,https://epg.pw/stream/e88b28b3d600fc33ec8a7625a934d37bc22919d5d967be76311a7ab6b4e45ca4.ctv
 [BD]TV6,https://epg.pw/stream/02f35c59102a2c2df0fcc5623f1b16c5449d38b4bd175f66d20715c820ee5097.m3u8
+[BD]la7@@1,https://epg.pw/stream/278428ce6a31f401b94e94c970c3a0f1eccb83bf37447ea0a778237b88771baf.m3u8
 [HD]La7,https://epg.pw/stream/73fcf41e9646bb9713c1511c440c6cff373a3512d730bcf7d91e3d3ce871821f.m3u8
 [VGA]CANALE 7 (480p),https://epg.pw/stream/211fb321a210fed049efd19a50f0dbbc820291163dee9d8f58ec58166f273b8c.m3u8
+[BD]canale 10@@1,https://epg.pw/stream/c0c8dc74500c5a6517dfcb5e9875eec24a8580a2308777075dd8f61572456911.m3u8
 [VGA]Canale 7 (480p),https://epg.pw/stream/82a7c78e950a4d0f2f9c905748ea5690c9fdd52f3257cc6eeed7a25a845e3040.m3u8
 [VGA]Canale 7 Italia,https://epg.pw/stream/49aba0809fbfae2b046580dcbbf85daeb12d21cedd187244ef2d41716dd795be.m3u8
 [BD]Umbria TV (576p) [Not 24/7],https://epg.pw/stream/2474c3f4027d51975f568020760f930c4415ddc3ceeebc5919587cb48c79de60.m3u8
@@ -69,6 +73,7 @@
 [BD]mediaset extra,https://epg.pw/stream/54cf6679f6e0d7af1e5c1f6bcb802a54894a15e9ca8c1de4d4191ed37d2ba6f7.ctv
 [BD]it: 20 mediaset,https://epg.pw/stream/99bd6588d1d55ee3c1fc05be21b6bc765ab6494b29801ccafefe4eab2a88612f.ctv
 [BD]20 mediaset,https://epg.pw/stream/bbd74f82453b7a6f0e02a32a462acc400a32332fb1df929376c33ecc136a85da.ctv
+[BD]teletrak@@2,https://epg.pw/stream/db2fd1245071a75101a76505b3af4d4df33cf1b19b76744ab877125ee9e846b3.m3u8
 [VGA]telerama,https://epg.pw/stream/6780d9a19b28dfaecb565e7c2417616d51156eb035293d21adf35cb0c12a3372.ctv
 [VGA]46號[853*480],https://epg.pw/stream/356a4173520501c9d8046ee4eac5c097372c4e9503f7f41357cab056de2fde0d.ctv
 [HD]TVR,https://epg.pw/stream/e1bf17e711896b889b10920e79bf79a244553ba138a44214e37483f61fe5dfb6.m3u8
@@ -80,6 +85,11 @@
 [VGA][意大利]videolina,https://epg.pw/stream/68d690ad1ac0158a8a43639594751ddc3eed38688dc264d81fd9ba78d7dd5c3e.m3u8
 [SD]telemonteneve (480p) [not 24/7],https://epg.pw/stream/cae6a41731c986ef78029790b1a861b09dab5eb840d5654a028deb78dd12511b.m3u8
 [VGA]teleMonteneve (480p) [Not 24/7],https://epg.pw/stream/b803670e2b7ed7355033a094a1a8e227c310aa3a28725452abf985af45d1ea14.m3u8
+[BD]santo amaro@@1,https://epg.pw/stream/492ea62748c2263ed80e237a81894f60a632d5027b837cb3cc5568e99ef58799.m3u8
+[BD]san marino rtv sport@@1,https://epg.pw/stream/b0edf6a601aec820d47457311f97f71ae2f3360cd6a237d87c954a6673192ec1.m3u8
+[BD]san marino rtv@@2,https://epg.pw/stream/f8f49c4eabd36dec83d1345174b2576db9f410edfb31790b163e8729dbc715d8.m3u8
+[HD]telecosta,https://epg.pw/stream/a6c7e1e31a23b9cbc4e6f94f0a14c43bdb99156f9f43d46b7682db9be46c7b95.m3u8
+[SD]telecafé@@1,https://epg.pw/stream/a2ac4e6d0caf0a7ec1a453fbfbae734d9c711064a894ce76f311eabb7731728f.ctv
 [BD]Radio 3i (720p),https://epg.pw/stream/75594509cafb62bb132889fa223ce390f1139e36ece3c5cbfe7f069f71d20b6f.m3u8
 [HD]Radio 538 (270p),https://epg.pw/stream/ddb77821d705847ef7b1b736a3fe77f502da8b9281d221797bc6582ffccfce4d.m3u8
 [BD]m2o italia,https://epg.pw/stream/dfbbd9e2e762801a15f8fff35783ef423fdf396c1eca524eda29bc06aa3d0391.m3u8

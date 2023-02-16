@@ -11,8 +11,8 @@
 
 
 [HD]itv patagonia,https://epg.pw/stream/f0d1cbad4046db6d573690252c1eee0f8a23f43fc537f23e25ce1ada28ef8634.m3u8
-[VGA]C9N,https://epg.pw/stream/3a5a707e0afcea0da77b282ce1cae1a18a376b10111341fdc6fe3295f3cd1dac.m3u8
-[VGA]C9N (480p),https://epg.pw/stream/1951f172dcabca9c55b52ca5b4d010fb683305790e3fa44881c02b3290a5cc0d.m3u8
+[VGA]itv patagonia@@3,https://epg.pw/stream/6cdf5a5d37046d7d2aae1c323d8bab2cdbb06374ba1c89ad0683c99d19241f4c.m3u8
+[BD]itv patagonia@@4,https://epg.pw/stream/4d544452c01e01b25e43b3c3df610d52c1500e42a4b02e61c592e525f20990d1.m3u8
 [HD]24 horas,https://epg.pw/stream/b8299de49420cbe3aaa101e79c8d28bbc5cf7403fe25c07f792b61a8acbf7df5.ctv
 [HD]24 horas@@2,https://epg.pw/stream/a6c95705911dba19d7c3a5dd8e0736031b7aa3cb1d56c5dd4f68d3b5235fd3b3.ctv
 [HD]es| canal 24 horas,https://epg.pw/stream/e0b04d3cf4699363f5137fcb86e7fed92ae47eb2b18b93fe7c730f18821ffc18.ctv
@@ -21,6 +21,7 @@
 [HD]canal 24 horas (720p),https://epg.pw/stream/92e3ee3b34c886a934ebb94327cfeb258a22ee3b1549ad811d28869c02de027c.m3u8
 [VGA]puerto3 tvn 24 horas,https://epg.pw/stream/d1884f04c93e9dece7753575be7026ae4b29c090a28c00651f000afdc9e00678.ctv
 [BD]cl | canal 24 horas,https://epg.pw/stream/8a4db154e0bfd918c1378687e52e858bcd766fec32ac913ccd2a005a73eaa4d6.ctv
+[BD]24 horas@@6,https://epg.pw/stream/3b1af6441a6137c553690e325f264885b222d21e84a6a5d931cf3032a40bd6c8.m3u8
 [HD]24 horas@@4,https://epg.pw/stream/9934fd7a787eb381c762620323b1fb729a6f43898994ff8560bb944f967f77cf.ctv
 [SD]telecanal,https://epg.pw/stream/657440d8de09e8a11e38d12c4860288d7f98beb2515df1aa046c615252b6394f.m3u8
 [HD]telecanal 12 (720p) [not 24/7],https://epg.pw/stream/230d85d9bac50a748a91f4a24349c85f089b03b43cbf6d17809ee2a98e035926.m3u8
@@ -28,8 +29,10 @@
 [VGA]telecanal 28,https://epg.pw/stream/b1dbdca91360aa9b984243a4fe16913fe0b6aa8a62516c08073b390477dabf82.m3u8
 [VGA]Telecanal,https://epg.pw/stream/f4663572a0868aea090b3a30e667191bf00cb854ffc8c1c8c9cf4bb76436b6a8.m3u8
 [HD]ADN 40 (480p),https://epg.pw/stream/3bf79e56351d83628d53cbdf14d7301e18ce242dba1fe3893b3af9cec4871774.m3u8
+[HD]rpc radio,https://epg.pw/stream/f7253763d4b8f3c8b8ec6247fd2abdf41e3511264e07c7f5803e763bb3ce9bff.m3u8
 [BD]Tele 1 (1080p),https://epg.pw/stream/9684a0a9f52566b53d2650d24f76dee2f6c07e985786bec8b57c507648d03f31.m3u8
 [VGA]puerto3 funbox,https://epg.pw/stream/0899b7662a9af1dca68db414e00b372c114a2804d9ea5a1e3229f8a245fdc7a6.ctv
+[BD]cnn chile@@4,https://epg.pw/stream/493fc60c68819c0c8ae53481f5bb862e22c7525873b75684f39f5dadcc9ad6e5.m3u8
 [HD]tv chile,https://epg.pw/stream/6d36ec28e6c2d901a56565e164dd2b223b2298e9661e70cd656e398ecff6f83c.ctv
 [HD]Mega TV (Jaen) (720p) [Not 24/7],https://epg.pw/stream/d0bdb4ec0dd55200a3cd6abc0f3155cb6bc013232e8b0f0809ae00bae10fd55d.m3u8
 [BD]Mega TV (Jaen) (720p) [Not 24/7],https://epg.pw/stream/a6e87b0c2ab6ff0cbe75260aff9cb30176f741f1c6fa6419d4385bc6c0768124.m3u8
