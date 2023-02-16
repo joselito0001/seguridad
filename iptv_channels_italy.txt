@@ -28,10 +28,10 @@
 [HD]paramount@@3,https://epg.pw/stream/9117ffe07dc5f4a8e3968277a3d0431da819c7784644e99a342c00864ddce40e.ctv
 [HD]paramount@@1,https://epg.pw/stream/a4ea275ec2c661487057a3d5560d2912794e635c87b9da43fe55218b8ec5d43b.ctv
 [VGA]puerto3 paramount,https://epg.pw/stream/0c34eaa17a68e64a49df19ed03ed7077bfd5644a6947ec8efc50a13f15ee536f.ctv
+[HD]frisbee,https://epg.pw/stream/da59e0dc9ef464e16f7b71f881a306beaaa697f42bd0dcd92996a1667bd2c1c6.ctv
 [HD]m2 (540p),https://epg.pw/stream/f0aeb1a863b3fda2647b25faf041706c63ab3e868f12b8d70c63270b4769c212.m3u8
 [BD]IGN (1080p),https://epg.pw/stream/6d483534c6ac582a152dac4a2d606090f474cca23fcbe3656a3272a9151f36e8.m3u8
 [HD]IGN,https://epg.pw/stream/4108efecbafa4043a9a4645516f1c7a0ebf1ef5ac31bf81b9905e8738861ceaf.m3u8
-[HD]frisbee,https://epg.pw/stream/da59e0dc9ef464e16f7b71f881a306beaaa697f42bd0dcd92996a1667bd2c1c6.ctv
 [HD]CSI,https://epg.pw/stream/1ccfdf9a6225bd644a348df9aa873f78a7995bf6de8412ffae9ca173b926132b.m3u8
 [BD]telenord,https://epg.pw/stream/404294e95355de81850f05e63c3a1490daeb86f6a0edf96b432b47c3a280eb14.m3u8
 [BD]telenord 8,https://epg.pw/stream/02361686bdd1398c6f06868571b08e246be6ddda5ae58402d0b7f263785abcb9.m3u8
@@ -49,6 +49,7 @@
 [SD]Rai 1 (Geo) (576p),https://epg.pw/stream/91dc9437d2f2de720efd6ea6312dea648ef41f955bd92fc4420ee06cf1742da4.ctv
 [SD]Rai 2 (576p) [Geo-blocked],https://epg.pw/stream/1341c0caa0e978b6853a498277e613c0bab8955d06b9fb17107b0c40bb62b7f7.ctv
 [HD]Rai 3 (720p) [Not 24/7],https://epg.pw/stream/99cd923b800976be7a774f816300298583b5747eb414f3f11ac3b7dd9224b354.m3u8
+[BD]rasi movies,https://epg.pw/stream/c3e83ff3276226509c444fddc3ce85ba1c1dd6e706c7797f93d849a163d79782.m3u8
 [BD]rai movie,https://epg.pw/stream/ef07693459f66500ffaecf2bfe073604e1e08af26f6d3c85dacd8dc21184ad0b.ctv
 [SD]rai movie (576p) [geo-blocked],https://epg.pw/stream/f10c1634e9a5382376ac2a7997aca5c23966de2697d9464db7a1e16d80004ad5.ctv
 [SD]Rai Movie (576p) [Geo-blocked],https://epg.pw/stream/c50b172d7a24eff20652be8dbcd72ee5fd8db96c9a090f2859fba6117d22b6b3.ctv
@@ -73,6 +74,7 @@
 [BD]mediaset extra,https://epg.pw/stream/54cf6679f6e0d7af1e5c1f6bcb802a54894a15e9ca8c1de4d4191ed37d2ba6f7.ctv
 [BD]it: 20 mediaset,https://epg.pw/stream/99bd6588d1d55ee3c1fc05be21b6bc765ab6494b29801ccafefe4eab2a88612f.ctv
 [BD]20 mediaset,https://epg.pw/stream/bbd74f82453b7a6f0e02a32a462acc400a32332fb1df929376c33ecc136a85da.ctv
+[BD]teleritmo,https://epg.pw/stream/17114d80daea01036af96707fb8b8ac56baf0d2adcb7a8791bef2c60543810f0.m3u8
 [BD]teletrak@@2,https://epg.pw/stream/db2fd1245071a75101a76505b3af4d4df33cf1b19b76744ab877125ee9e846b3.m3u8
 [VGA]telerama,https://epg.pw/stream/6780d9a19b28dfaecb565e7c2417616d51156eb035293d21adf35cb0c12a3372.ctv
 [VGA]46號[853*480],https://epg.pw/stream/356a4173520501c9d8046ee4eac5c097372c4e9503f7f41357cab056de2fde0d.ctv
@@ -90,12 +92,15 @@
 [BD]san marino rtv@@2,https://epg.pw/stream/f8f49c4eabd36dec83d1345174b2576db9f410edfb31790b163e8729dbc715d8.m3u8
 [HD]telecosta,https://epg.pw/stream/a6c7e1e31a23b9cbc4e6f94f0a14c43bdb99156f9f43d46b7682db9be46c7b95.m3u8
 [SD]telecafé@@1,https://epg.pw/stream/a2ac4e6d0caf0a7ec1a453fbfbae734d9c711064a894ce76f311eabb7731728f.ctv
+[BD]telefe rosario,https://epg.pw/stream/c61865049c0ef9d0c9105e4295fa554a035ad602d4cb100e2fb0cd8dd8f291b0.ctv
 [BD]Radio 3i (720p),https://epg.pw/stream/75594509cafb62bb132889fa223ce390f1139e36ece3c5cbfe7f069f71d20b6f.m3u8
 [HD]Radio 538 (270p),https://epg.pw/stream/ddb77821d705847ef7b1b736a3fe77f502da8b9281d221797bc6582ffccfce4d.m3u8
 [BD]m2o italia,https://epg.pw/stream/dfbbd9e2e762801a15f8fff35783ef423fdf396c1eca524eda29bc06aa3d0391.m3u8
 [BD]sky sport 1 germany@@1,https://epg.pw/stream/174b7255811270c790b1d136d1d4cdf9b717370f39c338c6a0653fe1e8482306.ctv
 [BD]sky sport 1 germany,https://epg.pw/stream/1b79ad9aff7f9a3489ec21878ab48d8f69afe3df06caf053bdd63c866b4e49cb.ctv
+[BD]rtl passion@@1,https://epg.pw/stream/c1c10a01e86a9f4cfb9da7f31d66277f54d25946eb1533e1f488fbd773204271.ctv
 [SD]sky cinema classics@@1,https://epg.pw/stream/3959cd622791b0d792ed7f64043ab13d02b43a4cf99f483eb2714c9b2d8a0745.ctv
+[BD]sky cinema classics@@4,https://epg.pw/stream/9e73faf8d7dbdda910d00c65de113c3eca4a8762bbab9828eb255f58c329df71.ctv
 [SD]cinema classics,https://epg.pw/stream/561a13d73de31beda3f28680dc71fb3aad116d47ac5f554b53a767d333134206.m3u8
 [HD]sky cinema classics,https://epg.pw/stream/cc5a2b245c00c1769b529b487bb339202f6541fbe74b2411bf6a9d3daff67d80.ctv
 [SD]Rai Premium (576p) [Geo-blocked],https://epg.pw/stream/7c0ac30c4b61e89fc4b3212753949b463887ee76f532884ce030509e871d5113.ctv
@@ -107,6 +112,7 @@
 [BD]Sports Italia,https://epg.pw/stream/d453321784eb5c7122f10fb597187a920f9eada482010a90604a589c45359f5d.m3u8
 [SD]Canale 2 Altamura (576p) [Not 24/7],https://epg.pw/stream/89e7a169dcf6185e4b926de32ebd0774504507ea449ddc7392071e16ceb51491.m3u8
 [BD]sky sport f1,https://epg.pw/stream/a7014cfee34d40755fe8aaa8a43132aa330dd04aacb79755a6562b0c7d7b4aa9.ctv
+[BD]sky sport f1@@1,https://epg.pw/stream/e81cb85b652c9be7154020343c706bde1c0e9e0a0800adb94fcb28d9324cfd0a.ctv
 [SD]Rai 4 (576p),https://epg.pw/stream/ebfeee6f1b6a02ec6472681cad125d3827037c387bf131f71b21773ad5956393.ctv
 [SD]Rai 5 (576p) [Geo-blocked],https://epg.pw/stream/e55d7adc0b3090c4429deb37e0ea9c79aba7b84803a621e6d59a15824ef0e15f.ctv
 [SD]telepavia (720p),https://epg.pw/stream/1afbc850d0f068b268f6e739df5b3daf1c4c8fd6960dd27297e370a9064ffdef.m3u8

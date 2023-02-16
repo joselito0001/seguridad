@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Generic",[SD]las flores digital
+https://epg.pw/stream/035b7578608f5e91d46cfe4397bd51212781556e8b0331a8e801deadf55594b0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="News",[SD]ary news
 https://epg.pw/stream/4604a7f672fc677151b313cdf3f51b404c594efe4c866c04a0d7c0de0bf269e4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Sport",[SD]m shop super sale!@@1
@@ -23,8 +25,6 @@ https://epg.pw/stream/fb47fd844d4a8529bd27381b4ff149c98e91ac668de4cec54a87ad4c8e
 https://epg.pw/stream/000c5be84806140316db416be78e38de11ff6440f46288eabeb95940e068e93b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/img/logo/HUM_TV.PNG" group-title="Generic",[VGA]hum tv
 https://epg.pw/stream/38c00b22b547b3b813d870f62b0d4884667927ac6b02c8ceb81a2411bed1575f.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/img/logo/JAAG_TV.png" group-title="News",[SD]g tv
-https://epg.pw/stream/c87c03ead11fe58dc3a22af037a969ccccee5f7245cec8e89f74c15bcee3a254.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164720329474_32.png" group-title="News",[VGA][泰国]news1
 https://epg.pw/stream/a2c5473eafbbe208d9d173897d6526b196e9a2266dddd61d5eb11f577b697dfb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164720329474_32.png" group-title="News",[BD]news1
@@ -33,6 +33,8 @@ https://epg.pw/stream/18960bc5360b51c595d2f339611111bf7f7c8c4ca0816aaa8498bd8447
 https://epg.pw/stream/1b67013d54ec1452274fe6a309328af7c1260c220d8b5e13a4f9c4cfa07275be.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/img/logo/HUM_Sitaray.PNG" group-title="Movie",[SD]hum sitaray
 https://epg.pw/stream/241d94acb19c312df60f9478bbd854032cc26ccb359cbdc8eeac7d6e684d7b96.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/img/logo/JAAG_TV.png" group-title="News",[SD]g tv
+https://epg.pw/stream/c87c03ead11fe58dc3a22af037a969ccccee5f7245cec8e89f74c15bcee3a254.m3u8
 #EXTINF:-1 tvg-id="3817" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/img/logo/DUNYA_NEWS.PNG" group-title="News",[HD]dunya news
 https://epg.pw/stream/49db9086afaf17e7b094c752ff040942e07759df3d86b517a9382d0902e1c46a.m3u8
 #EXTINF:-1 tvg-id="3817" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/img/logo/DUNYA_NEWS.PNG" group-title="News",[HD]dunya news (opt-3)
@@ -41,7 +43,7 @@ https://epg.pw/stream/da829f17591560de152171d9241afa4bbce6dceb9549633e013838d151
 https://epg.pw/stream/e7db138a8f907733dff15d9f999c0f400376c4d29ef789430a9b5e08224432ad.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020711864817_28.png" group-title="News",[BD]V News
 https://epg.pw/stream/4022e8069a7b4a6f7ec566604918297eb4e2f34b00edc46502b96dced20bb5ae.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020711864817_28.png" group-title="News",[BD]V News
+#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020711864817_28.png" group-title="News",[VGA]V News
 https://epg.pw/stream/eb70ea3a7df95ec7e8d91eb59f5e4d782515dbea9574e6f4a6128ede483b3129.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174024167905_38.png" group-title="Other",[HD]iipc tv
 https://epg.pw/stream/587872ee0af044ce67631362ef604d293f4eafcf23ef552256b6b828ebdf69a2.m3u8
@@ -71,8 +73,14 @@ https://epg.pw/stream/f36e893d1c2dc894fa2e2ede33592d2a7a9a6fb59b25b8a86c647d891e
 https://epg.pw/stream/eb9fba09356a1a8a4f2c44e94d0f65e17ebe2309757da17e59924f85abd256d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/30/20150930143554843993_35.png" group-title="Entertainment",[HD]13 prime
 https://epg.pw/stream/f086eb8ffd502f99a2334d1adc42dda0782875ed931a64008450b7c09cdd9b09.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/30/20150930143554843993_35.png" group-title="Entertainment",[BD]vision prime@@4
+https://epg.pw/stream/2964badbcef207e65c84bfc6b6401ea2c008fb636739256e732ab4f9f80be05a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020355067453_83.png" group-title="News",[BD]hub e city hd
+https://epg.pw/stream/ca19c95272dd6cd71d2cde52ca4d850b7ec0f61a84a7a4a80c8d111786d2920a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020355067453_83.png" group-title="News",[VGA]42號[853*480]
 https://epg.pw/stream/6c4dfd43e23d6604555162b6977af92db9a0b358a678450820952a8b144e3aad.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/04/20151004111048522486_76.jpg" group-title="Entertainment",[BD]oviedo tv
+https://epg.pw/stream/864a229850963ee53db3d2f520b89673644a264c00327f1c1d32a9eec35ef3e5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/04/20151004111048522486_76.jpg" group-title="Entertainment",[HD]be tv
 https://epg.pw/stream/dcbbeb69b6d6815606103b337e08aa9dee9fbd17f5a3ae421ff6be83ab7eedb1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174708907557_96.png" group-title="News",[VGA]neo tv

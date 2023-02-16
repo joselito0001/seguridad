@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130123102368768_60.jpg" group-title="Generic",[BD]live+ hd
+https://epg.pw/stream/d2e5c2087de3fa07cb689b6087697418e6cb03382e48cfd2dd75672af7b7e230.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130123128526897_98.jpg" group-title="Generic",[BD]live 2 hd
+https://epg.pw/stream/e24f5fec251b9c0528d6564aabc4e18f17e56052a8c8f37fe076383ee3ea4690.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130135442230758_40.jpg" group-title="Generic",[BD]kanal 9@@1
 https://epg.pw/stream/b596dcf802c458e650df8dbdf92a365e294baadbf13965811c9bfe54bd7b6c75.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130135442230758_40.jpg" group-title="Generic",[BD]Kanal 9 en Français (1080p)

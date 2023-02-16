@@ -12,6 +12,8 @@
 
 [SD]baynounah tv (1080p),https://epg.pw/stream/a3f1cf254e7cca79c5a2409b89a6c8381c94a45ac16568b0c68b7a30163cbc88.m3u8
 [VGA]Baynounah TV (1080p),https://epg.pw/stream/3d06003727d07a658f270f814172b264b85a357796a9cc274b05304d7ef1c3e8.m3u8
+[BD]on sport,https://epg.pw/stream/bb4c4784c7194d97dc16a3ff928b6a2576adb4b77e73ac519b836bf6db4154a1.ctv
+[HD]kalaignar tv hd,https://epg.pw/stream/bab7617a6c2873af7d927f98b1728de6afca68868dd263d77601cd0913da0955.ctv
 [SD]dijlah (1080p),https://epg.pw/stream/9c85187c8058147bf5ea9abea97d3abed9beb5b6746d101be5381d838acffbfa.m3u8
 [BD]Dijlah (1080p),https://epg.pw/stream/f696a502f01bf1250d52c1c68003a5824cc04d9a0afdf1be6ac6a79dc59acd8e.m3u8
 [BD]SAT-7 KIDS (1080p),https://epg.pw/stream/8e5a62dc6e9cf14f19cb31a9324b7c5d2ec4ff4ad3184b01d3c5075cabff1309.m3u8
@@ -35,6 +37,7 @@
 [BD]mbc,https://epg.pw/stream/aa560e1e2f7522ddac9aa189a11a62ba4eb442191a8b020ac2ce148d1fa9493c.m3u8
 [HD]MBC HD,https://epg.pw/stream/a1fef3c8ec9df9193cc65c9dbb338e30ea5e76edea6d6dbb676f974d8d275e1f.m3u8
 [BD]MBC 1 (1080p),https://epg.pw/stream/67d911f75340c51f57a7930e8453b0a0d8b62e5732cdb362aa93a0e0665b37cb.m3u8
+[HD]mbc@@1,https://epg.pw/stream/6676174dac36777023f1c7429048bae906ac0c7370ac9a0d1610df497301a502.m3u8
 [BD]mbc 1,https://epg.pw/stream/72d59207fbb7c1829e81459aa602ebcd8709e0981720f33d3c8ae05f015592cf.m3u8
 [SD]mbc 1 (1080p),https://epg.pw/stream/6a36a440b33dd076f9ea2eccb92c3289c6d8c6973c85738c86abc4b10b5fa11a.m3u8
 [BD]MBC 5,https://epg.pw/stream/6ef9e5b0f2197e8745e67986a75d0337a1952630857cffe9835dd6be61a3789a.m3u8
@@ -48,12 +51,17 @@
 [BD]MBC 5 (1080p),https://epg.pw/stream/e10a85d97a173c3d319ae961b12b06f9aa949b249aeeb902e0935f5895db0966.m3u8
 [BD]hayat,https://epg.pw/stream/1bd26d717109edccfbe5f9587dded8a4c2d0b9e3b7ed3b7d40698aff3b082791.ctv
 [VGA]ALF,https://epg.pw/stream/723b85a4a54cf6794fc302d1f94ea1e7c7e20348e919fdff057e839c38715f65.m3u8
+[HD]bragado tv,https://epg.pw/stream/4e4fddf2dd0fd565e40077ff32f0a89cfcc2fe84bd9c0e6d3d1aba365a564936.m3u8
 [SD]hse24 extra (1080p),https://epg.pw/stream/e163114ab4afbc9e5263faed4b7fef964fa097b0dcdd60c677404cb231ba2e7d.m3u8
 [BD]HSE24 Extra (1080p),https://epg.pw/stream/d9cfb0ae67c43b59fc1e0ef24061cf711163a88279e98d3d6e3a4aeb87cc1cd8.m3u8
 [BD]Mekameleen TV (1080p),https://epg.pw/stream/13588f6932969d0ec358c6524b88749d439fbfb310041ed00e3c58c5397d256a.m3u8
 [SD]mekameleen tv (1080p),https://epg.pw/stream/969ae9c43030b2b2367cd76f6d1da3146fc4c9e5c08d2d3f3d9dc315936c5fc5.m3u8
+[HD]hunan tv international,https://epg.pw/stream/0bd07380e997fd946b0617c06cad73567ea1f042f06f62ab9aff23aab03cfc13.ctv
+[HD]jiangsu tv international,https://epg.pw/stream/9276809b31a311b16a4d43302a2a98cb5c55e3805a916bc1264a46cf633e5cff.ctv
 [HD]n TV (US Eastern) (720p) [Not 24/7],https://epg.pw/stream/6f9c7909ac0ef82b337efb236ffd7d3ee016001b3def1e4196ecd2a44bf45c13.m3u8
+[BD]on tv,https://epg.pw/stream/57f11e578e2216bb225ff73a6f14ade017e2849b32c7dac292fd044b831da60c.m3u8
 [SD]n tv (us eastern) (720p) [not 24/7],https://epg.pw/stream/a9b8a0aaccd7227ca9f282d2bcf987ccd159cfd202fab7ee2183da04edfdb5c8.m3u8
+[BD]e play,https://epg.pw/stream/7736de521ebc3b54fba58721de13e39989ed8f62a2efd593f9cb6e513e7065bf.m3u8
 [HD]ab tv (720p) [not 24/7],https://epg.pw/stream/16bdfc015fd76a29dc85a3849971a7e93435cf0708003657968a8b3bba2fdc47.m3u8
 [HD]ab tv,https://epg.pw/stream/2faa8b357ff4ee10ce9698b6c4251c0f88a0412a469b05e165925badfd789171.m3u8
 [BD]Aghapy TV (1080p) [Not 24/7],https://epg.pw/stream/8655dbaa36ae5b4a4c17e521e6558545d2b3fa450826961c31c59831d935a844.m3u8
@@ -69,6 +77,7 @@
 [HD]ten 2,https://epg.pw/stream/53b12f8938864c923343bfaeec0768b0ba09180aa97113522f844edb9262fbfc.ctv
 [SD]ten@@1,https://epg.pw/stream/2c1de9072030371ff6b031643498a879ec231e26741a5e635fb26c1f01850bec.ctv
 [SD]ten@@2,https://epg.pw/stream/d0a9df6bb4b7000b29422b4a6e0837cec5365f8a32b4958f5788ba08358a3685.ctv
+[BD]runtime,https://epg.pw/stream/f516ede12a6b2286624cd94913921c0488ea401be78305a8bfe52918436b6748.m3u8
 [BD]mbc masr,https://epg.pw/stream/ac550b8fd5d3430579f6070d7262dff9ea62f10db9838ee43292dcb001d3e0a9.m3u8
 [BD]mbc masr+,https://epg.pw/stream/6f3f1f070b96695e6c032bd6079ebb44c0e8a70c9461c59e45fdcff75b3308a4.m3u8
 [SD]mbc masr 1 (1080p),https://epg.pw/stream/c2db7bfb3d079a8a24355e5c995ae4b0feddbcc1f6a3459acb468d8d91c4906f.m3u8
@@ -78,4 +87,5 @@
 [SD]drama,https://epg.pw/stream/f34f897302c23ccce36f58c34ca8f3aa08fb6c5ffa8d5ad2bb329cbafb62bc4c.m3u8
 [VGA]ma: 2m hd,https://epg.pw/stream/de788a2f4917887102eabac5256e4fcc491e772d4ec5c3bd7843452f7eebb5ad.ctv
 [VGA]ma: 2m tnt,https://epg.pw/stream/bc30f93a4ef5cbd7d3ea0939be6ca519b80f7b20468d7ed41a4caf2aaac5af74.ctv
+[BD]m+ drama fhd,https://epg.pw/stream/bca7bfd8adeb80c320563b942f8a8cf985189027c4af9fa1e439be994b765028.ctv
 [BD]ndtv criciúma@@1,https://epg.pw/stream/21936efe128173ae3c6a9abe7700ba4bea10c320ad2be0fb2ee648137d493b92.m3u8

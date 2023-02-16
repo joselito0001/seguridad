@@ -63,6 +63,10 @@ https://epg.pw/stream/95ac6501d7030298f23725adcd6dfc52c8942f13229a1bcc8d321050ea
 https://epg.pw/stream/a4fcc041f49cb6fd8791086db2858794e508c4bfab180ca34dba0e075dd98f57.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal@@7
 https://epg.pw/stream/eb2f7de373166a2e332e117661cb6da22d6d615dca1e1d1e2251ba20e1cb3371.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231346808634_39.png" group-title="News",[BD]chilevision noticias
+https://epg.pw/stream/5b71b7037c448a7eda2bb6c5a529ae9035f656a54c3bc4959a4cc589987451ec.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231346808634_39.png" group-title="News",[BD]telefe noticias@@1
+https://epg.pw/stream/4c7b647ca2685d7f491330b22b764c8f774dab8b22fc367501e4cd992290bc2d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231346808634_39.png" group-title="News",[HD]24/7 noticias
 https://epg.pw/stream/259bc37529df1b1733ac9ac737dfdf7471bbc41f9749f14a5d6a219fde45cb94.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231346808634_39.png" group-title="News",[BD]7 Noticias (1080p)
@@ -75,6 +79,8 @@ https://epg.pw/stream/d30dd1d3c999b2ab5992e4ae924015341eb1aff4c2e03c2c1a1428bbf2
 https://epg.pw/stream/c2354f4597e4271d7d9f0286f360611c6270dd66a6a1e456be8dd227c8e6e3c4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331022714557175_86.jpg" group-title="Entertainment",[BD]DETV2
 rtmp://jsylivealone.iqilu.com/donge/donge_tv02
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331022714557175_86.jpg" group-title="Entertainment",[BD]prendetv liga mx
+https://epg.pw/stream/f6f90f03eea84e3d8b5fec25cc22c6edffa7b1c36e1ca2432845ffb83099eabf.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[SD]mexiquense tv (720p)
 https://epg.pw/stream/68da1045c70f6cabb8c4e89faaca3699d396f7e9cb17bae0b161c64f0b8a0a2b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[HD]Mexiquense TV (720p)

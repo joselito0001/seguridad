@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="South Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217132657881377_59.jpg" group-title="Generic",[SD]sbs plus
+https://epg.pw/stream/daa0f872a01f3ad723d7f0f9c17ece7ed7f833990b20001c804e8d3620fe9ab1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="South Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217133910341633_30.jpg" group-title="Entertainment",[HD]Music 4Ever HD
 https://epg.pw/stream/b4fe0db100527daa52e02cd3ca239bc83acf96930418183384bab7dfe5f9f02e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2021/12/04/large/20211204195625715607_29.png" group-title="Cartoon",[HD]One TV (720p)

@@ -15,6 +15,7 @@
 [BD]sportv 2,https://epg.pw/stream/c3434717a012ff9f0432e5396e1a396a8af9447ce65e45776f2c10656fccaa1a.ctv
 [BD]sportv 3,https://epg.pw/stream/870f3ae4ae4a730f6d46e1e27b0cbb8dd8d7465f14d0898b5f0f2274141b8a9f.ctv
 [SD]rtv1,https://epg.pw/stream/1470645f35c42a796cd62da64335c8199a19ed2d3f8579e6d47c0822a6b25165.ctv
+[SD]sportv@@1,https://epg.pw/stream/146a74e5d2774420b12eb5755b2bc29f1cd53516ace42e7cd9c1cdc7dc798dc2.ctv
 [SD]rtv 1 (576p) [not 24/7],mmsh://212.200.255.151/rtv1
 [SD]sportv2@@1,https://epg.pw/stream/e251f1772ee379deaac0c3e28571b9d8f0dcd8dcb2a735af55e6615d530659ac.m3u8
 [BD]sportv3,https://epg.pw/stream/c3de380c4193def09a7a4f7fabd51a9e3f64eb3f656ee11c5b312d05002c0fcd.m3u8
@@ -29,12 +30,13 @@
 [HD]TV Japi,https://epg.pw/stream/0181f4549e5dc238e5e98fcbb816a6d12f6f027762c4684edd144d8ef55531bc.m3u8
 [SD]all sports (720p),https://epg.pw/stream/63515dd284b07aadeb00abbcd8e103549d2a4bd5f3fed1912a38ecb6f54893ee.m3u8
 [BD]all sport hd,https://epg.pw/stream/fd9087ecfa368d656bc627127555d7d736abb4807b80594b42f18050522a93ac.m3u8
+[BD]ld life sports,https://epg.pw/stream/8cafe79d1d11f84b4d93c96b8aee9a7b1d2a8fc13f9be27ea295e3c283d8631b.m3u8
 [HD]All Sports (720p),https://epg.pw/stream/bb40e1098904661ed2772d0b729d0eaa5ee795e94b94c1a950b88e162edf1040.m3u8
 [BD]rede mais família hd@@1,https://epg.pw/stream/02ad8f39346232f0dc2a01e41edd3a7ae39015af197fafd325ba94523cdeac8b.m3u8
 [HD]Rede Mais (720p),https://epg.pw/stream/fb08cec2ba414613f4586a8193ab9d67e3fae0f747963bd67ddf44b851c95f47.m3u8
 [HD]band web hd@@1,https://epg.pw/stream/c05d6281957e99a57fd0958b102b181a6df03efecc4805214c0576d89b0f031b.m3u8
-[HD]BAND,https://epg.pw/stream/49771ade46e7292086a99f916b085fb3783d1a1ef3ec39c025bb0e9d1a1a31d9.ctv
 [HD]BAND,https://epg.pw/stream/ea5c22a9c00c15dad88c176f04c52774737db8bbc2aca142c9d14da256229223.ctv
+[HD]BAND,https://epg.pw/stream/49771ade46e7292086a99f916b085fb3783d1a1ef3ec39c025bb0e9d1a1a31d9.ctv
 [BD]cultura@@1,https://epg.pw/stream/d42a796cff9351add824912e896ae16a2fb0f64e888384cfab37d87d4e23a438.ctv
 [BD]cultura@@2,https://epg.pw/stream/e0a16833f75b2a889faceb7e72938082bf39b45c14d647ca6d847874b93da9dc.ctv
 [BD]rede cultura hd,https://epg.pw/stream/e7c03325882eab46c7ae8bbdc260984fe90076c1eb10883082fae97def58981e.m3u8
@@ -63,6 +65,9 @@
 [HD]digital tv,https://epg.pw/stream/f08818fc2230646c0df394a83106446f6b9171bdc18e73d6e8aca9738df7fd62.m3u8
 [HD]all sports tv ,https://epg.pw/stream/30be2bbf8ef367e0e094832fe9421799e5ab2f308441aaedc432807cd2597996.m3u8
 [HD]Sports TV (720p) [Geo-blocked],https://epg.pw/stream/75a99b3a2551f8e9887750bd08907648ccd1c2dfd2875111fa49251e6e774910.m3u8
+[VGA]Gospel Cartoon (360p),https://epg.pw/stream/893fa39d193f3d4a11a99f366690cca2a4019dd89921e3e9400010fc5b675360.m3u8
+[SD]gospel cartoon sd,https://epg.pw/stream/106652895f06da7dd2315c9a6e4d0f92d3f1646dd3f3ad4d2432481bef3cba90.m3u8
+[SD]gospel cartoon (360p),https://epg.pw/stream/3bfa10771ba6c14df9a4820f252bffb8797df8a91e7f9d27d060253496e3bf6e.m3u8
 [HD]SBT,https://epg.pw/stream/ccfd266b284fae0b5727613e09b3124e3412d08a2f0b7445536667ba4e8c677d.m3u8
 [BD]SBT HD,https://epg.pw/stream/1b1780fbc0ebf01b4b2c49449a001908860f34fa8371996ab15afbd4694b11b0.ctv
 [BD]tv aparecida (1080p) [not 24/7],https://epg.pw/stream/80f505113a660325e307dc6dbce2d7645cf841ffb9db47403136d57c41eabe07.m3u8
@@ -113,14 +118,12 @@
 [SD]mega@@5,https://epg.pw/stream/e7998d48ce865c809eb467285fd409875c26210534d38512334ea39a76b2e086.ctv
 [VGA]mega@@3,https://epg.pw/stream/3a6d1b95bae8efc1767360a5a08abc54e37cb667bd51a47fd1934b81f1445201.m3u8
 [VGA]Mega,https://epg.pw/stream/85a65d77cde2ed56c63f30763bf292ba6c70e390af86e3b415d2ed41d1fbaf0c.m3u8
-[VGA]Gospel Cartoon (360p),https://epg.pw/stream/893fa39d193f3d4a11a99f366690cca2a4019dd89921e3e9400010fc5b675360.m3u8
-[SD]gospel cartoon sd,https://epg.pw/stream/106652895f06da7dd2315c9a6e4d0f92d3f1646dd3f3ad4d2432481bef3cba90.m3u8
-[SD]gospel cartoon (360p),https://epg.pw/stream/3bfa10771ba6c14df9a4820f252bffb8797df8a91e7f9d27d060253496e3bf6e.m3u8
+[BD]urbana teve 32.2,https://epg.pw/stream/0e264db0cc64a501fcb4522acfb947f26d0361b1c2495e0a1ac4111ed96c254d.m3u8
 [SD]tnt sports 2 brasil (720p) [not 24/7],https://epg.pw/stream/44c9c49c02c712e985904e84f0edc3d0f780fe8fb7d7800243993086f316cd5d.m3u8
 [SD]tnt sports 4 brasil (720p) [not 24/7],https://epg.pw/stream/2694ec0d60edb3f52aa67f3ec7692e2a34a609ca74bae14ed3fdafc6a0c3b6d1.m3u8
 [SD]tnt sports 5 brasil (720p) [not 24/7],https://epg.pw/stream/2ac231db82f03708706eb552fdfd7e67e48e8b15cf5c24097cd07bfb25b43c9f.m3u8
 [SD]tnt sports 3 brasil (720p),https://epg.pw/stream/ecce06cf75066fc0755b7000a511688d5c8336d90a57204b07da2bec941828de.m3u8
-[VGA]TNT Sports 3 Brasil (720p),https://epg.pw/stream/08c617239dbce9dc10532f1ecec9c9d7c081341cc9eacb72d086cb8946ac5a0c.m3u8
+[HD]TNT Sports 3 Brasil (720p),https://epg.pw/stream/08c617239dbce9dc10532f1ecec9c9d7c081341cc9eacb72d086cb8946ac5a0c.m3u8
 [HD]TNT Sports 2 Brasil (720p) [Not 24/7],https://epg.pw/stream/8d87d587b052d721b93111ba6ec50036c195d2a01c7c84c82f47792884ac2ba0.m3u8
 [HD]TNT Sports 4 Brasil (720p) [Not 24/7],https://epg.pw/stream/e96c168900fc8796d30ca855b9e4c87e3ade7721e2fa0c1cb54e12a4b7940b80.m3u8
 [VGA]TNT Sports 5 Brasil (720p) [Not 24/7],https://epg.pw/stream/d0b65f2a6d90f018b499d3f5f49a6a0b3670126c49b7ec2d4dbc3575a90ddf66.m3u8

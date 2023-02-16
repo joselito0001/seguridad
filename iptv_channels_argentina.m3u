@@ -1,12 +1,16 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172729357851_26.jpg" group-title="Generic",[BD]i-sat@@3
 https://epg.pw/stream/49763de1b4980a33590e0e3665796bd7e24d32b97ad5889d81556ed673d3bcc1.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102185930588817_25.jpg" group-title="Generic",[BD]c5n@@3
+https://epg.pw/stream/d65bdb0bc82421ed8c57bcd89944c89581cd04588fad3379ac87d1f174cc552d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113071852863794_69.jpg" group-title="Generic",[SD]Alert (576p) [Not 24/7]
 https://epg.pw/stream/ea357896239d0d7ca34460487691fc50832b2fa18443df1485ebe33f256f7a65.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120084722537958_36.jpg" group-title="Generic",[HD]Japan HDV
 https://epg.pw/stream/74e0ff24e109df49253fd49be07ee691135187c3ec768790dfa5e19cb4ab0f9e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120085948950637_76.jpg" group-title="Generic",[BD]canal 4@@5
 https://epg.pw/stream/6ef919245b2b6db087afc042a9eeddc45fce9988a78649db8962ed788170e706.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120085948950637_76.jpg" group-title="Generic",[HD]canal 4@@6
+https://epg.pw/stream/b252ec8677fdd89f2afc08aa4702b97e4539b60e92e4ecf79355b66bf6fe1059.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120085948950637_76.jpg" group-title="Generic",[BD]cuatro hd@@3
 https://epg.pw/stream/3e58e09d9ecb146b6ba8b9b92c6af0669896ec2d10f4bc55dfe19ea8637fef5b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120091001119776_13.jpg" group-title="Generic",[VGA]canal orbe 21
@@ -33,13 +37,15 @@ https://epg.pw/stream/3a9941c2bf06e623d24282147e3e0f5b55fd006f4bd4054f68f794616b
 https://epg.pw/stream/a0de189ad700ae52ab2fd30524260d9282ebfb0c536f3a49427be68b2b769bba.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/11/20160511111115114479_98.jpg" group-title="Entertainment",[HD]sun channel
 https://epg.pw/stream/3cbff419d544b8dc5b9b2bfabc0a546ca43703f600447d9893cfcf8aeb562190.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/07/08/20160708182612734874_76.jpg" group-title="News",[BD]teledoce@@2
+https://epg.pw/stream/266013f36f653bfa4a4ae224648d389b38d7cbe30f56d83f0d7de1d9fed9fd0a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/06/16/20170616034423669528_60.jpg" group-title="Documentary",[HD]tec tv
 https://epg.pw/stream/2340b2c3db275c3b6cffcfc529d554777e2f303b87f6b10204550190c97d3bc2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/06/16/20170616034423669528_60.jpg" group-title="Documentary",[BD]tec
 https://epg.pw/stream/190ed9f3945f2446131b27edb62a222af8ca962683616b9c6f03360d3366e0b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174536800709_46.png" group-title="Cartoon",[SD]anime tv (360p) [not 24/7]
 https://epg.pw/stream/0dc4ef2bbbaefd937f401933821d70f30c850d00ab4024407c1d64aadfde0135.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174536800709_46.png" group-title="Cartoon",[VGA]Anime TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174536800709_46.png" group-title="Cartoon",[HD]Anime TV (360p) [Not 24/7]
 https://epg.pw/stream/443fb1bafa5a47efdc5f9479b75dff53c391d9449d0683ad3ac20b1ef10b9a94.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016151533368483_86.png" group-title="Cartoon",[HD]Pakapaka (720p)
 https://epg.pw/stream/66ed1b1f6db34db09f8e03bb63c9bbd0de852a71a5951e5d884a40809b09be65.m3u8
@@ -57,12 +63,16 @@ https://epg.pw/stream/51b32a4b80be1d922fca527347a5347e1af00298cc46e98ba21d1101cf
 https://epg.pw/stream/ad1c1617bc6f731939f7afc22342aee3b9dfe569570af6394c428620e146daef.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205543037408_14.png" group-title="Sport",[VGA]deportv@@3
 https://epg.pw/stream/8371174424ba13209892a995df5c02314fda7dcfa2f09e5e7463881779bd86e9.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232300122998_71.png" group-title="Sport",[BD]tyc sports@@3
+https://epg.pw/stream/0558d9ce595cb2774b6e4040e9f19474c539eb62599d76caf0597f2045ea9d80.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[BD]EYE95 America (1080p) [Not 24/7]
 https://epg.pw/stream/df8f9776e834c12bafd314bb45b70e1f68024b9197a418de2bf41155d6f66c61.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[BD]america tv@@3
 https://epg.pw/stream/583dda15f3ca37720203b5166af6a0e1ed7fab769732c6628b666e460ec03d69.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[VGA]america tv@@1
 https://epg.pw/stream/7d63ac3f52a03d3c3dde879fea6bd2f751dd0cedf21cf30fec1b80e66cf61b94.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[BD]la uno america
+https://epg.pw/stream/ec19ca7cc6f8fa215b7c7f0511ecc4c2dc182dcd4e9e3af21e3c465e10a56806.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[SD]eye95 america (1080p) [not 24/7]
 https://epg.pw/stream/78d1537bc9a2c1088907f5f7d95da8d4302181c1af8b7f24f52d383d3f9a5fc1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[BD]tvg américa
@@ -79,6 +89,10 @@ https://epg.pw/stream/0cac32346dcbde29a4df006bb0d42b98a497b3d69fe969767ae7dfb17b
 https://epg.pw/stream/5f646880a16480ca8dc90a75d725f0378b896030bb8eac9ae576a8d7a71b5e7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[BD]MTA8 America (1080p)
 https://epg.pw/stream/6574e96b2a9732a9d5d00bf4385ec62acf113c5b8b428c01243841fbd795a378.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/17/20150317064104447243_42.jpg" group-title="Sport",[SD]radio yo argentino
+https://epg.pw/stream/d482a680592feaec7d31e9716d7c206f5cff804527aff0674fac8aef1726eb88.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="Entertainment",[BD]telefe santa fe
+https://epg.pw/stream/dfdc8b3dfdf138570ebcb82f717935786c3f30bdfc007cf9aa84e5a4d2197e46.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/02/20150802210533583620_63.png" group-title="Entertainment",[BD]telemax@@9
 https://epg.pw/stream/c808eb77a756ce3218f589d04b7e3e13796bdff5fabdeaf48ebe50db5513dc46.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/02/20150802210533583620_63.png" group-title="Entertainment",[BD]telemax@@8
