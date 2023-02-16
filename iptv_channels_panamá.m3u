@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231307212107_61.png" group-title="Sport",[HD]tvmax canal 9 sd
+#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231307212107_61.png" group-title="Sport",[VGA]tvmax canal 9 sd
 https://epg.pw/stream/da6ded95c69f86ecc75cdbf48c41f722b96bbcffb4f14a0895a9a1dad8e68f25.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231307212107_61.png" group-title="Sport",[SD]tvmax (720p)
 https://epg.pw/stream/f951178bc5156eca250091aa7ca4dcb216c49b6187a24a9b0f92acab31d3ca54.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231307212107_61.png" group-title="Sport",[HD]TVMax (720p)
 https://epg.pw/stream/efe2e0528ce3cff098b98bfbf6cfcff55257adf51e1a4c5ae69ef5f303aef5ee.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/13/20150613065614263181_32.png" group-title="Sport",[SD]telemetro canal 13
+#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/13/20150613065614263181_32.png" group-title="Sport",[VGA]telemetro canal 13
 https://epg.pw/stream/df002b4284030b349e7b10b1c5baea4949681da6734e0d188da8ba11cf0739f2.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/13/20150613065614263181_32.png" group-title="Sport",[SD]telemetro canal 13 sd
+#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/13/20150613065614263181_32.png" group-title="Sport",[VGA]telemetro canal 13 sd
 https://epg.pw/stream/6631a463906f14bde8ffd05820fcee386307cd2a65af7ff3ab6d20d51d9655f0.ctv

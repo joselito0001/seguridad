@@ -29,7 +29,7 @@
 [BD]nhk world japan,https://epg.pw/stream/8affca099c4022c50efe6684ce983597e774ca75610cb3382d0a6e74724499fa.m3u8
 [HD]nhk world japan@@5,https://epg.pw/stream/7d0fbe3dcf97b55a96e49f6d588485047e5f9f63dedd2a309daddb2ccaec2e65.m3u8
 [VGA]NHK World Japan,https://epg.pw/stream/08861adc3f094c699e85652a4365a25498aa6a6d43da8ba985e1f81b6e41ded0.ctv
-[BD]nhk world japan@@3,https://epg.pw/stream/7402fdc4c8eb91405f245c9edf87a21dbab7bb29fd5793d987c259373dde250e.m3u8
+[HD]nhk world japan@@3,https://epg.pw/stream/7402fdc4c8eb91405f245c9edf87a21dbab7bb29fd5793d987c259373dde250e.m3u8
 [BD]NHK World Japan (1080p),https://epg.pw/stream/34f0191c35674b90b5dbc381a5694adedaa063119868052a6aa15e1868c0ff5e.m3u8
 [HD]NHK World Japan@@1,https://epg.pw/stream/007b66643781ea79ede588e6f274515e15625ee19289dcb8514dff2163257838.m3u8
 [HD]NHK World,https://epg.pw/stream/f950d70931dacb1e34998a949fb723f3f36ffc4efec26e7f739c41636773bebc.m3u8
@@ -52,6 +52,7 @@
 [HD]Tokyo MX 2,https://epg.pw/stream/531c37b29c8c7153062c0cb7ded25d4d3738e5147c062682cd335d35d618b70f.m3u8
 [HD]Tokyo MX2,https://epg.pw/stream/8706d61c7266890e0e4fb4d392fb43c5d5d5cccd0923b0990c146b02ce0bb6e9.m3u8
 [VGA]Tokyo MX2 (360p),https://epg.pw/stream/36dd709be0feb7604fde4afea3eaaf317e725709f5e990f8dc0ac7a2c1b24514.m3u8
+[HD]tv tokyo@@1,https://epg.pw/stream/673c1b18f143b6f506b407969ead69825eede7bc2e38605b42cbcba450b2dc9b.m3u8
 [VGA]tv tokyo,https://epg.pw/stream/91337ba217aded75ef7f5eb5989ad6d46b6147904c7c5c79fd74dedaedda0b9d.m3u8
 [HD]sai tv,https://epg.pw/stream/bf1212cb4c1a12676b7bc4473aa0344111555825a82394dde0be7d2253ec97fe.m3u8
 [VGA]NTV News 24,https://epg.pw/stream/590b5a160e98bbce8dc7327798185bbfdde33cca40cf2350458bb8b1583e384a.m3u8
@@ -126,7 +127,7 @@
 [HD]フジテレビ,https://epg.pw/stream/b5f6bf471ceb8c418620bbf8b09c9a49cf8f74590b1c008cd1704dcdaa757c56.m3u8
 [SD]Star° 3,https://epg.pw/stream/34db850acd0a78c2ae089f296ee7796a872802519d63ce9906d70be82af9f62d.m3u8
 [BD]Star 3,https://epg.pw/stream/c0d9bf76e80b22ff245b20bc82445876c348af0343027828366cc27b0c0dc0f2.m3u8
-[BD]star+ 3 (eventos),https://epg.pw/stream/f3cd5bbcb0fde79300d43a152afbb610c04d8c5e65b25bb4136272c3444bcc4e.ctv
+[HD]star+ 3 (eventos),https://epg.pw/stream/f3cd5bbcb0fde79300d43a152afbb610c04d8c5e65b25bb4136272c3444bcc4e.ctv
 [HD]スターチャンネル3,https://epg.pw/stream/bcb3ca15d8178808f79194cd578da21abf6a0a12dabfb76010311d011985f345.m3u8
 [SD]njpw world,https://epg.pw/stream/9e4756fc3e7063307fbf48bd7768899abeb5e74a1bc2f0e73d6256ebd7105cf2.m3u8
 [HD]stv2 - sóc trăng,https://epg.pw/stream/4207f6f25c5d3fbdcf5f4e67e7968374cdc0bdb6f8d71285e38755d2941da43c.m3u8
@@ -177,13 +178,16 @@
 [SD]gunma tv (720p),https://epg.pw/stream/521aa322435f17a3cd5a8572bf69bb2058c5561a9cb210f78480edd84e66c668.m3u8
 [HD]Gunma TV (720p),https://epg.pw/stream/7db0b656a835a8641c8b957d0f35f73ecf74587f03bbd53235581b259d7343eb.m3u8
 [VGA]tv asahi (480p),https://epg.pw/stream/9486f8383b288c2f38a04fd0a25751b7a30c255685d671573860555a44a65fbf.m3u8
+[HD]tv asahi,https://epg.pw/stream/47d21a03872bd471bc6157c6d9e1e5bbcb1d43b4afca3694b7849539e3ff2cfb.m3u8
 [SD]nippon tv [not 24/7],https://epg.pw/stream/962a678563307c199cd6e086725ba4f7fae593050c1aa7056162d8fd861fcafb.m3u8
 [HD]bs nippon,https://epg.pw/stream/ede903fc886b75af496a01da6f790d1a79e6ad41a459992a66ff0723685a2626.m3u8
 [HD]日本テレビ,https://epg.pw/stream/0d7fde71de76a86c7a567a8eaae98e587d59f4655d9e0cfbff9a83cb1b132a5a.m3u8
-[SD]pon tv,https://epg.pw/stream/771b77ca71471d89bb88e127211f89e3896bcccde57b618e4e06ee279eb1d97d.m3u8
+[HD]nippon tv,https://epg.pw/stream/716395dcccd02ec13b57568d9a4736acb4797c798519796be4db86f476261123.m3u8
+[VGA]pon tv,https://epg.pw/stream/771b77ca71471d89bb88e127211f89e3896bcccde57b618e4e06ee279eb1d97d.m3u8
 [HD]nippon tv (480p) [not 24/7],https://epg.pw/stream/adbc13428d492ea6e25b40e07efd2734adfcf1ead0b8ca820c6bb3f18975d754.m3u8
 [VGA]日本テレビ ,https://epg.pw/stream/bbc1153d35b43a61ea5b2aff7b0418c3083c3cc6dd080aae9241626f443f1bfc.m3u8
 [VGA]Nippon TV,https://epg.pw/stream/40ce844f888250e39ad29545d014df4ec98ea22a2d5eb041af41fc966bdee9e9.m3u8
+[HD]fuji tv@@1,https://epg.pw/stream/ad889445b3358f7ee4b74bc866b0e2c529a8f07712ebd6e0de64a4178e5c4915.m3u8
 [VGA]fuji tv,https://epg.pw/stream/bee986b4253c725bd4b2a9565e07794fd82bb3e19c705efba6f587d9f6f45fe7.m3u8
 [SD]fuji tv (480p),https://epg.pw/stream/e0bd51bf65e5789f436d8b402be6f16980304eb1733ae42cd631139e0eb29b33.m3u8
 [VGA]Fuji TV (480p),https://epg.pw/stream/86066f0010e7c9bfe5cb6174098a54c943b7be473b0c5296105f54646c28b50d.m3u8
