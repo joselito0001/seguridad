@@ -9,8 +9,6 @@ https://epg.pw/stream/5613a9494a183d293e2b9daacffabe0f12f32316eb748dc84cf33587a6
 https://epg.pw/stream/5a9196d9245ec4b1fbf0536101d63fa85184d891e430cce85da8432caa0ead8b.m3u8
 #EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[HD]euronews@@1
 https://epg.pw/stream/c5354a715b433c0b0036de1805e719a8a2449cdd3fd27d33a911343fa5105374.m3u8
-#EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[HD]euronews@@2
-https://epg.pw/stream/17379807b6003c396431c9215222cf96cfe220ac2d2f82b694b37a46c9e961a9.m3u8
 #EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[BD]Euronews@@3
 https://epg.pw/stream/0338e3e273cdd00eb375378af699083a51f84bfed8a8e7a3ee943a5ac1a45dc4.m3u8
 #EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[SD]euronews@@1
@@ -59,6 +57,8 @@ https://epg.pw/stream/3aade9a87062984e448ab73ad902d2766490f37eab89344941e93ea17e
 https://epg.pw/stream/a5e669ca9509b7564147e300c3f70e6d8c873a3316f7ef7c0211132caca909fc.m3u8
 #EXTINF:-1 tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="News",[HD]euronews
 https://epg.pw/stream/9ec1e2dae5ceb9628aa2df7c2eb1e13e1e869dc7d133865c80c44e44449ff80f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418232357149030_61.png" group-title="News",[BD]euronews french
+https://epg.pw/stream/dba07dacde1c7a9aa35bd2f5b2b03d8a64863e50c62ca4ef0aece24978f0f624.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418234843529941_74.png" group-title="News",[BD]france info@@3
 https://epg.pw/stream/7cfded754d0f9f680722c5fce078792a3d2522f4ee16300ac5fa469803d12db7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418234843529941_74.png" group-title="News",[BD]france info
@@ -73,7 +73,7 @@ https://epg.pw/stream/44fb6f43ed33cdd57aea51f5436f6ab02c1f58b6d4e988645e5e5f8a88
 https://epg.pw/stream/eb86e1a8cc55a2fa747abb17c000e208dfd16babc8b7712258d9a3e2e3f5a0c9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419010749751376_23.png" group-title="News",[HD]Euronews Spanish
 https://epg.pw/stream/676564306a445002b02ded0a31ce1dc86b87015bb4cf6186454f43fb48c4a2c5.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175051621245_38.png" group-title="Other",[HD]itel
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175051621245_38.png" group-title="Other",[SD]itel
 https://epg.pw/stream/6a8994d4875ac8b497798f491fdefcc02215f0b4d2cafe201a614fbeca71a0de.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175051621245_38.png" group-title="Other",[HD]tele 1
 https://epg.pw/stream/c7d506ca4f8bfb2a041816e59fdc2e84223285b304be41a7bf5481eadf56beaf.m3u8
@@ -103,12 +103,12 @@ https://epg.pw/stream/8f3adf992dfcf97a778d8af862ee5d571a313ccd88bca1731785970f4f
 https://epg.pw/stream/aa8d652803d9887a859c56559d8e1a765a0091c84fa19a0d8c9b7ea2f64c73d4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[SD]france 24 french (720p)
 https://epg.pw/stream/b16edd7afb74b955b2e0a61cfbc1e2d17043a3f390c60c6b1da2db60955014bb.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[SD]france 24@@1
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[VGA]france 24@@1
 https://epg.pw/stream/ef958fd70694e4a2eb195ba6890219b9e31d9d43794cababbddceee87b8b36f1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24@@3
 https://epg.pw/stream/c36f3ba361770359a61fc875d7f421d067811935f7f13ea5b9cb2d21aaa5db2d.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france 24 fhd (lat)
-https://epg.pw/stream/f09b358c93dd69ef3d9a5d35c4f1b50cfb57915e94db34a63372b2739ccd2d79.ctv
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[SD]france 24@@4
+https://epg.pw/stream/3930adf30562f39c579c97a6689960ccf218d1a912b0b3dc9c839ea06cae5846.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24@@2
 https://epg.pw/stream/8fa991afe89d82d55ff085a68847cdfe92d43c02bc2b588ad27dcc3a4a28eda8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24@@4
@@ -121,7 +121,7 @@ https://epg.pw/stream/b600186173ce53afe9028db8d797e353751de31ca838e19b89bbe95a69
 https://epg.pw/stream/42ecd74cf00c601f2b2ca540fbfa67b7fc0ab44b3fe1f723e3114e83f9c8ce14.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24
 https://epg.pw/stream/020966765206fdf49300e755211b859f1902cb23d28f551f829d20595c8b1338.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[SD]france24@@1
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]france24@@1
 https://epg.pw/stream/7bff0fc70ab1e093c804707e0f0870de7e0fc18cdc65d7951925e8c1fb6ccfaf.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163802059928_24.png" group-title="News",[BD]France 24@@3
 https://epg.pw/stream/f0b8b994679afb01545001e5a7490792171c8167a1c0b42a91b3e2c6dd76d8db.m3u8
@@ -135,6 +135,8 @@ https://epg.pw/stream/4c6fea021f9b856c6fa1a99dd3d47d4d5ebd40954611c80305101f4d43
 https://epg.pw/stream/ecb635154790ad60be9f7dfa27085596a6ca2d97c201209afa6a16f57bf7f7cd.m3u8
 #EXTINF:-1 tvg-id="4100" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="Sport",[BD]Trace Sport Stars
 https://epg.pw/stream/daaf418431a931525ce042dd216ab6c2b853b09590a2f2848a1fb91ee65e553c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d72424a369b7ef89df33796f7933f2d9.jpg" group-title="Generic",[HD]tv5monde asie
+https://epg.pw/stream/344c874c3d544722add1f892ea316bb7438a5b3a4f853db99280577a93617597.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d72424a369b7ef89df33796f7933f2d9.jpg" group-title="Generic",[VGA]TV5Monde Asie
 https://epg.pw/stream/b7d6078a47ab789a424b6794c6f2b2f14864c7ef9bd9293473aa4c2a5c40d162.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d72424a369b7ef89df33796f7933f2d9.jpg" group-title="Generic",[VGA]tv5monde asie@@1
@@ -185,6 +187,8 @@ https://epg.pw/stream/406b27150a190a6add4b0637fe94098d4a81388c7f42f01e6b8966ba95
 https://epg.pw/stream/b83c5ba2d4edff4f44f1677a15e89bdb8c72e6063208fb1c4cf6f71561b5d92a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Entertainment",[VGA]fashion tv@@3
 https://epg.pw/stream/8d336fd28fa23519b3233890258cd09cd1a9b98d5e4866c3e0cde92458275f78.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Entertainment",[BD]fashion tv@@4
+https://epg.pw/stream/9ddaf9c8ad88f7df2862c690041c07cddc1396dd795d68bb362d9c0b67945e82.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Entertainment",[BD]Fashion TV@@1
 https://epg.pw/stream/52b138aadc143dcccad0147584eb725693542e7c51fd6cc90aaab3d42207aa94.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Entertainment",[BD]Fashion TV@@2
@@ -273,6 +277,8 @@ https://epg.pw/stream/4fb7e43029c592046ec0b0894e9dc13060c5bf6dd136037edaa0f758c7
 https://epg.pw/stream/c92d7cd2cb0ea0dd097339a4d3944aa13c3a4a776999b1b20fa1101d61383f85.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174958623574_45.png" group-title="Documentary",[BD]SACE-097
 https://epg.pw/stream/eabf60062d5f51d5ca3a456f5381e7052792976e436e88140949369b58d3d0c9.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205528546352_18.png" group-title="Sport",[BD]bein sports france 2
+https://epg.pw/stream/50b076f4bc9eab69c76f414071a46dd722697b9f0bbcfc17a441411edac95813.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601224709623811_96.png" group-title="Sport",[VGA]trace sport (alt)
 https://epg.pw/stream/e399071b6e12573cadffd740b9e3245731bbecac613cee57a09b56be398d031a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601224709623811_96.png" group-title="Sport",[VGA]trace sport
@@ -281,6 +287,10 @@ https://epg.pw/stream/e7ddf6e7ff2a293c56c2e77b6ce75abc48e0ee650aef97cba5f41e3607
 https://epg.pw/stream/ff3f35c00bc206f858940463951485a6f130b1d8b4a7b41fec4b0e9e94863ad2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174811825499_91.png" group-title="Generic",[HD]Notele (576p) [Not 24/7]
 https://epg.pw/stream/f5f726f66d8dad649682278991e3b95e3193f94334a3092d167184adcbc5a798.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220936665039_19.png" group-title="Generic",[BD]france 5 (720p) [not 24/7]
+https://epg.pw/stream/194ec31106af3a4bdb662f400bb8c9f4cdea7d3644896ecd313314568c6d28bf.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220752317893_19.png" group-title="Generic",[BD]france 2 (720p) [not 24/7]
+https://epg.pw/stream/edb0ad2b889811babef85e1d3923caa69edabccf6229be2f53f12d61f52bc6b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[SD]canal 6 (720p)
 https://epg.pw/stream/f1d06b6690d20edc553ced51e6322a78bdc29d14b18e8ed4ddb4514d5e8b79c6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[SD]canal 6 (entre ríos)
@@ -347,8 +357,6 @@ https://epg.pw/stream/461c1dd3a05b7d06f563033463f53265e33b95d42c9d20fb013db4ec35
 https://epg.pw/stream/8bf7598f943c14ccc0e48cb5f6780a629d545343e3188a1ab6ad2a50bb2d28b7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[HD]canal 26@@2
 https://epg.pw/stream/545d051b9bd98284517856d55c004fce51fc9aec38f702f768a7fb9473f2f593.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[BD]canal 8 hd (mx vip)
-https://epg.pw/stream/57f2c4648677a60c9bd82a7334e7c433b82b06eb473191b15f911b22ae561784.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[HD]canal sur 2 hd@@1
 https://epg.pw/stream/b0f8304ef61edc94bdc4ae439492613459f3b4be009f3122df769783d290444c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[HD]canal sur 2 hd@@2
@@ -403,8 +411,6 @@ https://epg.pw/stream/504ef251aaa7b61998119ce039e02e217de9357771671ef7f44ba99b73
 https://epg.pw/stream/9053153a107f611df71d94a7d39e48a122429722a85fcdb16be6c87df79218e4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[BD]canal 8
 https://epg.pw/stream/b2840d976564643bb09ee5d038383e874c9ac3fae66017237c924aa5db49fbd7.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[HD]canal 4 hd (mx vip)
-https://epg.pw/stream/6e467f5559799de7b995f9e60d1eb9ccc54eb62ed2401b7a596d3d8994025079.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[SD]canal  13
 https://epg.pw/stream/7e48fcb0630b89a5135b2b8fd5b72d079312f71ef104a74a2d0d0aae1cf89bfe.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[BD]canal 12
@@ -431,10 +437,8 @@ https://epg.pw/stream/ff45f376b79cc79b6eef411af2f5d6afb567f429375bd1c44a007e50a6
 https://epg.pw/stream/8284cf890c64649024274cee6d641c651bfe81b06bcad8e46782d888a53236d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[BD]canal 5@@2
 https://epg.pw/stream/cdb3d4029c191b143a5f727e8964acaf67af3b76a966086c4aafa5a72b4b6371.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[SD]canal 11
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[VGA]canal 11
 https://epg.pw/stream/0b725dad80f5c688845ef26e074181668683cd646a3d600011e60786eb320bc2.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[HD]canal 5 hd (mx vip)
-https://epg.pw/stream/e424e9a2157d1c772c2bb8dd7f301fdc2e9032adf432493f518093d94f3c00b8.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[SD]canal 12
 https://epg.pw/stream/29cb2041d9eec9a164ebafa3b99d5b18c2a1334a3b6fcdb751b593f54199aa3b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174843614607_56.png" group-title="Movie",[HD]Canal 2 (Sanagasta)
@@ -453,8 +457,6 @@ https://epg.pw/stream/6b641ddd407832d40b2c5a794a9916d473f4670e30af48b0c06c0c83ce
 https://epg.pw/stream/a73ad62348d0d310e1b65ed3c01b1fb80e1a5e89fe70de033eceeb3cf1d9f9e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png" group-title="News",[BD]france 24 english@@1
 https://epg.pw/stream/b0025e2b555c87b982d3f223a52383a9a5fac968315cf5c2e278f94ab5aaffa7.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png" group-title="News",[BD]france24 english
-https://epg.pw/stream/0c19595e7228db86c845ba413c7106fc022896229dad2f7f9ab217f9452cec13.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png" group-title="News",[VGA]france 24 english@@2
 https://epg.pw/stream/3458b3d17833dc9472d1a827149d22e3a90d8676e63a74462fb72142f4bb138a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png" group-title="News",[BD]France 24 English
@@ -497,9 +499,9 @@ https://epg.pw/stream/492e9e6de7ac596a54e9c2c2860dd426d8aead97c1d2e9bbd2f0c4d052
 https://epg.pw/stream/44544eff10b0550cafb916763deb25c201d0f609e864f2633ad556f535e34a4c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/02/21/large/20200221054632230540_11.png" group-title="Entertainment",[BD]mezzo live@@1
 https://epg.pw/stream/8d7f5e6437f1e0248b617d71a9f65d34da9396bbf3e062d9b7ba11387bb08efb.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202092612069529_95.png" group-title="Hot",[HD]french lover
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202092612069529_95.png" group-title="Hot",[SD]french lover
 https://epg.pw/stream/71b7a2fb62aa9755ffd28612d813df0c5acc84454670eb979d3ade2eb4857116.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202092612069529_95.png" group-title="Hot",[SD]French Lover
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202092612069529_95.png" group-title="Hot",[HD]French Lover
 https://epg.pw/stream/9eca709859923b72116ef520076318d02ec4090e6905ff46dd599db988f7d126.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202092612069529_95.png" group-title="Hot",[HD]French Lover
 https://epg.pw/stream/db123c5282fbf29a135adfe253d1a40e7ebf9908643b6066de74635f7619b517.m3u8
@@ -509,6 +511,8 @@ https://epg.pw/stream/8d00d7b57f07b8961c59d8fd43fb87e21338ee079f17e564cdffa8d85e
 https://epg.pw/stream/fdf4e0d19b02f4d1f3b3d7caed32a259c871ab921908ed4d16c10e1fc828de2b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220194951434842_52.jpg" group-title="Entertainment",[HD]music top@@5
 https://epg.pw/stream/281f1d78d4d378bfaaee35c456f83c2c4a76cb13631f16b18f0ca75b032c098c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220194951434842_52.jpg" group-title="Entertainment",[BD]music top@@6
+https://epg.pw/stream/acb50987575a333be51f62a706fbc11a072e090afc96dbd465ce6d91b232fc92.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220194951434842_52.jpg" group-title="Entertainment",[HD]music top@@2
 https://epg.pw/stream/45ab419cf2639f58c711979612d9df93f461f3787b1743873d7fbe827d2177a6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220194951434842_52.jpg" group-title="Entertainment",[HD]music top@@3
@@ -585,9 +589,11 @@ https://epg.pw/stream/a1d350359a18f6e333fba4fd0f585ec24540d55735ca85ad33d5ef864b
 https://epg.pw/stream/7a6295ab664fc2b4ae96fb54f6225f94e0d25a6ed5ae139c0b89c7c5cc7a7b87.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091657261430_91.png" group-title="Other",[BD]dorcel tv hd@@1
 https://epg.pw/stream/1ddf233b0fcd6d3dbc7f05f1f144162ef564d692907f8bb4d74e7edea84d46b1.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091657261430_91.png" group-title="Other",[BD]dorcel tv hd
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091657261430_91.png" group-title="Other",[BD]dorcel
+https://epg.pw/stream/dec879c0f2b5c75e8c4246adda86755f0276d8b939f266a9b51aff6d9528813e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091657261430_91.png" group-title="Other",[HD]dorcel tv hd
 https://epg.pw/stream/62e92ae4bc5fb5bcf9458ac022c0225eea0298513c474159c2b4c7f4df129ee9.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091657261430_91.png" group-title="Other",[BD]Dorcel TV HD
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091657261430_91.png" group-title="Other",[HD]Dorcel TV HD
 https://epg.pw/stream/1032b4f2fb89099c09eafbb4c079eb14a1718121c6ec1268d9a7b09af9e8b402.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091657261430_91.png" group-title="Other",[HD]dorcel tv[1280*720]
 https://epg.pw/stream/983a9936fc7fadcb4c798e622252fe6de2ace71c0b43377ed200c39bee6819ac.m3u8
@@ -603,7 +609,7 @@ https://epg.pw/stream/fb0c2ded142404296a8d533add44b13c25ffba36c6dd28c93353e597ac
 https://epg.pw/stream/f7af0fa9518b3a0e100c9c77cbed0319d24a036b9f6190048307d71975010e63.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020525106522_62.png" group-title="Generic",[HD]FR_BeIN_SPORTS_3_HD@@1
 https://epg.pw/stream/8189879bd2975878966cfedd4c6b732006d7e2d2b18307715d2a6b4a56169f6b.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020525106522_62.png" group-title="Generic",[HD]FR_BeIN_SPORTS_2_HD@@1
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020525106522_62.png" group-title="Generic",[BD]FR_BeIN_SPORTS_2_HD@@1
 https://epg.pw/stream/33c77fec3f3b3946274d860ed61e2fdbd812dcf92bc68f6ebfd70bf22d8fc8c6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020525106522_62.png" group-title="Generic",[HD]FR_RMC_Sport_03_HD
 https://epg.pw/stream/acf86133fd91d9834e8e729ff60dd13eafb67f090058993ad27ab699811cbe8b.ctv
@@ -615,7 +621,7 @@ https://epg.pw/stream/68e42c14036039e537c374be6bea4f5e501fab80f3edbc7de10930adc1
 https://epg.pw/stream/29cd1921e387b0f251fa0ba46115838f33e743c7b1cc15c7405a169f560211e5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020525106522_62.png" group-title="Generic",[HD]FR_BeIN_SPORTS_1_HD@@1
 https://epg.pw/stream/0068a6ec579289fd9fc9abd272edb74fe97813da8519f4914a71908532186b51.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020525106522_62.png" group-title="Generic",[HD]FR_BeIN_SPORTS_2_HD
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020525106522_62.png" group-title="Generic",[BD]FR_BeIN_SPORTS_2_HD
 https://epg.pw/stream/4ce198fd5ea432ef9d4c8ffd179aa55691cb661ae221df74197b0594349c5e35.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722055902384392_15.jpg" group-title="Documentary",[HD]national geo wild
 https://epg.pw/stream/8f1ec1d7251a697da685dd259873ef631fff54dec04962feac0d0a7dc021df66.m3u8
@@ -623,8 +629,6 @@ https://epg.pw/stream/8f1ec1d7251a697da685dd259873ef631fff54dec04962feac0d0a7dc0
 https://epg.pw/stream/455303b661c194fe597453db1271e0d33e9f08fba373a775f3e266e47632d5c1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722083021102569_33.jpg" group-title="Generic",[HD]chasse et peche
 https://epg.pw/stream/c86faf50abfba4f02bca4c5e6cbb374b9370633b6ad234edee2a108bef060bca.ctv
-#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206123852727847_88.jpg" group-title="Cartoon",[BD]cartoon network fhd (e)
-https://epg.pw/stream/92a84ae4e025a7340d38c17e7a2fa9dd3d5713951e87d5e31b1fa70f5a4fad32.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206014447117743_31.jpg" group-title="Generic",[BD]disney ch hd@@1
 https://epg.pw/stream/7e71005dfa3249b682bb1beee56d219853321195d73b2272ab16aa6179484473.ctv
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206014447117743_31.jpg" group-title="Generic",[BD]disney ch hd@@2
@@ -643,3 +647,5 @@ https://epg.pw/stream/48f4511046150025b42c1dbd5470b0c8591edd15c1f83ecde1b34cd018
 https://epg.pw/stream/04981ffad1a0684280c7263a279f593c667d0dff21892175e951afb0feb68637.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022138110323_98.png" group-title="Documentary",[VGA]Canal Savoir (360p)
 https://epg.pw/stream/91790016d720f73eb8c75dd9a9630cf6284dc91256f5684456faad65787fb312.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220819686984_65.png" group-title="Generic",[BD]france 3 paris ile-de-france (720p) [not 24/7]
+https://epg.pw/stream/53ef1a2bb6889675b5bb40bd4fba738254aa85d47ccf8ec1d66b2e2692e51595.m3u8

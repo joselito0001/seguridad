@@ -22,7 +22,7 @@
 [VGA]tvN,https://epg.pw/stream/f233e2922a891b4f35d5a5727c1910b1a253614c62ee85804b8201c4182ffb92.m3u8
 [BD]spotv 1,https://epg.pw/stream/02ebfe1030718bb8d5af18a04d75be691bbbe6b190e08ecad519fbe01970b556.m3u8
 [HD]spotv 2,https://epg.pw/stream/8def64f739884bc3a5767d8c5acb3b61f7935294591ad9c1500659235b0f3652.ctv
-[BD]spotv@@1,https://epg.pw/stream/07d2cf5acd13b44f682fd998fc2e73e350299b8a59830f1f8883c92a796f2782.ctv
+[HD]spotv@@1,https://epg.pw/stream/07d2cf5acd13b44f682fd998fc2e73e350299b8a59830f1f8883c92a796f2782.ctv
 [HD]spotv,https://epg.pw/stream/927dd51c9f3264000959ed6d79436e08b68ff623c7b5e9c0d5f83221fd1a9682.ctv
 [HD]spotv2,https://epg.pw/stream/3ad70e0dbe0304bdc5b9365ab9c72a4d6cbc7f5bf61221a9f481fd0fb20064b7.ctv
 [BD]spotv 2@@2,https://epg.pw/stream/4a32ba93dca66379883f53b158d4151d7e19285fb15315a2e2b82aa860d686ae.m3u8
@@ -41,6 +41,7 @@
 [HD]Arirang@@7,https://epg.pw/stream/ac0e3d64802f1e605e16a813dcd19569d026d3e0038f3361aa865ab2b3046176.m3u8
 [HD]Arirang,https://epg.pw/stream/345fc269795e355aa8233d38f6a98770a5ae63986cc3dcaf348b32d7a2792a8d.m3u8
 [BD]Arirang TV,https://epg.pw/stream/f08dde1b95699427eb24878558e8e10fd869173469e285fffbac60181449e8f0.m3u8
+[BD]arirang@@4,https://epg.pw/stream/df244b8b7945ea0f876681d9d5ad6b36719dcdf91f5226c01dc1d889b5307337.m3u8
 [BD]arirang@@1,https://epg.pw/stream/dc8fba87f5982e085da061ff968bb6982128616ba4ef054983b03914475b7a74.ctv
 [HD]Arirang,https://epg.pw/stream/7178fe7601e75b9bb647448a79c1ccbd6927cd9d21022bef1849d52ff197b6cf.m3u8
 [HD]arirang,https://epg.pw/stream/752c5feb15ea7daa42816c8af4ffc2b34744faa268f979ffe85f6c0ccf8f156d.m3u8
@@ -63,7 +64,7 @@
 [HD]Arirang TV,https://epg.pw/stream/8ad36a5eb8c704cb9a16ec2d51ec80d889660e913278a7d6f599f826bee18288.m3u8
 [BD]Arirang World,https://epg.pw/stream/ef6ce51f8d53c7af9c97ac9cbf0332c0fdaa12c2d3d534958ed184670214b190.m3u8
 [HD]Arirang,https://epg.pw/stream/d71df7be1ed89afaa4ac06817c6995684d67e3813eb368598e80af3b7ee22072.m3u8
-[BD]tvn movies,https://epg.pw/stream/1b6cedea2bdaa7770d8ec487a7b9589c10dea345a1f84ce3601f179cacf72d0d.ctv
+[HD]tvn movies,https://epg.pw/stream/1b6cedea2bdaa7770d8ec487a7b9589c10dea345a1f84ce3601f179cacf72d0d.ctv
 [SD]tvN Movies (Indonesian Subtitle) (576p),https://epg.pw/stream/3d976ed0ee6bed5f96a490c7da6b4cda19a98a92c0380faca07201fc4b8b768e.m3u8
 [SD]tvn movies (indonesian subtitle) (576p),https://epg.pw/stream/9506406bbdbe1ef585bf8ffb626b21760b9d5bbb34fe5c199b0f01df3765f4db.m3u8
 [SD]tvN Movies,https://epg.pw/stream/384a37210f190c39ebccd4f08e25ebfc24747ec5affa93e20a99445eb956f749.m3u8
@@ -125,6 +126,7 @@
 [VGA]43號[720*540],https://epg.pw/stream/3730215f40a35e778214c68880328aac549453f8f34df80ca8664e26fdc127cf.ctv
 [VGA]70號[853*480],https://epg.pw/stream/1169c6081dd0359d17a5b12231f41428128ff91372996b1f79ba1ca874a63a4f.ctv
 [HD]70s Cinema,https://epg.pw/stream/fed94e7379e000c800b0d806c1937a80bd2ae7afa0a52d1b3114b284bae55fdb.m3u8
+[HD]gcn,https://epg.pw/stream/5ff83d0157669a7df3a37941ad4e71aa9f3314de7c88c193c5c7e3173ac440c2.m3u8
 [HD]Tomato,https://epg.pw/stream/fd097546f90ca27afff640db66d843b669b9d3a012cf21393089da6b267c736c.m3u8
 [HD]k-ids,https://epg.pw/stream/ae1ac949d065e951593f2d10898f1fb5415a68cae6d6dad4927920d5ed987e44.m3u8
 [BD]kids,https://epg.pw/stream/d9674c7db6a46a00458bf172defe2a90d1a74151be69eceb7c05b6025f8798a8.ctv
@@ -132,6 +134,7 @@
 [VGA]MBN,https://epg.pw/stream/a535e4c4d04d2c13ec68ba88d7d254fd5cfeef92df1f3792686e9930124efbee.ctv
 [SD]NTD,https://epg.pw/stream/578612a3186a9b78ed18a5adfb474542a6bfbe8f0a8f7882d8d0bfbfb8b1f4aa.ctv
 [BD]solive,https://epg.pw/stream/689417f208d4918315abc590d07cf789f2073ba6f3c60e23da1283cd0e7eb35b.m3u8
+[SD]live24,https://epg.pw/stream/57ea9477e15d95bf766e400f6c25b5c7af3f804c7c4913ad87aff9c903546992.m3u8
 [HD]阿里郎电视,https://epg.pw/stream/dda991a97037243b76e43c4a4aa2fa5b873101f88a591abd5de4a07d6a0ff40b.m3u8
 [HD]KBS News D (720p),https://epg.pw/stream/0996d67f729df39bbeba54b889b3e429bf3ef6af2816152b67ca0ee644b50046.ctv
 [SD]kbs news d (720p),https://epg.pw/stream/82a34b19a83b9a17dc3636718ae1bf48330d4c486ee26246c169ac8b3f9ce755.ctv
@@ -153,6 +156,7 @@
 [SD]kbs kids (480p),https://epg.pw/stream/4b823632d0c7b4cf7fcb2ec387b0258009482cc386cd226ce59ff509e104fb9e.ctv
 [VGA]KBS Kids (480p),https://epg.pw/stream/cbeaccb810770fd66068bf06728e3c77d4ba86c74c30b3f63b1ebdf9b830fc24.ctv
 [VGA]tvN,https://epg.pw/stream/141112ac6308dd11607a78b656eafc5bb8cdef314cda86f343d71f1719c46d09.m3u8
+[BD]tvn,https://epg.pw/stream/db798f8bb72a4ecf76afc162c95aa8777fcf546e71dca42b2a00d2573951dc24.ctv
 [SD]tvn canal 2 sd,https://epg.pw/stream/d02852fdb1fcf83f0763fd08f0e14b7129fd65af9ad1157841dc6dd13c1e5096.ctv
 [HD]tvn@@1,https://epg.pw/stream/b2380e4a50c5aa393d5e77ecfdcd7e6937a45de31420bffe2dee22fc5f1fc11f.ctv
 [VGA]GCN24 Korean (480p) [Not 24/7],https://epg.pw/stream/c06dab256c0ed34cb1100caed982b3175a0b541a5a721c7658577b55512830bd.m3u8

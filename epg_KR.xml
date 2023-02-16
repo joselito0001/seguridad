@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20230215051003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_KR.xml">
+<tv date="20230216051003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_KR.xml">
   <channel id="45828">
     <display-name lang="KR">NS Home Shopping</display-name>
   </channel>
@@ -215,8 +215,5 @@
   </channel>
   <channel id="59098">
     <display-name lang="KR">EBS 2TV</display-name>
-  </channel>
-  <channel id="48820">
-    <display-name lang="KR">Polaris TV</display-name>
   </channel>
 </tv>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20230215051003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_ID.xml">
+<tv date="20230216051003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_ID.xml">
   <channel id="41984">
     <display-name lang="ID">!nsert</display-name>
   </channel>
@@ -315,60 +315,4 @@
   <channel id="41983">
     <display-name lang="ID">CNN Indonesia</display-name>
   </channel>
-  <programme channel="40979" start="20230215000000 +0000" stop="20230216000000 +0000">
-    <title lang="zh">New Day at Arirang</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="41000" start="20230215000000 +0000" stop="20230215010000 +0000">
-    <title lang="zh">Jesse Watters Primetime</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="41000" start="20230215010000 +0000" stop="20230215020000 +0000">
-    <title lang="zh">Tucker Carlson Tonight</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="41000" start="20230215020000 +0000" stop="20230215030000 +0000">
-    <title lang="zh">Hannity with Sean Hannity</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="41000" start="20230215030000 +0000" stop="20230215040000 +0000">
-    <title lang="zh">The Ingraham Angle with Laura Ingraham</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="41000" start="20230215040000 +0000" stop="20230215050000 +0000">
-    <title lang="zh">Gutfeld!</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="41000" start="20230215050000 +0000" stop="20230216000000 +0000">
-    <title lang="zh">Fox News at Night</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="42021" start="20230215000000 +0000" stop="20230216000000 +0000">
-    <title lang="zh">News</title>
-    <date>20230215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 </tv>

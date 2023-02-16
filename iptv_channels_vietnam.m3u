@@ -99,6 +99,8 @@ https://epg.pw/stream/fc4c33f19c604b3ab03b3cb31b3943389df8181dbe1930b128bf6be00e
 https://epg.pw/stream/100ec5618112f26c032bff130a655ca2137cc192a3492f732f826664c3536956.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174502697517_55.png" group-title="Movie",[SD]B4U Kadak
 https://epg.pw/stream/c609919b844431af4be9eb7e8f8158ad83f3cde7e328801a1999c537981e0cd5.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[SD]antv@@1
+https://epg.pw/stream/d1192023b6786a72fc5b4e8792b2640ed6088e2f2f578bee07f255949de86192.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[SD]antv hd
 https://epg.pw/stream/4fa17db0a196d4e45ed7e232fb46768cd4439ef8d20969e802ffd23604dfbeaa.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[HD]antv@@2
@@ -109,7 +111,9 @@ https://epg.pw/stream/a3679e17bee02ad09529f1d01e1a60c076d627f4859fd7074ada51467d
 https://epg.pw/stream/396e4ab250f7a45c3d8571032dc0f1065f96495c4493d6dc483b6e4eda94117b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[SD]antv (480p) [geo-blocked]
 https://epg.pw/stream/6893706a3ef234e2bbd69632b405a3da52e11cc4b2b1d868b276e5a06f9a0636.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[SD]antv
+#EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[SD]antv@@5
+https://epg.pw/stream/54bb1e1625a9f9dbbc2523d716f28aafd261bfe7e0e4b460a323cd16b1421336.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[VGA]antv
 https://epg.pw/stream/62a06e84a1d8f592de6a27646ae1f07227f56623b9eb3cbd9a9940aa5f1bc930.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[VGA]ANTV (480p) [Geo-blocked]
 https://epg.pw/stream/640448cc5e5e54509c064391d2e0976decc13c489f5d63d0eecf027bfb77dcfc.m3u8
@@ -151,5 +155,7 @@ https://epg.pw/stream/d4878b6c80b9b61e172ec47518699f6cbef51ff8c26e62180b07882ab4
 https://epg.pw/stream/b3229a115df04d266cda84935f45e5ca814afe5c7c80d7d20081ec148f883db7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174748604648_73.png" group-title="Generic",[BD]vtc13 4k
 https://epg.pw/stream/e7c647d5257e468079ceea451e1ce77626b0b351e0e09129a69635d24638f1f1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174748604648_73.png" group-title="Generic",[BD]vtc13 4k@@1
+https://epg.pw/stream/c8938b114c45058de2f93b301c1a63c238b602de9e04c0762b3f8cd0d27ead62.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/25/20150125125105455495_72.jpg" group-title="Entertainment",[HD]on6 tv
 https://epg.pw/stream/11c176f8513af687bd1e17f226c5e3091b8135c115748a18111849ff6cb3d2b0.m3u8
