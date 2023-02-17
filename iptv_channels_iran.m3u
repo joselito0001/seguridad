@@ -1,18 +1,32 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Other" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[HD]imam hussain 3 eng
+https://epg.pw/stream/5d0effe2e3f61dc9016accbe31bb8ebd9432a9284a3ba34d383aac795a94078a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Other" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[HD]imam hussein 2
+https://epg.pw/stream/52eecbe695a701ade0959ec2b328f1a80167b2ad60a39a5f97e2b8e8085e1dd0.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Arabic" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="News",[HD]press tv 4k
+https://epg.pw/stream/02535bc0935ac1642532c0d9e2e7501e370aabe03e2773086370b58e90cb5573.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/02/large/20151202064145980253_76.jpg" group-title="Entertainment",[BD]PMC (1080p)
 https://epg.pw/stream/054ef5a2873c0cc788184aa652721fabf76ad227383f95b4e076d8d15314ffb9.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/02/20151202181528105561_96.jpg" group-title="Cartoon",[BD]bein junior hd
+https://epg.pw/stream/a6a085299d381694dc18ba9e4b7a32a7250a1f60e277be1130a21d4c0f13e444.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/02/20151202181528105561_96.jpg" group-title="Cartoon",[HD]junior hd
 https://epg.pw/stream/ee1cbc6efc46a49c3200ac7a0b89460ac8c5cf0f4d98d8cd2a64c4666c4cb753.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/02/20151202181528105561_96.jpg" group-title="Cartoon",[HD]junior
 https://epg.pw/stream/6a4afb30360f70353d7a2a35398379309801f45cfcd0d54d5bdf9ecf7f0f4909.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/18/20160118204745860681_27.jpg" group-title="Other",[HD]gen tv  17.4
 https://epg.pw/stream/4e254328c05472da4eaa52523881bf6fd37b7c20c23589ab18cd1bd992e65a94.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/18/20160118204951681915_11.jpg" group-title="Other",[HD]gemini life
+https://epg.pw/stream/a04621250e2295ec08382704c4b598f2ec397e8e6da4753c2397fdfffc1d500c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/18/20160118204951681915_11.jpg" group-title="Other",[BD]mbc elife 4k
+https://epg.pw/stream/08a9465c6079975210549a00927427953d638cc9df8619257dc8615f16b5e7d8.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174928157901_16.png" group-title="Other",[SD]em tv@@1
 https://epg.pw/stream/7009f252805dfdf4a5e0004f20f3339b73f4b5a8fd59572c3707ef95d0158444.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174928157901_16.png" group-title="Other",[SD]Em TV (486p)
 https://epg.pw/stream/ff3499fb5ad04c4e3bcdfe10dcb67184642c36b4625eefe2074208e9402f4eba.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174928157901_16.png" group-title="Other",[SD]em tv
 https://epg.pw/stream/414bf953c076e1328ee8b0b151781832889b4a8318fb96bf79a9544258aa484f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174928157901_16.png" group-title="Other",[BD]gemini tv hd
+https://epg.pw/stream/e715369adf58d3f03bf927ad3d7905a7946f5b3f2c50adbcf40f99abd1faf90b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174928157901_16.png" group-title="Other",[SD]em tv (486p)
 https://epg.pw/stream/64210399c3d69e452882ec129d6fadc44b9212b7e55410bf05abd5ab3de1ef8a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519053857738578_21.jpg" group-title="News",[VGA]Sahar (480p)
@@ -21,6 +35,8 @@ https://epg.pw/stream/957e86c23e930f06e2737c12e1b0f13af637f8fe28f9fd4841833373f0
 https://epg.pw/stream/b205ef0f79ac82cd1ec462d762d2839d1ea751ffed06e7adeeb25515c78ce55d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519053857738578_21.jpg" group-title="News",[SD]HAR-027
 https://epg.pw/stream/eca8004b801fe5fe1f41e06c827e5189844bd151feccac501a70a00fa11bc2c7.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126064517544836_72.jpg" group-title="News",[HD]jawhara fm tv
+https://epg.pw/stream/6a2df19d5cdb897fa429af719d13dbd1ce4893b3b56e3b0761286145c0ea31d4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126064517544836_72.jpg" group-title="News",[HD]jawa pos tv
 https://epg.pw/stream/aa2614a218b4f61dddff0a4f4bdb08f9486b470339595cdbd26b27d088cf16ec.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2019/03/05/large/20190305164409191749_29.png" group-title="Sport",[BD]Varzesh (1080p)
@@ -29,6 +45,8 @@ https://epg.pw/stream/4b3dc870384daa67dc8dd64d93e4540e12df4ca7950fac452d41b3ccea
 https://epg.pw/stream/7f9fcff0388a4147b4fbb30a888944c9bf5a9c5042ba9f4d26419528e860ace8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Bosniak" tvg-logo="https://epg.pw/media/images/channel/2022/07/06/large/20220706151344817364_84.png" group-title="Sport",[HD]persiana game & tech (720p) [not 24/7]
 https://epg.pw/stream/3a376417e73313ee2582f9adbeb597fbf58350b2238110da0933490c84461692.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/20/20150820161950573055_75.jpg" group-title="Generic",[HD]ifilm arabic
+https://epg.pw/stream/c6f3d3e8f22eaf5097925f715395cb0a0e91237114c22e3ef15cba6a09031390.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019040422055973_82.jpg" group-title="Movie",[HD]family 16 (rakuten)
 https://epg.pw/stream/df77abb4675145ec2e09f0b06af3ecb79d55915ca48c18fea7d84ab25d68a858.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019040422055973_82.jpg" group-title="Movie",[HD]family 9 (rakuten)
@@ -47,3 +65,7 @@ https://epg.pw/stream/fcff7598d12f4f1b5ecc888d4b3dde90217858c57429ffe349e092d5db
 https://epg.pw/stream/c4e1314927696a283b98aa65fafa521ddd086446fe5820b60a761fecdc57634c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019040422055973_82.jpg" group-title="Movie",[HD]family
 https://epg.pw/stream/f97646b5221e9a1f98687ed66e3d68a038ad9acb19b83c0d7da7c4b36a9a0e90.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025085121829148_24.jpg" group-title="Generic",[HD]al wilayah tv@@1
+https://epg.pw/stream/76aadbc848196f083739199e71836c7789deca8f4b659520f402959637bfa5db.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Iran" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025085121829148_24.jpg" group-title="Generic",[HD]al wilayah tv
+https://epg.pw/stream/d94701d3de3d19609aa1d3cb6644383a30ad8054324fe7660f4f623cc064d4ad.ctv

@@ -5,8 +5,14 @@ https://epg.pw/stream/14e7cf7182ec75491a7418a565ad7cc0ca38b80f610f22b6711aa332fb
 https://epg.pw/stream/f4d2b0f2f498fd093017d0b730c638c8fa00716b2a5f1d183e9ffcf8d8b47670.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[VGA]tv5mond
 https://epg.pw/stream/72ceddd13570ed63d9ed5de2eef34fe91c8461027f689f1f1ebfa9f6b6a6b64d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[HD]tv 5
+https://epg.pw/stream/0480938965ddd6a4f5da2c7913db6dc985da032328db2df9da1a8d2aeea43407.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[BD]tv 8.5 uhd
+https://epg.pw/stream/2b555dbdf1199dece0eadada3ca2ce0aeebd44ee662685ecdec0bf435891172d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[BD]tv 8.5
 https://epg.pw/stream/3b5b83c0f8b210a05a7adfe6658b9ff0361ddc03f959bfadee745fe0263033dd.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[BD]tv 8.5 hd
+https://epg.pw/stream/1b7095951f17d1a1245f8255609658bcb1dcd3ea164ff85e242760bf90cc1507.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[BD]tv5 monde lbr
 https://epg.pw/stream/29a4f41364e76bca7c09f85cac1e6079c61b067450d959bfe46701a43f374b6f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="Other",[BD]nbtv-5
@@ -23,5 +29,7 @@ https://epg.pw/stream/8ee09f256b74ba6a5310618272875cb7629e14f582687f0c085b4535f9
 https://epg.pw/stream/10794ad5dbe4f1735bfe251208ecc568a3e4e4f14bc6696035a93310d100fbfe.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="Filipino" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174909848556_36.png" group-title="Generic",[HD]smni (720p) [not 24/7]
 https://epg.pw/stream/92372c542f763e19ba1e1f613f6af468affab9cf3ebd6f1df9c8f5cae1779d78.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Philippines" tvg-language="Filipino" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105430449997_57.png" group-title="Sport",[BD]the weather channel@@2
+https://epg.pw/stream/71e9599a68b53412a96823e44dfb70902fff4070fe853549d782d0b86afd82a9.ctv
 #EXTINF:-1 tvg-id="4296" tvg-country="Philippines" tvg-language="Filipino" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022331272861_32.png" group-title="Other",[HD]gma pinoy tv hd
 https://epg.pw/stream/080a971d5713dfb184d6075f7e7d786dca25a8d13454f4d05b5d7785f9f869e0.ctv

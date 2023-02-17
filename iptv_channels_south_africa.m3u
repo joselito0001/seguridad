@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[SD]supersport golf
 https://epg.pw/stream/3ad9b076236e75e6b991712ea018d285e49f826e15acb8f8baa7995c0832fe95.ctv
+#EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[BD]supersport variety 3 hd
+https://epg.pw/stream/51d16a37592ef95af35497202103473d102190541a231c2c85040f4e9e232d87.ctv
+#EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[BD]supersport laliga
+https://epg.pw/stream/2f1a41dede8e13f7f82d1a9ffdc33bfaf06e3367d45d4f9113724ae7f59434e0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/25/large/20220925154658683753_44.jpg" group-title="Sport",[HD]ss grandstand
 https://epg.pw/stream/cd7c8fe486330ff8b2cc5eda3fa62ce6501c1ff38934ebf39b41387bd54ed836.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/25/large/20220925154658683753_44.jpg" group-title="Sport",[SD]supersport grandstand@@1
 https://epg.pw/stream/97bc27d2e357b5811b37620eb95487b8b638fa8fdf6a750ddf78add5d58144f1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926001439248592_27.jpg" group-title="Sport",[HD]supersport cricket
 https://epg.pw/stream/7db3fe856be27cd59663eb0c37f265f6d143bd72e43d4685e968ddfdcdf9b311.ctv
+#EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926001439248592_27.jpg" group-title="Sport",[BD]supersport cricket hd
+https://epg.pw/stream/c7610b5786ed2d5ccc2720eea844ec2669f0081eb0fffbefc4893236ec945fe8.ctv
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926001439248592_27.jpg" group-title="Sport",[BD]super sports cricket hd
 https://epg.pw/stream/ac8adce1e751592d999d2651bdd4ebf8c2fb0b2af922ffd656166c9fdd662d99.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002335030574_38.jpg" group-title="Sport",[SD]supersport football
@@ -35,10 +41,14 @@ https://epg.pw/stream/4eb4cd337fcea825eccf05b46250ee23f1f25e4bab57b2a7cc22e682ba
 https://epg.pw/stream/102cb246947f8163f691e0b78fdba5fa3fc0c26e5819352e035f14857359a2b0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[SD]mta5 africa (1080p)
 https://epg.pw/stream/11e2c8f19ccff5e56ef2bd1b7aa86f86582a7101ed907862be3babd31e191a51.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[HD]Demand Africa (720p)
+https://epg.pw/stream/8d6e311cf6a169858bd49b6bd3a8ef8a5e3287ce9bc3af102e806767cdbfd4ac.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[HD]africa tv 1
 https://epg.pw/stream/f401596f8990318c144e50c77bbc0218aa9e273abfd4010ecc723cf8f9df0691.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[HD]Africa TV3 (720p) [Not 24/7]
 https://epg.pw/stream/1af797f861233ef6481e8aac28bc1d85027546e018e1526a67dd119fd28bbfdb.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[BD]arabica tv hd
+https://epg.pw/stream/dfb3a1db4289a97209df374423bafd01d291b45f862aef8cbf2a557322ab4aeb.ctv
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[BD]MTA4 Africa (1080p)
 https://epg.pw/stream/e2adc2fc280ccab3b285ca0c23a7695977cf9f999a359c3a0d7cf5b9374199f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="South Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174940484793_35.png" group-title="Other",[HD]Africa TV 2

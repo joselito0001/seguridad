@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Belgium" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152201357463_32.png" group-title="Cartoon",[VGA]Ketnet Junior (720p)
+https://epg.pw/stream/fea792b3bf7b05b50d9f4b8226bfed44824fb1fa46d01857e26bfc3e0fdae1c4.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Belgium" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701122606398337_65.jpg" group-title="Generic",[BD]rtl ii hd
+https://epg.pw/stream/51fd4e32f15dcdf6703fbaa38efbbd89a9343c621310367ecb1807056262c9f5.ctv
