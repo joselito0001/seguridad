@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130064434434192_29.jpg" group-title="Movie",[HD]film+
+https://epg.pw/stream/a1d1e77ec227403db7405736441dcc22e14ab4b6a4646d5c8ecd8d2d685f6b04.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130064434434192_29.jpg" group-title="Movie",[BD]thriller
 https://epg.pw/stream/e27ea613e77ea8e795ab192bac2d155e17b6d8c8d6ce5de5e98b8559a76c0907.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130070252279424_66.jpg" group-title="Movie",[HD]film 1 drama lbr@@1
@@ -15,6 +17,12 @@ https://epg.pw/stream/848db86f966522aa668b7c887c6c9afb47e9846eff93a6247dad021685
 https://epg.pw/stream/cfbc34cc2e103d48fa477c21664ceb22977e53b8559d83052e83b2453d3c6445.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231040883110_16.png" group-title="Sport",[HD]rtsh sport @@1
 https://epg.pw/stream/23df7b856c0ed7f90efebfcb8cad74f2759a2cc950d1e95d694f0d018c6bd082.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231320086613_55.png" group-title="Sport",[HD]telekom sport 2
+https://epg.pw/stream/356f58ab47a2f09d092dee4e9ab4d4479aa5317b7edca01296fc07f90719ce0c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231320086613_55.png" group-title="Sport",[HD]telekom sport 1
+https://epg.pw/stream/ac3aa0a628210d46ddb1b67a507beb05f8669a967a8771ef9f2509e10acd41b7.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231320086613_55.png" group-title="Sport",[HD]telekom sport 3
+https://epg.pw/stream/ffab132950f246b31b11e4cf1dfcf8daf9d46a6c07e55affee1bf601c91cb580.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220161016916179_15.jpg" group-title="Entertainment",[BD]Q-Music (1080p)
 https://epg.pw/stream/1318e0313bff996e269b2806fca9d180c4e49b15ece66ab8c305d92b90d4a49b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]xy plus 6
@@ -25,18 +33,38 @@ https://epg.pw/stream/0ca25d7be617b180b813a018d1b2c0c17f70e8cd62766aa0d565603737
 https://epg.pw/stream/4827de2140298b50c9cb5a8c062e8fdacf2b41051e28c15fc3f22c4daa38520f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]RTM plus (720p)
 https://epg.pw/stream/012559add64e968960a84262752253d0ae36013526a20c9eef3e955bbb6b8b7d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]plus suceava
+https://epg.pw/stream/708a15f9d94d591d8d44da29610aaecd24c8949c4dd01234fafaa1e64c55a7fa.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]telehit plus
 https://epg.pw/stream/4a27813bbc359b993e51c0b865acc04baab3970141164bf0e7e908fb8a13a601.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]msg plus hd
+https://epg.pw/stream/35f4536ff258952a06c568679a466564f2a6bb180e46f3f677e2233f0b734d4e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]XY Plus 12
+https://epg.pw/stream/e4315f9ee6e4d32e9fd42817f3b37c8e866255455284cfc44a631f7037c51f90.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]XY Plus 2
+https://epg.pw/stream/bf10e8d6f4883da3e0f62d763fa55e449d475ae999a78b9e36d6f380501b6ef3.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]XY Plus 24
+https://epg.pw/stream/15270ebdf6d15e252f611422059ee438714da1be0a30a377e2bb2ad315494034.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]XY Plus 6
+https://epg.pw/stream/adecb0d47ef9b49cc7afdf2736fbce7138267fc6cad9b2c7f255e436f55c379c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]XY Plus HD
+https://epg.pw/stream/21bc569a8732b70df16d67aa8a8ac95290b7d0b1bb821449f9d4151202d9df09.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[VGA]discovery王牌节目展播
 https://epg.pw/stream/5c7feb7a43eeab29f4f264dee5df0c53bd868b7d6b6280ebdb862d82783f23ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]filmbox plus
+https://epg.pw/stream/169eb241e802b9784dc871d150f0872a05346cc6e1d2f487143957bf2e19bc61.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]toggo plus@@1
 https://epg.pw/stream/3e343a114eb310cb5c6f7179acbec6872c6830152b03043e96e96025fa969bf1.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[SD]CJ OnStyle Plus
+https://epg.pw/stream/b05f7bb7a51400dc41a8ba70c63fc7b47d1d473e0f6cf18b6d593af554bf2cdd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]Retro Plus HD
 https://epg.pw/stream/f232d5bf736a25897fd48d38a00fcfb7b29b6184bc3dc3cc305024bd656de625.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]desi plus
 https://epg.pw/stream/5b18c8f5becaacf29e2dc17ed1f9874283848471ad83378678285c0607d83dab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]nesn plus ᴴᴰ
 https://epg.pw/stream/fc6e36e6e23a64c48ac83248385c73ab3b1dfccb8bd9bf7c0e0c94348581910d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]nesn plus hd
+https://epg.pw/stream/bf7cb95ef2682f5ab09db48948ec5457911d9854af1ed3c220518bd7ac39df98.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]utv plus
 https://epg.pw/stream/e26c6df64bfcc25e8e92db4a416d3cf32025fecbea8369b96cb2f0f888ca237a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220161124403932_53.jpg" group-title="News",[SD]news 7@@1

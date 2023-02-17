@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/11/19/20151119183407415623_18.jpg" group-title="News",[HD]el fadjr tv dz
 https://epg.pw/stream/13d894249204430c6549b0373f402de5f43e8a20c1ca2abf9b21bee44faa331d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/02/large/20151202061536759352_70.jpg" group-title="Generic",[BD]echorouk hd dz@@1
+https://epg.pw/stream/e3b6922506d48a12ac4aaed104eb1bda213c0221861805a83248ce6046923e16.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/02/large/20151202061536759352_70.jpg" group-title="Generic",[BD]echorouk hevc dz
+https://epg.pw/stream/7df659d650e2e885632706cdf2a3360063059fa4d518f98857928e6062b6756c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/02/large/20151202061536759352_70.jpg" group-title="Generic",[BD]echorouk hd dz
 https://epg.pw/stream/198e8a896e1ea0ec1cb620984089f31bbb2d055818e1739ca67d606afb80380f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174846044907_80.png" group-title="Other",[BD]food
@@ -19,12 +23,20 @@ https://epg.pw/stream/6c915166d78e7dd118abbde5263df77a411ed8445330524821883e646c
 https://epg.pw/stream/8bb1a2c2f3bbb8fb524776e4b4d45d1fb33d09f0ba210282091e5ed12647364e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174117551035_72.png" group-title="News",[SD]rasd tv
 https://epg.pw/stream/8e14f8836fe30450c3b88ff8921273d8bded5649d35147008737adf565adf566.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174117551035_72.png" group-title="News",[HD]paras tv
+https://epg.pw/stream/586a1d3d53cab294166f7dbad1d1725705ae859cb218328b30061c238f718482.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304142050633564_42.jpg" group-title="Entertainment",[HD]el fadjr tv@@1
+https://epg.pw/stream/b3d942add742533103fb0ebe3542826dcc60f71b575f5c404492efa6862b6262.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304142050633564_42.jpg" group-title="Entertainment",[HD]el fadjr tv
 https://epg.pw/stream/2cce767297147889c5f2cc3d297d2318bf69f1956c4c9514668814cefb12a105.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/20/20150820163156479726_49.jpg" group-title="Generic",[HD]echorouk news@@1
+https://epg.pw/stream/8bb923e942b0eb3cf3b9e566af57b7b088dd10b7a8051dec7c6872b0eabe803a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/20/20150820163156479726_49.jpg" group-title="Generic",[HD]echorouk news
 https://epg.pw/stream/b93507d3d61324b7dd55fb1cfcd50d7257839f2bf36a9803a79b8eeccf991e22.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/20/20150820163156479726_49.jpg" group-title="Generic",[HD]hadramout tv  news
 https://epg.pw/stream/1120583f008b6fbf01cd059361e2d10cd58eeefd5a869b90b8d7c9951bd5bb72.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619230505568588_32.jpg" group-title="News",[HD]dzair 3@@1
+https://epg.pw/stream/ea2d7885ea0549e685698553285f8565be380ed9d2f27fa1a562827105a0e0df.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619230505568588_32.jpg" group-title="News",[HD]dzair 3
 https://epg.pw/stream/1d443b64232fe28b33380e6adee49e7534e0c837ffd08e90d9fdc6302f3931bb.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619230824166695_88.png" group-title="News",[SD]echourouk
@@ -35,6 +47,8 @@ https://epg.pw/stream/9995904b559ce6ab068aaf2e87f13b3808db21217e263f6e11a21bad3a
 https://epg.pw/stream/bf4cbd5a69be92065489cd192e0b4ec12de0676ba717d48b2ba93aa725057c5d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619231212959736_11.jpg" group-title="Generic",[BD]echourouk tv
 https://epg.pw/stream/3d566c0c0c2fffa23ad23dde7874ae81c2ea9f378c9bfa17b06765c43f128101.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619231212959736_11.jpg" group-title="Generic",[HD]echourouk tv hd
+https://epg.pw/stream/b5951514a85b41a7ba050a3452047f7a30de32c5919f00c462ac5e4a072da2c0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619231212959736_11.jpg" group-title="Generic",[BD]echourouk tv +6h
 https://epg.pw/stream/35e4096530b1cfb1b498d164615334aeaa255735489e586de92b4d6f7b780018.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619213220112807_79.jpg" group-title="News",[HD]algerian algerie5
@@ -49,24 +63,38 @@ https://epg.pw/stream/ab2c626ac23a0e900189bd1f24c8e8da385ee5c0adc5450a98ec044dea
 https://epg.pw/stream/6f4a7a207135b821717d8e8b025cc56335dbb4e0507cfe592373ebe4d98dcbf9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/24/20150624190723193944_24.jpg" group-title="Sport",[BD]el hayat tv algerie
 https://epg.pw/stream/cb0b869161a8c9bb90a4ef5be78a99f80f99ef513a51410cbe55b39f3c1770fe.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/24/20150624190723193944_24.jpg" group-title="Sport",[BD]el hayat tv algerie@@1
+https://epg.pw/stream/57f9a0fc4ab32d61cd7a42f385b81a27dbb112ad5331ef1f84928276cbdc05cb.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175012279098_11.png" group-title="Generic",[HD]algerie elmaarifa tv7
 https://epg.pw/stream/1f4ccac0719bb35c8a2139c3e9ee39a1dd520c12462bb26b151f58d803539962.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175012279098_11.png" group-title="Generic",[HD]algerie elmaarifa tv7 +6h
 https://epg.pw/stream/4d5159d389e24903d2849ecce14466210f9ccf3ee18b1d1ee7cfa6937d77b803.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022315642265_16.png" group-title="Generic",[HD]ennahar tv +6h
 https://epg.pw/stream/3620799dbf53d299dbea87a460143281af8cc25e546260f854a6f07b0eafde4a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022315642265_16.png" group-title="Generic",[HD]ennahar tv@@3
+https://epg.pw/stream/522222e9a498e20a8d45ea246cd307da4e0cc6b8c49f511056434b4d269d3585.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022315642265_16.png" group-title="Generic",[BD]ennahar tv
 https://epg.pw/stream/058cf00c46f86a4f327c4f980745b032bf74b632a0460d8b63a67ec173af787f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022315642265_16.png" group-title="Generic",[HD]ennahar tv@@2
 https://epg.pw/stream/dc31cc021b0a67b2cab61991e12196df059f272777c9633395395e4c7fd74079.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022315642265_16.png" group-title="Generic",[HD]ennahar tv@@1
 https://epg.pw/stream/62d5c1cbe5bc46653147a3221e385480dc7701df8a5a7f923cd79ae8c9e01f4d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022315642265_16.png" group-title="Generic",[HD]ennahar hd
+https://epg.pw/stream/f84eae9fd524713caaf0f6644a97b0590766db5320a775e0fb1b48a1ecc3325a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044736784239_37.png" group-title="Generic",[HD]el bilad
 https://epg.pw/stream/680977f2648c3d1c8f7fc92b89198c7842b429ab87b550af430e76ae364ba8f0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044736784239_37.png" group-title="Generic",[HD]el bilad +6h
 https://epg.pw/stream/a2e459aa9f9eb4067a36016526c5e910e731aca0f7f7327bd25adbd63fe5c669.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044736784239_37.png" group-title="Generic",[BD]Real Wild
+https://epg.pw/stream/9505c28db2a0d5a7ea0671c715953ca1906e329e8e0d1582bc146141ad2f7dbd.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044736784239_37.png" group-title="Generic",[HD]el bilad@@2
+https://epg.pw/stream/19c69e8e697a5f1f32d74db2ad7a9b1a33d3787ed77da7725998e711a70d939d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044736784239_37.png" group-title="Generic",[BD]Real Wild
+https://epg.pw/stream/fd4bae3d57a4d45a86963270eaa17396121049d9c3ac8b263bdc51acd12703a0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044736784239_37.png" group-title="Generic",[HD]el bilad@@1
 https://epg.pw/stream/77067c6f3028e291f5e21f03c36c1540d77d750c629f9b6bc363a112b0d2efd5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024712299489_48.jpg" group-title="Generic",[HD]el heddaf tv@@1
+https://epg.pw/stream/f18b19587b0edd910b42f08a8c48a5c9f39ba9813125b4be4ca91d111c277bfe.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024712299489_48.jpg" group-title="Generic",[HD]el-heddaf.tv
 https://epg.pw/stream/7ca208ad4372130720060a494010d993d89b5a08fbafab71b60d62b8f04ffeb5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024712299489_48.jpg" group-title="Generic",[BD]el heddaf tv
@@ -77,14 +105,22 @@ https://epg.pw/stream/e64aa8a3457a6331f34cd6cc03fcd234655195d01b257991ab61a5a925
 https://epg.pw/stream/61570933b90501ffa8bdc90a4059a27691a47c6f4a9070f925ea6d4c3484dcb2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024927971018_22.jpg" group-title="Generic",[HD]el djazair n1 +6h
 https://epg.pw/stream/f25cb1374bb3d8c8e0808f36421c1026e114aef53708300897d6e04f5654f708.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024927971018_22.jpg" group-title="Generic",[BD]el djazairia tv@@1
+https://epg.pw/stream/90163e2c36cb599f1dbc6a17278f06396b1ed797f0219c4c426e99c93db100cd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024927971018_22.jpg" group-title="Generic",[HD]el djazairia1 +6h
 https://epg.pw/stream/9c6f3e3d5b7c6c94c066ba5c65ba25491b641ab4943ebba9c5a40ff9b16d96c9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024927971018_22.jpg" group-title="Generic",[BD]el djazairia tv
 https://epg.pw/stream/f83a2041e8043b1b80907b189034c3878743b422ad78dba0d69aeb5b5fb88537.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024927971018_22.jpg" group-title="Generic",[HD]el djazair n1@@2
+https://epg.pw/stream/6103213a87f649390eea0353750d3777f7eccbe88dd0790f0505421dd45a4bd9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821024927971018_22.jpg" group-title="Generic",[HD]el djazair n1
 https://epg.pw/stream/d2938f78e536388b69ac86d2ee9613c33c522b8968d9d6fe69fb8f2868abf7be.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821025905192351_73.png" group-title="Generic",[HD]numidia--tv
 https://epg.pw/stream/2e497f06ce4245be6604044c18757de484b5e16571dfd3472e8678a92be6ea7e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175032496990_91.png" group-title="Generic",[BD]duabi tv 4k
+https://epg.pw/stream/3845c34d0632675fe4f54237292b8588ebeaf4e07ee5e3f123318c9a7427f54f.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175032496990_91.png" group-title="Generic",[HD]dzair pub@@1
+https://epg.pw/stream/2560ce75dc80dce830ca2a3b592a3247540e25d3866e2f86f2ed84e805d83497.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175032496990_91.png" group-title="Generic",[HD]dar 21 tv
 https://epg.pw/stream/3ebca7ea012b4435d17cb4f21d37ae8168bac61f99d180730aa709c0efc13a46.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Algeria" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175032496990_91.png" group-title="Generic",[HD]dzair pub

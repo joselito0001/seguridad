@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130072237342923_77.jpg" group-title="Movie",[BD]cinemax 2@@1
+https://epg.pw/stream/ee82dbc2e167f3208401de245f8d605a767e5767348de74c4af5a4e59465abe6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231042190175_44.png" group-title="Sport",[BD]trt spor
 https://epg.pw/stream/a4e5c42de63694913e5b33f4b4e5a03c782063c73a774247eb3f7c5902e767b1.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231042190175_44.png" group-title="Sport",[BD]rta sport hd
+https://epg.pw/stream/5a72324ea5f6253c966f40e57c4d491ef10841baa040db5926bd961a8e853d92.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 2@@2
 https://epg.pw/stream/96a6664da08111638f3452c49c83205c652987c89c011df5687d55cec73b849c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 9@@1
@@ -19,6 +23,8 @@ https://epg.pw/stream/60e60c8a383cd8eda8fea4694bd6106bf082b8a3ce3d621ceb43c0d80f
 https://epg.pw/stream/ce5083971e598b1f6bfa4a1a84c7de1b3ea92845de4de6026adea6f44e2838ff.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 6 @@3
 https://epg.pw/stream/9d307fbd2c57fd80b27d685b785fea02aa3501361a247c2aeeca0a9d2c6008aa.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]sky sport arena fhd
+https://epg.pw/stream/44119808022d3aa48573dd5b553616c9800b66c4781aa388b50039e8034bd359.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 9 (hr)
 https://epg.pw/stream/c2e74cafbb119c299f2133c197dbfda66dc58afdfd6bd5de14080aa1ec7af194.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 4 (serb
@@ -31,6 +37,8 @@ https://epg.pw/stream/7d4619bd0663707da92ffe97fec75d89f2dc81d41f9ce2207c35a89ded
 https://epg.pw/stream/2a68ba9bcc3bc4ab6f107371820c5f7d9281fbb5d9f3c37a6f9f0d265d05063e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 10
 https://epg.pw/stream/260909eaa727f9253132fa56562bb43d49e4a23969fde19be7477a78500a233c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[HD]adrenalina sport@@1
+https://epg.pw/stream/05c9eca231d406dcfd8963d329603099a0903b36837de95fd755eed4b6a433cb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 5@@2
 https://epg.pw/stream/2f99359e2d5106a5c72ce64ca6e33cb382b8af3b45b6899870556fe6f18f2e90.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Sport",[BD]arena sport 6

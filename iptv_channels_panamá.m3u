@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231307212107_61.png" group-title="Sport",[BD]tv max@@2
+https://epg.pw/stream/ab04b6a3a09eab90ed311460a2277fc9897f0553de2b849677d3e6084dabb814.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231307212107_61.png" group-title="Sport",[VGA]tvmax canal 9 sd
 https://epg.pw/stream/da6ded95c69f86ecc75cdbf48c41f722b96bbcffb4f14a0895a9a1dad8e68f25.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231307212107_61.png" group-title="Sport",[SD]tvmax (720p)
@@ -9,6 +11,8 @@ https://epg.pw/stream/efe2e0528ce3cff098b98bfbf6cfcff55257adf51e1a4c5ae69ef5f303
 https://epg.pw/stream/df002b4284030b349e7b10b1c5baea4949681da6734e0d188da8ba11cf0739f2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/13/20150613065614263181_32.png" group-title="Sport",[VGA]telemetro canal 13 sd
 https://epg.pw/stream/6631a463906f14bde8ffd05820fcee386307cd2a65af7ff3ab6d20d51d9655f0.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827170626913163_49.jpg" group-title="News",[VGA]telemicro sd
+https://epg.pw/stream/fc1c7f6eb88299df1019c2825c6c2a1f122e15cc44eefb37f328c733edf9e464.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827170626913163_49.jpg" group-title="News",[BD]telemaroc
 https://epg.pw/stream/173268c345f523775164d965cc1a4e6b05f29ffe1eac08408f7f62bc2ca9c80c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Panamá" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827170626913163_49.jpg" group-title="News",[VGA]Cabina Telemetro Radio (480p)

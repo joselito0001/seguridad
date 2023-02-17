@@ -3,6 +3,8 @@
 https://epg.pw/stream/a229293cdd07b976e65c39de6274deb2e4ee4693e8eeb61f04c935682855d465.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/26/20160526054905439808_39.png" group-title="News",[VGA]112號[854*480]
 https://epg.pw/stream/997224b4f26a2e44333f9b4bf10eaf696fc50386051fa776fc9d76cb46eca141.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218020708746856_90.png" group-title="Movie",[BD]радио тв
+https://epg.pw/stream/00807f1d577449d62a1f949752b8e57994edaf7d64551f38cba3fc25a6579ff2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218022902068072_16.png" group-title="Generic",[SD]rti 2
 https://epg.pw/stream/5bd2058f2e69a146e26e7877c2ed5bc422d78b81ca804f1dfcd4c41d8f77be6c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218022902068072_16.png" group-title="Generic",[VGA]RTI 2
@@ -41,6 +43,8 @@ https://epg.pw/stream/cfc655908ab11b9b770cf03edcca3ebd2f8221254b4607ae164a4f1eac
 https://epg.pw/stream/9ace641e64db2ad9adec544b01ece2cbbff6b28b7954a40dda875702eda3e34e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[SD]7 канал (576p) [not 24/7]
 https://epg.pw/stream/12dc978511d4a97b0a5abc5d12e4097d4a402c83f1f4492d738c0358789ad7c2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[HD]кавказ 24
+https://epg.pw/stream/f085dd707c9ceac186eeab6cf835ee35b55a3648a7a68efc6a6710b4d1cff9d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[SD]8 канал
 https://epg.pw/stream/00c546e8f86e7f1dec9977b05bc50aec61da477525b358516fad95c4d1e53d19.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232147010060_64.png" group-title="News",[SD]4 канал (720p)

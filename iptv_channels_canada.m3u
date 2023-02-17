@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[SD]city tv@@1
 https://epg.pw/stream/23b1f07fce536b02ade50c97f9486fefeea7181a17046c7c4ceed58089a0cba0.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[HD]city tv@@5
+https://epg.pw/stream/f3238a0a1df7f6b5dfc81b6b389aa5df9b02feee7ea6f50afff45ec0054e4d69.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[BD]CharityTV (1080p) [Not 24/7]
 https://epg.pw/stream/8d7bb18366d56aee66138c5ca4242790aae8f4505218d1dfd84260778cbf840c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[HD]city tv@@3
@@ -41,22 +43,36 @@ https://epg.pw/stream/c3706710c9aa422ecb9e19af94cacfcde27298290b8ab813ae8764cbbe
 https://epg.pw/stream/9db2cab2a219c24d4f6f401b786a8f6b2ca5dc2553402547ea8eae4f87cbb64d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623142704100463_38.jpg" group-title="Sport",[HD]tsn 4
 https://epg.pw/stream/681735c493356d854dfda19b5fdebe9114a9854a44bea90182d3f73f1bae302b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623142704100463_38.jpg" group-title="Sport",[HD]tudn 4
+https://epg.pw/stream/30a2322968cf90892001f12affa91d1b4c3c681c2b482c2737bd6f7ed7b93fff.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623142704100463_38.jpg" group-title="Sport",[HD]N4 (720p)
 https://epg.pw/stream/cf96bc2e8aeacadfbce0c864f68e8e9f8bfd6717896d647244d7d5fbcb2ac189.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/01/large/20220301201717758353_67.png" group-title="Sport",[HD]tsn 5 
 https://epg.pw/stream/2251e1a3a2dcd85c093296b8e6f04cb37ef456a418f0d6cf06a6392bc590fe6f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/01/large/20220301201717758353_67.png" group-title="Sport",[BD]tsn 5
 https://epg.pw/stream/22a86c02bbfdaba9fab29e16c2506a58848690a391a8de0533c6c771f0871a21.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/01/large/20220301201717758353_67.png" group-title="Sport",[HD]tudn 5
+https://epg.pw/stream/b50652f5add37603a9019c575297b861d2a81d4e5992c0e290e59568b726c6c9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105145517180728_73.png" group-title="Sport",[HD]Lax Sports Network TV (720p)
 https://epg.pw/stream/c19442aa9343f8f272a54b73694a4202e2321001dc3427236f3410f1ed98c129.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105145517180728_73.png" group-title="Sport",[HD]fubo Sports Network (720p)
 https://epg.pw/stream/73f38773f7460f8f5256bd75dab1d5c8dcc0a3a855c8d2de05029b796fe183a2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105145517180728_73.png" group-title="Sport",[HD]Sports Channel Network
 https://epg.pw/stream/de0cd1ec1867ffa4501673b293a7427fb168804e8b950a394b9de61ccd4a9d6f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[BD]sportsnet 360@@1
+https://epg.pw/stream/356f1402a6112677b5b1b3cb31a26452d1d3e565737913738657db01dd60bd4e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[BD]sportsnet new york hd
+https://epg.pw/stream/ae27d89962057924958241e65ba6a63b74187ad17d2472238052c125af7d93a3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[SD]sportsnet 360
 https://epg.pw/stream/3bd760d76b2e98ee52b28be968e705ea46b37b185b35de863d06e7524b71468f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[HD]sportsnet 360 ʜᴅ
 https://epg.pw/stream/80fd1b00f7412712d34f8dc81dbb416e35556bd797095aa74d565506089d0776.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[BD]sportsnet y hd
+https://epg.pw/stream/d57c119a8a567dea9f56e44099931085193e9843c5cb06abb5f78f1e20a1ec24.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[BD]sportsnet one hd@@1
+https://epg.pw/stream/07f5f9a4c855490cae4701a66a8394abbdfa29d75229c77958e1411d80915d9b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[BD]sportsnet world@@1
+https://epg.pw/stream/4300316d70495a759b9bf3535221a411ee6e84b4071906d4239b79e732514d48.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[BD]sportsnet 1 ʜᴅ
 https://epg.pw/stream/8c931a2db2b4a446d9fd307b966527bf605cbda231471f8bac46891a68059add.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231327274552_20.png" group-title="Sport",[VGA]SPORTSNET (SOUTHWEST)
@@ -67,6 +83,10 @@ https://epg.pw/stream/ac94ecce5a7584f70023cc189e9d3cd82ef086e1fc12c561251c6e84f4
 https://epg.pw/stream/deef2e9d065d44deec34a3fef6e259284227a3d97aa8115311e96dda53c4af49.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Sport",[BD]EDGE sport@@1
 https://epg.pw/stream/534f074cae9fda737dc2acdec2c47d99ef5a7d67567fa22aec3c7eaae48b9638.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Sport",[BD]EDGEsport
+https://epg.pw/stream/ef210f4a3a97961d99ce5fbe2d5c86bc32c1375a85771855037bba355341cceb.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Sport",[BD]EDGEsport (1080p)
+https://epg.pw/stream/6a4ceab668081a8e79be07bf6302b431b03ee35d5f577d0f6e8eb4f6384cfd67.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Sport",[BD]EDGEsport (1080p) [Not 24/7]
 https://epg.pw/stream/7f33fc5bb1f096678ba952c15c896befbd2cc58b3a92b97feeec5509573f3fa3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Sport",[BD]EDGESport
@@ -85,6 +105,8 @@ https://epg.pw/stream/c40171ca39d6e41b02fdbd31d9ee74d6d3203917b61fe1eefa5e9d65e4
 https://epg.pw/stream/fd8cdf1867ae1ee74518f80600c8c2f71040813abd83469564d45b003b5b9eea.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[HD]CTV (720p)
 https://epg.pw/stream/2889d670bc8d4065d01320a6c6ce667c38299602ccd47a370ca2b69d9c61a629.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[BD]ctv@@3
+https://epg.pw/stream/1b9bb1eea3ad292095f02b0f62e02c54df9f27490c70e754ac48ed0adb0b829f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[SD]ctv (720p)
 https://epg.pw/stream/570951475f45690b4838bdf61bc5be93f912b16bb247909640bb60a31d3562a2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[BD]ctv@@1
@@ -95,6 +117,8 @@ https://epg.pw/stream/f3e2618f8952a69c7a75c5c7eb0fbff6436c6790e5c21be2cea80697d1
 https://epg.pw/stream/c4058c10ab90b5cc929caa587fc03def822e4df0dcad6b74ae101178edaaa257.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Entertainment",[BD]EDGE
 https://epg.pw/stream/3b099395de641a34938e4404bd001c88a088a7aeaa30045c7d2a368a479b4a54.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Sport",[BD]tv3 sport hd
+https://epg.pw/stream/66197b246ef81873bba1039ff90689e2f3b5950c638dbcae2341d340b5b5d38e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Sport",[HD]a spor@@1
 https://epg.pw/stream/665683be5de44d91be215a25c3c87283f20c114d38f21da364520359d9420bee.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020601775107_16.png" group-title="Generic",[HD]fairchild 2 hd
@@ -125,14 +149,26 @@ https://epg.pw/stream/02d3e9b05cbfb502e12ad69220527b0faf1ca67f7e2bc038fa7f5a093e
 https://epg.pw/stream/5fbbd737a289afb06ce4d611be51dee5bd744af3032cf0bcf3a14ee12e681bb5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085647468875_50.png" group-title="News",[BD]sinema tv 2 4k
 https://epg.pw/stream/dbab3b3e6cec676989ca4f39a387693b88444d215e2d2c079f4962ab555be9cb.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085647468875_50.png" group-title="News",[VGA]ICnet 2 Academic (720p)
+https://epg.pw/stream/c39890fbc95272706e98478c3b6fc186881e02bc1365932254090164082b56a8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085647468875_50.png" group-title="News",[BD]sinema tv 2
 https://epg.pw/stream/8787bc9d0a43a6119af0ae12b90395d07d1251132aefe6254f9b9f5a50329fcf.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085647468875_50.png" group-title="News",[VGA]ICnet 2 Academic (720p)
+https://epg.pw/stream/92ef20affa1f1003d2f86dd3ff9b2c24a773261bb23a0c367a90f34ebec1acfe.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085701130328_14.png" group-title="News",[SD]cnbc awaz news
 https://epg.pw/stream/ea2039a77953fe15ddbcd39d8b8e03543d61030a6ce8d16c0507235a7574f158.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085726471243_61.png" group-title="News",[SD]tv 5 kannada
 https://epg.pw/stream/c0eeb1d8ad61c2320163492fb6b420717aed46bd564556b6b2e93a15a1477f08.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085738941876_81.png" group-title="News",[SD]tv9 kannada
 https://epg.pw/stream/f8c63c0bc18e6213370edb9e335bf14b7855a2672311f840e4b0fbb42a1fdb90.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085854634003_73.png" group-title="News",[BD]cmt sd
+https://epg.pw/stream/295a0a2ce17debae510b7327c2915a1efa6355da0c09415763531ee62993db05.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085854634003_73.png" group-title="News",[BD]cmt
+https://epg.pw/stream/7096411ea30a17bd79d9ab52f634cedaae492735286f2271a4df665239e1a1ec.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085854634003_73.png" group-title="News",[HD]Ici Radio-Canada Télé (720p)
+https://epg.pw/stream/fec044067f4d5bf835fd551f8ecb4cd93fabd41ef31b85ecf198c484a0cca8a6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085917284267_44.png" group-title="News",[HD]mdi tv
+https://epg.pw/stream/2582356cd009eaab88aa92c60d00e96983db341964874a7619ba39efd2246dd6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085917284267_44.png" group-title="News",[BD]tvri jambi
 https://epg.pw/stream/52f6ce4a60314cd976c0925fb714ba3f7cbe394fc9cdb3196012b6777ca7cd54.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085917284267_44.png" group-title="News",[BD]twam tv
@@ -151,12 +187,18 @@ https://epg.pw/stream/72a5c7b3c0c5cb9cab030abc4bad8d4ed9adfdc23f37cf5f2d65559e45
 https://epg.pw/stream/b4cf44829b50096fe651572a5648d74b2cff1671f75618079dd7e7356c72f4df.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/06/large/20220706151328850622_82.png" group-title="Entertainment",[HD]Game Show Central
 https://epg.pw/stream/25d18d99cde6b18d043513b7e7d259d9f841499d838d6374845c8ccb488314a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/22/20140822124316882229_60.jpg" group-title="News",[HD]CGTV
+https://epg.pw/stream/17d56ab3dfd4ae4c00f9c0874247973131e07fee45e594b69c7866c480675d07.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/22/20140822124316882229_60.jpg" group-title="News",[BD]CGTV
+https://epg.pw/stream/1081c0359da8a596d9f33e84c7e7c09492b1d504bc74ae7f034544ca7fc219aa.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[SD]bbc arabic (720p)
 https://epg.pw/stream/687f187664743eec7c3069835e1e548b7c10b02402cb339d86b9bed17fdf42e7.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[BD]SAT-7 ARABIC (240p)
 https://epg.pw/stream/531f7395155a0445d36bfb6028137da8f93ebff3af30a288ce243c9aa488e277.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[SD]sat 7 arabic (240p)
 https://epg.pw/stream/9c8b5861045c248d06996ccbccc9b9cc5ab0643835dda315a068a1ba0ebdb6d1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]bbc arabic@@2
+https://epg.pw/stream/cd1dbd8b1b2499e68978252e343c6c7476962c846f0ee3332fb1b9f4f8b2004e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]bbc arabic@@1
 https://epg.pw/stream/1fa32ba33398b4a0f2a48ab98b7bbd8cfdbc5c2ecc9b63f9f09ce887ffebbfbe.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[BD];cn arabic
@@ -165,6 +207,8 @@ https://epg.pw/stream/3909fb527817dc6fd97edeaf20e7ed067990afdd98b923e7ee63980bdb
 https://epg.pw/stream/8fd3e353487e01b95c1e3b4b44286ae6baa3d12e613fd33a5ecec7c37fc84906.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[SD]BBC Arabic (540p)
 https://epg.pw/stream/740b4a4b3a6315361d6724b27ff86a40452256adc8b3a7106cb08ab12aa7d0b9.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]bbc arabic@@3
+https://epg.pw/stream/88838e950dde34bcd0941af2cf849181d04c57ee3875cfeaa2cce6305df1ad1a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]bbc arabic (720p)
 https://epg.pw/stream/0147c5627417888ef66cee2d6bbafcf0035a70e3ece6386bafde425e9ef18a4f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[VGA]iq: imam hussein tv 2 arabic
@@ -177,11 +221,13 @@ https://epg.pw/stream/102546bed1737d8bdca24dbaac822ed3c1ca95492fa7af656164dc233b
 https://epg.pw/stream/90bea43302bc510c2808cfccf97580d33a8af6420eacab04225ab169cf58f5b7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/09/20150409063356085284_41.jpg" group-title="Sport",[HD]rds
 https://epg.pw/stream/b272d5acb69a658219575eb47fe8fcdb61f57d55deaa4134246725ce4d91a8a3.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085854634003_73.png" group-title="News",[BD]cmt
-https://epg.pw/stream/7096411ea30a17bd79d9ab52f634cedaae492735286f2271a4df665239e1a1ec.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085854634003_73.png" group-title="News",[HD]Ici Radio-Canada Télé (720p)
-https://epg.pw/stream/fec044067f4d5bf835fd551f8ecb4cd93fabd41ef31b85ecf198c484a0cca8a6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/09/20150409064218686481_76.png" group-title="Sport",[BD]tn23@@1
+https://epg.pw/stream/37742bbd3f5015714b717b0719ad9bf857d71e59d8b1de80d81039cd9c67e86d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png" group-title="Entertainment",[HD]Mav TV Global
+https://epg.pw/stream/279f22fc6b0b727302d13a164619f7cc5dd98b79eed4edd866c6099cb00b7c70.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png" group-title="Entertainment",[VGA]global tv@@1
 https://epg.pw/stream/f9b1af6147bcfa637c7aae66336ee9519e91ef816f21304c8be53321721c5183.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png" group-title="Entertainment",[BD]Mav TV Global
+https://epg.pw/stream/7ad042a2757ca12a7aa12a3f8de219e0470519ac177d27bfa05bba5d5807389b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png" group-title="Entertainment",[BD]global tv
 https://epg.pw/stream/1c23452e6122165f2c4b874cec97363192dabd48499e1e1985228e44df143932.m3u8
