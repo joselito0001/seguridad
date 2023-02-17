@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20230216051003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_KR.xml">
+<tv date="20230217051002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_KR.xml">
   <channel id="45828">
     <display-name lang="KR">NS Home Shopping</display-name>
   </channel>
@@ -57,9 +57,6 @@
   <channel id="45852">
     <display-name lang="KR">Channel A Plus</display-name>
   </channel>
-  <channel id="45853">
-    <display-name lang="KR">K Shopping</display-name>
-  </channel>
   <channel id="45855">
     <display-name lang="KR">BTN TV</display-name>
   </channel>
@@ -83,9 +80,6 @@
   </channel>
   <channel id="45863">
     <display-name lang="KR">SK Stoa</display-name>
-  </channel>
-  <channel id="45864">
-    <display-name lang="KR">Aniplus</display-name>
   </channel>
   <channel id="45865">
     <display-name lang="KR">CPBC TV</display-name>
@@ -135,9 +129,6 @@
   <channel id="45888">
     <display-name lang="KR">Korea Economy TV</display-name>
   </channel>
-  <channel id="45889">
-    <display-name lang="KR">Shopping NT</display-name>
-  </channel>
   <channel id="45890">
     <display-name lang="KR">NS Shop+</display-name>
   </channel>
@@ -147,17 +138,8 @@
   <channel id="45893">
     <display-name lang="KR">MBC M</display-name>
   </channel>
-  <channel id="49477">
-    <display-name lang="KR">Animax Korea</display-name>
-  </channel>
-  <channel id="49478">
-    <display-name lang="KR">SmileTV Plus</display-name>
-  </channel>
   <channel id="45895">
     <display-name lang="KR">Anibox</display-name>
-  </channel>
-  <channel id="49479">
-    <display-name lang="KR">TVasia Plus</display-name>
   </channel>
   <channel id="45897">
     <display-name lang="KR">GS Shop</display-name>

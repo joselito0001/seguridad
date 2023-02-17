@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/8edf68fca605a7b93c190c26e55838a3.png" group-title="News",[BD]Al-Sharqiya News (1080p)
 https://epg.pw/stream/238d0000cf9b3096deef1b7a57dca8dbf1b37d230ce9be2f00a1ce1d2571e0d5.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/27/20161127172153541352_59.jpg" group-title="News",[BD]gs tv@@2
+https://epg.pw/stream/2436ffde3a67814ac232f9a1a3f7859dbffdfbce7fa934797e08cedaa87b5363.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229035832440056_69.jpg" group-title="Other",[HD]wesal tv@@1
+https://epg.pw/stream/1c515c39214ed84de1150d45b86b32feece52822a8e6198deaab72b6d789f8dc.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229035832440056_69.jpg" group-title="Other",[HD]estrella.tv@@1
 https://epg.pw/stream/6e0532b633bd7ae957bdea3f42b3e26400ee674a4cd1b2b695d34f5652dad165.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229025118759034_34.jpg" group-title="Other",[SD]mas tv (1080p)
@@ -15,8 +19,6 @@ https://epg.pw/stream/8b7a7c40708d5b510d76e7a8a4484ff635f0c8e215e5890e6cc597a3b7
 https://epg.pw/stream/55a1971bac1259769b574dde22dd708059f68cae2a4adb3423e788d79146bee3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044553750579_43.png" group-title="Movie",[HD]la 2 hd@@3
 https://epg.pw/stream/27d5b9e31e97c7d5c996c953d0599d43eaa88d0cca2e2049eb0d1292d6c56ea3.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020700824549_61.png" group-title="Other",[SD]au| channel 9 life
-https://epg.pw/stream/47a777eff23519a3278b12a640d7a33c038df5c16aab38ca788c82303f126b06.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020700824549_61.png" group-title="Other",[HD]life
 https://epg.pw/stream/52d1bbe034a7552b7adab77af3a4d74876c36824471fa01f2e1f0c244bd0d93d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020700824549_61.png" group-title="Other",[VGA]LIFE
@@ -25,12 +27,16 @@ https://epg.pw/stream/4318ae0f7979576dcb1711df9dcedbf739b3827e15bfb7a82b43c87118
 https://epg.pw/stream/021167677cc20251a176b4be139f54f010bbfde792f64dd03f6224a87c6d761f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165511665333_17.jpg" group-title="Generic",[VGA]Star 1
 https://epg.pw/stream/68fd4773f50809926682b1dbea93d06c54cccc6d8b1e93cbf76d17aa244b4489.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165639572708_39.jpg" group-title="Generic",[BD]star bharat hd
+https://epg.pw/stream/7c35bcf9572e71891b2871966b0a4e90b0cfd5f3aabd2f3b43af191622688eaa.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165639572708_39.jpg" group-title="Generic",[VGA]Star 2
 https://epg.pw/stream/f11c13ce7d5e4eb36547cad48e17580358e3ca881110e85c3077f31c9b01b194.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165639572708_39.jpg" group-title="Generic",[HD]star+ 2 (eventos)
 https://epg.pw/stream/79e1360e26398f81bd4f889c6b60d8c54f5b28a069e940ee53b13e646f5c760b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014334664873_51.png" group-title="Other",[HD]rakuten.tv cinema@@1
 https://epg.pw/stream/9e2a16a503384d5f05a83f3697a7d81ab3f561e8202b84358583f179d30886a8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014334664873_51.png" group-title="Other",[HD]zee anmol cinema@@1
+https://epg.pw/stream/e0153b235a6c19bb96bf0a5c74244a97aacee6e9757fb19193dfc7d696d460c3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014334664873_51.png" group-title="Other",[BD]cinema mission
 https://epg.pw/stream/37dccfcee151c4637d4fdd63623d07fdec4453bcb5725455ccbde922e783f753.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014334664873_51.png" group-title="Other",[BD]cinema indiana jones@@1
@@ -39,3 +45,7 @@ https://epg.pw/stream/44d98ef7a5b489980b51a8d313182c1eaddb7ebcdef35814466b62d241
 https://epg.pw/stream/d71ffbbe39a8a34b817ee2277957ce20a37db363266ea580fb3cbdc34a8a840d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014334664873_51.png" group-title="Other",[HD]kalai cinema
 https://epg.pw/stream/82f7b0528dd64f5c2694dae150b6846ca48ac334c91bb082e06422af4410871a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173746586299_93.png" group-title="Generic",[HD]ifilm english
+https://epg.pw/stream/db50d405151c3f95c8e553f9c2e509f0585dd6dc1b42ff1897f4ea2bde355311.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Iraq" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/14/20140914051008741118_88.jpg" group-title="News",[HD]media +@@1
+https://epg.pw/stream/24bb37f36f2ae22abe32a076cb39083c22bde31c6994e1de55395444dd59c9d7.ctv

@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[BD]baby tv
-https://epg.pw/stream/b361e547bb174746b5b50bcd3af5073f4a3011d74afed31ed8e4b2521e24d9ab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[BD]babytv@@1
 https://epg.pw/stream/bf0ad505a8b3afbff1e2da9bca299c9159ed6d0caa3baa6f6148ee6a89e0efdf.ctv
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv@@2
-https://epg.pw/stream/78e0cb33c2f91c58b169b637fb280c1e5e868c4c4957a745557291f5b84be28e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[BD]baby tv@@11
+https://epg.pw/stream/5ec42cbac902a7bdc18c55eeaa5279a7414ff34e82dd56b6b789fbcab0bc120c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv@@1
 https://epg.pw/stream/a7c7e1a57854e4c47f4065ab7218d562ab08f15c3a5883db6684ad911d460c82.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv@@10
@@ -13,16 +11,28 @@ https://epg.pw/stream/ae168c71ae794f5c18e3e3c9502b18b64a296f999959ff4b1662612cfc
 https://epg.pw/stream/64f0cae33d366eb625e4c3e5813502b348b6c76875f34d5559add6379eb62e33.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv@@4
 https://epg.pw/stream/ed2a8abe4c3cbf56c264587456eabdbc829fdcd689d4edb56994d1277203c461.ctv
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[BD]baby tv@@6
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv@@6
 https://epg.pw/stream/550b6f7d710d189bebf7e2bf35f53596fe5e0dad9b90d1cbf34e4e14fae67037.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv@@5
 https://epg.pw/stream/8c4dc383ccb3e44f01735fb6f9adccd9768129da0d9b502ca799779fd56466d5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv lbr
+https://epg.pw/stream/bb35c193e0c8b1f2ef031c0779b1c3c23a615b0ab5063952f9f6155c31094265.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[SD][es] baby tv
 https://epg.pw/stream/ce599bbc24c929ac9ea03d4031ef2a112172ab8472ea8dacd77934def0376079.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[HD]baby tv sd
 https://epg.pw/stream/8b735a06bf53bdca645622beac5d985b47bc2f7f297ac266dd1544218a8b33e2.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[BD]baby tv
+https://epg.pw/stream/b361e547bb174746b5b50bcd3af5073f4a3011d74afed31ed8e4b2521e24d9ab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807230250891517_12.png" group-title="Cartoon",[SD]Baby TV HD@@4
 https://epg.pw/stream/97abc3ca5d118f3c6ad8a1792234738657d9b127dd6efac4e0b3f55d17928e7e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg" group-title="Movie",[BD]star gold select hd@@1
+https://epg.pw/stream/2a9dd708d72ec48b550f505ec900d597d86a17878d66414f92acba5ac9a46496.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg" group-title="Movie",[BD]star gold hd
+https://epg.pw/stream/6ca17b9128543eb14207d19becc515cd2ea48804da269f780cdcfa51f4e83f2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg" group-title="Movie",[HD]star gold 2- rs 1
+https://epg.pw/stream/9a39367a33b414a036fcd7fa198e4de4d5a25124f5bef1bb85bbe78db9b95254.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg" group-title="Movie",[BD]star gold hd -rs10
+https://epg.pw/stream/de48655576d35da7d76e381a3e4afdf29a79f8b85ccfe01ffa56a2f309b6e46b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg" group-title="Movie",[VGA]star gold 2@@1
 https://epg.pw/stream/e5850ad2d7dc5dfb1a86679a6930217f674c917aa1fc7478149c094d5832fe92.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg" group-title="Movie",[HD]star gold
@@ -45,12 +55,18 @@ https://epg.pw/stream/b03be60100f90f42df883ca5b457d92de9d6ce57323244648996ef2e44
 https://epg.pw/stream/72384d53797484e7b01a57d2022adc2c9f7dfdd270fb565e6fb51bc36c77e2f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807104118580819_28.jpg" group-title="Sport",[BD]ssiptv arg sports 4
 https://epg.pw/stream/84113baea1a44b9bc8a9cc6dc7850f800e4c4c1d9bee74a89ff181d7fe440ed3.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230048055285_63.jpg" group-title="Sport",[BD]star sports english hd 1
+https://epg.pw/stream/bedb2b1c01f384009908bc7aaac48b93dd58f429930e75ff4d6186915a3dbc32.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230048055285_63.jpg" group-title="Sport",[BD]star sports select 1 hd
+https://epg.pw/stream/f2dd8fd3706863ec2588466a0812f6e0ce7884c4ffcc60e934cc59fca36edd06.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230048055285_63.jpg" group-title="Sport",[BD]star sports 1 hd@@2
 https://epg.pw/stream/f386a445157c826ff6665768a8bb6f4066056627b3314c04a6202b1f8daabdf3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230048055285_63.jpg" group-title="Sport",[BD]star sports select 1 fhd in@@1
 https://epg.pw/stream/942251285531ce264bdcc7b9f37829def26c6b80ed0e1a34b70428ac93b27bb3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230048055285_63.jpg" group-title="Sport",[BD]star sports select 1 fhd in
 https://epg.pw/stream/755cb4197256d03aee15ce981805b8a3486ac2eae609fc93dbe3ff3e6523f30b.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230158636651_26.jpg" group-title="Sport",[BD]star sports select 2 hd
+https://epg.pw/stream/ffa7d60d7a1d2e016124c3c44df1ff81e2f6cd50214ea16100fb6451b913eec0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230158636651_26.jpg" group-title="Sport",[BD]star sports 2 hd@@2
 https://epg.pw/stream/af090a5c65b3a43c87dae35aad74a71028d0b0c641677e207364cc42cb0cc15f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/03/large/20221203230158636651_26.jpg" group-title="Sport",[BD]star sports select 2 fhd in@@1
@@ -59,7 +75,7 @@ https://epg.pw/stream/63affa28162355b8aa3bcca7d7269b3519ed581760a75019dd17005f3a
 https://epg.pw/stream/62ca42f1c7a370ff2c24797bd0cb0c0f0f234512b8a7967e33ab94668f5f61d1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="Sport",[BD]sony ten 2 hd@@2
 https://epg.pw/stream/d1af42b35adce4cbbd045d58deeeca0f736c5885737f310a60c3fb7be9e613e0.ctv
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="Sport",[BD]sony ten 2 hd
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="Sport",[HD]sony ten 2 hd
 https://epg.pw/stream/0d1624dfb6a46103044bad4cc1c06e1d0e390b6c0f696c9259e87eb27aa4e1ce.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="Sport",[VGA]sony ten 1
 https://epg.pw/stream/922e4013775850a3cf84b83353dbbed312d8ab07843ce7809a73d9b1466a57ae.ctv
@@ -67,30 +83,46 @@ https://epg.pw/stream/922e4013775850a3cf84b83353dbbed312d8ab07843ce7809a73d9b146
 https://epg.pw/stream/a9eeeab9574fe952f7fdb8570c7e5ce6afafea097b6f23c63d714eb5899a9e90.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="Sport",[VGA]sony ten 2
 https://epg.pw/stream/82b7c27d27391f69f9f119dd24d91b0ffecf0376ae40288c876cb71c2169770a.ctv
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/22/large/20200422205243134756_78.png" group-title="Sport",[BD]sony ten 3 hd
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/22/large/20200422205243134756_78.png" group-title="Sport",[HD]sony ten 3 hd
 https://epg.pw/stream/689435e619674434de674967c6e81b1ab25dbd40711867e98f2ab5b5ffb00568.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/22/large/20200422205243134756_78.png" group-title="Sport",[VGA]sony ten 3
 https://epg.pw/stream/26ef9d96a944b6798b4d3c1c83440528d711309db49c599599f6a064cc3a6330.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="News",[VGA]NDTV
 https://epg.pw/stream/bd93e796035ba8eeb8e55c98b73b956b3eb3b6ff655bd9d0eeaf5670de004ef6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164751279327_55.png" group-title="News",[BD]aaj tak
+https://epg.pw/stream/090ecda764a5aa933664898aab22b5cc01f41ef9ce9d358c083db38588aca1fd.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[HD]utv action-rs 2
+https://epg.pw/stream/706d1e749b498af1b4126781bc45ec19e3d2fb41a6e6e6a8763aed1eecedf262.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[SD]action (kcks-ld4) (480p)
 https://epg.pw/stream/de6de5204e9180ff2df89043a37d11ab25269883487a282fab83f3b8e4dd8a3a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[VGA]Action (KCKS-LD4) (480p)
 https://epg.pw/stream/ee797e6d71cd979e381d594fc848f745c3eb3cb6a8afbf01e382b09041651834.m3u8
 #EXTINF:-1 tvg-id="3575" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Entertainment",[VGA]b4u music
 https://epg.pw/stream/fdfc859859345e9b18af9405d6a94816cfaf5aa91142c3cee25d1715f700ff7b.ctv
+#EXTINF:-1 tvg-id="3578" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d605b14a63c9e8a732354b3ee3c78942.jpg" group-title="Movie",[HD]b4u_movies_india
+https://epg.pw/stream/10f99542ba8230e06cb41b238fafa25b427372b2e45e6d88785490f24ee4eb13.ctv
 #EXTINF:-1 tvg-id="3578" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d605b14a63c9e8a732354b3ee3c78942.jpg" group-title="Movie",[SD]b4u movies
 https://epg.pw/stream/a1a51aef32e0e59528efbe9a4cd383a182eaf5466ae288869dcc4a30a462db4b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/BOLLYWOOD.PNG" group-title="Entertainment",[HD]zee bollywood
+https://epg.pw/stream/e44eeb6b70dcc46af1d3d80af6860128adcc05eae7cebd0391503e9ab0af1bce.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/eab10aa65f5fa86b5a7d6b102e071862.jpg" group-title="Hot",[VGA]75號[854*480]
 https://epg.pw/stream/3d55511d71f32b8aed7a944282db8c3e9f58381528e239a9a50424261c500f76.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/eab10aa65f5fa86b5a7d6b102e071862.jpg" group-title="Hot",[HD]American Horrors
 https://epg.pw/stream/1dba4a203b5d6ea0b5748cae3e6ff2e0835246c51bebf3b7907cb205859e75b6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2022/06/01/large/20220601212325506378_96.jpg" group-title="Generic",[HD]star vijay
 https://epg.pw/stream/c7523c29af0e3fd0e06c69f868a840a9581a3475589968b97bb275b867240535.m3u8
-#EXTINF:-1 tvg-id="3645" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="Entertainment",[HD]colors  hd
-https://epg.pw/stream/243c4033d39b43805c81090d4837e7e9913bebc268899caa6a330db211b77040.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2022/06/01/large/20220601212325506378_96.jpg" group-title="Generic",[HD]star vijay@@1
+https://epg.pw/stream/4c6772529846dd84ddd88bf8e9b44896a33760aa7a1ddae1e002190bbf72839b.m3u8
+#EXTINF:-1 tvg-id="3645" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="Entertainment",[BD]colors cineplex hd
+https://epg.pw/stream/92d91b94558e03ea197e1bd1594fbdb97997c3b33e0b7b838d82846503640f10.m3u8
+#EXTINF:-1 tvg-id="3645" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="Entertainment",[BD]colors hd
+https://epg.pw/stream/5c0f859e120165edae7e57520faf46c3b910c3b842def5665ac604516bf0eb70.m3u8
+#EXTINF:-1 tvg-id="3645" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="Entertainment",[BD]colors hd-rs 19
+https://epg.pw/stream/ac27accaa5ef35cc1b12356f4b6be2f46f927ba140fae0728b11d0b6827a317a.ctv
 #EXTINF:-1 tvg-id="3645" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="Entertainment",[BD]colors tamil hd
 https://epg.pw/stream/2778d98ba1d89f537e40a6793d84750c3efd4596b9b4dc56f3508b66b79c1314.ctv
+#EXTINF:-1 tvg-id="3645" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="Entertainment",[HD]colors  hd
+https://epg.pw/stream/243c4033d39b43805c81090d4837e7e9913bebc268899caa6a330db211b77040.ctv
 #EXTINF:-1 tvg-id="3645" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="Entertainment",[HD]COLORS HD (IN)
 https://epg.pw/stream/1642515a9c514cdd34d737518067b7813eba681f76d852f6e826011d372cf994.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[BD]tc
@@ -143,26 +175,50 @@ https://epg.pw/stream/29465b2d04409e10beb23a98d694661ed93aeff714725713a7cb34554e
 https://epg.pw/stream/671d14f52e7989f357fe66a8248483aa193f70317e18c569a9dcea496f58307c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Bengali" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/47055a34ff65893675e9690061f30fa0.png" group-title="Generic",[BD]zee bangla@@1
 https://epg.pw/stream/f2f9bc43db8c77be1130979591cb17315d005fac95abdc3568da61e6e13198cc.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Bengali" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/47055a34ff65893675e9690061f30fa0.png" group-title="Generic",[HD]zee anmol
+https://epg.pw/stream/60523038cbb774ef0537c3afb6f92ebd2bffdb5950ebd996c43c336bfeb0e790.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/7b7d7f8d2635bf2f13c8118622a14d3f.jpg" group-title="Movie",[HD]zee cinema hd
 https://epg.pw/stream/db1939bd7c1b1d94bfba7b4572c19989e64f32ef2a24e60c3c5cddedd59d4df5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/7b7d7f8d2635bf2f13c8118622a14d3f.jpg" group-title="Movie",[HD]zee cinema@@2
+https://epg.pw/stream/b8b6d47912776180ac55c43808bc388cc9aef7c90b191318e51bf4f66fc5e66d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/7b7d7f8d2635bf2f13c8118622a14d3f.jpg" group-title="Movie",[VGA]zee cinema hd@@1
+https://epg.pw/stream/8b632690e244d96d22a5a8c0366dd0c3ba768f2668484ef3500f2a06301eb68a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/Zee_Salaam.PNG" group-title="Generic",[HD]zee salaam
+https://epg.pw/stream/ba808dcef8c912be08ab9c32e64bf41b0a129b85753d6631ba869dd2735647ea.ctv
+#EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[BD]zee tv hd@@3
+https://epg.pw/stream/70069f5185850bb0fa7c3c131b4185b87d96a70cb9911b67a8a51aa7d63bedba.ctv
 #EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[HD]zee tv hd@@1
 https://epg.pw/stream/6a99b136e0e55fd2c5fbb029c2e857c459bc646b3d549ac69f2865c7180a0236.ctv
-#EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[BD]zee tv hd
+#EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[BD]zee tv hd@@2
+https://epg.pw/stream/c6d3ebf71cdcc5d7caaa28869beece9b4f44174321b217e1a4b3afd3fc97f9e2.ctv
+#EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[HD]zee tv
+https://epg.pw/stream/65619bb67ef1162e228b8f4746b5c5b6288990c78bcac28d356de0e0c3db8368.ctv
+#EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[HD]zee yuva
+https://epg.pw/stream/6e4f32394ae73d11e93ec1d75b639c2fb00f8e2ce1f166dde2e79545aba59c6d.ctv
+#EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[HD]zee tv hd
 https://epg.pw/stream/8c797a96179b9e3ef4851a42d431696161dfab393fae90774eac463934cd5492.m3u8
 #EXTINF:-1 tvg-id="2896" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228010409541361_90.jpg" group-title="Movie",[BD]ZEE TV HD (IN)
 https://epg.pw/stream/32b51f61e63a2c7b3f2a051a7f63798e158e9781a762ddafa452b5769c127036.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/JAYA_tv.PNG" group-title="Movie",[HD]jaya tv (360p) [geo-blocked]
-https://epg.pw/stream/cbaa50aa8dd2b9b086a6c0dd5cdf62d5a6ffbd57826969401309eaeb454be5b5.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128130814903955_39.jpg" group-title="Movie",[BD]zee cinema hd-rs19
+https://epg.pw/stream/8b784e5b5af8e2f323f495e73fc8c4288babefe68e0050d34207747a15014228.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg" group-title="Movie",[BD]star plus hd -rs19
+https://epg.pw/stream/144d0fe4749b8bf3625ede2d3cb7c4e41c2f323f7836220f1ff15c0dd1fca2e8.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg" group-title="Movie",[BD]star sports hd 1 hindi
+https://epg.pw/stream/42c3dbc02d551d5c4fc5a9411e212eb759137263a0ccf83f0bcd46df5d6ba0cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128134302715296_63.jpg" group-title="Generic",[SD]sony aath
 https://epg.pw/stream/45cc0401a0b8152dab2c9d306bf6d36f1c8c4cf5085b4d68b6f91fa68f11f81d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128144519304137_59.jpg" group-title="Entertainment",[HD]dd india
+https://epg.pw/stream/e99e0cbb34496f4c9280d21ff6b7f6c83d80ee77a69d8a9240fc5b23df0efa24.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Tamil" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/24/20160424130650115321_16.png" group-title="Movie",[BD]skr ktv
 https://epg.pw/stream/4ec66dcc586970b1080af807cd2d83e1801486027550e7b350f1f5aba67ddd88.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/23/20160923192350800257_93.png" group-title="News",[BD]next hd
 https://epg.pw/stream/b830391b9f652b5ad98fff57ba2c520b9d815120cc0d71521431ff5548bdacd9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152149214400_38.png" group-title="Cartoon",[SD]Hungama TV
 https://epg.pw/stream/1edfcd51823699b6ec9a3ccc0ec1838392d2726e3ac2462cb2384c43e35a2194.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="Movie",[SD]au| channel 7 flix
-https://epg.pw/stream/d1dbc4c7c0c2e151a689c4d258b8452ba9068fd71a19919f43725101510a0bb6.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/31/20181031012435314289_89.jpg" group-title="Movie",[BD]&prive hd-rs 19
+https://epg.pw/stream/d3614615ec1faa65add8006a416dc72dc3d3b9d9512e2d7805b58aa97d4c81ec.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/31/20181031012435314289_89.jpg" group-title="Movie",[BD]&prive hd-rs 19@@1
+https://epg.pw/stream/e61c3e827078c99bf7856af183031376bfe2263b97c0090a3cdbc2665a709ca0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="Movie",[BD]&flix hd@@2
 https://epg.pw/stream/939ef2a14ff31d5b96fe03f3a16283c4c80d8cb9d130f522f7dd8755a3504a3c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="Movie",[BD]&flix hd@@1
@@ -193,10 +249,14 @@ https://epg.pw/stream/7ea8a75c789322313ef163397db409a6c77da7aed54d25747df1f677e0
 https://epg.pw/stream/b5f1f17d40149e0b66a152711ff464434c85864806b119be183fa9fab3713064.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205541904504_79.png" group-title="Sport",[SD]DD SPORTS
 https://epg.pw/stream/301809fc99a0e0507f149b943eb258a6839a72df76130acc026c911af993d825.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205541904504_79.png" group-title="Sport",[SD]dd sports
+https://epg.pw/stream/5465a04e221264521af2b593e44ec6e0ff79a74c35cdd02223e859724c77708b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205541904504_79.png" group-title="Sport",[SD]DD Sports (576p)
 https://epg.pw/stream/6bbe81831fd79e18b935f6a2d3e66415fa43ff2eaa76c92239b5b64214779c7a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231451135104_32.png" group-title="News",[BD]|telugu| history 18 telugu hd
 https://epg.pw/stream/8b353020ff6534b79e00632056470613ca50b6167ff5dec35cd8460a17b4b024.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231451135104_32.png" group-title="News",[BD]zee telugu hd
+https://epg.pw/stream/e33f31a76e9d31d0c6504c5d864a5d2c2f7e322f48c2d09bf92361e1af76f498.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231451135104_32.png" group-title="News",[BD]-99 tvg-id="" tvg-name=""崇圣寺三塔湖面崇圣寺三塔湖面
 https://epg.pw/stream/0f7b32d99335a2f11ba2bc648be6fc8b042b1f5f3696c264bbda751dddf4bdd1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231451135104_32.png" group-title="News",[VGA]99號[854*480]
@@ -231,12 +291,24 @@ https://epg.pw/stream/026a3035b98eb2f220f78d832387b554d39ad65c614f60c1cac17ddee1
 https://epg.pw/stream/256263a569266778c00216b0a8b276381233ebc21d1b966c8a77b69114c51d75.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[SD]abp news (720p)
 https://epg.pw/stream/11c7cb435175a1cd64998b6dd3f565d6b6cfe733c7ec420fae69671f83d38f85.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[HD]india news rajasthan
+https://epg.pw/stream/e566fe0fdac70af7f6c839131aa58a2154c14a4b8973c7514a580b49be2723a5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[HD]india news up
+https://epg.pw/stream/e16b239629ef75c67b878cc9af0403df086f22e821dbda2808a89793dd56ab39.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[BD]abp news@@1
+https://epg.pw/stream/5d5fc933fbabbbbe8bdc0f5a1d1193338a06fa45571817106d36205cb8d2734f.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[SD]india news haryana
+https://epg.pw/stream/a36fbd384c1a04a91c1d0a5b90edd5c6a9cb76e805e4ba2a3aed9b25cf4f4842.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[HD]india news mp
+https://epg.pw/stream/ed5d8d9a59d128eafba70ecbb9458df4152d31d345d98d4fa09244170aca5b59.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[BD]abp news
 https://epg.pw/stream/27264459eed2f812cf2a31f6f2fe67cea996defdac325c77ac1422dff85ba75c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[BD]ABP News (720p)
 https://epg.pw/stream/ef819c500832d17be5e33cf2d435cc1b1a5b27d638c3edfc9990522188928eeb.m3u8
 #EXTINF:-1 tvg-id="4332" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163803734751_89.png" group-title="News",[SD]zee news@@2
 https://epg.pw/stream/3f46f7e9911add1c9575746722d14964c88d63d781a3fa902514152c14f15e27.m3u8
+#EXTINF:-1 tvg-id="4332" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163803734751_89.png" group-title="News",[HD]zee news@@1
+https://epg.pw/stream/ef9469d299e5081f24a5d7b6fd0f8a5035a064d58e14332c8c6b064ee6e6e088.ctv
 #EXTINF:-1 tvg-id="4332" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163803734751_89.png" group-title="News",[VGA]zee news
 https://epg.pw/stream/908d43fc9dc38ee50aafcee029646a51f62476422f9820b4c2a40288ff6c126d.m3u8
 #EXTINF:-1 tvg-id="4332" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163803734751_89.png" group-title="News",[BD]zee tamil news
@@ -245,7 +317,7 @@ https://epg.pw/stream/8bee628be883604c6e300ed6f7582e3885e4c3626cdaf47279d818b1c2
 https://epg.pw/stream/55792cb774d597f4abfca598f487f6ab9e82dadbb99367a37e8acfc1d49c564f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SONY_SIX_1.PNG" group-title="Sport",[BD]sony six hd@@1
 https://epg.pw/stream/02e787a01a5928147203077e5abe2836a67148302d707dde9da0d48434845c9f.ctv
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SONY_SIX_1.PNG" group-title="Sport",[BD]sony six hd
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SONY_SIX_1.PNG" group-title="Sport",[HD]sony six hd
 https://epg.pw/stream/8beeed2ffbd7c1756005610ea879b5e6be4b05c93e1703d7ccce6ac6c602d714.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SONY_SIX_1.PNG" group-title="Sport",[BD]sony six
 https://epg.pw/stream/4ed7d02fe77a746f5b28f4d2cbde440bfe3e254f85ad9b533ecb79a94b012840.ctv
@@ -255,7 +327,7 @@ https://epg.pw/stream/1e8b97dfd6b2d3c95ff60dcd2d6f49d8f3a9297af83cc11761242c2af0
 https://epg.pw/stream/052ad8f4209360b53b542e8a2e95f95572b21f64d0d835f1f186cf653752c994.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/A_PLUS.PNG" group-title="Generic",[SD]plus (540p) [not 24/7]
 https://epg.pw/stream/3329967ae0439862305eae0d35a4b9b15c203094028058df9d938a5804fc5055.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/A_PLUS.PNG" group-title="Generic",[BD]90plus
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/A_PLUS.PNG" group-title="Generic",[HD]90plus
 https://epg.pw/stream/f3927a98c636318f49682b3473b2f659243512ecd9188c8ea46b198d51f378bb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/A_PLUS.PNG" group-title="Generic",[SD]Plus (540p) [Not 24/7]
 https://epg.pw/stream/3385017b4b8ca29ce3fc00a6c6324d5ad052c763bf01397b1e5afa341b21b53d.m3u8
@@ -271,14 +343,20 @@ https://epg.pw/stream/28bfa0303fc7cb536368dcf85024e3860550d17b8f1b8fdbce17a98bc6
 https://epg.pw/stream/624a6f0b46419ede79c2d0d525ceeb7748ef94faefcf08c2396570f70f7d6256.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/ZEE_MARATHI.PNG" group-title="Movie",[VGA]tv9 marathi
 https://epg.pw/stream/aa25c3ef9e3688bc979d5f478923f60364084da350e469ddfd2567bbaf583558.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/ZEE_MARATHI.PNG" group-title="Movie",[BD]zee marathi hd
+https://epg.pw/stream/0eed77ac86d8d326353fd9fa7dfcebcacee96c2b0a4df5de3f80bb4b1044e7fd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/Zee_Smile.PNG" group-title="Generic",[BD]zee tamil hd@@1
 https://epg.pw/stream/5b8737722ecab55894adc2bacd4bea68ec36851abe1d677745ff04372076033e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/Zee_Smile.PNG" group-title="Generic",[HD]S.M.I.L.E
 https://epg.pw/stream/34c908f143969dfea3cf0d85d0f949ecdcbeb74a7f63bc071361c3e071c37e27.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/Zee_Smile.PNG" group-title="Generic",[HD]Smile
 https://epg.pw/stream/835d7438d3a162219f1065921b28970ec62f3e42a9eb762edf1aaeb8aec99483.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/Zee_Smile.PNG" group-title="Generic",[BD]zee tamil hd@@2
+https://epg.pw/stream/194c3ad7199fd570d76dfcf4825c7b07f98f657e184dc2bd746ee6ad2a04ab32.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/Zee_Smile.PNG" group-title="Generic",[HD]Smile
 https://epg.pw/stream/e194f6eb266d7dd1b863065ca41824d76172f6b57568cca32ef65dd11a4b9ea5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/NEWS-X.PNG" group-title="News",[HD]exp news
+https://epg.pw/stream/f3883ecb397218b54ebf85433bd72e7908fd3b4b7a03123f7754ace0c95f0996.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/NEWS-X.PNG" group-title="News",[BD]malabar news
 https://epg.pw/stream/189b685f04b0d67f9bb7871925e80a6081d3a6e24785b894d91d9d71e277c738.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/NEWS-X.PNG" group-title="News",[HD]twenty four news
@@ -289,8 +367,12 @@ https://epg.pw/stream/d08e4d7ed29c8bc94cdc63e630137cdee0ea9b948a22d1978e10cd8e40
 https://epg.pw/stream/ffa698f601434b3bd6d9d0777763af29942db7df0d371b3a13751767f9fa87e0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/NEWS-X.PNG" group-title="News",[BD]jovem pan news
 https://epg.pw/stream/87a6ea964a5661c7adfe29a1b326dfd7f235ce5a7d1fa3399dce3774a001f2f9.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/NEWS-X.PNG" group-title="News",[HD]news x
+https://epg.pw/stream/14a53308ad47c6bef0df4b66774cadeb06269efa07319afef6cad630b980511a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/NEWS-X.PNG" group-title="News",[BD]real news kerala@@1
 https://epg.pw/stream/7e108b2adff1e3953dea56c8ff9496c9f881211995e66429c8c6f8c568ead941.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/UTV_Moveis.PNG" group-title="Movie",[HD]utv movies-rs 2
+https://epg.pw/stream/e54137609033508bcec990bb37e13c4c9c5c76829c0f385397e3913d03a0675b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/dd_national.PNG" group-title="Generic",[BD]national@@1
 https://epg.pw/stream/9547e49c2132f5e362bbee11400cc7e1c1118d019a7e104ba33af1a892c54b0f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/dd_national.PNG" group-title="Generic",[SD]DD National (576p)
@@ -303,6 +385,8 @@ https://epg.pw/stream/c40cfd94a7752e414f8185dfce589563a127c6c538d854aea149f5cba4
 https://epg.pw/stream/8217d6d7fd8dee73e8e0f978b6b780246880339e6167302d6685fd59f17a3f56.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/dd_national.PNG" group-title="Generic",[VGA]dd national
 https://epg.pw/stream/1aa1854efb61a88ff5a7012547f6e3b1f13f6dc16717a0072ae23081eec02e35.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/dd_national.PNG" group-title="Generic",[BD]dd national hd
+https://epg.pw/stream/1ce67fd58c93903cc4a39c6c64bba9a72f8b8c96901610689686aeda6c6c317d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SLNTV.PNG" group-title="Generic",[HD]SL HOT 1 HD
 https://epg.pw/stream/9392404a14ad06390b25d391c0ebd17bfdd6b7a1ddb30edc22883e2062a84286.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SLNTV.PNG" group-title="Generic",[HD]SL HOT 2 HD
@@ -321,6 +405,10 @@ https://epg.pw/stream/aad927ab790491062e5ed01dd0a97287ab291a2039b06435be08cc135c
 https://epg.pw/stream/d34694bcf2fcf880105b96cf2a6b771be3e942c4e94b3f8da9a60fed87e2fc99.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/SLNTV.PNG" group-title="Generic",[HD]SL HOT 9 HD
 https://epg.pw/stream/cd9b3f122a82de4f9449af610b53e4c2c5639f733f9a91a63534d27d89e97996.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2021/12/04/large/20211204195847387914_53.png" group-title="Cartoon",[HD]india news@@1
+https://epg.pw/stream/cca21bc514858e9efc136c3e4b24d01b01718c1f1968ba8d1a4e46f9a00a3527.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175017403710_81.png" group-title="Generic",[HD]public senat
+https://epg.pw/stream/366d6d4392f35d147554d8b3b270a35fa958ccd4e50d9eaee3b9e7a405b6f2e8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2014/11/16/large/20141116003100335840_86.jpg" group-title="Movie",[VGA]zee classic
 https://epg.pw/stream/7b0a50deedf4baf39c5d91da660b664788e08f02f494ccc5a02f95830b7c76d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164216460252_63.png" group-title="Movie",[SD]zee action hd
@@ -329,6 +417,8 @@ https://epg.pw/stream/50116bab1f85e3df635ef6f37af610dec0ec780a18bfe27fff8efe5bff
 https://epg.pw/stream/9e7cb80ff4da54aecec525616274cda5aaac919843c5bd1aed6bfa2bfb15a703.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Punjabi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164732623933_11.png" group-title="Entertainment",[BD]9X Tashan
 https://epg.pw/stream/16ac9a311ed87c4790a5c6df2746255a1410a0beba78536d49335b7d06ffe34b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/20/20150420072116188345_30.jpg" group-title="Entertainment",[HD]bindass - rs 1
+https://epg.pw/stream/a92dcbffad47b88948660f97ff1a510a5bb868b0c5deec48be5c7b852eccd2fa.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Punjabi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/20/20150420073109339525_25.jpg" group-title="Entertainment",[HD]punjabi tv
 https://epg.pw/stream/6aa9255efa83c583ffabf12ae7955d037844e58a72df0edd71a4109df68d26ec.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/05/20/large/20150520013511487122_57.jpg" group-title="Movie",[HD]30A TV
@@ -337,7 +427,7 @@ https://epg.pw/stream/2b05bc996c8757fc5e8c092ce09dc264c80b12f2095973af2af4b0d56a
 https://epg.pw/stream/58b640d646c4118c23f3ff804afd1b679344d4ee5cf5eb3e0cb1742835b6bb59.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/02/20150602170136873196_31.png" group-title="Entertainment",[HD]music tv@@4
 https://epg.pw/stream/4d25451ab16c8ff1a2efd1434561052d43a8f4c729c68f29bd4be7f6e6411c1c.ctv
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/02/20150602170136873196_31.png" group-title="Entertainment",[HD]music tv@@2
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/02/20150602170136873196_31.png" group-title="Entertainment",[VGA]music tv@@2
 https://epg.pw/stream/dc58033cdd9647ca1959a12366d8934d2c8a1932d9586f8d15cf4093241690cc.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/02/20150602170136873196_31.png" group-title="Entertainment",[SD]music tv@@3
 https://epg.pw/stream/a0794f18237b8fb85aee9049e5d492b28d80d494dda22cc746c0c0c3c4d1fac1.ctv
@@ -357,16 +447,28 @@ https://epg.pw/stream/064f721afb0567d248254e32e4e7101ac9f9f799c3abd4b029e30b8985
 https://epg.pw/stream/ef35d78536711feb56dcb82a27608ceae19f5e450ec3630f3bcd97d21067ec0e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/20/20150620200546800474_88.jpg" group-title="News",[HD]sudarshan news
 https://epg.pw/stream/de7d31846a5740031072f0d81c67790f2110d93e56a36a653b735f8288ca615c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163757283506_37.png" group-title="News",[BD]inspira tv
+https://epg.pw/stream/1de8c71199c32576514acc0d26e87be01e51874a684e21109ffdbff6d170a656.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163757283506_37.png" group-title="News",[BD]india today@@1
+https://epg.pw/stream/7585798a710e47dd0d9012c986a087681663cdb09fffead791b8b2b385172448.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163757283506_37.png" group-title="News",[HD]india tv
 https://epg.pw/stream/e40e87687d4f1a50824d50f271a74db66379893de154090295e1640e8306587a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701100307041219_84.jpg" group-title="Generic",[BD]mta7 asia
 https://epg.pw/stream/de0290b5c821ccb0e1e2bf42c99ac4936537a5c50e2becac33ed71e8c9290366.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701100824614583_30.png" group-title="Generic",[BD]tvri bali
+https://epg.pw/stream/aa592b24eafd3521c3f54c4350c4013c56d0b261d03e772cf6f73d839bb8c970.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701100824614583_30.png" group-title="Generic",[BD]backustv@@2
 https://epg.pw/stream/f2089b38afed577dd83367b17208c984d0549e348d1249ca74ae97976a9cb36c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701100824614583_30.png" group-title="Generic",[HD]bali tv@@3
+https://epg.pw/stream/aed9acd47da49be1a621445998e83117ef5af26d31bab31092e9ae16b87cbf34.ctv
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701100824614583_30.png" group-title="Generic",[BD]backustv@@3
+https://epg.pw/stream/68aa20aa3b4e44774c22d698e0a2e796b1d71d3272fd96369c8cd0fb120b0b11.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174020637173_63.png" group-title="Sport",[SD]ten tv (720p) [not 24/7]
 https://epg.pw/stream/82812a5762a2063c6e2e337493c47a18f77edb5f413732e8eb535f5db74c1ea0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174020637173_63.png" group-title="Sport",[HD]Ten TV (720p) [Not 24/7]
 https://epg.pw/stream/c2d71de1f26b63b9eed286a775c60a7a6c64d2618680a1a6a53e61a46b363df7.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821171807964904_70.jpg" group-title="Movie",[HD]cine az
+https://epg.pw/stream/990229ff2f931d878610eb6c027acf71e87f56dde3e64d0a1597544f4119a923.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821172047431279_23.jpg" group-title="Generic",[VGA]ATN TELEVISION
 https://epg.pw/stream/ee8cd6b3fe3ae58679b70833fa981e2f256c81e0d544f3536bc7836b93cb9078.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128133427551463_55.jpg" group-title="Generic",[HD]sony sab
@@ -377,10 +479,12 @@ https://epg.pw/stream/0a94b070b457fb04906a76508886aab8da89697207ec0d9b6d5a1e3ff9
 https://epg.pw/stream/182f1e3223a23995b62e9c865ae37dbe48b4e4ebab11182e8ed925e9b84a8bb3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128133453263271_18.jpg" group-title="Generic",[VGA]sony max 2
 https://epg.pw/stream/f100dd58f32e815626d3436efcb593c01e24d18df4d8bc5b8998f926a497887c.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128133453263271_18.jpg" group-title="Generic",[BD]sony max hd
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128133453263271_18.jpg" group-title="Generic",[HD]sony max hd
 https://epg.pw/stream/7d826e0a9e0da2e6e7788fcb1d42c895a3513add6a2d7fcb045f6620babb4a7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128143331200558_69.jpg" group-title="Entertainment",[SD]music india (576p) [not 24/7]
 https://epg.pw/stream/0ea36a7603bdc76d1ccf10eaec152a34a131c274225b82290ccb561cd3b9fef6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128143331200558_69.jpg" group-title="Entertainment",[HD]b4u_music_india
+https://epg.pw/stream/bfe77e43bcdab7b07681e08712571aa150ed72cf35a0ccf1e8e15b0d02a679cb.ctv
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128143331200558_69.jpg" group-title="Entertainment",[SD]Music India (576p)@@1
 https://epg.pw/stream/3de74da21907ecfe394df2d3591ba5edb571b44da2d97919cd6a9c1680edda25.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128143331200558_69.jpg" group-title="Entertainment",[SD]Music India (576p) [Not 24/7]

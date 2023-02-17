@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="Generic",[BD]澳门卫视[1280*720]
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="Generic",[HD]澳门卫视[1280*720]
 https://epg.pw/stream/39826005b8d1510d426d28f5a30b536ce5fecd09d4de8d9e5fdecab44f2f7631.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="Generic",[BD]澳门莲花@@2
 https://epg.pw/stream/663d171ed97c3b3a92959714148918127daf541a36797a8e9ce32fd54530b340.ctv
@@ -25,7 +25,7 @@ https://epg.pw/stream/11a3fb8e40c32e40297b79900bb515bd5a9358b271ad81fe99db41974a
 https://epg.pw/stream/e384110ba7db106d4f6824ed9a5ea0b0743430b5bb0500eb599a140c5eaf0eea.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="Sport",[HD]澳视体育
 https://epg.pw/stream/54eab79838d0d62991586484042cd85db8755365cd9cf8b3d318148ce72400d7.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="Entertainment",[BD]澳视葡文@@1
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="Entertainment",[HD]澳视葡文@@1
 https://epg.pw/stream/00e5ec97f0e5dce0728dcfaa9564ba7c9507d2aa7d65933d80794dedb07b6db3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="Entertainment",[HD]澳视葡文@@1
 https://epg.pw/stream/f6878e72a5b023cdcd641e5c5823cfb87ad39ce4c667972b3d960acb4e9b687d.m3u8
@@ -79,7 +79,7 @@ https://epg.pw/stream/f34121df809cf284ebb126c2d675db88f06909d592e4a0d2934604ccd4
 https://epg.pw/stream/40fdcddb29eac4a35b0dcb97bf5ef7fab97c4457b3db0c0d186e811d2f89c18e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="News",[HD]澳门资讯@@10
 https://epg.pw/stream/c0419533145018d45684290040b78d7fc4cae2419f8aa3e744c80cc3e541e178.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="News",[BD]澳门资讯[1280*720]
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="News",[HD]澳门资讯[1280*720]
 https://epg.pw/stream/8397f03d38ff81f2948aead59afa2d603a285757a3737eb45ef8090c8c5ceb50.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="News",[HD]澳门资讯@@6
 https://epg.pw/stream/181c2eff1b804441a3812660bb9571579df0af910a42989af91b9ce918ca0eb5.m3u8

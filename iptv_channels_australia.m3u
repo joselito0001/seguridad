@@ -9,9 +9,9 @@ https://epg.pw/stream/ada1b70b2009ff99509383a9ada4390e4b1e0a682d7ad7120d8c4fb410
 https://epg.pw/stream/e75d4dccb1c87edb998f07ca166d8328cd9c5627585ccbe0586e003f3e87b53e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[SD]abc australia asia@@1
 https://epg.pw/stream/aecf69dd57b5036f3df2635db0e0578ba400622b1c4ac3782a39c174463c11d5.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[HD]abc australia@@1
+#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[VGA]abc australia@@1
 https://epg.pw/stream/7879168b907a8a2dd572d648eabf3fa216ec5a1ed8e7795f987c87f2ff636553.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[HD]abc australia
+#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[VGA]abc australia
 https://epg.pw/stream/75976ceccd7a6e8d3e2b5eae8f3aacc6d63a531e12a00e730e80c568ea5bcf5b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[BD]abc australia hd
 https://epg.pw/stream/e8c50a0caade89c123220eeeca7dfd5fb6cd3ddc601f65e8909208a58399d7c7.ctv
@@ -19,6 +19,8 @@ https://epg.pw/stream/e8c50a0caade89c123220eeeca7dfd5fb6cd3ddc601f65e8909208a583
 https://epg.pw/stream/1b4006c6ce131a86ed65b55f511a05b1d053c9012ca2968455a30ec22e0923e6.m3u8
 #EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[HD]ABC TV
 https://epg.pw/stream/8922f9485a3fde25c9cd4b27d973ffbc858395cd493ea323c467562ace5120ce.ctv
+#EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[HD]abc tv@@1
+https://epg.pw/stream/562442375aad0d9149a7c363a97102e17e31f7bf6647b5aedf6670f7d9dab03b.m3u8
 #EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[HD]abc tv (720p)
 https://epg.pw/stream/3473ae56c1cbac182647166c9ca767235d50bd69cd5f659df85a8390684c6469.ctv
 #EXTINF:-1 tvg-id="15553" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[BD]abc tv@@2
@@ -45,22 +47,18 @@ https://epg.pw/stream/e19570965720c62332867e4f6e6af9244a93b3d4c6bbf75145d8de015b
 https://epg.pw/stream/1cd70fee54aefccc0f91f053ea73b1d79ec3e6986d2d9829bd276d67d4c45c8f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[HD]news: m24 hd
 https://epg.pw/stream/662fb53059c245dccb4115af05ca8252e31df5ae653975fac2670446ba3bcf3f.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[BD]news: france 24 hd
-https://epg.pw/stream/ce4bd8e2402f256c566aae7036bcc44cd3a70aaba4ca877344e0d39f4f3aef58.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[HD]news: i24 news hd
 https://epg.pw/stream/aee9bcf922dbe194008e9294f3ec2d9ea9bf996608b8718c186d9199bd2f4437.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[HD]studio18 news
 https://epg.pw/stream/aa8a3ceed34b0cdfc52d440bea1b6d5bac102d5b1349bcbf0bdbc4694ae36f17.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[SD]ca| cp24 news hd
 https://epg.pw/stream/7a515cfbf52c892c2e2fd6bce3cb671a9007257c854d65df6688535d722c5490.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[SD]usa | pix11 news
+#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[VGA]usa | pix11 news
 https://epg.pw/stream/f89afe5de3924bdaade541ddb044a5f1260c596118079609bb4962acda04c9f9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[SD]bci 24 news (720p)
 https://epg.pw/stream/78f17372e4edfe323f6dd8da1645533b1ea001e7b808d4d7a32bca771aa4eb67.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[VGA]|telugu| v6 news
 https://epg.pw/stream/b24bf42697295ecb9aeaef0c1becce2eeff91af31462295a7eb77d65f91d2769.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[VGA]|telugu| tv9 news
-https://epg.pw/stream/c81631532a49b5aa9fdc9c86086f65fd86725b4ff2325a96702a780b3db1d3c1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[VGA]|telugu| tv5 news
 https://epg.pw/stream/41bfd2bbb84ec937e475c9bdf6f3e175ebb09c55061ce5ba9f1298912041adfd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="News",[HD]BCI 24 News (720p)

@@ -16,9 +16,10 @@
 [VGA]RTI 2,https://epg.pw/stream/3ab3e5e58c2866feb23b5c773272d2eff8e2d090143a96d10f81f3ff2de971fd.m3u8
 [VGA]RTI 1,https://epg.pw/stream/c8a612fdfc03af4f61858856dc0764212c1f166d91ce2598316296d5cb6045a7.m3u8
 [SD]rti 1,https://epg.pw/stream/f82bc39ebee7c5c816a7e1cb61c3d26a6bf8fae14718b433a666e6de03398239.m3u8
+[SD]телеканал футбол,https://epg.pw/stream/eeae74aaf74eab2a9831c14ecd35f26b090aba71d180bad225daa7a9351f8d6a.m3u8
 [BD]10 канал,https://epg.pw/stream/83de92cb6310d8bcd273d2c60c7cac59891fe1b4d5d75a2972ca8eef8e531be1.m3u8
 [SD]5 канал@@1,https://epg.pw/stream/b76c7857971d110f4d2e2f761ca18fb131c8ee9cab679bbaff37789d4ac17bfb.m3u8
-[BD]7канал(одесса),https://epg.pw/stream/5690102449a73e2cab43ae1e151285931e589c974c8d2676a2e23cf19b64fc2e.m3u8
+[HD]7канал(одесса),https://epg.pw/stream/5690102449a73e2cab43ae1e151285931e589c974c8d2676a2e23cf19b64fc2e.m3u8
 [SD]31 канал (576p) [not 24/7],https://epg.pw/stream/646f80dd41da9c425bbfcb2725ac180ed9a2033635d7559d4e83025dab587e9d.m3u8
 [HD]43 канал (720p),https://epg.pw/stream/5702909e24943aa83163aaac0f34c1a4a115f6e61a63393e1d5c11c82d5a6bba.m3u8
 [VGA]31 канал (576p) [Not 24/7],https://epg.pw/stream/ac322107a3569bc22fb136e524261f9d7270da82b0d7839e6a9dbfc73d979ce9.m3u8
@@ -28,10 +29,9 @@
 [BD]43 канал (720p),https://epg.pw/stream/5e76d509ce3af0700cdfbff89942caafe9041b02065aa07616246099accba109.m3u8
 [BD]24 Канал (1080p),https://epg.pw/stream/64eae88aefed7114cb7be178e6e234d1ab8d9a8c83ac2fe40cdb811c9214f628.m3u8
 [BD]33 канал (хмельницький),https://epg.pw/stream/cfc655908ab11b9b770cf03edcca3ebd2f8221254b4607ae164a4f1eac9e16a0.m3u8
-[SD]24 канал,https://epg.pw/stream/9ace641e64db2ad9adec544b01ece2cbbff6b28b7954a40dda875702eda3e34e.m3u8
+[VGA]24 канал,https://epg.pw/stream/9ace641e64db2ad9adec544b01ece2cbbff6b28b7954a40dda875702eda3e34e.m3u8
 [SD]7 канал (576p) [not 24/7],https://epg.pw/stream/12dc978511d4a97b0a5abc5d12e4097d4a402c83f1f4492d738c0358789ad7c2.m3u8
 [SD]8 канал,https://epg.pw/stream/00c546e8f86e7f1dec9977b05bc50aec61da477525b358516fad95c4d1e53d19.m3u8
-[HD]4 канал (720p),https://epg.pw/stream/d9eecbcd10713b33aa52db950633a6803c9bbb492adc42d4683d858713061e11.m3u8
-[SD]телеканал футбол,https://epg.pw/stream/eeae74aaf74eab2a9831c14ecd35f26b090aba71d180bad225daa7a9351f8d6a.m3u8
+[SD]4 канал (720p),https://epg.pw/stream/d9eecbcd10713b33aa52db950633a6803c9bbb492adc42d4683d858713061e11.m3u8
 [HD]MMA TV,https://epg.pw/stream/4f65dc51c935579a10c05af877f97c438a9078408438a9bebaf136bddec9a4f0.m3u8
 [BD]Fake Taxi HD,https://epg.pw/stream/a0cdfd5230ebb04da5b0709171fb22b787bd246f6c0ae3ed1c4892c52f3c772e.m3u8

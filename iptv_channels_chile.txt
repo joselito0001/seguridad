@@ -11,13 +11,18 @@
 
 
 [HD]itv patagonia,https://epg.pw/stream/f0d1cbad4046db6d573690252c1eee0f8a23f43fc537f23e25ce1ada28ef8634.m3u8
+[HD]itv patagonia@@2,https://epg.pw/stream/34e7e45f8266ed191c57ca1f859142b16523b71645274d05d0db923aa1addf4e.m3u8
 [VGA]itv patagonia@@3,https://epg.pw/stream/6cdf5a5d37046d7d2aae1c323d8bab2cdbb06374ba1c89ad0683c99d19241f4c.m3u8
+[VGA]itv patagonia@@1,https://epg.pw/stream/cdb9b5d43476ca0ff8c3fae2d4331361dc66b71a32735896e598a5df38f67dfd.m3u8
 [BD]itv patagonia@@4,https://epg.pw/stream/4d544452c01e01b25e43b3c3df610d52c1500e42a4b02e61c592e525f20990d1.m3u8
 [HD]24 horas,https://epg.pw/stream/b8299de49420cbe3aaa101e79c8d28bbc5cf7403fe25c07f792b61a8acbf7df5.ctv
 [HD]24 horas@@2,https://epg.pw/stream/a6c95705911dba19d7c3a5dd8e0736031b7aa3cb1d56c5dd4f68d3b5235fd3b3.ctv
 [HD]es| canal 24 horas,https://epg.pw/stream/e0b04d3cf4699363f5137fcb86e7fed92ae47eb2b18b93fe7c730f18821ffc18.ctv
 [HD]24 horas@@1,https://epg.pw/stream/215c15d4dad25935082d331da184c42c0189826aff3a2edbf65f6dd72076ea00.ctv
 [HD]24 horas@@3,https://epg.pw/stream/7b15644b19e05ed69d48f686475020de77c60d4a19a246f33ee1d2049ee991d5.ctv
+[BD]sp -  canal 24 horas,https://epg.pw/stream/8bbf624083090d9c30b09631c71854d787f5a283d1978339cfb895ccd7b4bdd6.ctv
+[BD]sp -  24 horas 4k,https://epg.pw/stream/a8b10b5bfb1f1d07ca1a96ea345ba8e55d5f7d2a6b93b25ec5ed720334739746.ctv
+[HD]sp -  24 horas,https://epg.pw/stream/1b0af0f1f0b258b437fe78aa2de90867a5b169dda837d9c37de0fe174c2ed7af.ctv
 [HD]canal 24 horas (720p),https://epg.pw/stream/92e3ee3b34c886a934ebb94327cfeb258a22ee3b1549ad811d28869c02de027c.m3u8
 [VGA]puerto3 tvn 24 horas,https://epg.pw/stream/d1884f04c93e9dece7753575be7026ae4b29c090a28c00651f000afdc9e00678.ctv
 [BD]cl | canal 24 horas,https://epg.pw/stream/8a4db154e0bfd918c1378687e52e858bcd766fec32ac913ccd2a005a73eaa4d6.ctv
@@ -29,6 +34,7 @@
 [VGA]telecanal 28,https://epg.pw/stream/b1dbdca91360aa9b984243a4fe16913fe0b6aa8a62516c08073b390477dabf82.m3u8
 [VGA]Telecanal,https://epg.pw/stream/f4663572a0868aea090b3a30e667191bf00cb854ffc8c1c8c9cf4bb76436b6a8.m3u8
 [HD]ADN 40 (480p),https://epg.pw/stream/3bf79e56351d83628d53cbdf14d7301e18ce242dba1fe3893b3af9cec4871774.m3u8
+[BD]top cine latam@@1,https://epg.pw/stream/c17c33e73d96191ce1e3fd0472c7da77f5294c9cfeeefb599d58be064dabee6e.ctv
 [HD]rpc radio,https://epg.pw/stream/f7253763d4b8f3c8b8ec6247fd2abdf41e3511264e07c7f5803e763bb3ce9bff.m3u8
 [BD]Tele 1 (1080p),https://epg.pw/stream/9684a0a9f52566b53d2650d24f76dee2f6c07e985786bec8b57c507648d03f31.m3u8
 [BD]ucv,https://epg.pw/stream/c5967453ab56f296c6f4de0c490e8d0618adf91299c08a2c909df20ff49be351.m3u8
