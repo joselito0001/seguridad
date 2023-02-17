@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220106703472_66.png" group-title="Cartoon",[SD]LatinoKids (360p) [Not 24/7]
+https://epg.pw/stream/6da938a5bf12298a9f99cc3ceb612abaefaa5f0e58b5ca1d10378ba1fe50eb43.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220106703472_66.png" group-title="Cartoon",[BD]latina red tv
 https://epg.pw/stream/ea036fb1f9a35999fa652bb2f40b6ba111f555ec6aa6d977f632eb2ee8521eed.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/31/20140831041657161617_59.jpg" group-title="Generic",[SD]charapa tv

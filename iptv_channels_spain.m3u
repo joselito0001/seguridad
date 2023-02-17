@@ -241,6 +241,8 @@ https://epg.pw/stream/3f792e3fc446cd3641343324a41e690ed97e2f0df212622b44994e321c
 https://epg.pw/stream/a3726d0878c067f5bcccaa93422674f8ea432784d4ec16f95d438bd8d058ced8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/img/logo/1_454.jpg" group-title="Generic",[SD]TVE
 https://epg.pw/stream/218f78d82aed26feb4f740a8e9ef66020adb4ea975c36f80230d92f220410021.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/img/logo/rtve.png" group-title="Other",[BD]RTVCE (720p)
+https://epg.pw/stream/97332e4d51c76c412636d5d4381cc4188b6407cf9afef58e7681f11e514d0b03.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127122643733313_98.jpg" group-title="Sport",[BD]canal  liga  hd
 https://epg.pw/stream/6aa711f1839de546c94f2caacaf635e1eb8487c56b146060b16d49ac22f41c49.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127135022703941_67.jpg" group-title="Sport",[BD]zona futbol@@1
@@ -385,12 +387,26 @@ https://epg.pw/stream/db96039c3af0825d8e79a52f72c6766aa9b5aefd80c1c8e4d77cf66ade
 https://epg.pw/stream/55b3bdfc21e24741c6c732a02d2273bb64b7e8be37f2a40e7540799ed2a91d06.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[BD]show max hd
 https://epg.pw/stream/a68835ae64ddf9909cb9b05a743bf461a652cd310f274829a559bf3aa7c721d0.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101142526437482_43.jpg" group-title="Entertainment",[BD]DLTV 4
+https://epg.pw/stream/6a3f39e4a1ee15f25e3127b586298ab67bd8851276618570557d294c1b900ec2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101142526437482_43.jpg" group-title="Entertainment",[BD]ALTV 4
+https://epg.pw/stream/5dd9e6088900b127bd469edff2734bdb8faa72f7503e3b88400251a2c7d46c3e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101142526437482_43.jpg" group-title="Entertainment",[VGA]40號[853*480]
 https://epg.pw/stream/328ce4dbf9520f06e311960b149a321dc77af55eda89b5bab580eec6c0a9498a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020556122275_83.png" group-title="Entertainment",[HD]MusicTop (720p)
+https://epg.pw/stream/d6667a4816c92f6889e7ece34d623ff510c14fc860b88a30f1a3908d7ab856ed.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020556122275_83.png" group-title="Entertainment",[VGA]音乐MusicTop
+https://epg.pw/stream/f112c2fe3c14999072ef6541b941fd101b032b178f48afb3b9a81aa24704a7e4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/07/20160507094444820333_82.png" group-title="Entertainment",[BD]oh ah hd@@1
 https://epg.pw/stream/9f777cbdf3f75097d863056090f3c02fedb37ea1f556ec9badf9fd5ebc073ac3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="latino" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232307989579_46.jpg" group-title="Cartoon",[BD]Buzzr (1080p)
 https://epg.pw/stream/ad21c7b37201085f7e7319da46126d563ba052a722b40d0cddb17e47301aa7fe.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="latino" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232307989579_46.jpg" group-title="Cartoon",[BD]BUZZR@@1
+https://epg.pw/stream/ed7fe34cf5e3c6e576ea1f19fd27ed5325ccce8c866cdf5b20c7cab518f9824c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="latino" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232307989579_46.jpg" group-title="Cartoon",[BD]Buzzr
+https://epg.pw/stream/30374f7504e6c8db69defd3a19fcdbb307034c776f7783246ae9f425ed8ac72b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="latino" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232307989579_46.jpg" group-title="Cartoon",[VGA]Buzzr (KCKS-LD1) (480p)
+https://epg.pw/stream/46cff0920452331a78cf30e60bcf7421fb2dea887424f6981e69963363be0cd2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175038902433_16.png" group-title="Generic",[SD]telemadrid (720p)
 https://epg.pw/stream/d5c457fd69cc78492d6bda74ed65441edd7e1f9f4c36d05bcbc9abac32f057c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175038902433_16.png" group-title="Generic",[HD]sp -  c33 madrid
@@ -589,6 +605,8 @@ https://epg.pw/stream/af2efb3828292f33f3f1c4b8d2ea54cc5c09d6d335f27adc8e67ca320a
 https://epg.pw/stream/a98e8fa38c34fdffd03e66892cc3d33644700e73a7a516e0adaa3791ac4ef715.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Sport",[BD]real madrid tv hd
 https://epg.pw/stream/d47a641ffdf1f34b26ee62c035cb2f5cd103c6e1d46e00d0a3fdc1353fc9834e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Sport",[HD]So Real
+https://epg.pw/stream/a782e41a4348b1bf636d277c0661acc9248dc82b3c75521ce74857fe2207e1c7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Sport",[SD]real madrid tv sd
 https://epg.pw/stream/75007a3479c549dff2b09a65a484640f41533d9a34f903cd9fb8f4c71c6b8867.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Sport",[VGA]real madrid tv@@1

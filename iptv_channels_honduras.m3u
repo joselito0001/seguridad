@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]telesur@@6
 https://epg.pw/stream/a78748f7f1cf3a1d086fbe163a73ec0d184498cd22f480df3dfb191f91a94c81.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]teleSUR (1080p)
+https://epg.pw/stream/43b7d00c8f54e3fb66c0eab18bb6cba60d453c1ffc57691531d7ff0acccad38a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]telesur ~
 https://epg.pw/stream/d4c3722629b2c67e472a4026194f054891a57e7ed2fb3af7681fd98c7365c962.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[HD]telesur@@7

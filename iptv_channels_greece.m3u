@@ -5,8 +5,12 @@ https://epg.pw/stream/519bc105c7a70edd60816869a430b8545bac6d14e414e682b3177298e8
 https://epg.pw/stream/9de67c4d892577effd1dbe3dd6ead16c6186e32d1278ec54e784a66065cf3726.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105083855437468_66.png" group-title="Generic",[HD]ant1
 https://epg.pw/stream/557fec17a22627d851880af98d871f39d0c63b60ed1417f24e0b8d8b3475226b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105083855437468_66.png" group-title="Generic",[VGA]ATG1 
+https://epg.pw/stream/1b92e97566587945fba30093a2074e157c4a79866dd443e2e05a81b188915cf2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105083855437468_66.png" group-title="Generic",[BD]ant1@@1
 https://epg.pw/stream/de8502de99476b4206f1598ab996a491884b1e075310ee4199d1b639185feea1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174037445980_91.png" group-title="Generic",[HD]4E (720p)
+https://epg.pw/stream/184035b080cd4397de8da23fa5401a890e5b873f84c05d37fd7d10a3b8087d52.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174417658662_11.png" group-title="Other",[BD]kontra channel (1080p)
 https://epg.pw/stream/d78dae4c07abba77fe67261984011525884eb1f2b709ea3312e9926a4d7d2885.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174840723263_73.png" group-title="Generic",[SD]ionian channel (1080p) [not 24/7]
@@ -29,6 +33,8 @@ https://epg.pw/stream/c8ea42c5fbcfd202dda6c1d92eeeefac3eb1573bd869c37bfa8bf0f240
 https://epg.pw/stream/084a3e9e02169aa85581db12ce5d88b434a52b3e321f44ea2c506fc525245aa9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174759361234_36.png" group-title="Generic",[HD]Nea TV (720p)
 https://epg.pw/stream/a38e93bc42ae7ff8d2dc0a5f3ad31df522c09f02d0f78ffca94ddc86a334e687.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174419956622_67.png" group-title="Generic",[SD]Creta (540p) [Not 24/7]
+https://epg.pw/stream/ba206bee22e8156665e058058cb4f4486b12d49d298bb07897d9de34b447b72d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202856236041_62.png" group-title="Generic",[HD]Skai (720p)
 https://epg.pw/stream/8047704b07234818c9a727dbb7187f65139a55884647e7b178af0e7cab958138.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202856236041_62.png" group-title="Generic",[HD]Skai (720p)
