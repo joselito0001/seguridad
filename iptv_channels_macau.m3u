@@ -21,14 +21,16 @@ https://epg.pw/stream/56eafc37277be45c7117ad264911cde8620db5b818c942bcff378b0d76
 https://epg.pw/stream/502590afbdc82fb873f284e635b743d7931599051f3424622689b236d73f188c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="Generic",[BD]澳门莲花@@2
 https://epg.pw/stream/426804b9b6067013660eb915faa7719d275cb5f82557162ba76c42710b4212d8.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[VGA]澳亞衛視
+#EXTINF:-1 tvg-id="4162" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[VGA]澳亞衛視
 https://epg.pw/stream/31457bcc6390bfbdadc8331c703145a6a574d46f7526107a8fda33e5dcab97d8.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[VGA]澳亚卫视
+#EXTINF:-1 tvg-id="4162" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[VGA]澳亚卫视
 https://epg.pw/stream/11a3fb8e40c32e40297b79900bb515bd5a9358b271ad81fe99db41974ae21e50.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[HD]澳視衛視
+#EXTINF:-1 tvg-id="4162" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[HD]澳視衛視
 https://epg.pw/stream/a1c7807d4a156da33781e7a71b70017291742c1834a9858c3fc58db2e4215658.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[VGA]澳亚卫视
+#EXTINF:-1 tvg-id="4162" tvg-country="Macau" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="Generic",[VGA]澳亚卫视
 https://epg.pw/stream/e384110ba7db106d4f6824ed9a5ea0b0743430b5bb0500eb599a140c5eaf0eea.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="Sport",[HD]澳门体育
+https://epg.pw/stream/f092aa42a9886653c9ea63e82c7d5cd3155e4309c0314bf4d41a181b029955da.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="Sport",[HD]澳视体育
 https://epg.pw/stream/54eab79838d0d62991586484042cd85db8755365cd9cf8b3d318148ce72400d7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="Entertainment",[SD]澳門葡文

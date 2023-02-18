@@ -7,8 +7,6 @@ https://epg.pw/stream/167a20de0543f12db2c12243640e2be8ee849ceacce5ef176d0db77eda
 https://epg.pw/stream/3176c95f2e041861fcbc275432e917f6bd6f019dc45174850e8258bf0458e650.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[BD]tv1 kg
 https://epg.pw/stream/9c480f6f5f2b09386ba87bcb3988d7f52a0f4b24c726c9a6f1d47dd4e3ae502c.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[BD]TV1
-https://epg.pw/stream/845894edb74e579ed04744f535621264087171899f6f965878fda2eeaa6fee9b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[BD]ktv 1
 https://epg.pw/stream/ee69b4caa3a629fd9924fc83c7834ffeb2874e424cb51d44b36f0e4cee8e8f34.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[BD]tvn 14@@1
@@ -19,9 +17,9 @@ https://epg.pw/stream/739a6982e432f48f5b2e9e56ec8b17774820a47868e8f4cc232d3358ff
 https://epg.pw/stream/4dbc98102e7631b707249371964db95d01f3e5a5d64cd39ba4f5b4886e16de44.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[BD]TV1 KG (1080p)
 https://epg.pw/stream/91ab729b57c9ef7ef4d8389eb723ce0c9e6df68027789a58563d70d63408a181.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2017/02/07/large/20170207153204472062_32.jpg" group-title="Generic",[BD]kctv  ch21
+#EXTINF:-1 tvg-id="62566" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2017/02/07/large/20170207153204472062_32.jpg" group-title="Generic",[BD]kctv  ch21
 https://epg.pw/stream/5604d061d10edf5ced2e030ab90251169e15204698abf165b58f80a861bcac03.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2017/02/07/large/20170207153204472062_32.jpg" group-title="Generic",[BD]kctv  ch20
+#EXTINF:-1 tvg-id="62566" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2017/02/07/large/20170207153204472062_32.jpg" group-title="Generic",[BD]kctv  ch20
 https://epg.pw/stream/c78af880827e28b9afe56491d8155401482ab008718b901b2976be6053b88828.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2016/01/22/large/20160122025934174886_73.png" group-title="Generic",[BD]kuwait drama@@1
 https://epg.pw/stream/f4b4ecba857671a9a08ff81669050e7d2bfa0a8dcd99450751cd7384aeb28a08.ctv
@@ -57,6 +55,8 @@ https://epg.pw/stream/61a2d07cc722a890a583e7f7f4c245ffe946558a1d9d92edf71ecd721a
 https://epg.pw/stream/b4a6e297e3a209f482b8c628c78a49edad8bd64b08fcbeb5c05aae3cf1726ab8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[BD]Timeline
 https://epg.pw/stream/90967784d52c54c1490b4e23961945c86b6d7a114db0cd8724e9fd510769817d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[HD]cine - tcm
+https://epg.pw/stream/9b7589da51eef9c97adc4dea12cb80538fc3cddd7579e41f2751d31f93956103.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[HD]Timeline
 https://epg.pw/stream/1958ff0988b690ebbc9c85ed203ebe4b23b8001ab0309e6e3d4088a30e152ff8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[BD]tcm cinema hd@@1

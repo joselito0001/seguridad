@@ -10,13 +10,17 @@
 #下載地址為https://epg.pw/app_download.html
 
 
+[VGA]i-sat,https://epg.pw/stream/c4a47819db8b989acb23b723288afb85c6df52d678da4370e177433f1cf7566e.ctv
+[HD]i-sat@@4,https://epg.pw/stream/a2cf3dcd16a46e0eb142e72e7fb6d545c56d7df43ecf6ffc89e52bbab26c026c.m3u8
 [BD]i-sat@@3,https://epg.pw/stream/49763de1b4980a33590e0e3665796bd7e24d32b97ad5889d81556ed673d3bcc1.ctv
 [SD]Cine adrenalina,https://epg.pw/stream/2d878683b5f877f270a23c48f2544bc2da2bcbc0f74f6f63ab1507a5fdd91df3.m3u8
 [BD]c5n@@3,https://epg.pw/stream/d65bdb0bc82421ed8c57bcd89944c89581cd04588fad3379ac87d1f174cc552d.ctv
 [HD]Cine adrenalina,https://epg.pw/stream/f20cb2ee1c90324677e1349321e65b6643ab6c02b217e507824bf98fe3a1afa0.m3u8
+[BD]arg - c5n,https://epg.pw/stream/a09ffc77449b2819953dc0c0fc6d8bd2e003407bfc883120414e79b2dcbf77bc.m3u8
 [SD]Alert (576p) [Not 24/7],https://epg.pw/stream/ea357896239d0d7ca34460487691fc50832b2fa18443df1485ebe33f256f7a65.m3u8
 [HD]Japan HDV,https://epg.pw/stream/74e0ff24e109df49253fd49be07ee691135187c3ec768790dfa5e19cb4ab0f9e.m3u8
 [BD]canal 4@@5,https://epg.pw/stream/6ef919245b2b6db087afc042a9eeddc45fce9988a78649db8962ed788170e706.m3u8
+[HD]cuatro hd,https://epg.pw/stream/cc6ae268ea60cdca2bb8dae01a9deff8e69013581d00ecb82f0d76232b168bde.ctv
 [HD]canal 4@@6,https://epg.pw/stream/b252ec8677fdd89f2afc08aa4702b97e4539b60e92e4ecf79355b66bf6fe1059.m3u8
 [BD]cuatro hd@@3,https://epg.pw/stream/3e58e09d9ecb146b6ba8b9b92c6af0669896ec2d10f4bc55dfe19ea8637fef5b.ctv
 [VGA]canal orbe 21,https://epg.pw/stream/9a45f6235806f5810cfa527eabfbc6e274a120e61eb0491b70124b2690bf3b2c.m3u8
@@ -32,23 +36,31 @@
 [BD]canal trece 13,https://epg.pw/stream/f644be1298f321f282e9f4e801b3c948a14724cd177b10d74c651f46cf1f50ce.m3u8
 [SD]todo noticias@@1,https://epg.pw/stream/3a9941c2bf06e623d24282147e3e0f5b55fd006f4bd4054f68f794616bc0c35a.ctv
 [SD]todo noticias,https://epg.pw/stream/a0de189ad700ae52ab2fd30524260d9282ebfb0c536f3a49427be68b2b769bba.ctv
+[BD]esp - viajar hd,https://epg.pw/stream/ea1be9d111de0ccddbc96d2d2da2d63f297a44f09de983a8d9c89b9d84145ea6.m3u8
+[BD]IP Noticias (1080p),https://epg.pw/stream/0fb2688cdd0fe09cd6506690954356cd412bc0355bde6192f32c2a50fd2b0458.m3u8
 [HD]sun channel,https://epg.pw/stream/3cbff419d544b8dc5b9b2bfabc0a546ca43703f600447d9893cfcf8aeb562190.m3u8
 [BD]teledoce@@2,https://epg.pw/stream/266013f36f653bfa4a4ae224648d389b38d7cbe30f56d83f0d7de1d9fed9fd0a.m3u8
 [HD]tec tv,https://epg.pw/stream/2340b2c3db275c3b6cffcfc529d554777e2f303b87f6b10204550190c97d3bc2.m3u8
 [BD]tec,https://epg.pw/stream/190ed9f3945f2446131b27edb62a222af8ca962683616b9c6f03360d3366e0b5.m3u8
 [SD]anime tv (360p) [not 24/7],https://epg.pw/stream/0dc4ef2bbbaefd937f401933821d70f30c850d00ab4024407c1d64aadfde0135.m3u8
-[HD]Anime TV (360p) [Not 24/7],https://epg.pw/stream/443fb1bafa5a47efdc5f9479b75dff53c391d9449d0683ad3ac20b1ef10b9a94.m3u8
+[VGA]Anime TV (360p) [Not 24/7],https://epg.pw/stream/443fb1bafa5a47efdc5f9479b75dff53c391d9449d0683ad3ac20b1ef10b9a94.m3u8
 [HD]Pakapaka (720p),https://epg.pw/stream/66ed1b1f6db34db09f8e03bb63c9bbd0de852a71a5951e5d884a40809b09be65.m3u8
 [HD]Paka Paka,https://epg.pw/stream/4d95b4839bd8ffefb71f046ea5a801fd17ba2a3895b3fdaa0844f1a8efbe068a.m3u8
 [SD]pakapaka (720p),https://epg.pw/stream/be5f2f430efe4c5f054ec66dc0aa2c3efa3bcf1d9e57c8bf947089fc53f682f6.m3u8
 [BD]paka paka@@3,https://epg.pw/stream/2db01d3c9da98c293b0acfd015d8d074aa67d8ec875d8c44d13022ae2ca9d8d2.ctv
 [BD]deportv@@2,https://epg.pw/stream/6305f408baa415da3675d3a4d5640cbf2859a4bb2bc14e0b8aa4dc282a09f4c2.m3u8
+[BD]arg - deportv,https://epg.pw/stream/cbad92e5cf5792d141c967bc10d1976e74fdf9a79d975d0c6fe0099ec966456e.m3u8
 [BD]deportv,https://epg.pw/stream/fa71af0ef9e8588a6eac75cf5503c75f90dd042a49118f5837c8d906e262d256.m3u8
 [BD]deportv (1080p),https://epg.pw/stream/51b32a4b80be1d922fca527347a5347e1af00298cc46e98ba21d1101cfe92c6d.m3u8
 [BD]deportv@@1,https://epg.pw/stream/ad1c1617bc6f731939f7afc22342aee3b9dfe569570af6394c428620e146daef.m3u8
 [VGA]deportv@@3,https://epg.pw/stream/8371174424ba13209892a995df5c02314fda7dcfa2f09e5e7463881779bd86e9.ctv
+[HD]TYC HD (sibfung),https://epg.pw/stream/d355f6eb7eccc50a0c6a0ff6ff70ae8b0d18c892299535b0eb357f4f463d3638.ctv
+[BD]arg - tyc sports,https://epg.pw/stream/14f34e46596714f265866e757ca4e32e20772322da039289017052ecf14e84a4.m3u8
+[BD]ld - tyc sports hd,https://epg.pw/stream/79c0353eadc49fb1bb9fb9126263ee07d037fa6921713c623cda4cadcaf0dc11.m3u8
 [BD]tyc sports@@3,https://epg.pw/stream/0558d9ce595cb2774b6e4040e9f19474c539eb62599d76caf0597f2045ea9d80.m3u8
 [HD]LD - TYC SPORTS HD,https://epg.pw/stream/60ebf83abce36a81f3e6f3070a5fa53a1bd79cb2aa080465e2b2dc50734b5a24.ctv
+[BD]ld - tyc sports,https://epg.pw/stream/e3e01f0280379986cacc2d081507ad911f2dae3418db55113c7ca34ecda507b4.m3u8
+[HD]zone hd,https://epg.pw/stream/6681f5c86217c01c2a1dc84a86d0bdf8086eaeb880eb4adc2488958d66184167.ctv
 [HD]Outdoor America-1,https://epg.pw/stream/599786205b21d004bff1bef3b89ac1bb653b87b82137a7a5ee8e0ed731865067.m3u8
 [BD]Youtoo America (1080p),https://epg.pw/stream/59a0d19b05660ee52f119cda183f8822b837b6ca1a6f092d94c21a4325d3fcd0.m3u8
 [BD]EYE95 America (1080p) [Not 24/7],https://epg.pw/stream/df8f9776e834c12bafd314bb45b70e1f68024b9197a418de2bf41155d6f66c61.m3u8
@@ -57,6 +69,7 @@
 [BD]la uno america,https://epg.pw/stream/ec19ca7cc6f8fa215b7c7f0511ecc4c2dc182dcd4e9e3af21e3c465e10a56806.m3u8
 [BD]destination america sd,https://epg.pw/stream/7872b2c4c55aaa852c7d87f2e032a8f85a2d52ed8bff560172722a6729ce4f45.ctv
 [VGA]Real America's Voice (KCKS-LD5) (480p) [Not 24/7],https://epg.pw/stream/841b93b9946450df616a873e8cbc885daaff936f344aa7be0ac21ca206a56671.m3u8
+[BD]peru - america tv hd,https://epg.pw/stream/115ef6c0473100aaff905ceccc4573c64fc15c42b462ec2cd1173d8c5e303147.m3u8
 [SD]eye95 america (1080p) [not 24/7],https://epg.pw/stream/78d1537bc9a2c1088907f5f7d95da8d4302181c1af8b7f24f52d383d3f9a5fc1.m3u8
 [HD]PBS America@@1,https://epg.pw/stream/1c2f7e6c95fc4af840ec9026d2fd8c4482f97d8bbc17d4d81b349e59d5876e06.m3u8
 [SD]amrita tv@@1,https://epg.pw/stream/464171464962262105138936a0c64c9b0e4ec588005b167c7d80af1de4fc2e33.ctv
@@ -69,27 +82,46 @@
 [BD]tvg américa,https://epg.pw/stream/be42c67bf3f54226066a5c493a9325d7fea527036e5863ec688127a836d3139f.m3u8
 [BD]imperial tv,https://epg.pw/stream/e4dd2281d8559abc3d85938661cb6f8936cca06ad0f98b114055833dc3f5ee7e.m3u8
 [BD]america 24,https://epg.pw/stream/6e9e533f03bac62c736112a05c96c80cfc5dfea7b3150784045b655fc83021db.m3u8
+[HD]the dive with jackson hinkle - col macgregor's advice for america,https://epg.pw/stream/a7f376a23c96b247eb4d1727a84faf2ce6e8afcdeb44d6ca310e8334828eb088.ctv
 [VGA]america tv,https://epg.pw/stream/ab00d2a5acacffb4b692113f292bd574848d10c688a44e0f03758247a7184df2.ctv
 [BD]Naughty America,https://epg.pw/stream/2dcddfb9d86bfd88c69b11022835df05bbcd61d9497eee894e5c7e0346107201.m3u8
 [HD]americatv@@1,https://epg.pw/stream/f509692446eae19abb6a30e5efc49e55b84ebac1da04b42b5224578ba5ee6c52.m3u8
+[VGA]americatv,https://epg.pw/stream/0bae459719b8c3dfff2c5f75489d3d0053f887becfba616cf922130be8e31c5b.m3u8
+[BD]naughty america,https://epg.pw/stream/bf3b8cfebf7c29fa864d366a4ce66947f4ca709db4ae36a2e172b4f674027b35.m3u8
+[HD]américa tevé (wjan-cd1),https://epg.pw/stream/8cf2454806601398b049eb3e9eb85eb17c8c22c9d1df820999a4571a6ce6307f.m3u8
 [HD]Outdoor America@@4,https://epg.pw/stream/6ee59a73eb9f93ae84680cd0a1cd4265af5c8970dfd64bde9a2995f7d23c82e7.m3u8
 [HD]PBS America,https://epg.pw/stream/aae550dea44b039d72efd514c9c86b505cd3c6f7b51d4d2a9c22bc3bdc0a131e.m3u8
 [SD]mta8 america (1080p),https://epg.pw/stream/0cac32346dcbde29a4df006bb0d42b98a497b3d69fe969767ae7dfb17b3858bb.m3u8
+[SD]real america's voice,https://epg.pw/stream/057ba008d51ca1d7858b4b6bf185fa9611c292c7babd212780776568aebf7486.ctv
 [HD]TVG América (720p),https://epg.pw/stream/eb152c71a90b979f6aec6a85905c8deccde79120ea3747babc4196ead1548f61.m3u8
+[VGA]centro america tv,https://epg.pw/stream/d99f5087fc5e7599eda1418b528a81b6787072ef87843c8e2d8ee7cb84b33b66.ctv
+[BD]pr-wapa america,https://epg.pw/stream/bd6808d8601f28f871c1a81e4d2e619086d072e6d4f8af148aa28d02ba426475.m3u8
+[VGA]wapa america,https://epg.pw/stream/824ce80c0478dd5419c20d76b162a3c0e1c76b8ea45440f766c3cbe9b115b960.ctv
 [BD]galicia tv america,https://epg.pw/stream/5f646880a16480ca8dc90a75d725f0378b896030bb8eac9ae576a8d7a71b5e7e.m3u8
 [HD]Pluto TV America's Test Kitchen (720p),https://epg.pw/stream/997f4bb419562d2e70e0da39ff3eaf508d5eca6abbc48a91f80b20220bb24d6d.m3u8
+[BD]outdoor america,https://epg.pw/stream/e4fec6a4f5fac469f33acd5c386a50de9f5f794403d2b616297a1b0ba430e558.m3u8
+[BD]peru - america tv sd,https://epg.pw/stream/93b5b99e14d5d32b3990e3cfc2e4cc41640f09440093f1863fe0703323964f93.m3u8
+[BD]peru- america tv fhd,https://epg.pw/stream/49964d840c497ce3b6e4e8070e4bef1575700eb5dc4488328f6eaeca29c436d6.m3u8
+[BD]voa tv - voice of america,https://epg.pw/stream/696cf1a152ae1dd56207e97dc5038b5c1e6ae69f4f4ccfaa9101ce2d8b458e9d.m3u8
 [HD]America vs. Addiction (720p),https://epg.pw/stream/99f820a184b4fb038fb61145929168e7a5d5aa4b55f66b2498a6187cd4964c3c.m3u8
 [BD]Racing America@@1,https://epg.pw/stream/fe9c7fcae3b699b1d6c7c80f645fb2bc04ab00f327d0e8b63c04c34f41ff6e0f.m3u8
 [HD]Outdoor America@@5,https://epg.pw/stream/bc653df242ba7ab8fcb79158edc5fc567a53f2b7d0fae56f17089d5779050254.m3u8
 [HD]Naughty America,https://epg.pw/stream/a9698e6eb497f8d170d243932557d27e78b6a10f32a58e57d0c217f05b69eca5.m3u8
+[BD]lat - america teve,https://epg.pw/stream/030758baa96f8b6f14ac5d5e42a71944b58f0651e5fa616894e78137030c452f.m3u8
 [BD]MTA8 America (1080p),https://epg.pw/stream/6574e96b2a9732a9d5d00bf4385ec62acf113c5b8b428c01243841fbd795a378.m3u8
 [SD]radio yo argentino,https://epg.pw/stream/d482a680592feaec7d31e9716d7c206f5cff804527aff0674fac8aef1726eb88.m3u8
 [BD]telefe santa fe,https://epg.pw/stream/dfdc8b3dfdf138570ebcb82f717935786c3f30bdfc007cf9aa84e5a4d2197e46.ctv
+[HD]telefe ca,https://epg.pw/stream/b57b30820f16d22150bd167d1bcfe0dbbca6f0e97cc1b5a4dba581f0653aa873.m3u8
+[BD]telefe,https://epg.pw/stream/b0962405d8a6b35059169faf59daee6c02fd58942bd0f5d17e82577fcab0a676.ctv
+[HD]telenovelas argentinas,https://epg.pw/stream/5b6daabb43d249b15eedb930a644d704b7a472a801b6a42a5557ec666d122985.m3u8
 [HD]telefe@@5,https://epg.pw/stream/bf66cc76cd43d408d4f8eaaf4de395409ce21480c4c36895fbd2fb59004730ae.m3u8
 [BD]Love MAGAZINE@@1,https://epg.pw/stream/6ad75d29d03064adcf5e541bd117f8a0f4d21344a751c61b82e8020ff8a97b6e.m3u8
+[BD]zelensky named time magazine’s “person of the year”,https://epg.pw/stream/68b9fe13156f38a808071013f9a3b9a7fcae6bb5d52af7026d32c2be0ff3549f.ctv
 [BD]Love MAGAZINE@@2,https://epg.pw/stream/235f514e80e34cedabfb9f2147d36ec0aa7ad401535c47e9fa7262ba43277ff0.m3u8
 [BD]Love MAGAZINE,https://epg.pw/stream/0865bdb7acddb414a6eb6418ac666f950adc988c1c3bcad00f3617c0526f63b5.m3u8
 [BD]telemax@@9,https://epg.pw/stream/c808eb77a756ce3218f589d04b7e3e13796bdff5fabdeaf48ebe50db5513dc46.m3u8
 [BD]telemax@@8,https://epg.pw/stream/0540a8757be613997f8ad7a9c5a243dde51ee75841efb275ff9aefbabb8e649f.m3u8
+[BD]Telemax (XEWH-TDT) (720p),https://epg.pw/stream/658c588af6d16ce98df4540b6ecd1619881d915aa304f3a4344d0e049861903c.m3u8
 [HD]Telemax (720p),https://epg.pw/stream/c898874a0179c902003890d448d82576bfe67e8149c8ecd7655631ba12617614.m3u8
+[BD]telemax@@10,https://epg.pw/stream/53e54f1b9774f95ff042851a409bda14c8db5869597c9591f779c35cdbca5b78.m3u8
 [BD]telemax@@7,https://epg.pw/stream/63979a22baf58eef9a56d0efe5cea09baa726f2859705d4329b6cb92198db9c5.m3u8

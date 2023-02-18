@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103165324598925_16.jpg" group-title="Generic",[BD]D
+https://epg.pw/stream/c29e777b34e16e8abff642df50e6051d3c9603f3a7fd8d1315559274a1f244d9.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103170604952236_70.jpg" group-title="Generic",[HD]republic tv
+https://epg.pw/stream/4728eee372ad12758d18c1daa7b0dd966018dd75b2a9c1f01830ad30c095fc6d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103170604952236_70.jpg" group-title="Generic",[HD]Republic TV
 https://epg.pw/stream/fb58b894641055995bc70c9c37ff5c415d538ae56c23634795c2578fc8300bb4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103170636340994_96.jpg" group-title="Generic",[SD]Šlágr 2 (576p)
@@ -11,5 +15,7 @@ https://epg.pw/stream/947cfb82b4507cad6cb490eb8eadd722f63ac7544598940c0907abaef8
 https://epg.pw/stream/6bf95293df77297e28ed0694f7d5b4acb83ce6cd6bae16a26fd5c25f973149a7.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614144114781434_81.png" group-title="Generic",[HD]pannon televízió
 https://epg.pw/stream/f13712256f262ac2b9413ec54c6adb0bf82d774d3d95ea485ec04305da5d2477.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614144036622182_24.png" group-title="Generic",[VGA]Televizia OSEM (360p)
+https://epg.pw/stream/e1c0e8a5616c0cb174eab7e58c9ee1dfda6fb5b0b9a4afbc8f2f1fcea0e7f599.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143354114146_75.png" group-title="Generic",[BD]t1 televízió
 https://epg.pw/stream/51cbe2184aac99fe7411a34cba3ad8975273c1e0b38828167d3635c2c0dcbfb9.m3u8

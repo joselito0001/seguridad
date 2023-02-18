@@ -11,6 +11,8 @@ https://epg.pw/stream/cdb9b5d43476ca0ff8c3fae2d4331361dc66b71a32735896e598a5df38
 https://epg.pw/stream/4d544452c01e01b25e43b3c3df610d52c1500e42a4b02e61c592e525f20990d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" group-title="News",[HD]24 horas
 https://epg.pw/stream/b8299de49420cbe3aaa101e79c8d28bbc5cf7403fe25c07f792b61a8acbf7df5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" group-title="News",[BD]esp-24 horas
+https://epg.pw/stream/9d133cb3841d1966f8a7b2e95ef864738593189515137cc87f0d155ab5380a1d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" group-title="News",[HD]24 horas@@2
 https://epg.pw/stream/a6c95705911dba19d7c3a5dd8e0736031b7aa3cb1d56c5dd4f68d3b5235fd3b3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" group-title="News",[HD]es| canal 24 horas
@@ -39,6 +41,8 @@ https://epg.pw/stream/3b1af6441a6137c553690e325f264885b222d21e84a6a5d931cf3032a4
 https://epg.pw/stream/3af876c945e5e3f9e02875eb3bd2d365cde438f92bece4dfdf482fa32cfe9bea.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" group-title="News",[HD]24 horas@@4
 https://epg.pw/stream/9934fd7a787eb381c762620323b1fb729a6f43898994ff8560bb944f967f77cf.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" group-title="News",[BD]052 24 horas hd
+https://epg.pw/stream/1ba30a43b1a96afafcbaa1c03cbe42e1e546233959f0b84a9838ee60d37a2674.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Chile" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174613924375_32.png" group-title="Generic",[SD]telecanal
 https://epg.pw/stream/657440d8de09e8a11e38d12c4860288d7f98beb2515df1aa046c615252b6394f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Chile" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174613924375_32.png" group-title="Generic",[HD]telecanal 12 (720p) [not 24/7]
@@ -49,6 +53,8 @@ https://epg.pw/stream/50935cb7fd4043513aa2abc9076882a92a33f899b47cf8277d1c4860b9
 https://epg.pw/stream/b1dbdca91360aa9b984243a4fe16913fe0b6aa8a62516c08073b390477dabf82.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Chile" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174613924375_32.png" group-title="Generic",[VGA]Telecanal
 https://epg.pw/stream/f4663572a0868aea090b3a30e667191bf00cb854ffc8c1c8c9cf4bb76436b6a8.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174131153018_56.png" group-title="News",[BD]chile - 24 horas
+https://epg.pw/stream/4f8c529ede9b1d41439460d7c8f55fa554430723426b60fab9d62014285454cb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174733233840_92.png" group-title="News",[BD]ADN Radio (1080p)
 https://epg.pw/stream/c43742030dd97197d5a63936302e1a1c31b6633d7cc8d1c5dc1f35a44402eada.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174733233840_92.png" group-title="News",[BD]ADN
@@ -57,25 +63,63 @@ https://epg.pw/stream/085dfada35033b9d54de08279e3e0ea96e9091d391fa4ac23efd6bf1db
 https://epg.pw/stream/3bf79e56351d83628d53cbdf14d7301e18ce242dba1fe3893b3af9cec4871774.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png" group-title="Entertainment",[BD]music top@@11
 https://epg.pw/stream/fd05e113f2abc5cfc33196c3ad251f206adf390e2075db62c030ee60f9ef1385.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png" group-title="Entertainment",[BD]music top@@12
+https://epg.pw/stream/970f877411e5ec6f15f9f80e316db0a6227e24ccfda6068c496e7deb05af48d7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png" group-title="Entertainment",[BD]top cine latam@@1
 https://epg.pw/stream/c17c33e73d96191ce1e3fd0472c7da77f5294c9cfeeefb599d58be064dabee6e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025917703170_64.png" group-title="Entertainment",[HD]DT Play (Deporte Total) (720p) [Not 24/7]
+https://epg.pw/stream/f405b636ff8711fe2c566cd73012a09ee56d21d66e6e0e1311027562388a63b2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929030018200168_17.png" group-title="Entertainment",[BD]TV Futuro (1080p)
+https://epg.pw/stream/f788a2435aa081be429551eb57d1e60220feb26ed55cad2547eae30b4bab7e98.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929030018200168_17.png" group-title="Entertainment",[HD]rpc radio
 https://epg.pw/stream/f7253763d4b8f3c8b8ec6247fd2abdf41e3511264e07c7f5803e763bb3ce9bff.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174638348910_11.png" group-title="Entertainment",[BD]Tele 1 (1080p)
 https://epg.pw/stream/9684a0a9f52566b53d2650d24f76dee2f6c07e985786bec8b57c507648d03f31.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929003835958903_78.jpg" group-title="Generic",[BD]ucv
 https://epg.pw/stream/c5967453ab56f296c6f4de0c490e8d0618adf91299c08a2c909df20ff49be351.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Chile" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152134521799_23.png" group-title="Cartoon",[HD]Dios Te Ve Infantil (720p)
+https://epg.pw/stream/8eab853a2576a938f2c99b6792490dd237ee7dc88f6f6266506fe5835d90048a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/06/25/20170625145526166324_78.jpg" group-title="Generic",[BD]el pingüino tv
+https://epg.pw/stream/919898390849ccc481d24ff35d1fe845f35d2424d5c93afebb49c11fc03b0951.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Chile" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152145820175_35.png" group-title="Cartoon",[VGA]puerto3 funbox
 https://epg.pw/stream/0899b7662a9af1dca68db414e00b372c114a2804d9ea5a1e3229f8a245fdc7a6.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025454008159_77.png" group-title="Sport",[HD]chile - cdo basico
+https://epg.pw/stream/048cb1ba0dabd7cb2f05736fb29238375e114bb103db4f6ba5bbb973b899ee97.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174102388753_59.png" group-title="Entertainment",[BD]chile - chilevision
+https://epg.pw/stream/0d8461fa47df87a7ed1120571ab4f5aa02c121f45522ad6ef6e81c395ad48239.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175049459722_82.png" group-title="Entertainment",[BD]chile - 13c
+https://epg.pw/stream/666e375566a42d8ced5c066f5e107b6de75e610c2298234f9056fb6a04786d7a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175049459722_82.png" group-title="Entertainment",[BD]cine 3 canela
+https://epg.pw/stream/8602d13d714e4370f8c5c5bc763e9e444441b3d133ac977a6a1fa23b4a55fe14.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021341460538_48.png" group-title="Entertainment",[BD]cnn chile@@4
 https://epg.pw/stream/493fc60c68819c0c8ae53481f5bb862e22c7525873b75684f39f5dadcc9ad6e5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg" group-title="Entertainment",[BD]ChiveTV
 https://epg.pw/stream/ee9c445b723e72dbdf43f171f79c4740db4e08de0877d811dc96810d081e705f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg" group-title="Entertainment",[HD]cnn chile ca
+https://epg.pw/stream/548927d4e65cc6901525fc5bad33d55ffac80b0fbcc01bd782587569db9ff02f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg" group-title="Entertainment",[HD]chile - cnn chile
+https://epg.pw/stream/62a2f0bcfbcc72b3d5a4b11fdb8b5a46aecf69e632d9141e10ee4383ddba2d78.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg" group-title="Entertainment",[BD]chile - teletrak
+https://epg.pw/stream/899ced20764d1358730a6c18866f1832974d96aeacf673e81ec8891fabcd3c0b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg" group-title="Entertainment",[BD]chile - tvn
+https://epg.pw/stream/0e7e87ddc94f2739a6d914a45c2914de5a7c86f9b4f6d96a32e140f6c839f733.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021802725438_19.jpg" group-title="Entertainment",[BD]chile - canal 13
+https://epg.pw/stream/c639651e3b5cd3baa778dae1ac6840d28106129f3482c18e47e5c9ddd1d50193.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021802725438_19.jpg" group-title="Entertainment",[BD]chile - canal 13 hd
+https://epg.pw/stream/f1aff01b89dd72052fe7b6c13fb3af64f041e7565ca25ff577d48e1e031b29aa.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102140925535727_38.jpg" group-title="Entertainment",[HD]La Red (720p) [Not 24/7]
+https://epg.pw/stream/7e6ca05d6849dc8961ba349b85452887ae48d83ca5c5f710aed06dd3d9f4d2e2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102140925535727_38.jpg" group-title="Entertainment",[HD]la red ca
+https://epg.pw/stream/01dbd9ff204df7f376db1d7bc07def6551448479e58d4963018fe1811d46adce.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102140925535727_38.jpg" group-title="Entertainment",[BD]chile - la red
+https://epg.pw/stream/adcc68d6d5c3d3458046f84c6e941d122e7f18591ee391eba4ab61578af7567a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102140925535727_38.jpg" group-title="Entertainment",[BD]la red@@3
 https://epg.pw/stream/09b7a8be468a0c3f251d6b14326794cd9fd8a860c0f6b1b61c436caa5d185538.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/05/13/20180513225451302851_76.png" group-title="Sport",[BD]hd1 fhd
 https://epg.pw/stream/075478ac26ff917ad4c346a53c93894c3ee4183588be2e20260cae5e77450aa7.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/31/large/20151031165835915133_58.jpg" group-title="Generic",[HD]tv chile
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/31/large/20151031165835915133_58.jpg" group-title="Generic",[BD]chile - mega
+https://epg.pw/stream/0a189677bd92354d2351cf174c684f682b15c73ed1f8e2c144966779a04cbdc9.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/31/large/20151031165835915133_58.jpg" group-title="Generic",[VGA]tv chile
 https://epg.pw/stream/6d36ec28e6c2d901a56565e164dd2b223b2298e9661e70cd656e398ecff6f83c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/31/large/20151031165835915133_58.jpg" group-title="Generic",[HD]Mega TV (Jaen) (720p) [Not 24/7]
 https://epg.pw/stream/d0bdb4ec0dd55200a3cd6abc0f3155cb6bc013232e8b0f0809ae00bae10fd55d.m3u8

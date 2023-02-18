@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Slovakia" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103171826090865_79.jpg" group-title="Generic",[HD]Djovka STV2 (720p) [Not 24/7]
+https://epg.pw/stream/b84ffd9e8abf19fa5dcaa3c2b3c26f7805b0de2d26c968fbf4275eb39471a064.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Slovakia" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103172640778299_19.jpg" group-title="Generic",[SD]JOJ (540p) [Not 24/7]
 https://epg.pw/stream/2de269474e16802457833d77b6c1fce947a8fd4a03be7b46a009cdafef7cbf72.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Slovakia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221632440254_84.png" group-title="Cartoon",[BD]tv joj

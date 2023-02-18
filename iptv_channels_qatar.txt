@@ -27,9 +27,11 @@
 [VGA]al jazeera@@1,https://epg.pw/stream/208c6559fae9069e512999aa533eb22207492d3cbb699e9afa760f3572d8fd83.m3u8
 [BD]al jazeera@@2,https://epg.pw/stream/942419ee45034a0491d7a96bb42d4f69e9e25eb2aae200a2892e842cbcff11d4.m3u8
 [BD]jazeera english,https://epg.pw/stream/a8fdc9560928ed4d398eca41a0bd3424a04d5559f14001a4e2c38d7ca82e0bf2.ctv
+[VGA]al jazeera@@6,https://epg.pw/stream/bfd90127d278cc759908c2ffea5f75a0a203146af9b74e0396e4caec7370c60f.m3u8
 [BD]al jazeera fhd,https://epg.pw/stream/77f47baba8f6fc6a5cc0827f1c277f7d4e0f82a5de8f2fd4ec98af796f8c7931.ctv
 [BD]jazeera,https://epg.pw/stream/362c40e8b325c1a333b89c86e99067e0cfae98cd7fcfee84eb0303a2693d978b.ctv
 [VGA]al jazeera,https://epg.pw/stream/a55ce9ddfd1c899f90d2d5364ca45be057b9f8bb4b6482fbb434b09ec9675d50.m3u8
+[VGA]al jazeera english,https://epg.pw/stream/ee2fdf67968aac780c4e7cbaa154c52f38df6078be8794803d2683b1f5625fdb.m3u8
 [BD]al jazeera english 4k@@1,https://epg.pw/stream/4ac00c7694f91afc592fc2ee841585bd2edfa6040da0e9ccd1b1bbc3ee8bd7f8.ctv
 [BD]jazeera documentary@@1,https://epg.pw/stream/bbecb4096c57d9041d5ba8a36dbc1034a005bdc2ec09cd05a01dc2567b77d5a8.ctv
 [BD]al jazeera mubasher,https://epg.pw/stream/ea6ce58d67e76ba766c985279f2e61b07217236ea90f2d6c2c2a1abebaad9462.ctv
@@ -45,6 +47,7 @@
 [BD]qatar tv 4k,https://epg.pw/stream/774dd174f20712c31b9e7402448916ef2ed2972257d74fae1eff887892e85094.ctv
 [HD]qatar tv@@1,https://epg.pw/stream/fee61b4d81ccf651babbb17fc4a93ba2a564511bf04040e450e2bcfc010ad2fb.ctv
 [HD]qatar today 1,https://epg.pw/stream/57884325b53140df13fa1f3a6cc9a4cbc37bd3c6d749a71e22cde30c01bdb2f7.ctv
+[HD]quatro tv,https://epg.pw/stream/53db6ae21e7782e533efd390af36284974287419caec1bb0dd5350e8c85b4c56.m3u8
 [HD]qatar tv,https://epg.pw/stream/74c3c5e7ad53db376787c72d2177fb1d17f1dc4bdfed05e66fb735426163739a.ctv
 [SD]qatar tv (360p),https://epg.pw/stream/ed8c0f2f8cb4a0e6148ec85f3628f5dd48286459eef3487e3e70f7a0a888ced6.m3u8
 [HD]qatar tv@@2,https://epg.pw/stream/db3b8ae6cf67bd3f0a91af14ae51aec2ca1d92b77009f3153f085b479ad4dfc6.m3u8
@@ -55,7 +58,11 @@
 [BD]Al Jazeera-1-2,https://epg.pw/stream/fc8769878d773a6f485d7e59725834ec1935db986350a504922a812954ba9589.m3u8
 [BD]bein movies 1 hd,https://epg.pw/stream/9f4b602c4ef0ece369ea1226bdb1257a2dd49ece93eccb639a142e38289e228c.ctv
 [VGA]makkah,https://epg.pw/stream/85904880a7bf8c7363cb220d8d89a6eb76c9ef08373a3e642ebeb676967b2d33.ctv
+[SD]makkah tv,https://epg.pw/stream/f7b6d1498ceda4b6f022bb8977f5e2df8211b583df2de9040af4c84483854494.m3u8
+[VGA]makkah@@1,https://epg.pw/stream/db5845920455d0df96820eceb0def7aa944aac76eabfc97663cae91fc0bd2da7.m3u8
 [SD]Makkah TV (576p),https://epg.pw/stream/9dd518d70f68f89da0bc45ab4860353c3dd5ce337ca9ef0805a33816b0399ec9.m3u8
+[BD]sakra,https://epg.pw/stream/b36fbb5cde948f20586d2a5973b61079f05f1b3da466b18d82fd90f54e945664.ctv
+[VGA]soar,https://epg.pw/stream/0a1554ef92d55a2a835a57290985ce3431b828288791885e4dce2a7f510a1fd9.ctv
 [BD]al rayyan@@1,https://epg.pw/stream/51fff41e543823f9d4a91d01289b5b935f7389a3873471b4c2a8bca6b4544532.ctv
 [BD]al rayyan,https://epg.pw/stream/2708efa69403faf8cdf27a93a5fda2e32a363f4e667994354604e192e385dca5.ctv
 [BD]rayyan 4k,https://epg.pw/stream/8c21f2bfb114ed18222d7f387ae5b127150dfb293af1ffc4cebb9bcb9453fd05.ctv
@@ -66,14 +73,22 @@
 [BD]Al Rayyan (1080p),https://epg.pw/stream/3b7ac5f97438d50ffd959d4fbd313487bfbf17705cb87a2f39471bdcfce6e799.m3u8
 [BD]bein sport 1@@3,https://epg.pw/stream/a9ad2ecab7c5661b7cf0f55715f8be2c6ab2ca24759cbedfde0a729ff328a1bf.ctv
 [BD]bein sport 1@@4,https://epg.pw/stream/5148ecd12f9c0ebb431171de43026fd4449ae5efc15b804590fcd87b16920689.ctv
+[BD]BeIN_Sport_02_PREMIUM_Hevc50,https://epg.pw/stream/9eb0e719563290a9c5cfdb9724f26fd021ab98636d244fe8f07c8006e427c4fd.ctv
 [BD]bein baraem hd,https://epg.pw/stream/28c8c1976c7aec6371bb2e67f4b3fec216964e9f7bb62b07a75e446c7cd74867.ctv
 [BD]bein baraem 4k,https://epg.pw/stream/6e5b1c2a4b9d543373d0dce1c0d6e264edbd57107d32da60ae0b08a0dfbc198a.ctv
 [BD]al kass one  4k,https://epg.pw/stream/1e3413d57fb25ccaeadb06b56dc6562b4b2cfd8e3ed46d02e9cbb75594efdd44.ctv
 [BD]al kass two  4k,https://epg.pw/stream/a9d9805eb5500e7726b930870038bc57fe60dd28cd519810b57a8d8bd23ff8b1.ctv
 [HD]bein sports espanaa fhd,https://epg.pw/stream/b13c9eab2669fc6bd9cc4548a38f3776af8c7dff80e962d3ea9f1eef6db44370.ctv
+[BD]bein sports 9 max,https://epg.pw/stream/feb996b774c70afbe0135bd835396184ac8548b31bae778105ba3aa543e0a201.ctv
+[BD]bein sports 7 max,https://epg.pw/stream/4d0143f538966ea7afee63e6b4f5e9ceccf5cf35fc3c110a820caa2d1cedd5c9.ctv
+[BD]bein sports 4 max,https://epg.pw/stream/34d9f812df3d600e9319e786f01e652f26e066b20a987b89121650b6b5752efb.ctv
+[BD]bein sports 6 max,https://epg.pw/stream/eef402937e10cfd61d4ddff6696fa9f28e3f0394fc85de4597dff6508fdac345.ctv
+[BD]bein sports 5 max,https://epg.pw/stream/82add011a0b87cb54251d04aedff3aaaf0220811bf4c708e3e6f913f764419ef.ctv
+[BD]bein sports 8 max,https://epg.pw/stream/d27cb5af8dd70c0a6f0f2bf6e90a03b935c16438c5e18a12c8aa88a743f7127a.ctv
 [BD]bein sports nba hd,https://epg.pw/stream/f1c62a9b024e4c44a1f2ae18d261b5a4a419613aabb6155507707953eb50ded9.ctv
 [BD]jazeera mubasher-2,https://epg.pw/stream/9fa4b3967a9a676efc7cb28ee43d1890286f3ac0cfff5fdbb5b5ba0af6ecb2aa.ctv
 [BD]jazeera mubasher,https://epg.pw/stream/1a302537e4db266d8ef0bb3d84da6553604cfce9eed4069fb85917b2a4c46ee1.ctv
+[VGA]al jazeera arabic,https://epg.pw/stream/c8d46d3adb16018ad5c79dfbdc0f6aad30a4cc132b8c0a0149a4dceae61ad53f.m3u8
 [BD]al jazeera mubasher 2 4k,https://epg.pw/stream/a6b1998ebb0e77c3f54ca8379701b090845bd7c4fbc586929e6cf155e073f429.ctv
 [BD]aljazeera mubasher hevc,https://epg.pw/stream/2d35bfe6733aa6bf5f1d48637cc9562e5948729c697504d17caf22f33be7f28c.ctv
 [SD]al jazeera mubasher (1080p),https://epg.pw/stream/2e63a74261ce7acb951869524c41a5d8ed5d3e09d5b6f0e48068112dce66a1dc.m3u8
@@ -96,7 +111,9 @@
 [BD]qatar 2@@1,https://epg.pw/stream/4241f02df9ae83024dccb944f7e905be55bed6ec89056210c9336e95e829a1d3.ctv
 [BD]bein sport 3 au,https://epg.pw/stream/f8a6321c078b21b9eed81132f7195c959da8dfabe195f0dc1dd0173d43ad4a72.ctv
 [BD]bein max 10 hd,https://epg.pw/stream/fabfdc8d0324798f4771150fa7ca31863aafe4afd4373604bbd7d448a69544ef.ctv
+[HD]bein sport max 4,https://epg.pw/stream/f2d6e495d0b20572371c5d31cb470fe37524b70614750fe0bbd851c9691f8df2.ctv
 [BD]bein max 4 hd,https://epg.pw/stream/2e96856863e190cfd0b982e6c16e068f5ea5cadf35759d34976ab04b06591e01.ctv
+[BD]bein sport max 5,https://epg.pw/stream/c7cde23cf3732bac48a335c8a68f27c185bfd25c1d6c11b064ff75570857351b.ctv
 [BD]bein max 5 hd,https://epg.pw/stream/8f22299daa35facab8d2198a54ea8d0ae6d1fd6408d2ddc19d1a40dec31df54f.ctv
 [BD]bein max 6 hd,https://epg.pw/stream/b1f9e2aed71809cb319f0a879e49aaa3262626fe58c3f9072b507b340346a28d.ctv
 [BD]bein sport 6@@1,https://epg.pw/stream/56f288193f11f88f252c0b8ceac800c02c3843a59a70d94af0182f1d0f9adccf.ctv

@@ -7,9 +7,13 @@ https://epg.pw/stream/1da58810473b6af4602fda30d18b9ba69db44c6ed9a1181e8f8a9e40a3
 https://epg.pw/stream/8890652c7f4b7a47e4b2da95d4c43841c0936c573821bf073d07a46cf72900e7.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102230535050128_82.jpg" group-title="Generic",[HD]m2 hd
 https://epg.pw/stream/6d894ec15fdb0735ff43209023a5c3a71f2b0186db52329f203e5ba7401e8497.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174701559053_21.png" group-title="Entertainment",[HD]halom tv
+#EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102230535050128_82.jpg" group-title="Generic",[BD]m2@@1
+https://epg.pw/stream/9ec657f2ff3e50c9105b49f7b4ca7abe4d2abfbf418358229a8e448132a779c4.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102230535050128_82.jpg" group-title="Generic",[BD]m2@@2
+https://epg.pw/stream/e65178067805c03adf838f35b9ec9a1eca0b1502d823d0de86d193ff30a8b547.m3u8
+#EXTINF:-1 tvg-id="62704" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174701559053_21.png" group-title="Entertainment",[HD]halom tv
 https://epg.pw/stream/8288572ce0f57d1028824375724162230aa4f88da046f75b33864429920675ab.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174701559053_21.png" group-title="Entertainment",[SD]shalom tv
+#EXTINF:-1 tvg-id="62704" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174701559053_21.png" group-title="Entertainment",[SD]shalom tv
 https://epg.pw/stream/7392c7a3edaf21a325c1df9af66b5ebc76af8b1041a063cf84d6a908f8886fe7.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016151601352969_53.png" group-title="Cartoon",[SD]minbij tv
 https://epg.pw/stream/4747d95f89e8484acf16d02d87c52750b3737c9dec625db442de685d02a99ba6.ctv
