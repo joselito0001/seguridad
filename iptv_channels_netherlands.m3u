@@ -19,8 +19,6 @@ https://epg.pw/stream/43055707194124254b9cc98931840535af2c740cb2a96b1b2c8478f1b1
 https://epg.pw/stream/2a462b819ccf4f5389c95d0e05ff7798b5ecaaec9f4fc032395b7ed48c5deda1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130164124572401_20.jpg" group-title="Movie",[BD]vip premiere
 https://epg.pw/stream/cb15e39d74c500d7aa252fc0f99fa1da9d1fbc11dfc35abcd8ec12f1eab1358e.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130164124572401_20.jpg" group-title="Movie",[BD]film 1 premiere lbr@@1
-https://epg.pw/stream/df7305320faab348184fb4d4a8901541a921c94cd127dc43a9eee07766446836.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130171737856071_62.jpg" group-title="Generic",[BD]AT5
 https://epg.pw/stream/78028ce3fdadf2c96d156e5e07fea08875623ffc852f7ca29f59863c53cfe49d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="Entertainment",[BD]XITE Hits
@@ -41,8 +39,6 @@ https://epg.pw/stream/ca497042f249b581ed6df4e628427699acea553427ff2103fb2beb230a
 https://epg.pw/stream/d46a903a22010b19f890572357b43575a7bb6535f726871fa013694ce905c402.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="Entertainment",[HD]xite@@1
 https://epg.pw/stream/76b441525e5ce87e26d12d470b3ebb517b3c588f15e3a5148f71283ae59df33c.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="Entertainment",[HD]xite hd@@1
-https://epg.pw/stream/9245bba9460bb498b2289ad0528f47c8cae38a0b28e9004e7987d10e610fa15b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="Entertainment",[BD]xite lbr@@1
 https://epg.pw/stream/6a1fbb9a9f6425e4928feffc819242756bbe441c87f1a0c8e4993a0022d66f50.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="Entertainment",[BD]XITE Hits@@1
@@ -57,8 +53,6 @@ https://epg.pw/stream/487833f546cb7d5c831f11a411e58808d397104fc7b92eadac50cbf6aa
 https://epg.pw/stream/cb915c2f1dc32bc0c4d7a5fa3db888faf260905738169298d50e1a82e0514aab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174456614926_32.png" group-title="News",[SD]rtv rijnmond (1080p)
 https://epg.pw/stream/f2cba239826a3f567f9d674d3e38ab7f79e967a8beb438d02fe186e069468fcd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174456614926_32.png" group-title="News",[BD]tv rijnmond lbr@@1
-https://epg.pw/stream/ac13365b63da038e0f3f42fa3107e2f868c26db10ee447e8ae6b8a2992b1b1c0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174456614926_32.png" group-title="News",[HD]JN19 (720p) [Not 24/7]
 https://epg.pw/stream/47b0c1de657e661c3503ef5fe3890831cb96f5c971129f09c134eaa3852fbcc2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174456614926_32.png" group-title="News",[VGA]RTV Rijnmond (1080p)
@@ -75,6 +69,8 @@ https://epg.pw/stream/6e0b5595d46918562d9d916e8aef5b2fb5c6d528d0dc1dfeb3fa80652e
 https://epg.pw/stream/e1e93074c70d03283ecbc603a1cc02402bad3ffec184e2e2fad84ca9776426ec.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[BD]Hell's Kitchen@@6
 https://epg.pw/stream/734c73b5f51710de2cb3345b41458e7ae23ed232f2a6577f965519465ace01e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[HD]hells kitchen
+https://epg.pw/stream/f5241b3f68254e46d1fab2017dbd9b2721be9ce9c62a804e7959615eef5c014e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[BD]24 kitchen hd
 https://epg.pw/stream/3ccda90f33512f8669067e7b2204cbb502dbd385929857ccdef862eb45107e05.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[BD]Hell's Kitchen@@3
@@ -93,32 +89,22 @@ https://epg.pw/stream/6dd543c8354a1da6c94975df564b7b0888ba1909b7e891a5613d006eaa
 https://epg.pw/stream/42a1cc8876cad5fa23c391bd456f532416ecfc1ca93604f2c206aafc5a2127ca.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[HD]Gordon Ramsay's Hell's Kitchen
 https://epg.pw/stream/07306c06baf36647fff0e684ffd86c2193f84016e6c4a547cc94e578bdf645e6.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[HD]pt -  24 kitchen hd
-https://epg.pw/stream/40d06ea53b2ad8577d5a2c86818ea9a4c642a5f176f4076bf2dce000eea7b4d6.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[SD]pt -  24 kitchen sd
-https://epg.pw/stream/b5590aee5bf0bba515a2f7941c78ae88a25422711e56f74d256757e950bd0de3.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[BD]24 kitchen hd@@1
-https://epg.pw/stream/3fbb8374f3829a06cbdd89bb26d46938b1f7d3fcbf3a7ed5b39a9d1eae810a31.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[BD]tr- 24 kitchen hd
 https://epg.pw/stream/6700fe6aad1cf555ebecadb0c3504b9fa72c8a9fd7ede3a5d3073d778d627ae2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[HD]america\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s test kitchen
 https://epg.pw/stream/161bb8e20f80199de654dab1f1ebec96fd46c5eea9a72f51c766605f99780d39.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/13/20150213031809681089_50.jpg" group-title="Generic",[BD]Hell's Kitchen@@1
 https://epg.pw/stream/804a97ef1be7a3f0def345e57f2014431e65e64017e8b037ea908acbb5f9bb86.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174916427052_19.png" group-title="Movie",[HD]humor
+https://epg.pw/stream/d70befdebd18f1675aa72a9fef3df495ad6da32fa73ffbf31650a90a824f184e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174916427052_19.png" group-title="Movie",[HD]humor@@1
 https://epg.pw/stream/938e813cf0d995b34e3220404faf3eaa9de6c6c0b7094ba2233bae3a562ac2f9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174358883607_30.png" group-title="Generic",[BD]npo 2 lbr@@1
 https://epg.pw/stream/270ac97eeb38f961cdae95f1c20948ece83be96780d3ff6d79d310730891af71.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206014539758442_29.jpg" group-title="Generic",[BD]disney channel lbr@@1
-https://epg.pw/stream/081a75f939b6a190dd5c77fa2d61ca463b857a95e5d52f60211dd1c3b0e43e9a.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174018335965_72.png" group-title="Generic",[BD]npo 1 lbr@@1
-https://epg.pw/stream/c4d96b3627da70949e9991e1b548f5b9980b9613857e542b93bff74c94f70e6c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174741847260_37.png" group-title="Generic",[BD]npo 3 lbr@@1
 https://epg.pw/stream/65f3a72157c21aad14ac1cdd0a71aa751fb716ef1ea646e1b5d438eb9f4de0a5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]comedy central@@8
 https://epg.pw/stream/4d8dafabbeea636919db25b9a31c9b4411a5552764d71655e433af41aaf7f0e2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]ent -comedy central
-https://epg.pw/stream/a753091cb4f53b0c83da2e2d2463a5dcda6e7f1b9d5263fd379d2a76597cccbd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[HD]comedy central@@7
 https://epg.pw/stream/0a208c483f81250313b8b527dcf63f9b4798096867f68c53d20511cbc5943c0a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]comedycentralhd@@3
@@ -137,12 +123,8 @@ https://epg.pw/stream/013ad760f0176d0872dbd8ec04ae538ed35178c060dbf53ef03f178a19
 https://epg.pw/stream/a0f2d0d96a99e9fd5b33fd8dca84acc1bb0323c5093405c038ed9e99fcb30ca6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[HD]comedy central@@11
 https://epg.pw/stream/354f640ddb9abea2cd5e83132168fb12511ed7ff10e39aba9aea43532aa613d7.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]us.en - comedy central
-https://epg.pw/stream/a37560e0dba4da37c903eb015c854fa9c2bced13090a33a677580d7a0bc89674.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]comedy central sd@@1
 https://epg.pw/stream/0b05ba6e5b6fb5339bb01fe0833722d295f15b74f9353ff3dfa995629de9d551.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]es - comedy central hd
-https://epg.pw/stream/28f745aebb68ec1119c01ae49ddf8f5476f9accbd52fdad00c85d595ed19bb28.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[HD]comedy central@@9
 https://epg.pw/stream/ec1b5c90bfe389c1d59c51c3c099453aa5d694aade41d8b4c3aac5ab6d3b6c21.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160657487535_90.jpg" group-title="Generic",[BD]comedy central@@12
@@ -153,5 +135,3 @@ https://epg.pw/stream/57e8e5b2f69599e9e224ca86d8fa59c4224b769d6d2e528b541cd4d566
 https://epg.pw/stream/ee27e00e3d98c7f7ead2b00d9456d0fd0be1e60b309877e7c1a91c4b1565830b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821160237304794_32.png" group-title="Generic",[BD]rtl 4 lbr@@1
 https://epg.pw/stream/bb0f25fc8039519b5d68c8ab5979641170c17e4c8e58265648f9f2d7e7f0f709.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821155957521881_30.jpg" group-title="Generic",[BD]rtl 8 lbr@@1
-https://epg.pw/stream/56195be7a90282238f5c230bdb86616814d8dc74f4d98e5ed67d0f994cefa1a2.ctv

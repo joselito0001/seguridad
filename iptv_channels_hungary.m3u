@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102225828237321_95.jpg" group-title="Generic",[SD]duna (2021)
+https://epg.pw/stream/c4f214507e346f55094b716b7b0f38a813df091329b25cb614502eb9eae53bd0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102225828237321_95.jpg" group-title="Generic",[BD]duna hd@@1
 https://epg.pw/stream/de43536a96f28320f2523971dae6716ca50600c58493d4383199b8f7631093ec.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102225828237321_95.jpg" group-title="Generic",[BD]duna world

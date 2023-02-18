@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/images/tmp/2016/08/28/large/20160828222658121746_66.png" group-title="News",[HD]2TV Rustavi
 https://epg.pw/stream/1bb046e7d9d52a0f91dc799c1240b6d2c60f12742966724c8083f75631c53def.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/19/20160819163730049193_93.jpg" group-title="News",[BD]imedi tv
-https://epg.pw/stream/2c7b6abfa4bbbec3c772c2b960180d953778238abfa00b2fced1d0c571fda8cc.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/19/20160819163730049193_93.jpg" group-title="News",[BD]medi1
 https://epg.pw/stream/1cecf3564e7fe96e1c82bc99d5fc9f7770c34bc3287d8ec060f6da94a0499790.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/19/20160819163730049193_93.jpg" group-title="News",[BD]imedi

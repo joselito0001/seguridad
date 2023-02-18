@@ -98,10 +98,12 @@
 [BD]berita rtm,https://epg.pw/stream/0829f1d0993412e999470c46997eee6c7999ad83eae9a8f06839e09af153e07c.ctv
 [BD]BERITA RTM,https://epg.pw/stream/cf5e79e1d4b188c6d75b6949d73a2e4311b9a21064d6a9dab03e98312f758b65.m3u8
 [BD]vrt tv,https://epg.pw/stream/997aa6d6d6feadaef9e62f10ebf28be3c57d1256b764cdd56bcaa416591b0f67.m3u8
+[BD]tv okey@@1,https://epg.pw/stream/5700cee31f7d9a474f041d84cb6efbcfa7170789c526435679e91d96689556b3.m3u8
 [BD]tv okey,https://epg.pw/stream/55a991fdd8b82b70df31654bcdd8ff2662cf0f0a9bf194573047a25e755ea058.ctv
 [SD]职业摔跤(NJPW),https://epg.pw/stream/9d1e703f7e05da164694c449f662264e09c6af5636c38a9f72edb85a40585608.m3u8
 [BD]TV Alhijrah,https://epg.pw/stream/2d1b8606c0f1ec3866cbc042250e58d2a0078353cc88d5383f343977dbc18a2c.ctv
 [SD]boo@@1,https://epg.pw/stream/d9a70933f928dccb13c68b6d31a1cb904632dd89cc5578ab6a6c69aadc6bbbec.ctv
+[HD]boom,https://epg.pw/stream/0c634253fb224ab74088786d4b37b8fab958dbfddd435c425412f2c52eee058c.m3u8
 [VGA]爱奇艺-惊悚午夜,https://epg.pw/stream/af8c8e974a69763d7d6b7af96a8800608e5e9dc1041cd7e39b62fe0f4058ac48.m3u8
 [SD]爱奇艺-抗战剧场@@1,https://epg.pw/stream/64f8cc6b1b3566565c44f01d3f31ddd1a299dea0a4decaafcf4bc5e7451c8b0e.m3u8
 [HD]爱奇艺-青春剧场,https://epg.pw/stream/334df17cb7b0e25a8241224b4016ed50a82286ef4a59bcdc03cee4a3f04518bb.m3u8
@@ -127,8 +129,8 @@
 [BD]爱奇艺-小猪佩奇@@1,https://epg.pw/stream/9616817df156a7b780b572339bf79dbbb3ee0e201d69493eae04164fadb18bd6.m3u8
 [SD]爱奇艺亲子,https://epg.pw/stream/0f486c8852e02b74c7cdebe141fdcc83f4e194094268609aaedd282a34e93d0b.m3u8
 [HD]ccm@@1,https://epg.pw/stream/6640aef52a728b6211f5371065c05d41b1da877d2cd46d3db8a86d034cb0080b.ctv
-[BD]cm,https://epg.pw/stream/739667d790d2210ea4a7b8e90f5fc3a9501c2d6213bbb0dd912182f87a029480.ctv
 [HD]ccm@@2,https://epg.pw/stream/db716a1189aa095603292d9302321cd3d1a0732723f02383afe7c9130ef3ebd3.ctv
+[VGA]ccm,https://epg.pw/stream/9411be3a921a4f479a9e058f2c4d45e48ac657a95791977e722a4cbbf799a7f2.ctv
 [HD]ccm hd,https://epg.pw/stream/0e53a6ea67bc11c81afa5b86123bd655c4b80e7b89f4c120a1ad0c2ceff3b4e6.ctv
 [HD]sangat uk,https://epg.pw/stream/9c561f84d169c1d6dc6aebae3f49d5eadcedff8ad031250daecf12247b9a89c3.ctv
 [BD]daru tv,https://epg.pw/stream/79e11d68bf64c5631835978a3314f9606ec48dfbed446cbdcf734533b600c3de.m3u8
@@ -139,21 +141,14 @@
 [SD]foxlife,https://epg.pw/stream/1deb38d273aa804466b08f01f31e96c260e7bd2d3f4b7fa2a1f7365d3d637c80.ctv
 [BD]rtm tv 2 [geo-blocked],https://epg.pw/stream/3a5a4747a807da62eb8f0bd02b58fd539bf5ad800580b9501bfddd7ffb6eb35d.ctv
 [BD]rtm tv 1 [geo-blocked],https://epg.pw/stream/4cd435a92eed6179fb8e05fcdde7c81267eee28b9d08a31d686b7d86ce06b119.ctv
+[HD]radio ritmo fm,https://epg.pw/stream/abcd7b7586211c39094912184066a76a581b918a439101a0604a60f017592da0.m3u8
+[BD][荷兰]radio vos fm,https://epg.pw/stream/e8f84ee299f9449783a3e541ff3ebefb524e66466aaaf9402b132faf7f95650f.m3u8
 [BD]dunia sinema,https://epg.pw/stream/c564c85679764d04653c7660fec1d1495b3d2b06bff8fac4ff5569a4efd6b1ec.m3u8
 [BD]sinema komedi,https://epg.pw/stream/57b3516efaee8750c08fdcd7bb25a7c4f9d0fdcc8cea07f01500c5886897cdaa.ctv
 [BD]Shop LC (1080p),https://epg.pw/stream/2674c24415b8740d9d4e23d54b8a1f9c75527fe76894c5e43df37a55e83f87e1.ctv
 [VGA]Shop LC (KCKS-LD10) (480p) [Not 24/7],https://epg.pw/stream/fade6dcc11cf025b5ee267653a4106b4cfd0c5a95a0ab6ff2952acd73242d55e.m3u8
 [BD]Shop LC,https://epg.pw/stream/1017adfddc041625f3bf191158828716b731f72e13d75fc8de949e7871087f3a.m3u8
 [BD]fm,https://epg.pw/stream/23aa83c47ec5a70765226997b3b7957e446c02579a866093a93b09596ca3e192.ctv
-[BD]celestial movies hd,https://epg.pw/stream/0222949be1fccd22e08227fa37bf632156c9f2cfe589b89e99f2b43772666739.ctv
-[SD]celestial movies indonesia@@1,https://epg.pw/stream/ce41ad81c58dd94820b351bc95abce088f943a487ff0dafa2789444ae648eea4.ctv
-[SD]celestial movies,https://epg.pw/stream/4af7b4f94e3f11735cf74a8f0ccb88cb3addc76c214d4fde46fdd1f1f5e380e8.m3u8
-[SD]celestial movies (indonesian subtitle) (576p),https://epg.pw/stream/87871a5c1d536907b9d20143f14c81684801218e622294658d860a94e921dfd6.m3u8
-[HD]celestial movies indonesia@@2,https://epg.pw/stream/6cde2511f214d26127ac9ec9afe7c1ba0e104c095903f1e392388145d52dba98.ctv
-[HD]celestial movie,https://epg.pw/stream/88ba94af7088fa034f2a3b0442eb301ef8e5430c3b7f13a1ee9a2671e4c1fa57.ctv
-[SD]Celestial Movies,https://epg.pw/stream/8e9693af953ed1598153f772784415036f2c1524aefc90a798fc724d934a9b30.m3u8
-[BD]celestial movies (192.168.240.23),https://epg.pw/stream/632b77009bdb69219faf05de6a78313844f7fbde75dea491176f70c394f80b71.m3u8
-[SD]Celestial Movies (Indonesian Subtitle) (576p),https://epg.pw/stream/d83471320e5b9aa55362c20e9b44dc381bd4288195c7f4bb84571ed921df157f.m3u8
 [BD]shop channel japan,https://epg.pw/stream/027750b77280f5908baf0d5a01ea6c3c292be913062964f9c06c3ec36db639d3.m3u8
 [HD]idx channel@@3,https://epg.pw/stream/033b2b0ea667f4ac4bb3f6b89532b870b531e8bece0fe20b497171a6ba005ff1.ctv
 [HD]lazio channel,https://epg.pw/stream/36fa328937bec3512078e2e49f5aa03b58273db9124f62755877be7457242aaf.ctv
@@ -167,6 +162,7 @@
 [BD]happy channel@@1,https://epg.pw/stream/0992467d2d1ebc822f8b41cda92ff4e1c2c919ab45e266e985cba8941d1f7195.ctv
 [SD]channel 11,https://epg.pw/stream/1672cbe4441781cb1541ff1e36da52d55fe5056fb4891ff84bdcba5fb4596a62.ctv
 [SD]phoenix hk channel,https://epg.pw/stream/4886676d7ba1184d3727e682c5ed89825e65b85871ecce28fd4028838715e8dc.ctv
+[VGA][印度]channel win (360p),https://epg.pw/stream/0cfc2b278a0055eb25f4131a42b391dae10444700e2077b5b9fbcf4266ed0eca.m3u8
 [BD]desi channel@@1,https://epg.pw/stream/437357e54ac513ca455321dbbc52f80071c3b523dfbf634333c8572517ed4b32.m3u8
 [BD]desi channel,https://epg.pw/stream/f0d973d83142635d616cead16233b51305d2c4cf33ba6b656751c22e7b7de335.ctv
 [HD]preview channel hd,https://epg.pw/stream/ee31a7e3a2101938ee6ba7007a88d729468d377c004b6d119bdfe8096bcc7f26.ctv
@@ -187,6 +183,15 @@
 [SD]awdah tv,https://epg.pw/stream/98c82d7c563fa21c9048c9b5c5ea9f7a602ae81a25a164b14f719654869f5ea7.ctv
 [BD]yeeaah tv,https://epg.pw/stream/88910006115c2474d001ad699114441cedec5b526a3ddff2a9bce180657d5194.m3u8
 [HD]MATCH.TV,https://epg.pw/stream/a7e8b15c4972c931bd5fb439d998cf0350301d17307c8120f0d3521da07d09a0.m3u8
+[BD]celestial movies hd,https://epg.pw/stream/0222949be1fccd22e08227fa37bf632156c9f2cfe589b89e99f2b43772666739.ctv
+[SD]celestial movies indonesia@@1,https://epg.pw/stream/ce41ad81c58dd94820b351bc95abce088f943a487ff0dafa2789444ae648eea4.ctv
+[SD]celestial movies,https://epg.pw/stream/4af7b4f94e3f11735cf74a8f0ccb88cb3addc76c214d4fde46fdd1f1f5e380e8.m3u8
+[SD]celestial movies (indonesian subtitle) (576p),https://epg.pw/stream/87871a5c1d536907b9d20143f14c81684801218e622294658d860a94e921dfd6.m3u8
+[HD]celestial movies indonesia@@2,https://epg.pw/stream/6cde2511f214d26127ac9ec9afe7c1ba0e104c095903f1e392388145d52dba98.ctv
+[HD]celestial movie,https://epg.pw/stream/88ba94af7088fa034f2a3b0442eb301ef8e5430c3b7f13a1ee9a2671e4c1fa57.ctv
+[SD]Celestial Movies,https://epg.pw/stream/8e9693af953ed1598153f772784415036f2c1524aefc90a798fc724d934a9b30.m3u8
+[BD]celestial movies (192.168.240.23),https://epg.pw/stream/632b77009bdb69219faf05de6a78313844f7fbde75dea491176f70c394f80b71.m3u8
+[SD]Celestial Movies (Indonesian Subtitle) (576p),https://epg.pw/stream/d83471320e5b9aa55362c20e9b44dc381bd4288195c7f4bb84571ed921df157f.m3u8
 [BD]rtl2,https://epg.pw/stream/b9502887e02ec12cda62a467fc6ca6f51f77b5669482ef7d032d28e99cfdff55.m3u8
 [BD]rtl2@@1,https://epg.pw/stream/44552cbd9e1bd48fe656e3a64fcb2064582fbd57266396899cf260799a2f2225.m3u8
 [BD]rtl2@@2,https://epg.pw/stream/fc3d3e2605caf7e36ca75f7148289432cd9381f4a859ab2bcd4e2953a3c91c49.ctv

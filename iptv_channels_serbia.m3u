@@ -1,16 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/11/11/20151111211546584685_51.jpg" group-title="Entertainment",[BD]汤音Tmusic
 https://epg.pw/stream/0b1549c39cc77e20b485d566eb95db4d3b1b4d6e5f512aa4732cfbf45c2541c6.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[BD]rtl@@4
-https://epg.pw/stream/90359ca9fc4e9e54f7492b648b6005c0a27214aa515e951cb501f8f219302e34.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[BD]rtl@@6
-https://epg.pw/stream/9e275b341ff5cacd81ede479a8e0d59afd39bfab43396e36057069c86d41f590.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[BD]rtl@@2
-https://epg.pw/stream/33cb90732baa73b571dcaa86414a81ffbb3ea27c60f2b76689c8835ee4f15461.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[BD]rtl@@3
-https://epg.pw/stream/4ad0e4ce62d2c19966b8cf933e014f243928a9be03758afcff8281ae0d832357.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[BD]rtl@@5
-https://epg.pw/stream/621e2522362e3ede5e978dbd37c855e3a7a504c03ad3df253bdd181a9028666d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[HD]rtl@@7
 https://epg.pw/stream/a9f8d5524acb776ee0b7451c34f777e253b65596c55ce34a663f87b7baa618c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130101658463132_68.jpg" group-title="Generic",[HD]PINK EROTICA 2
@@ -75,8 +65,6 @@ https://epg.pw/stream/4c653e42d41a11d5d5ec2ee481d53710be493e61f7e9958b655ee3cc2d
 https://epg.pw/stream/548f662409e2ea4b599fb5c2351ce6886f5d946dc1400f718640dd8962ce0a3a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130101616048798_91.jpg" group-title="Generic",[HD]pink erotica 6
 https://epg.pw/stream/d0e9525b56eb384eb8000155f09339bba1c116e90249de89785d53800c98ff80.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/11/20150511080903370750_67.jpg" group-title="Entertainment",[HD]k+ 2
-https://epg.pw/stream/1626a0a1f5f0ff0a2aa8446788a234f029372cd94ec3ce95995577bb467395f7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174112339323_39.png" group-title="Generic",[HD]Muzzik Worldwide Serbia (720p) [Geo-blocked]
 https://epg.pw/stream/bb8db61f16f0fd817e7b9973e666f8abe7d249f8c72eaf9a8e6d892a89b35094.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821163529651907_11.jpg" group-title="Entertainment",[HD]Muzzik OKK Serbia (720p) [Geo-blocked]

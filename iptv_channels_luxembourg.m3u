@@ -7,30 +7,32 @@ https://epg.pw/stream/112369309bee0ffe023b66fa435d8760af141e8188e34a24589eb14d0a
 https://epg.pw/stream/618445846393b20309449b9aadff5fe1c1473bb444c4fcfa02b51ad5cc1bbef4.m3u8
 #EXTINF:-1 tvg-id="52129" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[BD]Luxe TV (1080p)
 https://epg.pw/stream/036bca1eeca37cc13096ff96c135dbbef4f5053c3e6b2586b600fe99a405c331.m3u8
+#EXTINF:-1 tvg-id="52129" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[BD]luxe tv@@1
+https://epg.pw/stream/748e4657a6d4139f1ef4e141e8f22e6e1cd5a817ba6e3e70d28bea28e1e6fc9c.m3u8
+#EXTINF:-1 tvg-id="52293" tvg-country="Luxembourg" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152133701573_11.png" group-title="Cartoon",[SD]be: club rtl
+https://epg.pw/stream/c7e674f357fc418094ecf3c5adb8f37262299f9466cc4a3f6ffb53b72b570185.ctv
 #EXTINF:-1 tvg-id="52293" tvg-country="Luxembourg" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152133701573_11.png" group-title="Cartoon",[BD]RTL UHD
 https://epg.pw/stream/8f8ce6245b2cc8bfcfa026a82f377d5b9166a289e31ff0ae45eb622bd63bc059.ctv
 #EXTINF:-1 tvg-id="52293" tvg-country="Luxembourg" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152133701573_11.png" group-title="Cartoon",[BD]club tv
 https://epg.pw/stream/6bf38383998b7a2202a8981b6ac0f175ebd4926f9232b5e0eb6991145f8105a9.m3u8
-#EXTINF:-1 tvg-id="52293" tvg-country="Luxembourg" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152133701573_11.png" group-title="Cartoon",[BD]film club
-https://epg.pw/stream/b9fe5a0fdb48f60f5fa89ef31a5fa029e02479ca4b9a0dcaff44a580f5c76577.m3u8
-#EXTINF:-1 tvg-id="52293" tvg-country="Luxembourg" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152133701573_11.png" group-title="Cartoon",[BD]rtl 7 lbr@@1
-https://epg.pw/stream/e731b293a06b10d96732cb66f7e2edf97fac3aaad136a89a1bfbcaf08427b89e.ctv
 #EXTINF:-1 tvg-id="52293" tvg-country="Luxembourg" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152133701573_11.png" group-title="Cartoon",[HD]Club 17
 https://epg.pw/stream/adc4f2b8984f9f43b38e9c4fb04bdb9e51ff9c201ef6da3add1cce77f0ba177b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[VGA]Tele Abruzzo (384p)
 https://epg.pw/stream/5877fc5166324a277ace992c286859399f0001f08b07f5d979e495c34a2f8f58.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[VGA]tele estrella
+https://epg.pw/stream/f8f5a81bcb821d45f3b4b7c710b75401c6262e13c3a7b27bdf5c9e4509575fab.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[HD]tele amazonas
 https://epg.pw/stream/6ca7395accb239c7975cd32df997e67f9447feaf86f7d8757767196eca35c259.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[BD]telefe salta
 https://epg.pw/stream/3766c687fbf198c9d98fb1924b35b47edbaa44fa7de0c5ae483de9a7716dbf4d.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[BD]par - la tele
-https://epg.pw/stream/a2541c0b6be5a3f2f6daf6e742acf4b54c93864ffdcef1a73be0f423b34a4702.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[HD]Tele Radio Sciacca (240p) [Not 24/7]
 https://epg.pw/stream/bf2c73cac50223669d8d099a74449afce7d06508c7515ba62038672b9340ac1d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[SD]tele estrella@@3
 https://epg.pw/stream/bad676571cd28e63311ced2258742e193cb8cddf57848d66dc22ad0b24f648bf.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[VGA]Tele Pegaso Catania (404p) [Not 24/7]
 https://epg.pw/stream/19c4e84216dc25e4c70cba7e56e478b66094c100db3a27a8adb023603518ac71.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[VGA]tele estrella@@1
+https://epg.pw/stream/c7d297c799a455db1430be88b4ad8c93151d23f3d138f8ec2f054e6815525dcd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[HD]tele sahel@@1
 https://epg.pw/stream/ac3c43433dfa7adce9b36dfc058e0c8a7ae3524c8c592cfb5275d0c555003f79.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Luxembourg" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203431030504_29.png" group-title="Generic",[VGA]nuestra tele
