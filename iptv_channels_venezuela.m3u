@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[BD]cinevision
+https://epg.pw/stream/26474a20ec147c29de01cc8c33b2129f4a6a489543560e95903b962f0d6e77ad.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[VGA]venevision@@2
 https://epg.pw/stream/456472215193b98b4ae13f408f3e358d80d7599bab85daaa4ab83da529b36b0d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[VGA]venevision plus
+https://epg.pw/stream/f0d96fc478c0bfe4aba1d351ae54f8bf7420287a6a79e517e1eb1b01267f31c6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[VGA]venevision
 https://epg.pw/stream/95f304d08fde865ab45a9f1503cc5fb2781776bc667a575803d896e7bd22a64e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2020/06/12/large/20200612211543589984_48.png" group-title="Entertainment",[SD]venevision@@3
@@ -13,10 +17,20 @@ https://epg.pw/stream/6a06110b8d31b3f74075cdaff52324e4ef5d851804b8a8dbf68e61fd9c
 https://epg.pw/stream/55d4de685fc52921e549c9588a8921d5317c6b5be389c96eed6280e8b7317cee.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205544091000_20.png" group-title="Sport",[SD]dillagi tv
 https://epg.pw/stream/9e10d43750a1d901f667f10053328868ecbb34c84240e04ef794bd0e1da2134d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[BD]ve | americana televisión
+https://epg.pw/stream/43f9d31b55aa3c3a5d2cc944745b35d132b02c27c41831ac3c9d8db69bde0212.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[VGA]ve | meridiano televisión
+https://epg.pw/stream/6b07cbbd8a3c45726b955f238a490cb0530c65cf86051040ce5eeaa986ba3d02.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[HD]américa televisión
 https://epg.pw/stream/48e46487e69f5ef04c16aa1edeb2c1dc4cb993bb82ccac8f1b0f5fbd983df823.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[BD]milenio televisión
+https://epg.pw/stream/5026c828d7c56ce89ccfa6ba635ae017df988dd20e4b8979f1048da3dffd2072.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[BD]américa televisión@@1
 https://epg.pw/stream/afb6da59b16b3381bdbf934d14565b02485ec3d1167431290a799a0c0285a263.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[BD]américa televisión@@2
+https://epg.pw/stream/50aa0fba05fed67ecece6fb274f85babd9f434d4eaea444dc7ab3741ab9770e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[HD]pe | américa televisión
+https://epg.pw/stream/19bc537fb18177e0400d62c53279ec2d706c249ca5e95cf4f0eff0abe8770319.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[HD]Radio Televisión Melilla (720p) [Not 24/7]
 https://epg.pw/stream/4d0a3faf668983bc7827617363ca45c98751762cd8f2bea798dc3e4c77b24570.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Venezuela" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231456450069_26.png" group-title="Sport",[HD]Entelevisión

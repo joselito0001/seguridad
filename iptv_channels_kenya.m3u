@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="kenya" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/02/21/20160221211825779064_86.png" group-title="Test",[BD]m. fest
 https://epg.pw/stream/6594977f3047102f00427a7673a52b43a51693f4fdda171bcce1765a5dfcb8f3.ctv
+#EXTINF:-1 tvg-id="" tvg-country="kenya" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/02/21/20160221211825779064_86.png" group-title="Test",[HD]es| m. fest 4k
+https://epg.pw/stream/bd75f9de605b1ef0e8728ed52b6f8b42cfe7234ceb16605974392b6f9937d58c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="kenya" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/02/large/20200402185834325615_38.png" group-title="Entertainment",[HD]trace naija
 https://epg.pw/stream/61dabfab38168a4d07278dd9405958ff26ca1c3b8fd12abe60d3a6cb979c3684.ctv
 #EXTINF:-1 tvg-id="" tvg-country="kenya" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/02/large/20200402185834325615_38.png" group-title="Entertainment",[BD]Trace Latina [Geo-blocked]

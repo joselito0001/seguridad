@@ -7,6 +7,10 @@ https://epg.pw/stream/43b7d00c8f54e3fb66c0eab18bb6cba60d453c1ffc57691531d7ff0acc
 https://epg.pw/stream/d4c3722629b2c67e472a4026194f054891a57e7ed2fb3af7681fd98c7365c962.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[HD]telesur@@7
 https://epg.pw/stream/058ad692388c0405ec076e04d64e97ed2ca25b1b36aeb461748302222cafca5a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[VGA]telesur@@2
+https://epg.pw/stream/bac8d378b2fe159391e888537778f5989234924b3f7ecc0bac6f29ec7b283ec2.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[HD]cr | telesur el canal de los ticos
+https://epg.pw/stream/8355ed11a7c59a8fac84102a67bcb0289008ce109914eebe04aa5a7cb686e987.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[VGA]teleSUR (260p)
 https://epg.pw/stream/058b62c5ebad730ef3c79db55aa5e4ccd6e2ba8b46130438adaf081b4d080218.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]TeleSUR
@@ -23,19 +27,31 @@ https://epg.pw/stream/1e10d973e06a92782d4d8c5ab15e281b57bf1f9513047dfd4466e3d8e2
 https://epg.pw/stream/f34f4d2ee682d41c05bd0568a44ca7a0e5aff58d7a09c3cdaf166e45dc98aac9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]telesur@@4
 https://epg.pw/stream/02d89e370eca1ad17fe7f3b16a923a34f2cb0fc7dd7934853882f83c200e097a.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]telesur venezuela
+https://epg.pw/stream/7a85f27bdb36861c0db710c1067ecb32fedcace40d2a753275689df72e78afb6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[HD]cr | telesur
 https://epg.pw/stream/d801030c3cb744767bdb5e15f59ebe9a65d8c5278e2023cb6d7c59a77521a5d7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025122301050385_34.jpg" group-title="News",[SD]teleprogreso (720p)
 https://epg.pw/stream/c25ca1d940d93f12a883f2edf13740e16c39f3faff07985ab068baab4601baeb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025122301050385_34.jpg" group-title="News",[HD]TeleProgreso (720p)
 https://epg.pw/stream/3b366764e9af811299b71dfc0bf6ebc9379187a825f3323fe7787c2036b00737.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/31/large/20151031204426988250_41.jpg" group-title="Generic",[VGA]sv | canal 10
+https://epg.pw/stream/df052327561c02ba7c74fa5c231124e2a32b4fda1d32f1120e2fa64363b4f848.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/31/large/20151031204426988250_41.jpg" group-title="Generic",[HD]ni | canal 10
+https://epg.pw/stream/e06f15f18962c1762d79071b73ed081276acb8f8a4cedf5002658513979531d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/31/large/20151031204426988250_41.jpg" group-title="Generic",[HD]Canal 10 Cancún (720p) [Not 24/7]
 https://epg.pw/stream/2d59d101121bffdd949816112c3a75ade0a282992f5693f3bfbe7099dffe5747.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132149132569_55.jpg" group-title="Generic",[HD]azteca uno sd
+https://epg.pw/stream/37b780e088043e38b34f27d48190b6f8434ee132a5ad14b3007e304bf29cd350.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132149132569_55.jpg" group-title="Generic",[BD]mx | azteca uno
+https://epg.pw/stream/2789ab8892b3c193f9d324f7b0afe548c20bbd91f430a37c8a59626113f1a40c.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132149132569_55.jpg" group-title="Generic",[HD]azteca uno
 https://epg.pw/stream/8a413574ce82e22a8c3c371e3a10a3cf22ce4c183a4ceab25cef1364576888a9.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132149132569_55.jpg" group-title="Generic",[HD]azteca clic
+https://epg.pw/stream/8370a3f7d66da49864330228589842a24a4015a1c27a9bad76667eb375683715.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132149132569_55.jpg" group-title="Generic",[VGA]azteca honduras
 https://epg.pw/stream/b8c9d0100d515059ce72d4e4aad2dfe0be89dca5292f12c5918501aab23111c4.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132807594743_39.jpg" group-title="Generic",[BD]telefuturo@@1
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132807594743_39.jpg" group-title="Generic",[VGA]telefuturo@@1
 https://epg.pw/stream/b73352b7f7d3ee821b1c48302c9f5c6139d22a11293bc236e94be1cd1eb76628.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132807594743_39.jpg" group-title="Generic",[BD]Telefuturo
 https://epg.pw/stream/86601a91b64c1b846d5d40f1b566c67846f591e49ea3215d55e5f6c0477aaa45.m3u8
@@ -47,5 +63,9 @@ https://epg.pw/stream/9fab2b14525fc96ca3c91784084b58b5515ac562f5ecd4cafd1a985f80
 https://epg.pw/stream/4fed07d5514a0029e389422df21fd26c46977bc4e384d3e87107a9dd921fea45.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132807594743_39.jpg" group-title="Generic",[BD]telefuturo py
 https://epg.pw/stream/f523c4beb034bf30368a10d23b4fed9d68f92733400984be0377402784e77b80.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102132807594743_39.jpg" group-title="Generic",[VGA]telefuturo paraguay
+https://epg.pw/stream/82dc67636f73e920c4dc22dc3e3941dacf4b6f7e1136a0c7b3823fc662e7ea57.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102133420652622_26.jpg" group-title="Generic",[VGA]hn | telecadena 7 y 4
+https://epg.pw/stream/72fe97fd3b694f562c0fe305f909b98c40f89384496c81920f2eed0b0e7b4f7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102133420652622_26.jpg" group-title="Generic",[VGA]telecadena honduras
 https://epg.pw/stream/4337e6837cec6b8ec4598f832e49164a1a1c9819fd9279d1589f2bbf3275cb15.ctv
