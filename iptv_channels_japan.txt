@@ -39,12 +39,12 @@
 [SD]nhk world japan@@1,https://epg.pw/stream/4cd71dda33e9e800b890d8ed13bda70ec0ab93ff0a79e62cdea43009398c1860.m3u8
 [VGA]nhk world japan@@4,https://epg.pw/stream/6860897934b0a51a42e3307558e70c553a5c4fd238951201387e975e04078a44.ctv
 [VGA]nhk world japan@@2,https://epg.pw/stream/38809b42239a4329711d094b2964467ab032d9f0ee5ff0a426d0a836dfa27d79.ctv
+[SD]nhk world japan@@5,https://epg.pw/stream/7d0fbe3dcf97b55a96e49f6d588485047e5f9f63dedd2a309daddb2ccaec2e65.m3u8
 [VGA]NHK World Japan,https://epg.pw/stream/08861adc3f094c699e85652a4365a25498aa6a6d43da8ba985e1f81b6e41ded0.ctv
 [HD]nhk world japan@@3,https://epg.pw/stream/7402fdc4c8eb91405f245c9edf87a21dbab7bb29fd5793d987c259373dde250e.m3u8
 [HD]nhk world-japan,https://epg.pw/stream/f59ccfd9b1a8649f46d1476c0648c1ceafa1e36a81446cc455b88a14246b2644.ctv
 [BD]NHK World Japan (1080p),https://epg.pw/stream/34f0191c35674b90b5dbc381a5694adedaa063119868052a6aa15e1868c0ff5e.m3u8
 [HD]NHK World Japan@@1,https://epg.pw/stream/007b66643781ea79ede588e6f274515e15625ee19289dcb8514dff2163257838.m3u8
-[HD]education,https://epg.pw/stream/49e7a3117c8dea740b706da9690bec2ae308a8148d48e9a6949a97de337b0b4a.ctv
 [HD]libya education sd@@1,https://epg.pw/stream/e814499e64744947ee8cb5507edc524cacb331efbe067ddb84bf4b61001aa59e.ctv
 [HD]yemen education tv,https://epg.pw/stream/fe984aa52265798cfcae42f79cc5716ab9707e118792dead5556897e75007110.ctv
 [HD]libya education sd,https://epg.pw/stream/9f4146c8eecd0b96c2fce13a7eb0a17baf71153719645dd3f86aac4be5049119.ctv
@@ -53,6 +53,7 @@
 [HD]syrian education,https://epg.pw/stream/84ce05cb7b53a6f46b86bde3082af3a1edf96243a312f57c3267f580a1a0a01a.ctv
 [HD]syria education +6h,https://epg.pw/stream/52db74511cef779e31018b32849ed21ce056441c6f5811e4888f086c54cfcf70.ctv
 [SD]education,https://epg.pw/stream/c439c0c848cfd3dc1d22a99675c14abff2767080860606d896de0ee35f47b79d.m3u8
+[HD]education,https://epg.pw/stream/49e7a3117c8dea740b706da9690bec2ae308a8148d48e9a6949a97de337b0b4a.ctv
 [HD]NHK World,https://epg.pw/stream/f950d70931dacb1e34998a949fb723f3f36ffc4efec26e7f739c41636773bebc.m3u8
 [HD]nhk e@@1,https://epg.pw/stream/5387482f9292301a4585d1318cdd0ed55648bdebb8e8b9746b8dfb8db4b1fc32.m3u8
 [HD]nhk g@@1,https://epg.pw/stream/773b2166e15af6285f19ecf1d30e658406135a47b4a504cc0fbb7c2c015a31fd.m3u8
@@ -75,6 +76,8 @@
 [HD]NHK华语视界,https://epg.pw/stream/c275917620ca1af235a8865a73cd2b676fd4c75c9948ea1b862151b8c0c58ed6.m3u8
 [SD]nhk general,https://epg.pw/stream/851f2b38bacd79292075f38150fa42b7645e4cdcb2726d8a984bbd66c09ff62b.m3u8
 [VGA]NHK E (480p) [Not 24/7],https://epg.pw/stream/078d4cbfe3adb37cfb640679835c420303e62968dee542183756a555f05ce1a3.m3u8
+[SD]nhk e,https://epg.pw/stream/3f2d8672a0541332021c8eddb6aa5abbfea847f8fa13e176e08ef915ca9f1190.m3u8
+[SD]nhk g,https://epg.pw/stream/d2775340a5ecc7f58822b11a093b6a0356c40c82969a4b7903c276d143557843.m3u8
 [HD]nhk general@@1,https://epg.pw/stream/59d390bf6115ff256d929311913a7f2df450ea5f1e5ccec174d1a35e7b1d5a04.m3u8
 [VGA]NHK E,https://epg.pw/stream/dfc07787dc154f9f1899ae519ae0bc6b0844b417949f2be92aab23f4c2b84f4e.m3u8
 [VGA]NHK G,https://epg.pw/stream/a8e07c6462caf4dd99b7ba5c137fd96d3552a72b485b2b20778c17d1f325db87.m3u8
@@ -88,7 +91,9 @@
 [VGA]TBS,https://epg.pw/stream/d90595cbf89befbaec0f945e00e7e81927488841d3658eb46fda25c59ea203b1.m3u8
 [VGA]TBS (480p redlabmcdn),https://epg.pw/stream/4ce23ff9e9fe559140bfe1ff5514b3162e96500abea0d6c2d179a243e16ff775.m3u8
 [BD]us| tbs west fhd,https://epg.pw/stream/3db0f0e56154f5505ac6106f786b7a38ee4cb65d2d10188f85e79f333ac43640.ctv
+[HD]tbs,https://epg.pw/stream/815a376aad0e28d47b61e40ae5a8025b6ee44e8640441f926fcd1aeaacfd2aa3.ctv
 [HD]TBS,https://epg.pw/stream/e96dacf627355d9b5125e5995c2082777ad96a20b1909e4ef54487083455b67c.m3u8
+[SD]tbs@@6,https://epg.pw/stream/c78c697594f79ea2d170235fc1c2f29c305a995c47a7db6958ac21ce1f215411.m3u8
 [BD]tv tokyo@@2,https://epg.pw/stream/69bc5b8dfbe99715e9fa144e69cfb49b2eb6cc50191ac1db30aba3497b8ad5e3.m3u8
 [HD]bs°tv°tokyo,https://epg.pw/stream/2a9a9c6cde4437abb006a268a55c291f007e0c17a99b327dee6e0c72d62cab47.m3u8
 [SD]tv tokyo@@1,https://epg.pw/stream/673c1b18f143b6f506b407969ead69825eede7bc2e38605b42cbcba450b2dc9b.m3u8
@@ -168,13 +173,13 @@
 [VGA]TOKYO MX2,https://epg.pw/stream/75272af9ede453576b039f060b382ef71ce4c54d30a210285b5a1f797a46c3bb.m3u8
 [HD]TOKYO MX1,https://epg.pw/stream/299765980d0b095fad57af102f9f8f779b7ad7de682a0366129bfe1f3202d4fc.m3u8
 [HD]TOKYO MX2,https://epg.pw/stream/5862e7532141b137fbb897044f0d02641704a7b47abfe9d24d238dffc207dfe8.m3u8
-[VGA]j sports 1 (480p) [not 24/7],https://epg.pw/stream/15809e6b2808cd3731d5a857a776db44b2421e973e9b1627f0dc405e61c4f87d.m3u8
 [VGA]j sports 1,https://epg.pw/stream/8bee903606674f5433464c06eb0dc5fcd3d035b0f5772fb04c2f28eadcfcf042.m3u8
 [SD]J°Sports 1,https://epg.pw/stream/5e109a7f3fbb43f1147b79552f0bf2488373ac61178951af8a35e2c0b435d683.m3u8
 [HD]JSPORTS 1 (720p Willfon),https://epg.pw/stream/1b3f70ff1d846cafd6fc669413a55860dd61f7d563656e35b82a3647c9239dbd.m3u8
 [HD]j sports 1@@1,https://epg.pw/stream/8d422deab62637630db364167e893b621b37e282218e5d278b3a3bcf41b688cd.m3u8
 [HD]j sport 2 ,https://epg.pw/stream/418ea157caa6587fcbc5327fbe750a215c526c231f13034863ec398382b6e6a9.m3u8
 [HD]j sports 1@@2,https://epg.pw/stream/1a5e3a53e5c29c014d5485445c1e487bc293437078a46b72d26e3959d51a9ee6.m3u8
+[VGA]j sports 1 (480p) [not 24/7],https://epg.pw/stream/15809e6b2808cd3731d5a857a776db44b2421e973e9b1627f0dc405e61c4f87d.m3u8
 [BD]j sport 2,https://epg.pw/stream/c7eafb1b960fa43716eb8a81d13a8749c89e4c79583a485bf96e2cad1b692201.m3u8
 [VGA]j sports 2,https://epg.pw/stream/67e60da6664c37e46e8dab78b2eca3b6717700c081f52eaae0bfa93335408a49.m3u8
 [BD]mysports 2,https://epg.pw/stream/dc5d7abb18f24f67be597cad13e68023d49d52860dc933379912873c4b0f337f.ctv
@@ -414,8 +419,8 @@
 [HD]BSフジ (720p Willfon),https://epg.pw/stream/061d2f2572c38e73e5bb794878cb170aafbb791c282849bb39b9ec48fc99235b.m3u8
 [VGA]BS Fuji TV,https://epg.pw/stream/a3f82b16c04a2d84056700ebd336fb16171e139094de8adce8524c16faf06519.m3u8
 [HD]スーパー!ドラマtv,https://epg.pw/stream/46a791783fa6754c9a117e469366a0909542db94de75616806b3c57106c31fe8.m3u8
-[HD]日本映画,https://epg.pw/stream/f23b62bd0d7ce52ddac7867c22afb0f5f7149032c0b087353f6a7214394672ce.m3u8
 [SD]日本映画,https://epg.pw/stream/6f3bbb67f887fc8f8c3cafd22f31b1c1f41ed3109150f82736e1c7dd31af71f6.m3u8
+[HD]日本映画,https://epg.pw/stream/f23b62bd0d7ce52ddac7867c22afb0f5f7149032c0b087353f6a7214394672ce.m3u8
 [VGA]tv asahi (480p),https://epg.pw/stream/9486f8383b288c2f38a04fd0a25751b7a30c255685d671573860555a44a65fbf.m3u8
 [SD]tv asahi,https://epg.pw/stream/47d21a03872bd471bc6157c6d9e1e5bbcb1d43b4afca3694b7849539e3ff2cfb.m3u8
 [HD]tv sul bahia,https://epg.pw/stream/0a65ee3f58fa4831442cce790434f4a133828d79b7983769ca3048fabcd9c894.m3u8
