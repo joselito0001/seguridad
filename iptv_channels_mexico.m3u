@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="Generic",[HD]jbn internacional
 https://epg.pw/stream/1e17e92a41a81010a84f1c9a0981fdaff93155e48342fb596296fbc6f526d843.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="Generic",[HD]cubavision internacional
+https://epg.pw/stream/77bef3356235b29ecf5bb25107c8def22b83f8c18a96ff26eb0cc89d7d7efb48.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]las estrellas tj
 https://epg.pw/stream/a3bc0da4fca98c05c92413bab92aac837593dc790f159f1b1123cad1e74a06d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]las estrellas la
@@ -9,18 +11,26 @@ https://epg.pw/stream/48825bd33e6f63c90b5c16e8c2a37564ff187f49d0e945b7354268a48d
 https://epg.pw/stream/c023065f7acb0e54af0915ceb6895940d2b7533f451faad66f04d58cacca477a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]mx | las estrellas latinoamérica
 https://epg.pw/stream/0b671c18068b9b431ae06d2af2809086eeff9688e63951f441e5feb1a1282a6a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]las estrellas hd@@1
+https://epg.pw/stream/95ab2462e03e5fdde2fa64b3a652306fe098b5b759290c6a56f73bab401bb3e9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]viaje a las estrellas
 https://epg.pw/stream/5251aaac8a320c790225b65db31a376fca7244c3bdf7331e8ee0ada2de59b369.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]Viaje a las estrellas
 https://epg.pw/stream/8a032137bb39a40c69293765e60842ac1bd662f573a606775580895356464089.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]las estrellas@@5
 https://epg.pw/stream/f5615116e913a7d655005ba89eb32c6465c3f3a6de7a0b0d89ffb2a131afdd38.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]las estrellas hd
+https://epg.pw/stream/4957eecb731ea78522cfb2b10df0d29cf48083566eb4f6c1bd2fd1c015b900ee.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]canal estrellas@@3
+https://epg.pw/stream/5cc2d89a72d564d058e74a2fe2178e8b1e28aa3374c34e0ae4ddda812ec16580.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[SD]las estrellas  2
 https://epg.pw/stream/936d2ba6e75b23dda9db7c15600b743b3b9ffd208c72ac7a1ce6e63c03aada7a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]Estrellas de Acción
 https://epg.pw/stream/feb57ba17d5d3b5f050abd0dc44881f1e720737a4d089bc1695b3e7b03981513.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]las estrellas latam
 https://epg.pw/stream/82a44bec8d296d7184bbc564f98888eb1f0710ece418d92a5835ab4cc5189101.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]canal estrellas@@2
+https://epg.pw/stream/ee304aa04901339ffe6fdf27536a3ba7bddaa30b1bdccd87c958cc355a400bab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]las estrellas vix+
 https://epg.pw/stream/03e296f1edbad36ea65903cd2e64ac0370738d35799e730913eaadc0e2b8f308.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]las estrellas la@@1
@@ -49,6 +59,8 @@ https://epg.pw/stream/bd973249caf48211439c512ffbc29f9782db5ea2fa0bb136507773cf20
 https://epg.pw/stream/b5d6c1460222f3bbe58b3168296c7e40ec9fe86c8ff1a4cf77804f249c717bdd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]estrellas de acción
 https://epg.pw/stream/23223c57199ac9861b26b6535b20caa8f01867e6fcf55259707cf5f9b74711c9.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]canal estrellas@@4
+https://epg.pw/stream/78dc21767641289ec8a894299b9ff6ad27ff66bd47c53972afc59b00ee4ebb1f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]viaje a las estrellas@@1
 https://epg.pw/stream/9ca35a99e110529ed02ce2cdb1f9c74d22b006cc87d908420ae27719393bc87e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]las estrellas@@2
@@ -89,6 +101,10 @@ https://epg.pw/stream/3538dc902260bacf79a7d293136068f09398c3151968ca26b3307a6704
 https://epg.pw/stream/7cfc8e12525223155678adc180b54877b83520f1ea47f5ae033ba8c7df0b4d9f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[BD]us| tlnovelas fhd
 https://epg.pw/stream/596eae73af2818dec88e33f72e8ff771d24f1bac48aa38693319d5046274949d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[SD]tlnovelas@@3
+https://epg.pw/stream/27019d40ca3d01dd87cb52f2f35d4f004b2c66d8183c114598eb62511382fd2c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[HD]tlnovelas@@4
+https://epg.pw/stream/b29df46c2471ebbccb6ff92f5aaf9dfbd4a4c5865dfd5dc0ae775902f3b1d876.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[VGA]Novelas [Geo-blocked]
 https://epg.pw/stream/2228f18372023f875aa9d3eab63b027bdcac201db54724795b450d630a5c40f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102174101802086_66.jpg" group-title="Generic",[SD]mx | de película
@@ -117,6 +133,8 @@ https://epg.pw/stream/abf85692180d904010a0dd6f6b96745f335aed6d3ac99d9c01a43d4b48
 https://epg.pw/stream/1c3a4741df4d80bb83639c881a3ee086fcbb097dd745086b539cdc2ca90e2e4a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102174630509411_76.jpg" group-title="Generic",[BD]us| telehit música fhd
 https://epg.pw/stream/22d4a33b8b521df8ac22517c78c24ee59af7d4c388c8386ab7b233bf6ebd5aea.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102174630509411_76.jpg" group-title="Generic",[BD]telehit hd
+https://epg.pw/stream/de3a7466b90ae2c3dd5aa65e8db0ae2bb6fe740ba9b668b37a398897505dce1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102174630509411_76.jpg" group-title="Generic",[SD]telehit@@1
 https://epg.pw/stream/808a222ad740ac13eee5daf4cc194a5985a52cc441f323ce5ad8676874edf852.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102174630509411_76.jpg" group-title="Generic",[SD]telehit vix+
@@ -175,8 +193,12 @@ https://epg.pw/stream/3bb33d7a68ed319a8d99b14bc44a12f285e82863c7757c9b66e5fac274
 https://epg.pw/stream/45642638ddb699e46c30c3c0b89f068ba23759d27005b8861ac7dc47e3ed6352.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[HD]cine latino
 https://epg.pw/stream/6cbb54a635ecd34dee6144f15c064b42d17af237ea073a7e5efa7fcbca9cf441.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[BD]cinelatino@@1
+https://epg.pw/stream/ef49c1f13f370a1f3b533e98f74f0beba00df1f984f12aa84f79f59d2b3eb758.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[VGA]cinelatino
 https://epg.pw/stream/40327fb37a1a4664e82fbea2e0b35e69b941e594713ec6b3c352ca7b08c2bb43.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[SD]cine latino@@4
+https://epg.pw/stream/354114672825addd24cfe2920a3eb6d4fc862e1b2888d42732f04d5c3cf50719.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[SD][墨西哥]tvp mochis hd
 https://epg.pw/stream/390f6ca4a42c694d1ac184c2f27118381855059a2beedd72a3664c564590d6da.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[HD]tvp los mochis@@1
@@ -207,6 +229,18 @@ https://epg.pw/stream/b943be2e3c6bc8a778e701bb23169d53cd0091f1d8ca34d1c952cd8a3b
 https://epg.pw/stream/82bb647c5716576a2e388bf698efa7753178a75360a782b075cfa1ad3071e9c5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[VGA]golden-ch56
 https://epg.pw/stream/22cadcfa9da58f9f740d796d438257dbf6de56a4f7eac8e0b16298f98013977e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[SD]golden@@4
+https://epg.pw/stream/dd0ffd9e05d8edff2d8348655792d7f2742146a12a4b1ece5025da89826a0c1d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[BD]golden hd
+https://epg.pw/stream/7c5f480695df447824e3cacbdc86cff1ff4ffbf001adf689d6176408120a8313.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[BD]golden hd@@1
+https://epg.pw/stream/317abeb4ca6edaf81cba2f9772b4658fc535ca41507bac78b50247ae8beeb5c0.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[HD]golden edge@@2
+https://epg.pw/stream/0ccde6c3fed6e3482ed3becc6205ac4458a2d6c886bb54f854d86460a64f0a81.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[SD]golden@@6
+https://epg.pw/stream/8a43fb17ccf5d1663ce78b4b982f9ab802019519836b216634f89346b8f0a522.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[BD]golden@@5
+https://epg.pw/stream/ca4c5d6dd2eaaa19800c22ae7132cb5cbc9487f43c9d3591f6055c115e603cb0.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[BD]golden
 https://epg.pw/stream/891c22ffd25a1832aaa1ff49e7b53d3fd272d42cabdfcad8f099b702d1844022.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[SD]golden multiplex
@@ -225,26 +259,38 @@ https://epg.pw/stream/49a9a7ff92a8628d65a2db709684a527de0a25640a9168bb2c5951789a
 https://epg.pw/stream/21f483a5f82cbd4d6d4886d93f9e37bf4772ce5b493c6ee729aaf4b644fb3991.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003908301275_82.jpg" group-title="Movie",[BD]|golden
 https://epg.pw/stream/5d5e631c9185481d07244dacf5958fb895870e45bac3e5f7259e1822bab38c90.m3u8
+#EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[SD]studio universal@@13
+https://epg.pw/stream/e18fff9a573433744901b8230419b59d892b473e82a8b7dfa63b1c860509d997.ctv
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal@@6
 https://epg.pw/stream/69629969cd035fca61293c8e6fefa981bd7887ca2a8d2f0fc2500fd85d58e936.m3u8
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]usa | studio universal
 https://epg.pw/stream/e9e14ba083c2c4e4a1c21dde2a6780c7f909fc3c7820207d7a3b513f19ee6118.m3u8
+#EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal@@12
+https://epg.pw/stream/14b29d2e6be4380f8d17fc123ff7e316f58dc047ad4b809337f6e104a053a0bc.m3u8
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[VGA]studio universal@@2
 https://epg.pw/stream/62be8002b74c6ac539c95f2bf78a0831a5f59ef6883e51ad1d192b28d9b2f876.m3u8
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[BD]br -  studio universal hd
 https://epg.pw/stream/8cf8879db1a60fe9e829765cece61f895eab5023f66194808b431cf83d5e83bf.ctv
+#EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[BD]studio universal hd@@3
+https://epg.pw/stream/2c729a4eb37afbe55aed6b0dc5a088ac805d0c3e267771e99f370231df72db24.m3u8
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[BD]studio universal@@7
 https://epg.pw/stream/2b592dce23e62b039c3efd88e65f920607e696bade50d98c6af6395712a90bac.ctv
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[BD]studio universal hd@@2
 https://epg.pw/stream/aac57b67c10617f8b9eda3f81d5c8060fc7de247ad60df2d6439c416eaab221c.ctv
+#EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[SD]studio universal@@11
+https://epg.pw/stream/ad18d89f31ad7175b251819ca897282a8fb14d8e658df381143107eb560fe1cb.ctv
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[SD]studio universal@@9
 https://epg.pw/stream/c40c575a8bc68ede23874afa8e0a007fc2c0fecb5aa06bef34cccdb5bc3642ac.m3u8
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[VGA]studio universal
 https://epg.pw/stream/2b9e8b9c3c45ddb1039ea0ba235791b30c76068d3d36f94de1c30b91de4d335b.m3u8
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal@@8
 https://epg.pw/stream/20d1ed4d5af6ca6507df4a158e58375437fa5bb920e6e360fcfa542bb684d209.m3u8
+#EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal hd@@1
+https://epg.pw/stream/ea8a1fbb7df3ba96113bd981c15f176262fbe7afa0759c195dfc9c5fd87e367e.ctv
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[VGA]studio universal@@1
 https://epg.pw/stream/a4e1e2aca7303b6da76c0cb275aa55ef2c1e9e7f8614d82576d788e78a67c9b2.m3u8
+#EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal@@10
+https://epg.pw/stream/c5bfb061e490a60e3bb4b5c53a750df0bcf2c22f5affc2f35cb0ec432d0a6b41.ctv
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[BD]studio universal@@4
 https://epg.pw/stream/29d8da76129e3e197adea392a4f2f407472f2330074e145da4cff377c86ded99.ctv
 #EXTINF:-1 tvg-id="64199" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal@@5
@@ -259,8 +305,12 @@ https://epg.pw/stream/2d1104ec53ce7823515f3c5c49e31acf67805de09d43388bae2801b5bd
 https://epg.pw/stream/2dc2470caf27f7c8471168f3ce9dc73794ffb0f76287250a6e100f98914709af.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[HD]el gourmet@@3
 https://epg.pw/stream/2fa6f1daca46f6ad53cbe5ab248d45599183aad210b7cb76c8268e26a1a5d248.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[BD]el gourmet hd@@1
+https://epg.pw/stream/c7b8dea57e9e2e6417ff74c4943e77fdf54d5fe6901813aca93042b1ab6bcba3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[BD]bein gourmet hd
 https://epg.pw/stream/533917b5599d23278f757bcb8678acd1dc05d4fa6fde16ac89ac22345ca8e6ab.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[SD]el gourmet@@4
+https://epg.pw/stream/62ca5b8995f2de5277555e9f30d47a3f9e1e8909638aa8f1753f5a6aad01e52a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[BD]bein gourmet hd@@1
 https://epg.pw/stream/34ce6ca680e020a2216197b3e7ff5e24b840349c6e64b8f5f57a4798aca1aa2a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[VGA]puerto4 el gourmet
@@ -281,18 +331,28 @@ https://epg.pw/stream/924c0222bae0dcf6658ec3ea1dc005fa3d53c90aeb19f28f6a3340c07a
 https://epg.pw/stream/345b667e76a47e42071e0b050b28d4f5770c2f1f874546693fd0664ae2377fc9.m3u8
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[HD]cinecanal@@6
 https://epg.pw/stream/da7395c8ef74b2ff9d365fe2d8793531883b96067d45600162930d5c278ad81b.ctv
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[HD]cinecanal@@11
+https://epg.pw/stream/8fc4a5676f2e4632e3194eb5c7882fda5df3ecf1e9d433e89519eacea41caf2c.m3u8
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[SD]cinecanal@@3
 https://epg.pw/stream/cc5fe391512c4a19a7717bee2c96816a6b8e6052c854b156f4182527e3321271.ctv
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal hd-ch54
 https://epg.pw/stream/37fea5ff6e2e2ccce35695950217f90617463ae93612019ab796dcc4e683a034.m3u8
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[VGA]cinecanal sd
 https://epg.pw/stream/e3d7277828a13d3d57f852245d7cf40f4d0b6327c3f350b261205ffc441944f4.ctv
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal hd@@2
+https://epg.pw/stream/14dcab64c8c33c721ad0f9fe8203475b37cb667c8c3be697ab26f3d6c4191a8f.ctv
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal hd@@1
 https://epg.pw/stream/6eeaabdce0c2595a46b09289870d85a14ba92dab48562bf1c4e9ed7d94d8f87b.ctv
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal hd@@4
+https://epg.pw/stream/d91b45098cec2d1283bf366f94d5db8898140dd2da1edcc4f87178bf3156a732.m3u8
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[HD]cinecanal@@8
+https://epg.pw/stream/afa8c6246ff2053c83b71c40f8a2aa0458db963e6bd0573b5e1599234c46d598.ctv
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[VGA]cinecanal@@1
 https://epg.pw/stream/95ac6501d7030298f23725adcd6dfc52c8942f13229a1bcc8d321050ea5e31a6.ctv
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[HD]cine mexicana
 https://epg.pw/stream/fbd60750d134bba72258f307eb5d04e178b34002e43d5c1904e76465ab69ebbc.m3u8
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal hd@@3
+https://epg.pw/stream/207fc37d44e4d02c3ec162078ce7c5c4a85ba1945c7a0eaaa251cc96700dd178.m3u8
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]puerto2 hd cinecanal
 https://epg.pw/stream/fbe806e28f6bc28e4ebfc16d2b88c894628000f590094fd2d9e308ce2acd9040.ctv
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cine 5 canela
@@ -303,6 +363,12 @@ https://epg.pw/stream/a4fcc041f49cb6fd8791086db2858794e508c4bfab180ca34dba0e075d
 https://epg.pw/stream/d10787b94dcc84a30f503cd69e33e30eeb9b3b1cfaaaba9b996794f47de2e524.m3u8
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cine canela
 https://epg.pw/stream/fe642ba7156f286a15a79d3a0b9d426e1d01dcfa13aebcc6eb280c7bd1c09a84.m3u8
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[SD]cinecanal@@12
+https://epg.pw/stream/c8ce158291453d7e7375947441d43b5e169ff594165bb30819584b256bed4680.ctv
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal@@9
+https://epg.pw/stream/a662672c2c389113b7ce936642f823673a69e34d6a37679806eadde3b00f868a.ctv
+#EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[HD]cinecanal@@10
+https://epg.pw/stream/2c8988920c63c8b2fc1a1b4ab010848c464b0cc1e431495ef2867bfb106468f0.m3u8
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[VGA]usa | cinecanal
 https://epg.pw/stream/21bedc2ca5ee8059d9421c35c4d8962ed8af45880e23656a79972d995157f21b.m3u8
 #EXTINF:-1 tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]107 cinecanal hd
@@ -313,6 +379,8 @@ https://epg.pw/stream/bc13de1350a82ad7bdecf6b66f88f7a7341ea7da2948661784c0f50cf3
 https://epg.pw/stream/f251f84b6b6714c7ea79607d9462b65360b80eed8cf7d4607e7deaaeeda1d1c4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232724093116_88.jpg" group-title="Sport",[BD]presumiendo mexico
 https://epg.pw/stream/779cc2639244c081a4886cda217843209306421d9203dcb5abdad46de626c9f1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232724093116_88.jpg" group-title="Sport",[BD]presumiendo mexico@@1
+https://epg.pw/stream/16483b375057dd3c192d91e50475ac6ac85ff2ca98d9f1162e942918007a99d4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/03/20170203063338293847_51.png" group-title="Documentary",[BD]canal 10 chiapas@@2
 https://epg.pw/stream/8a2833c6daefd1063988a85337ba8b5f8f6968030d55478de11a9d98ac46a67b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/03/20170203063338293847_51.png" group-title="Documentary",[BD]diez chiapas
@@ -381,6 +449,14 @@ https://epg.pw/stream/41e6ccdffa7004690aee8546d46d099778cdb57212a83d9007b7b359b9
 https://epg.pw/stream/d41053f9a7f3a967dc0ac5c6172784c5ae856f083525d8b60839aa719594d0d5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171000350836_94.jpg" group-title="Entertainment",[HD]multimedios laguna@@1
 https://epg.pw/stream/677f4335299a973a8d19203925a93f045aa12d8ecb4b930301148f759a0c9dda.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171000350836_94.jpg" group-title="Entertainment",[BD]multimedios laguna@@2
+https://epg.pw/stream/17a53b9a92d98a2f61a1ca3c46390e799d62336ab235ff41b0120dd2d715d409.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171000350836_94.jpg" group-title="Entertainment",[BD]multimedios monterrey@@1
+https://epg.pw/stream/132d3b170b7da77bd623025ec3927ec840327bf95a826b0643d81999bab20924.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171000350836_94.jpg" group-title="Entertainment",[BD]multimedios cdmx@@2
+https://epg.pw/stream/4496ed1d43d6b19d7f4a05bc365b3da6006bb328bc0585300878e574db871da3.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171000350836_94.jpg" group-title="Entertainment",[SD]multimedios@@2
+https://epg.pw/stream/421dc89ea8a6ec820e44f659647360071065ba1abe8532c337a6de6189ebe992.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171000350836_94.jpg" group-title="Entertainment",[HD]multimedios cdmx
 https://epg.pw/stream/43692ff6ddb96f15967a795ae38871d645a214707a972d4bc415d654a477d0fc.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171000350836_94.jpg" group-title="Entertainment",[BD]multimedios cdmx@@1

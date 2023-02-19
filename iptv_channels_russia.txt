@@ -43,6 +43,7 @@
 [VGA]sea today,https://epg.pw/stream/26080f6c1fe99e8064fcbb87d26c8990e4662ed58624dabf012988b152e78069.ctv
 [HD]Russia Today,https://epg.pw/stream/9f3bf34ab1fe6775963e2b17de087fdec98d62617a243a9fd6e6c682a42452ff.m3u8
 [BD]俄罗斯-TVBRICS(中文),https://epg.pw/stream/e00f140e329c47885abd6c2f51fc4533a6a2b00a721de257751665d77d92be40.m3u8
+[BD]tv gerais,https://epg.pw/stream/d3a5ecd8e3bb76b772a8cc1b7d703bf3881cb523aab87814b6af50d169413ce0.m3u8
 [BD]tv brics@@1,https://epg.pw/stream/c576d5b52026d5293b0de265c74cfd1f55af37077df0b15654b02c2d69179d67.m3u8
 [BD]tv vicosa,https://epg.pw/stream/a2f089eccec11af136780fc7d8eeb9286d41de9989fb8603033a40674a802f54.m3u8
 [BD]TV BRICS Chinese (1080p) [Not 24/7],https://epg.pw/stream/48c1b2738a2508ee9914645ba2b40bdfe7721c2c4a44909962f1405a87a4e5ea.m3u8
@@ -316,10 +317,10 @@
 [SD]game show network  gsn,https://epg.pw/stream/4523f41f625228e6636b40028e065b3d2c52826e18534ad99f6ec324d7a666c5.ctv
 [HD]Game Show Network East (720p) [Not 24/7],https://epg.pw/stream/3687e4ed70edd79bcd281ff5b3661b9b07b332b89ecc35a66a29419ce01c7bf6.m3u8
 [BD]us| game show network fhd,https://epg.pw/stream/436f9b638c494ffb1f6c12849e51ad699cbb1f8242199e4e59ba2c10b8a01580.ctv
-[VGA][俄罗斯联邦]мир 24,https://epg.pw/stream/413749a4b9c18557ff9615da86dd2021dad3056a11ccec05f9791abdd313c3f7.m3u8
 [SD]мир +2 (540p) [not 24/7],https://epg.pw/stream/405636d4015003f00f1514870ede276ec99be593e7dd34a05e773676e45c4aa6.m3u8
 [SD]Мир +2 (540p) [Not 24/7],https://epg.pw/stream/9f0535c04b438807566f632e64fac828a00b311711a478cf560f02b0084a883b.m3u8
 [BD]Мир 24 (1080p),https://epg.pw/stream/8cbc43a0500638b1325d00e5668a622c0ef4790d31b4da3e603b3c707cc2a5a1.m3u8
+[VGA][俄罗斯联邦]мир 24,https://epg.pw/stream/413749a4b9c18557ff9615da86dd2021dad3056a11ccec05f9791abdd313c3f7.m3u8
 [HD]Revry@@1,https://epg.pw/stream/608e7126e460a376774d8bcacbccf49c2bb45459720847f16427b74da99c1f17.m3u8
 [HD]ben 10,https://epg.pw/stream/e7bccb6ee7a9de6384d088e02293f86bcb27bdb9adfeedc0b2ad277775ba13c1.ctv
 [HD]rtn@@1,https://epg.pw/stream/74d6b99ba79c4b966340b0ace7f7c30f412f5a4286f96a1604f6001d3394a1fa.m3u8
@@ -408,6 +409,8 @@
 [BD]mtv 00s@@1,https://epg.pw/stream/7b9e32c29ada248371ab726226f179218d55461c0ef7791b5026cfabda252b28.ctv
 [HD]Little Asians HD,https://epg.pw/stream/a6e5f555ba2113facddf812fe6adcfc6162eebde03c71ede7c6265c5187232e1.m3u8
 [HD]100,https://epg.pw/stream/248c47cd3a4fee2fc6d2d4178f322ccd1ac5c706fa81a171ae43f3aa567b2199.ctv
+[BD]mtv 00s hd,https://epg.pw/stream/3421619ebdd9e8a95627dfefe465427848840ad3dbec0a9fa6f655cf566f3b1f.ctv
+[SD]mtv 00s@@4,https://epg.pw/stream/ada42630e59297ce367fc24ad3ee0f0d951bf769e349fee9f2f049946e18249d.ctv
 [BD]tr| tv 100 hd local,https://epg.pw/stream/fd25e495037fc5fbea87de4558cf5894c45d38db8a6557f4dedb4365703d5312.ctv
 [SD]es| mtv 00 hd,https://epg.pw/stream/57eddf740ff8ecdd8748df052de3b3ab3ea45b137cb3ec88da5caf24ed01eabd.ctv
 [BD]usa | mtv 00s,https://epg.pw/stream/5f57ce403c12363d2836ee9d596288c94b476d2d3dff8bfe75d7a16755dff71f.m3u8

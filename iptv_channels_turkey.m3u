@@ -257,6 +257,8 @@ https://epg.pw/stream/c6eec80f3fddf01fc08c9d91f38f4a82ede63729cec9012f3173953bc1
 https://epg.pw/stream/ab934fb66105221afeb5ccdaf786a44dc162c3d07986275c02a7d48ffcbc7565.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523220603073082_42.jpg" group-title="Entertainment",[BD]ülke tv
 https://epg.pw/stream/946e953ad498a835f735cdaa7d23a54850ebaa80b5d334b3615c7d8346ae9009.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174422468344_76.png" group-title="Entertainment",[HD]tvt hd@@1
+https://epg.pw/stream/b7631a95b718007212ef32cd8729d8935aea75fcb558b9f450433adc163548a9.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174652787708_13.png" group-title="Entertainment",[SD]tv em (486p)
 https://epg.pw/stream/ce6ea7f436baf68132206e5a7698f5b87db74b23b4d0a205240dd47a30ec18f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174652787708_13.png" group-title="Entertainment",[HD]tv em
@@ -391,6 +393,8 @@ https://epg.pw/stream/4cb8ac83491051b65436afe18f0d2d86cbba56ed3725b91fc30daecae2
 https://epg.pw/stream/d3c43a90e35eaf9cc98d824bf9565e8347163595c50dee20f020e9df952ee0f4.ctv
 #EXTINF:-1 tvg-id="3790" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png" group-title="Entertainment",[HD]TSTV
 https://epg.pw/stream/c64ba6411643a457a724e2713fc8118ab0da87b2918e6fe7f0a54d64fd0369d8.m3u8
+#EXTINF:-1 tvg-id="3790" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png" group-title="Entertainment",[BD]istv@@1
+https://epg.pw/stream/44f09f0b78f60a986f89a40b695de97a4a2b117a625281edf11f79b404ab91fc.m3u8
 #EXTINF:-1 tvg-id="3790" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png" group-title="Entertainment",[BD]sitv
 https://epg.pw/stream/d0089f1d1b349cd1dcc4862b164a1fa617b078c6aa1db2833ec8293200f9b980.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174322491087_30.png" group-title="Entertainment",[BD]tr| semerkand
@@ -949,8 +953,14 @@ https://epg.pw/stream/a049867166c97caaa130b9e625ed4320f913fcf84f12057fdc326a7c7f
 https://epg.pw/stream/cb99f3b6a926d135e7e5714f718c7e05124983972f93628c21eb86fed39e0527.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025203355695555_34.jpg" group-title="Entertainment",[BD]us| moviemax fhd
 https://epg.pw/stream/7202f24153a58022d05591e322cd2f2ae3e229c7fead2094840c2235462c4822.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210520968279_35.png" group-title="Documentary",[BD]discovery world hd@@5
+https://epg.pw/stream/2fcc4f0f743a7b68ee34f0278e727dfd03491801877271cf36f965f211e150f2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210520968279_35.png" group-title="Documentary",[SD]discovery world sd
 https://epg.pw/stream/f5e7e29cd1b416d0631d217b0d8e90f284232405a06c1eff962909b95c4eca16.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210520968279_35.png" group-title="Documentary",[BD]discovery world hd@@6
+https://epg.pw/stream/ac90da8ce0531a3ca136582ce72df17e816169da6d6fa95e2270715d7cc492e2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210520968279_35.png" group-title="Documentary",[BD]discovery world hd@@4
+https://epg.pw/stream/83342c5c702919765404eb170c90fb6ce06f4bb770a6e46677989344d5621727.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210520968279_35.png" group-title="Documentary",[BD]discovery world@@2
 https://epg.pw/stream/ee0e2ca6b87670ba5e5464b52983fe1d9652654949b3745f112035576340e857.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210520968279_35.png" group-title="Documentary",[BD]discovery world hd@@3

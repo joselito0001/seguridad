@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/11/11/20151111211546584685_51.jpg" group-title="Entertainment",[BD]汤音Tmusic
 https://epg.pw/stream/0b1549c39cc77e20b485d566eb95db4d3b1b4d6e5f512aa4732cfbf45c2541c6.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130073605752464_34.jpg" group-title="Generic",[HD]rts
+https://epg.pw/stream/07358db7b49cf6a32e37784978cced1aefd26a6f516514c07e13eea52b13af6a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[BD]rtl@@2
 https://epg.pw/stream/33cb90732baa73b571dcaa86414a81ffbb3ea27c60f2b76689c8835ee4f15461.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081052121107_34.jpg" group-title="Entertainment",[HD]rtl@@7

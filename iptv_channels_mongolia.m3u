@@ -243,6 +243,8 @@ https://epg.pw/stream/abd9158e9b21d92194bdd6cdd286ee8ba487adfc9ce6737cc7146e76f7
 https://epg.pw/stream/f7b49de8004b09a1315fc9120bb706c77450fdc1b6714d052f78beb36ec2c96c.m3u8
 #EXTINF:-1 tvg-id="64735" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174556047848_26.png" group-title="Generic",[VGA]VTV
 https://epg.pw/stream/78085ee7f1f9fe892d944b37fc3e7c0ab059d4b7d37829ca6dcdb88b4a81efca.m3u8
+#EXTINF:-1 tvg-id="64735" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174556047848_26.png" group-title="Generic",[SD]vtv@@3
+https://epg.pw/stream/19e63e40659bc419f7f13830245b4b4af0d0aa472cf1493e106fd20f73f51016.ctv
 #EXTINF:-1 tvg-id="64735" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174556047848_26.png" group-title="Generic",[HD]VTV Valle de Aconcagua (720p) [Not 24/7]
 https://epg.pw/stream/18668155243c37d1a6604fced3dc83308cc7751fccc3a9306b41e8ace8191403.m3u8
 #EXTINF:-1 tvg-id="64735" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174556047848_26.png" group-title="Generic",[HD]vtv@@1
@@ -317,6 +319,8 @@ https://epg.pw/stream/763678b6dcdedaffcfca836e882c0e2c865ef4fe34a6457ee19db0d91c
 https://epg.pw/stream/744c5a63d6c217fc83cb38de7812abea797e95c668724b34dfec8f8f3a77189f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215635417696_10.png" group-title="Generic",[BD]assen tv
 https://epg.pw/stream/87e6fb590d0e456389b8a490425be5d81ca9bbe48e5bf8ec6f3fb3c45b96ecf5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215635417696_10.png" group-title="Generic",[BD]oasis tv@@4
+https://epg.pw/stream/c3d406ac55751242aa3b736affd456650fd7134717d86bae12f594619b748874.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215635417696_10.png" group-title="Generic",[BD]oasis tv@@2
 https://epg.pw/stream/efb071f1eb8dbea7bdb41da52f6c87cb78f313366ea49d9a68a1e5f1eb8127c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215635417696_10.png" group-title="Generic",[SD]masti tv
@@ -409,6 +413,8 @@ https://epg.pw/stream/86e219f059a4370b5b3ce27058a0aaf6a9edf494068871551cb765f790
 https://epg.pw/stream/fccd5ff8082442b04a0440c2e9de3d787b1af24ea8afa06355312434e5b0bab2.m3u8
 #EXTINF:-1 tvg-id="3728" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210220150037360_96.png" group-title="Generic",[SD]tr| star tv hd@@1
 https://epg.pw/stream/2df37a5fadbc6d26168b991dc37344601f4564700badbbab8dd2e5a46749fa11.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210220225972315_18.png" group-title="Generic",[BD]studio tv
+https://epg.pw/stream/b2d73bb45b76c90bf553a27c2dac51409c2af2109fc2f3d855194a7b8b3614b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210220225972315_18.png" group-title="Generic",[BD]sou tv
 https://epg.pw/stream/010f61d12d9ef196361ab999bba83cf4c95fce2ca50264ea8cec39f3f32ed545.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/24/20170324212703775644_19.png" group-title="Generic",[VGA]maligno (2021)
@@ -463,8 +469,12 @@ https://epg.pw/stream/ce977d82a4a15bf9d0b2cca058d9d53f5b04ccd18b1981e8508366152c
 https://epg.pw/stream/bfa5c5f15427215c79e2add3b8b91a7c49c649c44e3e52a21480c22372a64fb7.ctv
 #EXTINF:-1 tvg-id="52132" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325213334200711_24.jpg" group-title="News",[HD]be: vtm hd
 https://epg.pw/stream/50feab32fd44c6197638cb994b2945a6c363252b64d48688984e67563f7184de.ctv
+#EXTINF:-1 tvg-id="62864" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png" group-title="News",[BD]star tve hd@@1
+https://epg.pw/stream/5b188e6370ecff430424489df895cbb14607fb2133ba66fe305ab658dad53f8d.ctv
 #EXTINF:-1 tvg-id="62864" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png" group-title="News",[BD]star tv hd
 https://epg.pw/stream/58e610b340c1e12b25c96d35a1153a41bf109e90ba00d071a4035f789f2e0e39.ctv
+#EXTINF:-1 tvg-id="62864" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png" group-title="News",[BD]star tve hd
+https://epg.pw/stream/66715eeef67dea04a133d1082ab73b2712d6bb9469975a7f421ad6ee3d214ba8.ctv
 #EXTINF:-1 tvg-id="62864" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png" group-title="News",[BD]star tv euro@@1
 https://epg.pw/stream/f6fd2ab52066943573ee38971e8a22a528c9115c5f92af631822ac088d804048.ctv
 #EXTINF:-1 tvg-id="62864" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png" group-title="News",[HD]star tv hd | ulusal
@@ -573,6 +583,8 @@ https://epg.pw/stream/adccf9d2ccaf0b79faebf5e1a1313fe43136770c8af46df8213d29c6cb
 https://epg.pw/stream/61695808975d5e74be68173dd62ee2a0787d5e37950861e41e0741cc06db12c4.m3u8
 #EXTINF:-1 tvg-id="63436" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173852898976_67.png" group-title="News",[HD]Global Christian Network America (GCN) (720p)
 https://epg.pw/stream/a717a2b650ef510a39c0f365042fd874f75e4901eeab54524e2ae0df86a0ea80.m3u8
+#EXTINF:-1 tvg-id="63436" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173852898976_67.png" group-title="News",[BD]global uhd
+https://epg.pw/stream/6f4b9507d29f43bf246d4a33dc3a44e27ef6ca319fbd106bb8362b64ab17abf5.m3u8
 #EXTINF:-1 tvg-id="63436" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173852898976_67.png" group-title="News",[HD]Global BC
 https://epg.pw/stream/fbc5de8b375711404ee23331f92e9710823f0da0d46e162f8b7c5b2425fc1878.m3u8
 #EXTINF:-1 tvg-id="63436" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173852898976_67.png" group-title="News",[HD]Global News
@@ -631,7 +643,7 @@ https://epg.pw/stream/b22bd284902c65505983ce65e825075c99acdc7b5080e4cbfb422aac02
 https://epg.pw/stream/53463573946f1cdf4cad54a07db9c8d6239ed0c8c462446c6dda96c83b251d8e.m3u8
 #EXTINF:-1 tvg-id="15534" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png" group-title="News",[HD]evtv
 https://epg.pw/stream/4f72cb925496f46a4e917bea74b14dc156372ed78ff62541fd31426109ce8022.ctv
-#EXTINF:-1 tvg-id="15534" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png" group-title="News",[HD]ETV+ (720p)
+#EXTINF:-1 tvg-id="15534" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png" group-title="News",[VGA]ETV+ (720p)
 https://epg.pw/stream/de57ebbe124a5ba3304edeb3b62b340d1f917c78718601ad245f8ec5ce422e7a.m3u8
 #EXTINF:-1 tvg-id="15534" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png" group-title="News",[HD]ETV (720p)
 https://epg.pw/stream/242ac2187e0ccb82b7f80f2a620801e06f4b71909317cc3b4d5b63c715cbc63e.m3u8

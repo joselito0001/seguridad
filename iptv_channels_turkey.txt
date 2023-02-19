@@ -139,6 +139,7 @@
 [BD]javanan tv-,https://epg.pw/stream/c6eec80f3fddf01fc08c9d91f38f4a82ede63729cec9012f3173953bc18e6f2f.m3u8
 [BD]ulke tv@@1,https://epg.pw/stream/ab934fb66105221afeb5ccdaf786a44dc162c3d07986275c02a7d48ffcbc7565.ctv
 [BD]ülke tv,https://epg.pw/stream/946e953ad498a835f735cdaa7d23a54850ebaa80b5d334b3615c7d8346ae9009.ctv
+[HD]tvt hd@@1,https://epg.pw/stream/b7631a95b718007212ef32cd8729d8935aea75fcb558b9f450433adc163548a9.m3u8
 [SD]tv em (486p),https://epg.pw/stream/ce6ea7f436baf68132206e5a7698f5b87db74b23b4d0a205240dd47a30ec18f6.m3u8
 [HD]tv em,https://epg.pw/stream/8309dffa8e810b748eb9fbfc2d9a69c3059ff8efde446e00dd8a9c1b01290b1e.m3u8
 [SD]TV Em (486p),https://epg.pw/stream/c0a66b3c1983475c810c18f99440485d044979bc0388a0b054f37d35cf1eae90.m3u8
@@ -206,6 +207,7 @@
 [HD]stv (720p),https://epg.pw/stream/4cb8ac83491051b65436afe18f0d2d86cbba56ed3725b91fc30daecae2ed66bf.m3u8
 [VGA]mvstv,https://epg.pw/stream/d3c43a90e35eaf9cc98d824bf9565e8347163595c50dee20f020e9df952ee0f4.ctv
 [HD]TSTV,https://epg.pw/stream/c64ba6411643a457a724e2713fc8118ab0da87b2918e6fe7f0a54d64fd0369d8.m3u8
+[BD]istv@@1,https://epg.pw/stream/44f09f0b78f60a986f89a40b695de97a4a2b117a625281edf11f79b404ab91fc.m3u8
 [BD]sitv,https://epg.pw/stream/d0089f1d1b349cd1dcc4862b164a1fa617b078c6aa1db2833ec8293200f9b980.m3u8
 [BD]tr| semerkand,https://epg.pw/stream/7d0f03867699a154d20d341334fff86b50ad2d96ea29d30c30d9e840d91655e7.ctv
 [BD]semerkand hd@@1,https://epg.pw/stream/c4fa5a8050688b5733eee690f1448e985b1e505c6300888137f9149d22381b07.ctv
@@ -485,7 +487,10 @@
 [BD]mgm+,https://epg.pw/stream/a049867166c97caaa130b9e625ed4320f913fcf84f12057fdc326a7c7f6ce208.ctv
 [BD]moviemax,https://epg.pw/stream/cb99f3b6a926d135e7e5714f718c7e05124983972f93628c21eb86fed39e0527.m3u8
 [BD]us| moviemax fhd,https://epg.pw/stream/7202f24153a58022d05591e322cd2f2ae3e229c7fead2094840c2235462c4822.ctv
+[BD]discovery world hd@@5,https://epg.pw/stream/2fcc4f0f743a7b68ee34f0278e727dfd03491801877271cf36f965f211e150f2.ctv
 [SD]discovery world sd,https://epg.pw/stream/f5e7e29cd1b416d0631d217b0d8e90f284232405a06c1eff962909b95c4eca16.ctv
+[BD]discovery world hd@@6,https://epg.pw/stream/ac90da8ce0531a3ca136582ce72df17e816169da6d6fa95e2270715d7cc492e2.m3u8
+[BD]discovery world hd@@4,https://epg.pw/stream/83342c5c702919765404eb170c90fb6ce06f4bb770a6e46677989344d5621727.ctv
 [BD]discovery world@@2,https://epg.pw/stream/ee0e2ca6b87670ba5e5464b52983fe1d9652654949b3745f112035576340e857.ctv
 [BD]discovery world hd@@3,https://epg.pw/stream/2c70f3f99069bbd90f8fee59a74eb0d8d67f83f9356ba76bc44bfbee31018161.m3u8
 [HD]discovery world hd,https://epg.pw/stream/a751e966d3f3fcb09ad8a32bc6f0d9bcca8526f78ee169d29161c79aab06ecc1.ctv

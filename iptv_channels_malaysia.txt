@@ -61,6 +61,7 @@
 [BD]backup 5 (192.168.240.50),https://epg.pw/stream/22c203e1234cae159016fdedd5ee9f56b15c793401b3c64472504c22981bdd29.m3u8
 [HD]tvmas,https://epg.pw/stream/c87d66aa3477d2776f68d3b3f943028f9c3dd28dda825f274447f825461aae8b.m3u8
 [SD]tvmas2,https://epg.pw/stream/f6c02ffee1217044566266d01f3fb4ddb26e7e7ddbc11677f0db5ac73c7df443.m3u8
+[BD]tvmas2@@1,https://epg.pw/stream/6da9eadf82007ebf7a2d50819cda5294a45f50d3b7fcd3469a3250d03103cf94.m3u8
 [SD]n mas,https://epg.pw/stream/e2c05693e8d0d3fbbb45978abd89d0323d6f62e103620c245fdcffa6b3b6a221.ctv
 [BD]tv master,https://epg.pw/stream/fca9fd06a865db3cde644f61f4314392a52b69cef1638c35b936879ce386d40a.m3u8
 [BD]tv mas,https://epg.pw/stream/9443a6f868eeeef2ea2533a399bfe886779276aca0550a47b94290527e455924.m3u8
@@ -209,16 +210,20 @@
 [BD]Shop LC,https://epg.pw/stream/1017adfddc041625f3bf191158828716b731f72e13d75fc8de949e7871087f3a.m3u8
 [BD]fm,https://epg.pw/stream/23aa83c47ec5a70765226997b3b7957e446c02579a866093a93b09596ca3e192.ctv
 [SD]tr| fm tv,https://epg.pw/stream/c56ce20bef24da24ba3d5265e0e728db908e0576f8c5b9ba0ceac6e0e673606d.ctv
+[BD]elemental channel,https://epg.pw/stream/4790e303e0fb47104687bcf6b93a1d59f1e68ce6a293917559d1a4b81bf9ea68.m3u8
 [BD]shop channel japan,https://epg.pw/stream/027750b77280f5908baf0d5a01ea6c3c292be913062964f9c06c3ec36db639d3.m3u8
 [BD]ncaa channel,https://epg.pw/stream/ab068836192608ab4ac965786ffab5d62f79cec11feb80dd8757f3e0bf2e4235.m3u8
 [BD]ncaa channel@@1,https://epg.pw/stream/3ce1f0c0ab0e7bf3e37328f1b08c4a9f8746be9e9f6da5a0f949ebd4b8b7b0bf.m3u8
+[SD]concert channel@@3,https://epg.pw/stream/a6a7238cb646bcebcdc5032b853b48623659e81c8e87e41cf32df0c752e6ed43.ctv
 [VGA]idx channel@@3,https://epg.pw/stream/033b2b0ea667f4ac4bb3f6b89532b870b531e8bece0fe20b497171a6ba005ff1.ctv
 [BD]preview channel,https://epg.pw/stream/37ede051ecae222b720489e2dd11ac65ea0e1cc3a09c4c9eacc1ebe5c90b77d6.m3u8
 [HD]lazio channel,https://epg.pw/stream/36fa328937bec3512078e2e49f5aa03b58273db9124f62755877be7457242aaf.ctv
 [BD]chile channel@@1,https://epg.pw/stream/3665b280e597024049531d3b708f24bafbcd0dddbb715d90c1d40eb9be03b8fc.m3u8
+[SD]euro channel,https://epg.pw/stream/54fce185e016f3e708c75c899dbc6f3cc942e14f2f347abed2041862852ebf1a.ctv
 [HD]happy channel,https://epg.pw/stream/60ccb55735d4d5f3a0ab9f5584e3f890c072707f486686d736afaadb3cf84a3d.ctv
 [SD]soccer channel@@5,https://epg.pw/stream/fa7f151668a45ac536e9c09b46a0ffb6ef49cb869e6c81674953a0980762be5e.ctv
 [HD]alkomail channel,https://epg.pw/stream/ae4c3815c941784a60eacb7121bda4557d850c233e43859b192c9ea1c33a1403.ctv
+[SD]concert channel@@2,https://epg.pw/stream/99ec72e8236f48353f6088648d681041c45e57bfb9efc0b5971bc8e2e91d1454.ctv
 [BD]egm channel@@1,https://epg.pw/stream/acbe85b2688df11e6a8631f7e7a20ba31266509fcff4943a8acb5722899e9ce0.m3u8
 [SD]concert channel@@1,https://epg.pw/stream/7eeb41b7230a96ed2cc76f497bd5546a21b003169043990666507de39086f128.m3u8
 [BD]truth channel,https://epg.pw/stream/9c084d81ee81d57a67aad86a31f42ecfc3e7b92b9a8b8024ccb6b6cd8dddfc09.m3u8

@@ -10,7 +10,6 @@
 #下載地址為https://epg.pw/app_download.html
 
 
-[VGA]puerto3 funbox,https://epg.pw/stream/0899b7662a9af1dca68db414e00b372c114a2804d9ea5a1e3229f8a245fdc7a6.ctv
 [SD]itv patagonia@@6,https://epg.pw/stream/0e550084d417be2cbef5ed2b6959ee1704b9d98f83d428a2d77e8c5045d97603.m3u8
 [HD]itv patagonia,https://epg.pw/stream/f0d1cbad4046db6d573690252c1eee0f8a23f43fc537f23e25ce1ada28ef8634.m3u8
 [HD]itv patagonia@@2,https://epg.pw/stream/34e7e45f8266ed191c57ca1f859142b16523b71645274d05d0db923aa1addf4e.m3u8
@@ -22,6 +21,7 @@
 [SD]24 horas españa,https://epg.pw/stream/e5f15d3b685cd0dc9cf83dc44c59a8e55d6400914fe832418cf1d2c1fcd5a540.m3u8
 [HD]24 horas,https://epg.pw/stream/b8299de49420cbe3aaa101e79c8d28bbc5cf7403fe25c07f792b61a8acbf7df5.ctv
 [HD]24 horas@@2,https://epg.pw/stream/a6c95705911dba19d7c3a5dd8e0736031b7aa3cb1d56c5dd4f68d3b5235fd3b3.ctv
+[SD]ntn 24 horas,https://epg.pw/stream/4658863ede7fad968cd5d6738af5e4317bd09e054fed089eb9212b18aee936ee.m3u8
 [HD]es| canal 24 horas,https://epg.pw/stream/e0b04d3cf4699363f5137fcb86e7fed92ae47eb2b18b93fe7c730f18821ffc18.ctv
 [HD]24 horas@@1,https://epg.pw/stream/215c15d4dad25935082d331da184c42c0189826aff3a2edbf65f6dd72076ea00.ctv
 [HD]24 horas@@3,https://epg.pw/stream/7b15644b19e05ed69d48f686475020de77c60d4a19a246f33ee1d2049ee991d5.ctv
@@ -76,6 +76,7 @@
 [HD]ucv,https://epg.pw/stream/c5967453ab56f296c6f4de0c490e8d0618adf91299c08a2c909df20ff49be351.m3u8
 [BD]ucv@@1,https://epg.pw/stream/76972de79051ef850a4e4594e7c98d5df75f2cbce2f6eb306c685b9890a39c26.m3u8
 [HD]ucv 2,https://epg.pw/stream/62f072aaa5740f966ff4e31f84e62461cfd654056801ea323980202026849c31.m3u8
+[BD]ucv@@2,https://epg.pw/stream/d4950f0528d205bd61715093c6701c474deea802aed277c74c94bf39fde08c2e.m3u8
 [BD]ucv 2@@2,https://epg.pw/stream/e9c1bb112f099862a1476b0450488a492d11c0b4598dac6f65660443a7c75f68.m3u8
 [BD]el reino infantil@@2,https://epg.pw/stream/54da1510e74d57de6fae78924238180680486fc26f88dbcd56d55568294ca183.m3u8
 [HD]el reino infantil@@1,https://epg.pw/stream/bba79ef569a996b014345cf73ed5e6dedde76332e70796af511f57447bdbd2a5.m3u8
@@ -87,6 +88,7 @@
 [HD]elpingüinotv(720p),https://epg.pw/stream/f25f00abddaae2d8b78249d8f508f0b1782dfa1c2cdac8a8cbd847099beb80d7.m3u8
 [BD]el pingüino tv,https://epg.pw/stream/919898390849ccc481d24ff35d1fe845f35d2424d5c93afebb49c11fc03b0951.m3u8
 [HD]pinguinotv,https://epg.pw/stream/1a4b5c70c09c6b033444b5f0faa3e450b42cfd473b3fb90abc181ee7abdf5dc6.m3u8
+[VGA]puerto3 funbox,https://epg.pw/stream/0899b7662a9af1dca68db414e00b372c114a2804d9ea5a1e3229f8a245fdc7a6.ctv
 [HD]cdo premium hd,https://epg.pw/stream/536401d1102ebceb05e4575d00a882232e5c6b253811019a9a9272ab09ad6be6.ctv
 [BD]cnn chile@@4,https://epg.pw/stream/493fc60c68819c0c8ae53481f5bb862e22c7525873b75684f39f5dadcc9ad6e5.m3u8
 [BD]cl | cnn chile,https://epg.pw/stream/d07ce3370d1e06b10beeeed8439d5dd165d01ed3cb446491685fb7bb1f9af6df.m3u8
@@ -96,6 +98,7 @@
 [VGA]chilevisión,https://epg.pw/stream/9dc869e1055a40a1aae12c8081d3c9c00784c36c636d5f819c336831469f6e25.m3u8
 [HD]cl | chilevisión contigo,https://epg.pw/stream/8084c15587b0121b0ebb247821a99b31a94a9690c77c88b7ce68f9f0cf1089ac.m3u8
 [BD]canal 21 chillán@@1,https://epg.pw/stream/2d0fe8a92a36fbe12ed5566b39b1acfe4bc8c3641597e6d8afebab2fab986d60.m3u8
+[SD]canal 13 - ni,https://epg.pw/stream/dddda4913b6d025c203b979a68e7a3b2513f8cb222fa3a6286a01205c2fa3e65.ctv
 [HD]cnn chile@@3,https://epg.pw/stream/a5d582bf0a767b54c530503f38aad21eebcf9a72c5d1a14f218b9104a92017c6.m3u8
 [BD]cine 3 canela,https://epg.pw/stream/8602d13d714e4370f8c5c5bc763e9e444441b3d133ac977a6a1fa23b4a55fe14.m3u8
 [HD]etc tv,https://epg.pw/stream/68aaeb7052cf344dfb64eaac6a37774e33ef823d7b6a22439bbe74fe9b783091.ctv
@@ -103,6 +106,7 @@
 [HD]trece chile,https://epg.pw/stream/42317e776a08187e856caf239369b1281002a5570cd4547c33341c4e81132327.m3u8
 [BD]ChiveTV,https://epg.pw/stream/ee9c445b723e72dbdf43f171f79c4740db4e08de0877d811dc96810d081e705f.m3u8
 [HD]cnn chile ca,https://epg.pw/stream/548927d4e65cc6901525fc5bad33d55ffac80b0fbcc01bd782587569db9ff02f.m3u8
+[HD]tvchile,https://epg.pw/stream/3b1659e3bd3ab547e3fbefdeae4e4db334abce3faed7e6ba3e91350ed7d08a18.ctv
 [HD]tvr - chile,https://epg.pw/stream/2a807c864e4505cbdc7ea290da07e91f16c847e9b9dfa8b67df05c681d151189.m3u8
 [SD]tv mas - chile,https://epg.pw/stream/43cfb7675d13183d8769aefe6e91bf037c1275c7886ca8b714855f9d631887a3.m3u8
 [BD]cl | canal 13,https://epg.pw/stream/77ab32cdbb6306223acbad4e0790a9aab73c6ced61b6396d774c22d2c8a12430.ctv

@@ -54,7 +54,6 @@
 [HD]kentron tv,https://epg.pw/stream/1a5a6dd7cd26408535ee4b5f77702f1b6d1f3619ca65b8440c7c960ee473771e.ctv
 [BD]metro tv@@10,https://epg.pw/stream/f102a9f0c6197eb07d30df0cd5ce6002641482d411e36e139cf86ba08f74b920.m3u8
 [VGA]Metro TV@@1,https://epg.pw/stream/a02ff79ceaef2c150e6d724ca6d8054c1b65a727f8b5b99179550270cd500e68.ctv
-[HD]tvri nasional@@1,https://epg.pw/stream/6b84143ff2f70ccd55f3580f200df5664e5e4d0fdda0ca83383ea32845060f5f.m3u8
 [VGA]tvri nasional@@2,https://epg.pw/stream/94fcff310394e4b5be913964404ac681ae64bda249827c0bd56d763c6a082583.ctv
 [VGA]tvri nasional@@4,https://epg.pw/stream/fd726c64fb3809a1572abbab8ad4ee76fb6d060cb6f1849c6a40b5cb6fffd8a2.ctv
 [HD]tvri nasional 3,https://epg.pw/stream/a09b7fa8c3411904db651a70846121d6bce495cc7da6fe2e8e6b71be4608915a.m3u8
@@ -64,6 +63,7 @@
 [BD]tvri nasional@@5,https://epg.pw/stream/cd632319f527e68a6c7add438c0ba9873848507f859ba8b964c2f176699d298a.m3u8
 [HD]tvri nasional,https://epg.pw/stream/10fd335e5a8f9ed57b2e6e554dfee8bd8917a7d92bb73174f7921a19a8b0a176.m3u8
 [HD]tvri nasional (720p),https://epg.pw/stream/e251dc9d12b456eb15352ac997a20b04620acf123eb5da5138c8e01a4692510b.m3u8
+[HD]tvri nasional@@1,https://epg.pw/stream/6b84143ff2f70ccd55f3580f200df5664e5e4d0fdda0ca83383ea32845060f5f.m3u8
 [HD]tvri yogyakarta,https://epg.pw/stream/bf8ac8ab6094a90d9db133c9ae13aa6172c316ab91d39100b8c0081e6279595f.m3u8
 [HD]tvri jawa tengah,https://epg.pw/stream/e4c58b09d0ca7d5d8a35e7ecf133e141e62722d813cc308792329200cae7f187.m3u8
 [BD]tvri jakarta@@2,https://epg.pw/stream/586a9fed68d8ee0ce71ef34d3cda97c442dbcad3f0df6c1210a1e8422f1bd17f.m3u8
@@ -81,6 +81,9 @@
 [VGA]tvri@@5,https://epg.pw/stream/64925dff2bbfc37350524e519c42f4959261169eca145af5cd81d338c70b5d21.m3u8
 [VGA]TVRI 3 Budaya,https://epg.pw/stream/6ea6931a77317f6e7692d819d5f5c59599015c46c1a0b208a604754f074bcfa7.m3u8
 [SD]id@@2,https://epg.pw/stream/1e3f056bbb472a5617abdbf8a7c724ebfcf6c82a276414d96d34b07c7f59c044.m3u8
+[SD]id@@3,https://epg.pw/stream/f9c3a44e752124c9464feb753097ed475de89afa8086b3e8f53c96357020281c.ctv
+[BD]id hd@@1,https://epg.pw/stream/f19fb67afec2f3058118589409255604bef86d47719e733e9a4b2669772c60d4.m3u8
+[BD]id hd,https://epg.pw/stream/0cce532e17ae27f684f826b0727b0fc9ded05fb555fb9951a52377df0439434b.m3u8
 [HD]net@@1,https://epg.pw/stream/a0b911f8b3977a03f8823d70ff7360f5c81a90b5b3b91d337a0f87a85907f1f6.ctv
 [HD]net.@@2,https://epg.pw/stream/c23cb8c273bc2d4fd59379cb4309c14d758f226ad56815c5cce3d27ee4df568c.ctv
 [BD]tvnet hd,https://epg.pw/stream/711c4319eaf44a482d441c8ef3b2003382ac534461bdec4e916e5d362b17b548.ctv
