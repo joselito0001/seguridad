@@ -109,6 +109,7 @@
 [VGA]Thrill (576p),https://epg.pw/stream/ea1d457f6b599862a88f7024a062c43c45e2d4472d0a0d476b2cde1b7bbbdd0d.m3u8
 [VGA]suspiria,https://epg.pw/stream/e0d13754d9c164c9091a3cecde2a13dfe6e513126e16f199f5ef0c941ed3346a.m3u8
 [HD]suria ,https://epg.pw/stream/9a7da22263d88ac0f11223bfc2cfcc85b5275f3e2de8217faee9f3d77e20beaf.ctv
+[BD]vip serial,https://epg.pw/stream/ca06e64db13adfc45e9d3892f024b1bd350b63999b2e29b5ebb89a80d6301d11.ctv
 [BD]surya hd,https://epg.pw/stream/31163df59c07f2029b41839e01893265d7cc30c886cb4eddee7b25a8f4028e98.ctv
 [HD]arab channel 2 ,https://epg.pw/stream/ea369442e1312a095fdc909d84b801299380aede32ca032cdefc2e15f3c2396b.m3u8
 [HD]SFGovTV2 San Francisco The City Channel (720p),https://epg.pw/stream/ae768b39fc3b8cd37abe7ed6009bb20f8077e63448b7937189ab31cdfb55147f.m3u8
@@ -120,7 +121,6 @@
 [HD]spectrum channel,https://epg.pw/stream/ab75593f8fb6bc47d08d87fa7a1388146c94a26c5cc6c701672d47d24edb6f6f.m3u8
 [VGA]au| channel 9 gem sd,https://epg.pw/stream/779f08c138cccfe7f36bc10dd3d0ce07163697f7d0a5fc17af9c7f54b8f67ce9.ctv
 [HD]Cupertino City Channel (720p),https://epg.pw/stream/1f8a5b4ca9c26f7131b8d0f7e1f3aebaf5cbc0d08c72435672a18f3ee47b04be.m3u8
-[VGA]Oceanside Community Television (KOCT) Community Channel 18 (720p),https://epg.pw/stream/9863fb30228b99f27f732e73b3d101f3c0d631d3759e58af231304c356968517.m3u8
 [HD]Desi Channel (720p),https://epg.pw/stream/a9462941ca0479d4ba83218aad70f2abd7c64a3dfd25f2a0c2b1aad3a869697b.m3u8
 [BD]Smithsonian Channel HD,https://epg.pw/stream/3920e3b817b927fc4d9d65b281c8ed9c3f2eb806c4d3afa4a6d4ce596d65fb32.m3u8
 [HD]soccer channel@@2,https://epg.pw/stream/5a8e605bc3dd8eb9ac14fd477fd4d5ca986780ae6a1710e9465ab1736ee042f2.ctv
@@ -137,7 +137,7 @@
 [VGA]KBEV Spectrum Channel 6 [Beverly Hills] (1080p),https://epg.pw/stream/0c208b601c41100c123a57cdb635fb59662e0052c862ae0a4f6f4a9b10b05481.m3u8
 [VGA]au| channel 9 go hd,https://epg.pw/stream/79d4402cf6ce14bce577725003dded3992110ef57ca5695c751d720bf44f91ac.ctv
 [HD]Newington Community Television Channel 16 (Newington CT) (720p),https://epg.pw/stream/bcb2cf1827c25553be5120ee5cb296f95248e72840a9d7420f9ec1fdd692d2c6.m3u8
-[BD]The Bob Ross Channel@@3,https://epg.pw/stream/c4cae274e80e4bcb89d7e854bbf2fb4b8d4abdf463316a5e9a9fd54311329fc1.m3u8
+[HD]The Bob Ross Channel@@3,https://epg.pw/stream/c4cae274e80e4bcb89d7e854bbf2fb4b8d4abdf463316a5e9a9fd54311329fc1.m3u8
 [HD]us| cowboy channel hd,https://epg.pw/stream/31e7d924f4e2e41d890943a31c8520a10fc797bd86432ec63aefa54b1f4e169c.ctv
 [HD]Ivoire Channel (720p),https://epg.pw/stream/12c9d19469902f1f67348136403629ee3991d59f5a653cba065dfdafe363777b.m3u8
 [HD]The Preview Channel@@1,https://epg.pw/stream/7d476946c774b30cd435ea615ed38c899b909839146d2f348518da82b1aba7b2.m3u8
@@ -198,7 +198,7 @@
 [BD]the weather channel en espa�ol,https://epg.pw/stream/5d459429c12a12dc6583c4905072490780bec2a469fdae56631dfb744cb4efbf.ctv
 [HD]Smithsonian Channel,https://epg.pw/stream/b4a92746d28825bc48edba66996686ef5b7ab2a5a3362d6f4908245991493448.m3u8
 [HD]International Vietnamese Television IVTV Channel 57.16 (720p),https://epg.pw/stream/36ac065547788f06f751da1693ad53a48eed678940d486783f5d9c477b598013.m3u8
-[BD]Tribeca Channel,https://epg.pw/stream/52f38601881d29e68e18e5bfcf71e0079aa236f37c026ac5860024b1f76097fc.m3u8
+[HD]Tribeca Channel,https://epg.pw/stream/52f38601881d29e68e18e5bfcf71e0079aa236f37c026ac5860024b1f76097fc.m3u8
 [BD]Smithsonian Channel,https://epg.pw/stream/0e4a71396b66d5ef0804dfbe8a72973dcfc872067216e7c282e7439dd8e5c713.m3u8
 [HD]Burbank Channel (720p),https://epg.pw/stream/dc6b98ed202e9906f75e1380b2ca45ab7eb770884cd7f64d63a790962aed0280.m3u8
 [BD]DC Council Channel,https://epg.pw/stream/31b4da0d0eab7a930b7879993e2a0824b9107f2e54957cc0689318287090553d.m3u8
@@ -285,9 +285,9 @@
 [VGA]Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p),https://epg.pw/stream/f314c89d7348894682e92084d6e7b4ea16686b729b231f4d7ea1c44f4f902afa.m3u8
 [BD]magna channel@@3,https://epg.pw/stream/fd970ef2a7d432d123e46c88813aeb9cb99411ad85ddc628ba2beb93b8636bc7.m3u8
 [HD]IQ Channel (720p),https://epg.pw/stream/66fe57f2de23733932628202fa0f8d1641207db41b241f56bda34b9ba6103beb.m3u8
-[HD]Oceanside Community Television (KOCT) Education and Government Channel 19 (720p),https://epg.pw/stream/aa5e38a6498c681f4d35ee6873203af271d9150a4292954c0f55756636907cdc.m3u8
 [BD]Channel U,https://epg.pw/stream/c2d85d73532c06686dd7b451874e9621a9746f6ea60ab0d94397b6fe1f433f4c.ctv
 [BD]channel 5,https://epg.pw/stream/5b3c0f6f110edffc569ef9eb0064a96525debfeb97ef759b8ba6879fc67d5f44.m3u8
+[BD]channel 5@@2,https://epg.pw/stream/2be0114def438523fda19f3309a4b20e5570b7e78592d21e52fb94a3022c5b51.m3u8
 [BD]Channel 5@@1,https://epg.pw/stream/8b9545a02a39d0d8b90b70024f51ecd6e829fc9a7f6eafb8cf4e97ab334abba7.ctv
 [HD]channel 5 hd,https://epg.pw/stream/7d576de5db3239bc81ec5c8439539fff1d71e409db7d68b335a9dd20cb4a3d8e.ctv
 [BD]channel 5 (192.168.240.28),https://epg.pw/stream/e52811d029cb3f818b3de6ca16d814d5d3962e5d878e193a2b66bd1c43c502c3.m3u8
@@ -386,6 +386,7 @@
 [VGA]miaomi,https://epg.pw/stream/fc6285150883214fe4fde0b7e7bdc98e2c09a05f721197ac9f28d2d9d9bb763d.ctv
 [HD]miao mi@@2,https://epg.pw/stream/51ba032c225caac59563bb20d1b6b14b8ab542af61fcd33e9325239ea192a0ff.ctv
 [VGA]miao mi,https://epg.pw/stream/3d026a0630d351acaaac4cba33415f0ef7eb8e3be0b5122be8b38b18dbe630e3.ctv
+[HD]ani@@1,https://epg.pw/stream/843ec9c370e6b6d6df9ffede1244f6a6a881661e207482e9c1e7b3b90ba17fcb.m3u8
 [HD]Pac 12 Insider (720p),https://epg.pw/stream/961bc6fadd2eb69b96922d8036a706a727b74666be34262e32bacf6d159b6578.m3u8
 [BD][美国]pac 12 insider,https://epg.pw/stream/79d379dc76485723071dd1d76675d038258846df65ba6e6d16a9ecccd96c7e37.m3u8
 [SD]pac 12 insider (720p),https://epg.pw/stream/04dc0404cec82d372ed32c09985d55331e918ac9f202b0a558417b25bfcae718.m3u8
@@ -406,8 +407,10 @@
 [HD]Jurassic World Dominion,https://epg.pw/stream/f5d2c75b16581a7bfd801b2f7a92a544af9210ff3484c20d1d532d86d2b386db.ctv
 [SD]tlc world hd eng,https://epg.pw/stream/e262bb23dea2762fdddf87c6445cc4af52b3c9d50bfcac48ed09c733af8f3e49.ctv
 [SD]jurassic world 3: dominion (2022),https://epg.pw/stream/3f47af0d8dcb427e8eb08adbe3b35fd3e1057758b0a62523b293897b147af242.ctv
+[BD]en tlc world hd,https://epg.pw/stream/629d87ea0ce4d19991b0c77c09969b3fe73ed3cdbafcdcd68f439173c90d35f1.m3u8
 [VGA]jurassic world yıkılmış krallık,https://epg.pw/stream/c2b6eac0a84853978c39d1026a3f38a03f4b0382284f8a5010d7602d952eedbe.m3u8
 [HD]animax asia,https://epg.pw/stream/f1330bfb561a1c239e4420b1c693a1196a6f8398addfde5e182b38c54945a738.ctv
+[BD]prima asia,https://epg.pw/stream/e37d694478dc874a1cfecdac19b47ea09b90e5508ffeb45984dd187ec81c15f7.m3u8
 [BD]be@ttv,https://epg.pw/stream/9bc1b50558b910aca7fe40ab0eef4b9acc347d7f789cd817b4242b85e3f50e63.m3u8
 [SD]BETV (360p) [Not 24/7] [Geo-blocked],https://epg.pw/stream/6e4acf214734c68c5000887fc4e430927fb9f8eb2bed2339c08276caed3d6d8d.m3u8
 [SD]betv (360p) [not 24/7] [geo-blocked],https://epg.pw/stream/60c19d578ff46d9ccd5761cfc1a1983379550400f9b16afd136d1d70702ab420.m3u8

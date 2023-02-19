@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="52129" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[BD]loupe tv
+https://epg.pw/stream/8f75ab698fc49b781517a25c5e920a9d47451ebe2453b2615323f5e94aa4453e.m3u8
 #EXTINF:-1 tvg-id="52129" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[BD]LUXE.TV
 https://epg.pw/stream/41c62b8e84b7bfc32093d02d7fc6da55bd7b9471a2fb792eed79a84efbd534fc.m3u8
 #EXTINF:-1 tvg-id="52129" tvg-country="Luxembourg" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png" group-title="Generic",[SD]luxe tv (1080p)

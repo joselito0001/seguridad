@@ -43,7 +43,7 @@
 [HD]metro tv@@4,https://epg.pw/stream/0a0553ff1eca01f3bd2f7418dfc216763bc1e5c4c7ba10c57ed1f3da2bbc8b46.m3u8
 [VGA]metro tv [backup],https://epg.pw/stream/a31898ddb803c39b5e0661d4632de8e8802249171401fa47afc26d0d331bb3a7.m3u8
 [HD]Metro TV,https://epg.pw/stream/9836ba75a84b0718e58c57e8741e9b73d7b182adb615c7d1dbf88ed0e7b24a9b.m3u8
-[BD]MetArt HD,https://epg.pw/stream/001fc3173630e2c15762dc8962fd59a39ac158736db47d47647b651d879c11b7.m3u8
+[HD]MetArt HD,https://epg.pw/stream/001fc3173630e2c15762dc8962fd59a39ac158736db47d47647b651d879c11b7.m3u8
 [SD]Metro TV,https://epg.pw/stream/9542b21d88157d0a755857bc9b55208e2b1b7b6819fd36ee1b127ba486f1244a.m3u8
 [SD]Metro TV,https://epg.pw/stream/ac8546a3d07eef43344a246f135b3a3b3bd6f510146a61475f4c8b73212a98aa.m3u8
 [HD]metrotv@@1,https://epg.pw/stream/52057bed26a54ff3549a9affb435e5d848e01df5984158f70613b3058e78f44f.m3u8
@@ -57,6 +57,7 @@
 [VGA]tvri nasional@@2,https://epg.pw/stream/94fcff310394e4b5be913964404ac681ae64bda249827c0bd56d763c6a082583.ctv
 [VGA]tvri nasional@@4,https://epg.pw/stream/fd726c64fb3809a1572abbab8ad4ee76fb6d060cb6f1849c6a40b5cb6fffd8a2.ctv
 [HD]tvri nasional 3,https://epg.pw/stream/a09b7fa8c3411904db651a70846121d6bce495cc7da6fe2e8e6b71be4608915a.m3u8
+[BD]tvri nasional@@6,https://epg.pw/stream/717e418e1febca75ebc86cbc9307689e97fb389b71284ba86da48ae9086575e1.m3u8
 [VGA]TVRI NASIONAL,https://epg.pw/stream/d112e57e86c413ebe830c039eda4b60014ae3f736d79075fe9cdf9da289058a3.m3u8
 [HD]tvri nasional@@3,https://epg.pw/stream/5c78c7bfbdaf2d6a8f89cb1113cce7388ac4fb845b5f9f3b64e3c03306024327.m3u8
 [HD]TVRI Nasional,https://epg.pw/stream/f7f5841e5743b10bc92a6c28c9049ae48a7da124370fca719cd2009ac683e447.m3u8
@@ -208,6 +209,7 @@
 [VGA]kompas tv,https://epg.pw/stream/6022befe7d43aedb15246a4797bb9f51d9242b4f408f9f64278b6f6359998937.ctv
 [VGA]kompas tv@@1,https://epg.pw/stream/ffbdbf538548e60b1bf972531f7ff58abb572c8080a518fe7f71b347c1ecd9e1.m3u8
 [VGA]Kompas TV,https://epg.pw/stream/dcf74accb7514a59d99882447bf59f2d7960b853b109dffb2de5a82fd9dc5edc.m3u8
+[HD]disney channel hindi,https://epg.pw/stream/f250441551a3f5ffaa7b2e215ea2fe6b91ff9967fd055ef0ef924d801550d532.m3u8
 [SD]pl| metro,https://epg.pw/stream/1a8fd30ffe6a462c8d793fe4880e9189742024da3fd141bce1f56702b9019e7e.ctv
 [BD]metro globe network,https://epg.pw/stream/5e23a68992f9577cec86e89240ae685da5c7af73a8398305735588ad2575dc1d.m3u8
 [BD]MetroGlobeNetwork.id,https://epg.pw/stream/f8a1f30405e63120d1a49383adbbb133d4cf25011dc14d5c7f94f311ebb5cd42.m3u8
@@ -295,7 +297,6 @@
 [HD]mnc news,https://epg.pw/stream/f22cd54f2acebad36869015d7942d91a25b250bd59cb756f150944c7d2730bea.ctv
 [SD]inews@@8,https://epg.pw/stream/ce9d9891069c02ac4d354eb96d34f80719c8fbbea28616d80a753a73d58713fd.ctv
 [HD]inews@@4,https://epg.pw/stream/933da9adb824d9b5d93e67632491ea820800e35251601731d8b096c4c5dc1fd8.m3u8
-[BD]Inews,https://epg.pw/stream/ef2cb0e5370ce5bcbb124155c7cd994a84a760388b44b9f8281897c99df1a3a1.m3u8
 [HD]inews@@6,https://epg.pw/stream/377e8934c10e2420d0a41de4f13477399cec78fb5ae7849d33b2f07490b42c69.ctv
 [VGA]inews@@5,https://epg.pw/stream/9fe752b9f1231dd5a698e6fb99afa16edd7c493576176da98172511e81da9c95.ctv
 [HD]inews@@3,https://epg.pw/stream/5a3cb3f98fa38be9ff95ba355c000669573e20bc22be3705ac6ca814d21dec96.ctv
