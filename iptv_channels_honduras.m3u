@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232427375761_42.png" group-title="Sport",[BD]todo deportes tv
+https://epg.pw/stream/829a5cd6d823a9e6edce8b228ee64ac871dc9ad2484a1c75850ef45610939c09.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]telesur@@6
 https://epg.pw/stream/a78748f7f1cf3a1d086fbe163a73ec0d184498cd22f480df3dfb191f91a94c81.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Honduras" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174437413062_94.png" group-title="Entertainment",[BD]teleSUR (1080p)

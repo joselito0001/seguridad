@@ -5,10 +5,10 @@ https://epg.pw/stream/cb47899b323e9be8a10076cad32e1d8ee5d32c021a17a9c3526eb5b01b
 https://epg.pw/stream/384da7ff40accd518c5104aa84bb1b5e26a0c9aa5bae2296de1a05a03f6cb0d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/17/20170517015424123095_44.jpg" group-title="Entertainment",[BD]lalegul tv@@2
 https://epg.pw/stream/b72cf05f9c329cdde8e592acfb2270bd5c2c3b445aa468e5a7e218cdc84c2e32.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/17/20170517015424123095_44.jpg" group-title="Entertainment",[SD]UA TV
-https://epg.pw/stream/81b44aab8b8d8ec8e5d513134a049baea4158930b2953c59ee4936e4ce533711.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205521953052_11.png" group-title="Sport",[HD]bahrain sports 1
 https://epg.pw/stream/d68c54465195241e71db10d6c6789c55d8607c89e8a93612bdb2fcfb2abfc5f1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205521953052_11.png" group-title="Sport",[BD]jordan sport tv
+https://epg.pw/stream/28013875ccc976b98fae14ab36fef8ea928dfde316bb28a359de95dc4f401cd2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205521953052_11.png" group-title="Sport",[HD][巴林]bahrain sports 1
 https://epg.pw/stream/ea1f9eeccf09d6e7f79aabf9876e4b886aa9152835860b3fbced136df8307123.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205521953052_11.png" group-title="Sport",[BD]sharjah sports tv fhd
@@ -31,8 +31,12 @@ https://epg.pw/stream/84137c489de9b567ad84cbc3fc501c269d4e8e445f649ac84088a44363
 https://epg.pw/stream/ad6c59cc433c28c922de178b223c1dd627b2552146efe916a3b31ea312144ae4.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827084058247031_92.jpg" group-title="Sport",[BD]bahrain sport 2 hd@@2
 https://epg.pw/stream/5aa3b0b6a1b20b383766b9c62b2b17d2a3f160e96d048aea979309a54ee2fd51.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827084058247031_92.jpg" group-title="Sport",[BD]bahrain_sport_1_hd
+https://epg.pw/stream/184494ed6fb45010bbf2438400798f40147347d9ff718f56be194e720cbc6a63.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827084058247031_92.jpg" group-title="Sport",[BD]bahrain sport 1 hd@@3
 https://epg.pw/stream/aa36df233ac871c2d7293dfb010ec83128c4048bf415891c54d96e63c60738eb.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827084058247031_92.jpg" group-title="Sport",[BD]bahrain_sport_2_hd
+https://epg.pw/stream/3948ae63257a931bd651b753e0db4f0d9292e7bfc86e948b6b2119ac0368f188.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827084058247031_92.jpg" group-title="Sport",[BD]bahrain sport 2 hd
 https://epg.pw/stream/e306e3c828ae65dac06dba2d625579f20dfe439e15703c0f4756bde35123a80a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bahrain" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173921187327_71.png" group-title="Other",[HD]al maaref tv@@1

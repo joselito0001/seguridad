@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Myanmar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/06/05/large/20150605132310549584_23.jpg" group-title="Sport",[BD]on time sports hd+
+https://epg.pw/stream/23ada9ab9d182dcc0f11be80d8d56a66e564ad8522fb81e5a0ec678517eb74ac.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Myanmar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/06/05/large/20150605132310549584_23.jpg" group-title="Sport",[BD]on time sports 3hd+
+https://epg.pw/stream/fe2b9fb915f8ef88bad6250de67968d0d9d4a4a2cb73e3a4988b5ae68f2295fe.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/08/20170308092109265812_53.jpg" group-title="Entertainment",[VGA]缅甸MRTV4
 https://epg.pw/stream/498fda93ab5382ad176e5dd96f5d718381d6313dca3c92290d979b0d0e2967e3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/08/20170308092109265812_53.jpg" group-title="Entertainment",[SD]缅甸MRTV4

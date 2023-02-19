@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="12815" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122194511340742_87.jpg" group-title="Generic",[BD]emanuelle hd
+#EXTINF:-1 tvg-id="12815" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122194511340742_87.jpg" group-title="Generic",[HD]emanuelle hd
 https://epg.pw/stream/9711721becf0a4622a920bc1180e59123ad1349bd59d346ea3ed6172557b5318.m3u8
 #EXTINF:-1 tvg-id="12815" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122194511340742_87.jpg" group-title="Generic",[BD]Emanuelle HD
 https://epg.pw/stream/e9be69fa7a61705035b63e67c53e15944df57dcadbdfa52268abdc746efc639d.m3u8
 #EXTINF:-1 tvg-id="12815" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122194511340742_87.jpg" group-title="Generic",[BD]emanuelle
 https://epg.pw/stream/f7630faf6fbf7605c8669d397b6b882657abd9457bd0dc1b864197b3765c38d7.ctv
+#EXTINF:-1 tvg-id="12705" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/24/large/20230124010037178354_11.jpg" group-title="Entertainment",[HD]epic hd
+https://epg.pw/stream/812174ab33d316b5f14e5ddcd3ad62b208fda38925d3c26cb918505e043dca12.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/04/20160104044342985848_53.jpg" group-title="News",[HD]TVídeoNews (720p) [Not 24/7]
 https://epg.pw/stream/2eb06eaa8c26caf6f7fefc2f7c114427181fd61728b957151ee1b58e385b0c1a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/04/20160104044342985848_53.jpg" group-title="News",[BD]cnews
@@ -13,6 +15,8 @@ https://epg.pw/stream/654d8da86e5f7598b67e04202b81b3c0537d42e442a1b7199007955af4
 https://epg.pw/stream/56d0c929d25597880659aa02b5d04857c40357d2cd49e812eb6c8da0005770d5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/02/17/20160217035539468790_54.png" group-title="Entertainment",[VGA]entertainment@@2
 https://epg.pw/stream/61192ebfafeea9dd2e4f2578622de18399d92010d48a040d60f26d706f2c1f4d.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/31/20181031172633951820_21.jpg" group-title="News",[BD]channels television
+https://epg.pw/stream/d49ca3977b3ac03001a9a9c89301718858084e02daa99892314a3e6a479e8abf.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/31/20181031172633951820_21.jpg" group-title="News",[BD]mk television
 https://epg.pw/stream/ebc2c5bc111b87f1f35000a8a78f97b70724620b2454a065dba6a18160ae7220.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Nigeria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/31/20181031172633951820_21.jpg" group-title="News",[BD]gh television
