@@ -13,7 +13,7 @@ https://epg.pw/stream/ff888449a834ee12d78185cadf4bb48d6cc42f92df533a44e9f235f9e1
 https://epg.pw/stream/09e697a1e73eba28170a2334118091e0eae435cbd55df3cb5d214e3d80150790.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130070802840426_19.jpg" group-title="Movie",[VGA]GOLD
 https://epg.pw/stream/922d0a34569dda4d1d380b61d9787726e7f27d668d68acf9a509a077319a2553.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081356126686_82.jpg" group-title="Generic",[HD]rtv@@10
+#EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130081356126686_82.jpg" group-title="Generic",[VGA]rtv@@10
 https://epg.pw/stream/a581867c3416390d98f4cf0a68c6c8dc07fa07f9b4b89a8faab438e17ae5b5c8.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130090004030449_61.jpg" group-title="Sport",[BD]tring_sport_2hd
 https://epg.pw/stream/52ff7f444b302d991b624f652944c013f2812e3b2af144e1df8b316b1ae0f4d8.ctv
@@ -31,13 +31,13 @@ https://epg.pw/stream/356f58ab47a2f09d092dee4e9ab4d4479aa5317b7edca01296fc07f907
 https://epg.pw/stream/ffab132950f246b31b11e4cf1dfcf8daf9d46a6c07e55affee1bf601c91cb580.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/05/20160505153535954685_44.png" group-title="Entertainment",[HD]RTSH 1 HD ALB
 https://epg.pw/stream/cfbc34cc2e103d48fa477c21664ceb22977e53b8559d83052e83b2453d3c6445.m3u8
-#EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]xy plus 6
+#EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[SD]xy plus 6
 https://epg.pw/stream/c4d3507fccd69104231b73b060e39832c03f89bb178b6eb8d0f0fde6d5eef6bb.m3u8
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]Retro Plus 3 (720p)
 https://epg.pw/stream/44fb52893cbbaf9a4bafb4b08a50c89c377a094b818cf5723b7dffe13535b85a.m3u8
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]Paramount Plus Picks (720p)
 https://epg.pw/stream/8307628d1eb1e136d9b61d50189fe135a92a631a233ec1fff404d2d75fabfc12.m3u8
-#EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]wowow plus
+#EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]wowow plus
 https://epg.pw/stream/0ca25d7be617b180b813a018d1b2c0c17f70e8cd62766aa0d5656037374c31dd.m3u8
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[SD]de pelicula plus
 https://epg.pw/stream/9e66b21c971de5df94625fffd34ecebb7bcc63df8cba9872ff4b3a76ff036ca7.m3u8
@@ -93,7 +93,7 @@ https://epg.pw/stream/60827049e537d7a376b38bb82240467597164dbb22346b35116317a472
 https://epg.pw/stream/fa63a2b4c6cd4a991d7b1fe63e7c9dc90c6c7bb04d35b27d97f9d465f59c4f0e.m3u8
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]filmbox plus
 https://epg.pw/stream/169eb241e802b9784dc871d150f0872a05346cc6e1d2f487143957bf2e19bc61.ctv
-#EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[HD]toggo plus@@1
+#EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[SD]toggo plus@@1
 https://epg.pw/stream/3e343a114eb310cb5c6f7179acbec6872c6830152b03043e96e96025fa969bf1.ctv
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[SD]CJ OnStyle Plus
 https://epg.pw/stream/b05f7bb7a51400dc41a8ba70c63fc7b47d1d473e0f6cf18b6d593af554bf2cdd.m3u8
@@ -121,6 +121,8 @@ https://epg.pw/stream/f7300348ea4de99c6a61f996d281c8577e612a4fc60d0fb4c73ee0fb03
 https://epg.pw/stream/ae8408f86f75aa6f7d3abb9deaa01372e925fbaa069571f75d813ccf03c1885e.ctv
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[BD]XY Plus 6
 https://epg.pw/stream/0f716a846e510ba80fb9fe2d4e31acf7ef54ef51d16e79df1d32a9c9de5e67ad.m3u8
+#EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[SD]utv plus
+https://epg.pw/stream/e26c6df64bfcc25e8e92db4a416d3cf32025fecbea8369b96cb2f0f888ca237a.m3u8
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[SD]xxx:xy plus+6 hd
 https://epg.pw/stream/852908ca11f5b2e9cc2b9f579cb20bb272bfdb65dafdd4cc1800fe0651526965.ctv
 #EXTINF:-1 tvg-id="39005" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220160831742622_62.jpg" group-title="Generic",[VGA]movistar plus

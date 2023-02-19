@@ -11,6 +11,10 @@ https://epg.pw/stream/c0d73b4aaa12380c5fb793b6f39e21a2194a78a23a1b8790b0555ae0c6
 https://epg.pw/stream/c596b2859b0cb59fd29f54a38f3ccf5030304117d65f254a82616f57d8d9fbdf.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175033520459_95.png" group-title="Entertainment",[HD]TVP Culiacán (720p) [Not 24/7]
 https://epg.pw/stream/2cef1cd002f11541c817e99a5fa8476343b899e72ef948f3727004d46eaafd4c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175033520459_95.png" group-title="Entertainment",[BD]tvp culiacan@@2
+https://epg.pw/stream/3c027da5752fb4b151f703fda3458f7841846157bd34a907253a65f80955f28f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175033520459_95.png" group-title="Entertainment",[BD]tvp culiacan@@1
+https://epg.pw/stream/1a1bbc2fe3af1546eaedf56aa1c38837cdbe69d4eae4144748537f23971155ae.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175033520459_95.png" group-title="Entertainment",[HD]tvp culiacan
 https://epg.pw/stream/03bd710e98878196d06d61a302c040c1c784e6697a91719614a000c5e49079b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/06/20160106002112203418_57.png" group-title="Entertainment",[VGA]MegaTV (480p)
@@ -25,14 +29,20 @@ https://epg.pw/stream/5e4bd66fda355b2dc5760f0f4efa31671c4510f1f5992821ae1c3a74d8
 https://epg.pw/stream/97c8d438747ad64db06657641702a218853d433e148684b9110b8cb553b23e95.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020558784106_11.png" group-title="Entertainment",[VGA]T-Vinet
 https://epg.pw/stream/743fc70a869b43d6ba6c0ed743fff0a50553d632c6a8f780d5038b8c95fffc82.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020558784106_11.png" group-title="Entertainment",[BD]vision tv
+https://epg.pw/stream/8d76e845a5d0c8152c16df3e6e06a5f05d06e723cc0a47d0e5eca7bfaf4c2f64.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020558784106_11.png" group-title="Entertainment",[VGA]t-vinet
 https://epg.pw/stream/038d23cf4886ff9979137d077736fc487148ff09a1bb4549ee148f5aceed53e3.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020558784106_11.png" group-title="Entertainment",[HD]t-vinet@@1
+https://epg.pw/stream/f747b3bdf9562ba5fcab249421572f975e6e1d66f9871f571823fbedfe9972f3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020558784106_11.png" group-title="Entertainment",[HD]bucovina tv
 https://epg.pw/stream/9e3d764b16de10a8f1bb1422ce4c83cfb7d849609ddd1178d52a352d942ae8b1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020558784106_11.png" group-title="Entertainment",[BD]vigo tv¸
 https://epg.pw/stream/58ec279f08870eeb15b575c84b02b1705799028ae0de170784ad904f09fb2f48.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020558784106_11.png" group-title="Entertainment",[HD]vintage tv
 https://epg.pw/stream/dc99f8b8a4bf2d6687fd77e0c9b6a7a7a95fa415a19188d32a83a57bc922d7b7.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/07/20160107174218033216_15.jpg" group-title="Entertainment",[BD]emocion tv
+https://epg.pw/stream/b6336388b338cc1dff5dcd58b95a3a6f2c3ed70c5f5274bddfce24839c6e2491.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/07/20160107174218033216_15.jpg" group-title="Entertainment",[BD]bein iz tv@@1
 https://epg.pw/stream/789f13e9072f126f4f8d6db204ee39aa06a96729e7994a088c1fe3caafa582fe.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/07/20160107174218033216_15.jpg" group-title="Entertainment",[BD]bein hg tv
@@ -47,6 +57,8 @@ https://epg.pw/stream/614a8f1416a18e9f4526e48fc473c614002b342d6088ae5cee3e099b9e
 https://epg.pw/stream/6a974a6582838d36773bee59e18cb598056746661b51dcb30cc2e87bb135861e.m3u8
 #EXTINF:-1 tvg-id="63222" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/18/20160518053416189910_56.png" group-title="News",[HD]dd news@@3
 https://epg.pw/stream/08e4dbfebd2a6c6fd584f7bbd5b4978d42fda873c70ab5c83faf258b328221fa.ctv
+#EXTINF:-1 tvg-id="63222" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/18/20160518053416189910_56.png" group-title="News",[SD]dd news
+https://epg.pw/stream/7fb50738ee3b3a27cc72791a00e2de59ba082248f2deabefa99a78eb3f50b5b4.ctv
 #EXTINF:-1 tvg-id="63222" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/18/20160518053416189910_56.png" group-title="News",[HD]metro news hd-endonezya
 https://epg.pw/stream/9d15e9f371cdf5ebf3d4f7359e149b40caf17665298e99bece9c5cc6572f8913.m3u8
 #EXTINF:-1 tvg-id="63222" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/18/20160518053416189910_56.png" group-title="News",[SD]dd news@@2
@@ -55,8 +67,16 @@ https://epg.pw/stream/dc5b6375f806bd2e9dbfc2cb3a2015e003af7ba514f5487ae19b971523
 https://epg.pw/stream/3f78d919c025d5acd3483c5e37b93c70dedcf8f32408d86b2447803d88aad9ed.ctv
 #EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[BD]bet tv
 https://epg.pw/stream/122c606faa3afca92b3cf32533324d5227dcd6fa8d48c667500f2fd598cca992.m3u8
-#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[SD]net. tv
+#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[BD]net tv@@5
+https://epg.pw/stream/71f3571d834885c95026a698d1f736c89d433fc9733bc6c63c4cca4784855b3e.m3u8
+#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]tvri ntb
+https://epg.pw/stream/1214c60dfa6a0803353c3eb543b60bffa5369ad3b21613760a88d49d67d6f14f.m3u8
+#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]tvri ntt
+https://epg.pw/stream/72f17ee487a7e6398d6837160e4b53698a6ca6ec2f080a52e6a2f33f57abdbcd.m3u8
+#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[VGA]net. tv
 https://epg.pw/stream/aef14353b9e2d1425c96ef52f2ea46f94a7bbc907062c130a83c3a29579e63c4.ctv
+#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[SD]net tv@@6
+https://epg.pw/stream/baccdc3d7f293dcfddc63502651d4969ef35bc51eec0150f2a3d86d870849108.ctv
 #EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]net tv@@1
 https://epg.pw/stream/da0dc6770a58392f577e72227b6bc1bffa7ec6ac8ffa1b3c31f597566c64a3ba.m3u8
 #EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]net tv
@@ -65,11 +85,13 @@ https://epg.pw/stream/a8a74c94c37aa82c11405b48258519dc1b00c7ca59393b9de5505ccc93
 https://epg.pw/stream/7759898f2f77b72081ce9a6d98de6acaec4cac1957d430bb0e759709931bde9f.m3u8
 #EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]net tv hd (argentina)
 https://epg.pw/stream/51fc95570e746749ac1b345fe5ec5d3a22668ea1644123e1b35d3aba5853c981.m3u8
+#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[BD]nubeh tv@@2
+https://epg.pw/stream/80257d6f04a9cdac7489a2ff89326618914483e61170bdc887ae49f47da678c8.m3u8
 #EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]Lao Net TV (720p)
 https://epg.pw/stream/68b9ded10ce7469ec4a789149eac3f224b2278b968e4022f855f5356904eb252.m3u8
 #EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]net tv (stream 2)
 https://epg.pw/stream/154fc3aabd1736d054b011801c7ff17139680a9a064eaf26872a7fa6b3482a52.m3u8
-#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[BD]net. tv@@1
+#EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[HD]net. tv@@1
 https://epg.pw/stream/5633b23e7c2359a04ba723bb631c8c447bf31a65ed9d3fc3ac4f9ea6de338e08.ctv
 #EXTINF:-1 tvg-id="63241" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png" group-title="Other",[VGA]net tv 27.2
 https://epg.pw/stream/994706870f433a28f5859d97e4d1432abe248586ade2b88f6eadc7a24a971663.m3u8
@@ -97,6 +119,8 @@ https://epg.pw/stream/48cbafa5fb11274ddb089e0d2f3c2dd0b71393eea15bf3411b31b47660
 https://epg.pw/stream/db5b5ebde3e7ecb07ac3f153754e25d09afd79906862b488ac24b5d88eaca3d3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/17/20161017062026593600_72.png" group-title="Entertainment",[BD]Shadow Master
 https://epg.pw/stream/3e4f51f2e6e31c7f97bb576d7a0ab9b50400e8896b8c897154b0356ac5eec04c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/13/20161113074721279475_71.jpg" group-title="Movie",[BD]newkid tv
+https://epg.pw/stream/22ec9ec070ac5f28f51b9d4433b1653ded1864e7101e9c31cd60e4e1600891e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/13/20161113074721279475_71.jpg" group-title="Movie",[SD]New World TV (360p)
 https://epg.pw/stream/c0bafc333b2163209426a6a503a636f65a14c36f40d8ea2110516b3bb36c5c47.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/13/20161113074721279475_71.jpg" group-title="Movie",[HD]Pluto TV The New Detectives (720p)
@@ -121,16 +145,22 @@ https://epg.pw/stream/0369dec4d8a4368258afe7c315fde75b7eecfae68f7e8ea73e395c150d
 https://epg.pw/stream/97188d92a9a894a4adc6505f54d01e368f76afbfd475ebd1b447b7777fed9410.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/08/28/large/20220828211847307124_66.jpg" group-title="Generic",[HD]lon tv (lokale omroep nuenen) (720p)
 https://epg.pw/stream/8d55050ee21548a399aeb5f718bedad3a34a1fa2cc0483cf5e00b8a8a907f96b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104000239827692_19.jpg" group-title="Documentary",[SD]tawaf tv@@3
+https://epg.pw/stream/e0c6bf0c1ad7521c3f79cc18cccf11cfffcb903886087ae491013d1ea2449691.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104000239827692_19.jpg" group-title="Documentary",[HD]la tv
+https://epg.pw/stream/3bdca6a2b31ec12160c481ba4c3c9be043a43152970cf96fc07076243cfcb309.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104000239827692_19.jpg" group-title="Documentary",[BD]awtv hd
 https://epg.pw/stream/844f4c905484e58f93606b44f2c852e5fca61ed57ae0575671f097ff223bf4d8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104000239827692_19.jpg" group-title="Documentary",[BD]awtv hd@@1
 https://epg.pw/stream/beae549dd1a3c339ba520991f8bdf4fb648fb342b6e9910fe5e27fd870c50bca.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104000239827692_19.jpg" group-title="Documentary",[HD]tawaf tv@@2
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104000239827692_19.jpg" group-title="Documentary",[VGA]tawaf tv@@2
 https://epg.pw/stream/7f7501b4aec47156de5463b182e300eb3b87d010a8e97784ba4e4b9cf8aa972c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104005315996688_16.png" group-title="Cartoon",[HD]tr| 360 tv hd+
 https://epg.pw/stream/90785edf88ccd238955b9660754c92e08d7110725742116c305b50a1b6aafea7.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[BD]tr| halk tv hd
 https://epg.pw/stream/be0bf6dd7ed7e93f7f9a15954715675d58dadc1666ebe6d4e7563cc7f4b0b18e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[BD]talk tv
+https://epg.pw/stream/8e174c549b6694e47b5ed79b45d7c8e12a4c38e9a4e2a61d421df12c6f8cdd8e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[BD]talktv
 https://epg.pw/stream/ef91d535e73b28c33bd4efd24e79a9f10ed9d42f2adfb037fbbed8c3f59835b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104010152658279_68.jpg" group-title="News",[HD]halk tv@@3
@@ -371,6 +401,8 @@ https://epg.pw/stream/2db3a2496699db094393c126cb9b95b346d541e29569019de04660902c
 https://epg.pw/stream/59da377e9bc96195d850d44065eb382cc293a65d3e6a55bdb1daaa25f03209fa.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]xsport ua hd
 https://epg.pw/stream/452963d32ebc72bea3bf055b687c5ccf4203330d4c6372a649a6a81abae7c33d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]blue sport 2@@2
+https://epg.pw/stream/59cdc02117bff5a3e3f2ab1fa73a7f0d9321af50b0e9a565e27b760033244b7f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[VGA]sport ru 
 https://epg.pw/stream/df726ed38ac2559c43450968214d84a7cc6600dbd249a2d30fbc5b544a2009b7.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[HD]varzish sport hd 
@@ -395,6 +427,8 @@ https://epg.pw/stream/5f4888c80aea5c2c8b04f0f2d785f1978029d670596ab8143251717bc7
 https://epg.pw/stream/cfb5f4f9cc113d5accf533a2d8b174364cf5640f2fd25b6a818828e37aa015f9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]libya sport 2 4k
 https://epg.pw/stream/cf912fb37679720d86afa726889ed5726bf79b0fc30140e8476642f5c1837c9c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]directv sport
+https://epg.pw/stream/8ae85855473c5ad643889b1a29e74e519cffc0e1e1b196c62401c73cfc945852.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]qirguistán sport 
 https://epg.pw/stream/0653737bd8681b036b33eec733cbc44d457fb330ed26435060948d187992ea8e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]Ziggo Sport 4K
@@ -447,7 +481,7 @@ https://epg.pw/stream/dcbab99c1ef8b835741ef4772cc1822bbc4c6f81553f05ea8ed4d57ea0
 https://epg.pw/stream/432b122c922d3db1022674f6a0d5df3a0011c92c8969774f6019dc3e99bbca39.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]ssc sport 2 hd
 https://epg.pw/stream/a3b19460bbc25d3f0514b98bf6b20a80df070fe3ab307ef835d25cfad08b89e4.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]auto motor und sport
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[HD]auto motor und sport
 https://epg.pw/stream/78e6e5018bd8780756bcbd4395639795fe08256b01631fa99565fb62b9ae6fb8.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[HD]it| sky sport moto gp hd
 https://epg.pw/stream/f34e24dbc4098a8791b549572532efbd18bcd130e27bf3c018fa5d07115a3833.ctv
@@ -495,8 +529,14 @@ https://epg.pw/stream/439f7904df6e5659495a3c567616312f3b0c31c39dffa548ca5b1be312
 https://epg.pw/stream/5c0b2e6a4651e26564f24a334c99d3c537c6a8479070cf3eb2917981b288e8ab.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[HD]nz sky sport 9
 https://epg.pw/stream/83cfa5185062a388bd1fae8d497a91b1ffcb807f06c08adf3b8ac74c5983e60a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]magenta sport 17@@1
+https://epg.pw/stream/8fa6c1fb26639b220328e5bb594509fdc9a719891b83168d52ba486a34d1add3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[HD]directtv sport
 https://epg.pw/stream/325695c41b5b4ca50498c44e3f65f505af37e6067adcf3fc7c6d23902da1ab32.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]magenta sport 10
+https://epg.pw/stream/78ed58b6551655876e16d97fb9a8f5d3cecd0294adf53a4e9b66f72618dc8253.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]magenta sport 16
+https://epg.pw/stream/57fce264dd36c37ce8a8450ddca4d35cf1861e21b34ce150da178cf75fb4f968.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[BD]win sport + op2
 https://epg.pw/stream/17f50faadd3f8d742edf5c3856844227457ee3b27161d3167ba739ca6c819127.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Sport",[HD]nz sky sport 7
@@ -529,6 +569,8 @@ https://epg.pw/stream/064dc49de140ddbcd38171ea63847b06c7ac7a2dc6ea9a141cdc6d4e87
 https://epg.pw/stream/f658ac62b3008683f46264a0cb2656ee69427a921681c47bd9fde7a39fb99ef5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/09/01/20170901002039781898_53.jpg" group-title="Other",[BD]cine drama@@1
 https://epg.pw/stream/2aa2a28e03ebea6e4d2c6f4f629f7aea517b4a44fa542a65ea3a34ced7129a70.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/09/01/20170901002039781898_53.jpg" group-title="Other",[BD]cine drama@@2
+https://epg.pw/stream/8ee749c284233a077b470a0683b0ac967550b8358ba97322de04134238c587cb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/09/01/20170901002039781898_53.jpg" group-title="Other",[HD]cine drama
 https://epg.pw/stream/af42283b149e910f0ef016ad1cb6176cbfab35db0a9807ae727100b705b0067d.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/09/01/20170901015600147261_11.png" group-title="Other",[BD]Télézap par TVPlayer
@@ -541,6 +583,8 @@ https://epg.pw/stream/2d8cfa62ee1908bd4da58c58695312d19325421a41002fe28b8bcb42df
 https://epg.pw/stream/4cfbc9960b1a09c58a4c56f82a0bf612926cd2e4b20205ad86a48f6ff0f4f99e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722091508064207_24.jpg" group-title="Generic",[HD]tokusato
 https://epg.pw/stream/f8ee770280bd95f26e1c3d45fc0f5790d35517fc71548384b0977ed254a4baa0.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722091508064207_24.jpg" group-title="Generic",[BD]tokusato@@3
+https://epg.pw/stream/d228408ba0e7c143f40126c270f3d9ee9ea52e1427bd9decb6b71e900ce56553.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174251080216_14.png" group-title="Other",[HD]payame tv hd
 https://epg.pw/stream/9383762d074dc1dca6301936cf559eb3678e86cee0c07d5c2baebeef01a6c498.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174251080216_14.png" group-title="Other",[HD]payam tv (720p) [not 24/7]
@@ -549,7 +593,11 @@ https://epg.pw/stream/dd08fe9d69790027ff28bf8a4e77343965fd387d78846ce08ba8fa8a17
 https://epg.pw/stream/06c4cfb0c1fbb4b90c9bec3458414bda90ffcd6b22c03d10240a6656b46eaf78.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174847019187_75.png" group-title="Generic",[HD]kurdistan tv
 https://epg.pw/stream/921a608e91578c31967a1f36e3086f834af70dda1a063149926b3c95c7bbcde7.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019011334872258_44.png" group-title="Entertainment",[HD]rohi tv
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174847019187_75.png" group-title="Generic",[BD]kurdistan sports
+https://epg.pw/stream/8717c5e48b5fcbae8b4025dd56fc386b92561cee4929a4846a1920dfaa68f8f4.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174847019187_75.png" group-title="Generic",[HD]cristiana tv
+https://epg.pw/stream/0edf6fb43a30e18e616e25091b9d914e1a326ccd7244dc346b8eaee3c3bcae76.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019011334872258_44.png" group-title="Entertainment",[SD]rohi tv
 https://epg.pw/stream/55099565e17f22cb4b8abeb998a2feb75c083356d1b5b55209af03e9a49026ce.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022312523202_58.png" group-title="Generic",[BD]trt kurdi@@2
 https://epg.pw/stream/62918b8a7871a260732183ce65d55e413a22f8b3f18f8d2dc74a25ee90d123b7.ctv
@@ -593,3 +641,5 @@ https://epg.pw/stream/b5de2dd47f1bf277966ec1e3ef89ef76cb4472b65a77b9fb6c8cc21d94
 https://epg.pw/stream/0694e5d44010de46517e5ef72b50fd102bef8e0295f59631b3b078d18198f8dd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/13/20161013064935074084_41.jpg" group-title="Movie",[VGA]TVS Nostalgia Movies (480p)
 https://epg.pw/stream/fc42acea99f2c7edd36b3ce5088a30b4e4e9333ab795c324883e4fdfcd4c19c2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/13/20161013064935074084_41.jpg" group-title="Movie",[BD]mmn movies tv
+https://epg.pw/stream/f2ab39aaf9d1db89afd6eb704e757d6d66255e3c3974f1b24978c0fb80e3dd82.m3u8

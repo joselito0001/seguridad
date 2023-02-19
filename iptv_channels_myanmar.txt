@@ -15,6 +15,7 @@
 [SD]au| channel 7 two,https://epg.pw/stream/310706d85fc5f38a134f40f4a9915ba392c9bdd7fc44cfbeee560caa4ab9bfae.ctv
 [SD]au| channel 7 hd,https://epg.pw/stream/97cd5be98aa1ad6a8c89b2f5b42cb591bf2bd3d71763afb5f6c19f39e5e03102.ctv
 [SD]au| channel 7 sd,https://epg.pw/stream/aee7ff43f335c3beeccf3c1e14afe23adab93887ab222db20f5b6423d668cae3.ctv
+[SD]mnctv@@1,https://epg.pw/stream/99b819ab1157f2a19294a8487d7d8c17c3342ec062a4115c1a31d96fb22f7fb3.ctv
 [HD]mnctv@@3,https://epg.pw/stream/5b56f69f54f79e7b50c4e8e5506a11db0e1ec07b038a6758c7507a95c2809707.ctv
 [VGA]缅甸MAHABAWDI,https://epg.pw/stream/39fe212a41f41e48c9ec58a6ab64c4c1fc34babfb4f809e07c9bc19e9502d104.m3u8
 [SD]缅甸MAHABAWDI,https://epg.pw/stream/4d9d99ae60776bf8685114c052d5a0ea16288a03ee8fd9ebaf7b195d1ee0d201.m3u8
@@ -22,4 +23,4 @@
 [HD]mitv,https://epg.pw/stream/29081a897c88f6499a41eae165c9eb4ee58fb5c7f070e98db474335119c7d2c1.m3u8
 [BD]mitv@@1,https://epg.pw/stream/9e77ac7ab8a0d7f54b3d523ba1f6de3fa06889d116fdf33ea99b38b79cf17787.m3u8
 [BD]entertainment@@4,https://epg.pw/stream/f298e5510271fab8ea322ff0d30cd400899ddc9a7dcce12fcc11746b4c3ab220.ctv
-[HD]entertainment@@3,https://epg.pw/stream/171db0249d421ec36478954c371a9041d4bd3b53538595e2e7b8a27deb72dc71.ctv
+[VGA]entertainment@@3,https://epg.pw/stream/171db0249d421ec36478954c371a9041d4bd3b53538595e2e7b8a27deb72dc71.ctv

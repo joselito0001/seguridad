@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[HD]antena latina
 https://epg.pw/stream/70d9be01e465538c6d63d386c4f9fff212fcfb41d2e4781d65365df2dfabc5bd.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[BD]latina@@4
+https://epg.pw/stream/4fdc314ebc94771d56d0a50acf22bfd2521aadddc41572129928816aaed90738.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[HD]latina@@3
 https://epg.pw/stream/846d99b10b14bdf8c70992bfde5aee47d0f3b2c3f12af4202f2845950e8af512.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[BD]latina per
@@ -9,6 +11,8 @@ https://epg.pw/stream/9e9740891265261db16e0aaec361257d086229218fbe0a7e77fa248fd0
 https://epg.pw/stream/1a6770daf6c28707481008d92267b32796875094c5e7d70561401b982d525c77.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[BD]xxx latina@@1
 https://epg.pw/stream/73f726d1a777e0ddb51c02c38a3fa3c7fe829a7f5e7ade545f91265244ae1b11.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[BD]vip136 latina
+https://epg.pw/stream/0e61f90708fbb7e5ca43eb014561a0c9f14ba7dd132be4d051d5c0a6ec743589.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[HD]xxx latina
 https://epg.pw/stream/9f6fbd7df086551c6d58ae48e194a30fd6f31c8a679125f810d2d590025b5848.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[BD]latina
@@ -19,6 +23,8 @@ https://epg.pw/stream/a51019832afc0956c2401ad25eaf8800367f13492095470ae63e8e13ba
 https://epg.pw/stream/6643b671f7577355c572fca22f82810eb89d0738454b9f3a022fd89d5a22a8f2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180402928407_26.jpg" group-title="Generic",[HD]Latina
 https://epg.pw/stream/ea1e60838aaeeee655987045af248f845b4ebcde8b8eacc8f03d5260fb4ed41f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[BD]m.deportes 7
+https://epg.pw/stream/c41574a430bb8f6b915ba130f70f994d7f97c3ec8da9fe10233f4f455b684417.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[BD]m. deportes3@@1
 https://epg.pw/stream/d5540856491fc49fe76e98bfe4057068681b15483c15e8ae30e076326de92a1c.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[BD]m. deportes 2
@@ -65,10 +71,6 @@ https://epg.pw/stream/d31f022cd6a9c2532e8d5c8a448391d22fbaefe849cdec4a5bae7aafdf
 https://epg.pw/stream/032b765072b7c752b8827643e1ed7f9f4d421c96f7b599a26fe4fefec042dba7.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[BD]m+ deportes fhd cable
 https://epg.pw/stream/f35323dabb390cfdea43ce0492756cfcdd2e7ab25f16ba7221e73421faf303e5.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[HD]m+ deportes 3 sd
-https://epg.pw/stream/ccc939f81786fdda03cc4ade0d365c135fefcb5ceccd824368469e04aaead4ff.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[BD]m+ deportes 2 fhd
-https://epg.pw/stream/44446b79c5a34adfef575ab78a2c9927c92283b251a00e063d1cb9775ab4ff25.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[BD]m. deporteshd@@1
 https://epg.pw/stream/d2cd1e8cf990487dee40b7d1ae1d7be5e9e94af33c927ba52b52a72146aa548e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sport",[HD]m. deportes1
